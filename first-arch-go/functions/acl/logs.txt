@@ -1,0 +1,8 @@
+{"level":"info","msg":"access control function executed in 149 ms","time":"2024-12-11T17:52:13+01:00"}
+{"level":"info","msg":"access control function executed in 149 ms","time":"2024-12-11T17:54:48+01:00"}
+{"level":"info","msg":"access control function executed in 91 ms","time":"2024-12-11T17:57:09+01:00"}
+{"level":"info","msg":"access control function executed in 83 ms","time":"2024-12-11T17:58:28+01:00"}
+{"level":"info","msg":"access control function executed in 135 ms","time":"2024-12-11T21:48:40+01:00"}
+{"level":"info","msg":"access control function executed in 242 ms","time":"2024-12-14T21:20:24+01:00"}
+{"level":"info","msg":"access control function executed in 113 ms","time":"2024-12-14T21:36:41.158+01:00"}
+{"level":"info","msg":"access control function executed in 86 ms","time":"2024-12-14T21:49:47.639+01:00"}
