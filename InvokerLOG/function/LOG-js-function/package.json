@@ -1,0 +1,11 @@
+{
+  "name": "log-js-function",
+  "version": "1.0.0",
+  "description": "this app performs logging on text file by reading parameters from command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabio Gentili",
+  "license": "ISC"
+}
