@@ -13,33 +13,26 @@ const logger = winston.createLogger({
   });
 
 async function hanlder(){
-
 const injector = new Injector()
 const log_service = await injector.getServiceById("log")
 const topic = log_service.ServiceTopic
 const message = {timestamp: "2024-11-28T16:05:34", message: "ciao", severity: "info"}
 const result = await invokeFunction(topic, message)
-
 console.log("logging result:", result)
 process.exit(0, "logging function executed")
-
 }
 
 
 
-async function invokeFunction ( topic, message){
+async function invokeFunction (topic, message){
     try {
         // Connect to the NATS server
-        const nc = await connect({ servers: "nats://localhost:4222" }); // Replace with your NATS server address
-        
+        const nc = await connect({ servers: "nats://localhost:4222" }); 
         const start = Date.now()
-
         // Publish the message
         const response = await nc.request(topic, JSON.stringify(message));
         const end = Date.now()
         logger.info(`logging function executed in ${end-start} ms `)
-
-        
         // Close the connection
         nc.drain();
         return (response.data.toString())

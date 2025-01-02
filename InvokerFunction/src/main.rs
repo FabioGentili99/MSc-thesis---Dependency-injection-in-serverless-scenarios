@@ -4,10 +4,15 @@ use core::time;
 use std::{env, thread};
 use std::process::Command;
 use std::time::SystemTime;
+use log::{info, error};
+use log4rs;
 
 
 #[tokio::main]
 async fn main() -> CliResult {
+
+    log4rs::init_file("log4rs.yml", Default::default()).unwrap();
+
     //Get ENV VAR
     let command: String = env::var("COMMAND").unwrap_or("java".to_string());
     let function_path:String = env::var("FUNCTION_PATH").unwrap_or("C:\\Users\\Fabio Gentili\\Desktop\\InvokerFunction\\java\\handler_acl-1.0-SNAPSHOT.jar".to_string());
@@ -71,7 +76,7 @@ async fn main() -> CliResult {
                 let difference = new_sys_time
                     .duration_since(sys_time)
                     .expect("Clock may have gone backwards");
-                println!("{:?}", difference);
+                info!("example function executed in {:?}", difference);
                 thread::sleep(time::Duration::from_millis(5000))
             
         });
