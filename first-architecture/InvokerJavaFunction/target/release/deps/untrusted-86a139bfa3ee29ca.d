@@ -1,0 +1,10 @@
+C:\Users\Fabio Gentili\Desktop\InvokerJavaFunction\target\release\deps\libuntrusted-86a139bfa3ee29ca.rmeta: C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\untrusted-0.9.0\src\lib.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\untrusted-0.9.0\src\input.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\untrusted-0.9.0\src\no_panic.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\untrusted-0.9.0\src\reader.rs
+
+C:\Users\Fabio Gentili\Desktop\InvokerJavaFunction\target\release\deps\libuntrusted-86a139bfa3ee29ca.rlib: C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\untrusted-0.9.0\src\lib.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\untrusted-0.9.0\src\input.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\untrusted-0.9.0\src\no_panic.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\untrusted-0.9.0\src\reader.rs
+
+C:\Users\Fabio Gentili\Desktop\InvokerJavaFunction\target\release\deps\untrusted-86a139bfa3ee29ca.d: C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\untrusted-0.9.0\src\lib.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\untrusted-0.9.0\src\input.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\untrusted-0.9.0\src\no_panic.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\untrusted-0.9.0\src\reader.rs
+
+C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\untrusted-0.9.0\src\lib.rs:
+C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\untrusted-0.9.0\src\input.rs:
+C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\untrusted-0.9.0\src\no_panic.rs:
+C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\untrusted-0.9.0\src\reader.rs:

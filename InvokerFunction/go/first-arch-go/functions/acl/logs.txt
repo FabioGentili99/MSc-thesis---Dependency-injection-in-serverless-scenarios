@@ -1,6 +1,0 @@
-time="2024-12-16T11:36:38+01:00" level=info msg="Read from MongoDB table executed in 23 ms"
-{"level":"info","msg":"access control function executed in 81 ms","time":"2024-12-16T11:36:39.079+01:00"}
-time="2024-12-16T11:37:00+01:00" level=info msg="Read from MongoDB table executed in 17 ms"
-{"level":"info","msg":"access control function executed in 54 ms","time":"2024-12-16T11:37:00.809+01:00"}
-time="2024-12-16T11:37:04+01:00" level=info msg="Read from MongoDB table executed in 17 ms"
-{"level":"info","msg":"access control function executed in 57 ms","time":"2024-12-16T11:37:04.866+01:00"}

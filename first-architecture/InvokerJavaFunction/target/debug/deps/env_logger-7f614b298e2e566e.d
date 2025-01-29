@@ -1,0 +1,10 @@
+C:\Users\Fabio Gentili\Desktop\InvokerJavaFunction\target\debug\deps\libenv_logger-7f614b298e2e566e.rmeta: C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\env_logger-0.5.13\src\lib.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\env_logger-0.5.13\src\filter\mod.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\env_logger-0.5.13\src\filter\regex.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\env_logger-0.5.13\src\fmt.rs
+
+C:\Users\Fabio Gentili\Desktop\InvokerJavaFunction\target\debug\deps\libenv_logger-7f614b298e2e566e.rlib: C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\env_logger-0.5.13\src\lib.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\env_logger-0.5.13\src\filter\mod.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\env_logger-0.5.13\src\filter\regex.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\env_logger-0.5.13\src\fmt.rs
+
+C:\Users\Fabio Gentili\Desktop\InvokerJavaFunction\target\debug\deps\env_logger-7f614b298e2e566e.d: C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\env_logger-0.5.13\src\lib.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\env_logger-0.5.13\src\filter\mod.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\env_logger-0.5.13\src\filter\regex.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\env_logger-0.5.13\src\fmt.rs
+
+C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\env_logger-0.5.13\src\lib.rs:
+C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\env_logger-0.5.13\src\filter\mod.rs:
+C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\env_logger-0.5.13\src\filter\regex.rs:
+C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\env_logger-0.5.13\src\fmt.rs:

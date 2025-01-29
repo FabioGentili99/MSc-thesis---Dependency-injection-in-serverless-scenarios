@@ -1,4 +1,0 @@
-{"level":"info","msg":"logging function executed in 74 ms","time":"2024-12-11T22:25:48+01:00"}
-{"level":"info","msg":"logging function executed in 95 ms","time":"2024-12-11T22:26:49+01:00"}
-{"level":"info","msg":"logging function executed in 68 ms","time":"2024-12-11T22:28:49+01:00"}
-{"level":"info","msg":"logging function executed in 76 ms","time":"2024-12-11T22:34:07.456+01:00"}

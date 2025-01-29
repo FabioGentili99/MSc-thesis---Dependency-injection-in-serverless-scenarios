@@ -1,0 +1,10 @@
+C:\Users\Fabio Gentili\Desktop\InvokerJavaFunction\target\release\deps\libversion_check-22703d8afef3527e.rmeta: C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src/lib.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\version.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\channel.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\date.rs
+
+C:\Users\Fabio Gentili\Desktop\InvokerJavaFunction\target\release\deps\libversion_check-22703d8afef3527e.rlib: C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src/lib.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\version.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\channel.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\date.rs
+
+C:\Users\Fabio Gentili\Desktop\InvokerJavaFunction\target\release\deps\version_check-22703d8afef3527e.d: C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src/lib.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\version.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\channel.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\date.rs
+
+C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src/lib.rs:
+C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\version.rs:
+C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\channel.rs:
+C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\date.rs:

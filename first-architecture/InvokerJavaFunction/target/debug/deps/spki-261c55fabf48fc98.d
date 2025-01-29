@@ -1,0 +1,10 @@
+C:\Users\Fabio Gentili\Desktop\InvokerFunction\target\debug\deps\libspki-261c55fabf48fc98.rmeta: C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.7.3\src\lib.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.7.3\src\algorithm.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.7.3\src\error.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.7.3\src\spki.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.7.3\src\traits.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.7.3\src\../README.md
+
+C:\Users\Fabio Gentili\Desktop\InvokerFunction\target\debug\deps\spki-261c55fabf48fc98.d: C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.7.3\src\lib.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.7.3\src\algorithm.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.7.3\src\error.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.7.3\src\spki.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.7.3\src\traits.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.7.3\src\../README.md
+
+C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.7.3\src\lib.rs:
+C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.7.3\src\algorithm.rs:
+C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.7.3\src\error.rs:
+C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.7.3\src\spki.rs:
+C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.7.3\src\traits.rs:
+C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.7.3\src\../README.md:
