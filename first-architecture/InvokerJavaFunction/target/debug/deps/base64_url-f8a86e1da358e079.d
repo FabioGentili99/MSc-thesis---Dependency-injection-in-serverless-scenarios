@@ -1,9 +1,0 @@
-C:\Users\Fabio Gentili\Desktop\InvokerFunction\target\debug\deps\libbase64_url-f8a86e1da358e079.rmeta: C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base64-url-1.4.13\src\lib.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base64-url-1.4.13\src\decode.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base64-url-1.4.13\src\encode.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base64-url-1.4.13\src\escape.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base64-url-1.4.13\src\unescape.rs
-
-C:\Users\Fabio Gentili\Desktop\InvokerFunction\target\debug\deps\base64_url-f8a86e1da358e079.d: C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base64-url-1.4.13\src\lib.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base64-url-1.4.13\src\decode.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base64-url-1.4.13\src\encode.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base64-url-1.4.13\src\escape.rs C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base64-url-1.4.13\src\unescape.rs
-
-C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base64-url-1.4.13\src\lib.rs:
-C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base64-url-1.4.13\src\decode.rs:
-C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base64-url-1.4.13\src\encode.rs:
-C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base64-url-1.4.13\src\escape.rs:
-C:\Users\Fabio\ Gentili\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base64-url-1.4.13\src\unescape.rs:
