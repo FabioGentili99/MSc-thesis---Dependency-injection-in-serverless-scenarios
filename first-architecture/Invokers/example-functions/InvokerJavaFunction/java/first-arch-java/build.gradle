@@ -29,9 +29,9 @@ test {
 
 task customFatJar(type: Jar) {
     manifest {
-        attributes 'Main-Class': 'Handler_log'
+        attributes 'Main-Class': 'Handler_hello'
     }
-    archiveBaseName = 'handler_log'
+    archiveBaseName = 'handler_hello'
     duplicatesStrategy = DuplicatesStrategy.EXCLUDE
     from { configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) } }
     with jar
