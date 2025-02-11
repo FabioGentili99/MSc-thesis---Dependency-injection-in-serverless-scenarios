@@ -16,6 +16,6 @@ RUN apt update -y && apt install nodejs -y
 
 COPY ./function ./function
 
-COPY --from=builder /usr/src/myapp/target/release/invoker_log .
+COPY --from=builder /usr/src/myapp/target/release/invoker_dp .
 
-CMD ./invoker_log 
+CMD ./invoker_dp

@@ -1,5 +1,5 @@
 [package]
-name = "invoker_acl"
+name = "invoker_dp"
 version = "0.1.0"
 authors = ["FabioGentili99 <fabiogentili20@gmail.com>"]
 edition = "2021"

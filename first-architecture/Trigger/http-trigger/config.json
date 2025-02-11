@@ -1,1 +1,1 @@
-{ "example-fn": "handler" , "acl-fn": "acl", "log-fn": "log" , "compos-fn": "compos" }
+{ "example-fn": "handler" , "acl-fn": "acl", "log-fn": "log" , "hello-fn": "hello" }
