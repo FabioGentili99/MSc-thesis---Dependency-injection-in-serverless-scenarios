@@ -1,14 +1,12 @@
-import io.nats.client.Connection;
-import io.nats.client.Message;
-import io.nats.client.Nats;
-import io.nats.client.impl.NatsMessage;
-import org.apache.http.HttpResponse;
-import org.apache.http.client.methods.HttpGet;
-import org.apache.http.impl.client.CloseableHttpClient;
-import org.apache.http.impl.client.HttpClients;
+import com.google.gson.Gson;
 
 import java.io.IOException;
-import java.time.Duration;
+import java.net.URI;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
@@ -17,21 +15,13 @@ import java.util.concurrent.TimeUnit;
 
 public class LambdaStressTest {
 
-    private static final String handler_topic = "handler";
-    private static final String natsURL = "nats://192.168.17.118:4222";
-    private static final Connection nc;
+    private static final String exampleFunction = "http://192.168.17.118:8081/function/example-fn";
 
-    static {
-        try {
-            nc = Nats.connect(natsURL);
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        } catch (InterruptedException e) {
-            throw new RuntimeException(e);
-        }
-    }
 
-    private static final String LAMBDA_TOPIC = handler_topic; // Replace with your Lambda URL
+
+
+
+    private static final String LAMBDA_URL = exampleFunction; // Replace with your Lambda URL
     private static final int INITIAL_REQUESTS_PER_SECOND = 2;
     private static final int PEAK_REQUESTS_PER_SECOND = 20;
     private static final int INCREMENT = 1;
@@ -86,16 +76,47 @@ public class LambdaStressTest {
         ExecutorService executor = Executors.newFixedThreadPool(numberOfRequests);
         for (int i = 0; i < numberOfRequests; i++) {
             executor.submit(() -> {
-                try {
-                    Message response = nc.request(NatsMessage.builder()
-                                    .subject(handler_topic)
-                                    .data("ciao")
-                                    .build(),
-                            Duration.ofSeconds(5));
-                    System.out.println("Response: " + response.getData());
+                /*
+                try (CloseableHttpClient httpClient = HttpClients.createDefault()) {
+
+                    HttpRequest request = HttpRequest.newBuilder()
+                            .uri(URI.create(LAMBDA_URL))
+                            .POST(HttpRequest.BodyPublishers.ofByteArray(message.getBytes()))
+                            .setHeader("Content-type", "application/json")
+                            .build();
+
+
+
+                    HttpPost httpPost = new HttpPost(LAMBDA_URL);
+                    httpPost.setHeader(CONTENT_TYPE, "application/Json");
+                    StringEntity entity = new StringEntity(message, StandardCharsets.UTF_8);
+                    httpPost.setEntity(entity);
+                    HttpResponse response = httpClient.execute(httpPost);
+                    System.out.println("Response Code: " + response.getStatusLine().getStatusCode() + response.getEntity().getContent());
                 } catch (Exception e) {
                     e.printStackTrace();
                 }
+                */
+                HttpClient client = HttpClient.newHttpClient();
+                Gson g = new Gson();
+                Map msg = new HashMap<String, String>();
+                msg.put("message", "ciao");
+                String message = g.toJson(msg);
+                HttpRequest request = HttpRequest.newBuilder()
+                        .uri(URI.create(LAMBDA_URL))
+                        .POST(HttpRequest.BodyPublishers.ofByteArray(message.getBytes()))
+                        .setHeader("Content-type", "application/json")
+                        .build();
+
+                HttpResponse<String> response = null;
+                try {
+                    response = client.send(request, HttpResponse.BodyHandlers.ofString());
+                } catch (IOException e) {
+                    throw new RuntimeException(e);
+                } catch (InterruptedException e) {
+                    throw new RuntimeException(e);
+                }
+                System.out.println("Response Code: " + response.statusCode() + response.body());
             });
         }
         executor.shutdown();

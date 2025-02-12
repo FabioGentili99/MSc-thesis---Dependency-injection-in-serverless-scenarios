@@ -1,7 +1,8 @@
-use actix_web::{post, web::{self, Data}, App, HttpResponse, HttpServer, Responder};
+use actix_web::{middleware, post, web::{self, Data}, App, HttpResponse, HttpServer, Responder};
 use dashmap::DashMap;
+use log::info;
 use serde::{Deserialize, Serialize};
-use std::{collections::HashMap, env, fs::File, io::Read};
+use std::{collections::HashMap, env, fs::File, io::Read, time::SystemTime};
 
 #[derive(Deserialize, Serialize)]
 struct PublishRequest {
@@ -40,7 +41,9 @@ async fn async_invoke(
     req: web::Json<PublishRequest>,
     fun: web::Path<String>,
 ) -> impl Responder {
-    let _ = send(fun.into_inner(), routes, req).await;
+    let function_name = fun.into_inner();
+    let _ = send(function_name.clone(), routes, req).await;
+    info!("handling request to async function: {}", function_name);
     HttpResponse::Ok().body("ok")
 }
 
@@ -50,12 +53,20 @@ async fn sync_invoke(
     req: web::Json<PublishRequest>,
     fun: web::Path<String>,
 ) -> impl Responder {
-    let message = query(fun.into_inner(), routes, req).await.unwrap();
+    let sys_time = SystemTime::now();
+    let function_name = fun.into_inner();
+    let message = query(function_name.clone(), routes, req).await.unwrap();
+    let new_sys_time = SystemTime::now();
+    let difference = new_sys_time
+                    .duration_since(sys_time)
+                    .expect("Clock may have gone backwards");
+    info!("request to function {} handled in {:?} ms", function_name, difference);
     HttpResponse::Ok().body(message.data)
 }
 
 #[actix_web::main]
 async fn main() -> std::io::Result<()> {
+    log4rs::init_file("log4rs.yaml", Default::default()).unwrap();
     let routes: Data<DashMap<String, String>> = Data::new(DashMap::new());
     let mut file = File::open("config.json")?; // Open the file
     let mut contents = String::new();
@@ -72,6 +83,7 @@ async fn main() -> std::io::Result<()> {
             .app_data(routes.clone())
             .service(sync_invoke)
             .service(async_invoke)
+            .wrap(middleware::Logger::default())
     })
     .bind(("0.0.0.0", 8081))?
     .run()

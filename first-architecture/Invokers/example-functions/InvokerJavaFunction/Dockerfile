@@ -22,6 +22,8 @@ COPY ./java/first-arch-java/build/libs/handler_acl-1.0-SNAPSHOT.jar ./java/first
 
 COPY ./java/first-arch-java/build/libs/handler_log-1.0-SNAPSHOT.jar ./java/first-arch-java/build/libs/handler_log-1.0-SNAPSHOT.jar
 
+COPY ./java/first-arch-java/build/libs/handler_hello-1.0-SNAPSHOT.jar ./java/first-arch-java/build/libs/handler_hello-1.0-SNAPSHOT.jar
+
 COPY ./src/log4rs.yml .
 
 COPY --from=builder /usr/src/myapp/target/release/InvokerFunction .

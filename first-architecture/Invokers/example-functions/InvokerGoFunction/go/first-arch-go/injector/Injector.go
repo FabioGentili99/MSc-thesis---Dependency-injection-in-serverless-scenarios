@@ -61,7 +61,7 @@ func (i *Injector) RegisterService(id, name, address string) {
 	service := bson.D{
 		{Key: "id", Value: id},
 		{Key: "ServiceName", Value: name},
-		{Key: "ServiceTopic", Value: address},
+		{Key: "ServiceAddress", Value: address},
 	}
 	_, err := i.collection.InsertOne(context.TODO(), service)
 	if err != nil {

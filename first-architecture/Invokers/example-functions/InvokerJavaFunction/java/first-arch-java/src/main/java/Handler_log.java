@@ -9,14 +9,12 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Optional;
 import java.util.concurrent.TimeoutException;
 
 import static java.lang.System.exit;
 
 public class Handler_log {
     private static final Logger logger = LoggerFactory.getLogger(Handler_log.class);
-    private static final String natsURL = Optional.ofNullable(System.getenv("NATSSERVER")).orElse("nats://192.168.17.118:4222");
 
 
     private static void handler() throws IOException, InterruptedException, TimeoutException {
@@ -24,7 +22,7 @@ public class Handler_log {
         Service logService = injector.getServiceById("log");
         String address = logService.getServiceAddress();
         Map<String, String> message = new HashMap<>();
-        message.put("message", "{\"timestamp\": \"2024-11-28T16:05:34\", \"message\": \"ciao\", \"severity\": \"info\"}");
+        message.put("message", "{\"timestamp\":\"2024-11-28T16:05:34\",\"message\":\"ciao\",\"severity\":\"info\"}");
         String result = invokeFunction(address, message);
         System.out.println("logging result: " + result);
     }
@@ -36,6 +34,7 @@ public class Handler_log {
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(URI.create(address))
                 .POST(HttpRequest.BodyPublishers.ofByteArray(msg.getBytes()))
+                .setHeader("Content-type", "application/json")
                 .build();
         long start = System.currentTimeMillis();
         HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
@@ -43,7 +42,7 @@ public class Handler_log {
         logger.info("logging function executed in {} ms", end - start);
 
 
-        return response.body().toString();
+        return response.body();
     }
 
     public static void main(String[] args) throws IOException, InterruptedException, TimeoutException {
