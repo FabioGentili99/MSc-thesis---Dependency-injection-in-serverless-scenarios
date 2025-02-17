@@ -1,0 +1,2250 @@
+18:00:51.577 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+18:00:51.585 [main] INFO  Injector - Read from MongoDB table executed in 51 ms
+18:00:52.105 [main] INFO  Handler_hello - hello function executed in 379 ms
+2025-02-11T18:00:52.431954984+00:00 - INFO - example function executed in 2.986543859s
+18:00:52.498 [main] INFO  Handler_hello - hello function executed in 767 ms
+2025-02-11T18:00:52.826502849+00:00 - INFO - example function executed in 3.428800749s
+18:00:53.632 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:00:53.663 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:00:54.069 [main] INFO  Handler_hello - hello function executed in 294 ms
+2025-02-11T18:00:54.394080435+00:00 - INFO - example function executed in 1.283395938s
+18:00:54.746 [main] INFO  Handler_hello - hello function executed in 942 ms
+2025-02-11T18:00:55.104374143+00:00 - INFO - example function executed in 1.972759865s
+18:00:56.073 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:00:56.432 [main] INFO  Handler_hello - hello function executed in 215 ms
+2025-02-11T18:00:56.762000657+00:00 - INFO - example function executed in 1.231307075s
+18:00:56.793 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:00:57.688 [main] INFO  Handler_hello - hello function executed in 755 ms
+2025-02-11T18:00:58.028823438+00:00 - INFO - example function executed in 1.767350288s
+18:00:59.463 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:00:59.596 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:00:59.993 [main] INFO  Handler_hello - hello function executed in 385 ms
+2025-02-11T18:01:00.319479239+00:00 - INFO - example function executed in 1.409118527s
+18:01:00.320 [main] INFO  Handler_hello - hello function executed in 584 ms
+2025-02-11T18:01:00.654854840+00:00 - INFO - example function executed in 1.652724396s
+18:01:02.013 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:01:02.100 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:01:02.430 [main] INFO  Handler_hello - hello function executed in 175 ms
+2025-02-11T18:01:02.771208378+00:00 - INFO - example function executed in 1.206044911s
+18:01:03.078 [main] INFO  Handler_hello - hello function executed in 924 ms
+2025-02-11T18:01:03.404231173+00:00 - INFO - example function executed in 1.927136907s
+18:01:04.537 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+18:01:04.781 [main] INFO  Handler_hello - hello function executed in 105 ms
+2025-02-11T18:01:05.108000450+00:00 - INFO - example function executed in 1.0994467s
+18:01:05.173 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:01:05.500 [main] INFO  Handler_hello - hello function executed in 188 ms
+2025-02-11T18:01:05.854297176+00:00 - INFO - example function executed in 1.225993905s
+18:01:07.226 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+18:01:07.333 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+18:01:08.021 [main] INFO  Handler_hello - hello function executed in 548 ms
+2025-02-11T18:01:08.369946295+00:00 - INFO - example function executed in 1.566969384s
+18:01:08.406 [main] INFO  Handler_hello - hello function executed in 1037 ms
+2025-02-11T18:01:08.733759397+00:00 - INFO - example function executed in 2.048560839s
+18:01:09.695 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:01:09.995 [main] INFO  Handler_hello - hello function executed in 157 ms
+18:01:10.191 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T18:01:10.320178797+00:00 - INFO - example function executed in 1.162894401s
+18:01:11.368 [main] INFO  Handler_hello - hello function executed in 1037 ms
+2025-02-11T18:01:11.699547173+00:00 - INFO - example function executed in 2.043003926s
+18:01:12.769 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+18:01:13.275 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:01:13.290 [main] INFO  Handler_hello - hello function executed in 375 ms
+2025-02-11T18:01:13.616272105+00:00 - INFO - example function executed in 1.394192258s
+18:01:13.990 [main] INFO  Handler_hello - hello function executed in 577 ms
+2025-02-11T18:01:14.336139076+00:00 - INFO - example function executed in 1.607594876s
+18:01:15.649 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:01:16.050 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:01:16.709 [main] INFO  Handler_hello - hello function executed in 517 ms
+18:01:16.816 [main] INFO  Handler_hello - hello function executed in 1022 ms
+2025-02-11T18:01:17.048159305+00:00 - INFO - example function executed in 1.521784036s
+2025-02-11T18:01:17.141324734+00:00 - INFO - example function executed in 2.030999269s
+18:01:18.539 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:01:18.705 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:01:19.157 [main] INFO  Handler_hello - hello function executed in 305 ms
+18:01:19.505 [main] INFO  Handler_hello - hello function executed in 824 ms
+2025-02-11T18:01:19.511755109+00:00 - INFO - example function executed in 1.340622815s
+2025-02-11T18:01:19.831652796+00:00 - INFO - example function executed in 1.826822509s
+18:01:21.119 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:01:21.154 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:01:21.507 [main] INFO  Handler_hello - hello function executed in 243 ms
+18:01:21.532 [main] INFO  Handler_hello - hello function executed in 233 ms
+2025-02-11T18:01:21.846470086+00:00 - INFO - example function executed in 1.280303931s
+2025-02-11T18:01:21.877750083+00:00 - INFO - example function executed in 1.269653108s
+18:01:22.857 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:01:23.571 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:01:23.750 [main] INFO  Handler_hello - hello function executed in 753 ms
+2025-02-11T18:01:24.076530484+00:00 - INFO - example function executed in 1.735165119s
+18:01:24.687 [main] INFO  Handler_hello - hello function executed in 976 ms
+2025-02-11T18:01:25.038726237+00:00 - INFO - example function executed in 2.000443185s
+18:01:25.852 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:01:26.274 [main] INFO  Handler_hello - hello function executed in 283 ms
+2025-02-11T18:01:26.608189381+00:00 - INFO - example function executed in 1.279579892s
+18:01:26.645 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:01:27.071 [main] INFO  Handler_hello - hello function executed in 289 ms
+2025-02-11T18:01:27.404736225+00:00 - INFO - example function executed in 1.301624408s
+18:01:28.586 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+18:01:28.848 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:01:29.358 [main] INFO  Handler_hello - hello function executed in 613 ms
+18:01:29.623 [main] INFO  Handler_hello - hello function executed in 637 ms
+2025-02-11T18:01:29.684185143+00:00 - INFO - example function executed in 1.641922248s
+2025-02-11T18:01:29.963067120+00:00 - INFO - example function executed in 1.658267282s
+18:01:31.121 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+18:01:31.364 [main] INFO  Handler_hello - hello function executed in 99 ms
+18:01:31.602 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+2025-02-11T18:01:31.690250485+00:00 - INFO - example function executed in 1.114267666s
+18:01:32.805 [main] INFO  Handler_hello - hello function executed in 1066 ms
+2025-02-11T18:01:33.144672015+00:00 - INFO - example function executed in 2.068037189s
+18:01:34.260 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:01:34.549 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:01:35.142 [main] INFO  Handler_hello - hello function executed in 739 ms
+18:01:35.183 [main] INFO  Handler_hello - hello function executed in 496 ms
+2025-02-11T18:01:35.467457318+00:00 - INFO - example function executed in 1.740100421s
+2025-02-11T18:01:35.521382222+00:00 - INFO - example function executed in 1.503966177s
+18:01:36.716 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:01:37.165 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:01:37.872 [main] INFO  Handler_hello - hello function executed in 1014 ms
+18:01:37.880 [main] INFO  Handler_hello - hello function executed in 573 ms
+2025-02-11T18:01:38.199567136+00:00 - INFO - example function executed in 2.017723096s
+2025-02-11T18:01:38.228893622+00:00 - INFO - example function executed in 1.594141068s
+18:01:39.414 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+18:01:39.547 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+18:01:39.745 [main] INFO  Handler_hello - hello function executed in 187 ms
+2025-02-11T18:01:40.074214796+00:00 - INFO - example function executed in 1.218873249s
+18:01:40.745 [main] INFO  Handler_hello - hello function executed in 1052 ms
+2025-02-11T18:01:41.075491517+00:00 - INFO - example function executed in 2.074622786s
+18:01:42.682 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:01:42.781 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:01:43.402 [main] INFO  Handler_hello - hello function executed in 478 ms
+2025-02-11T18:01:43.731615866+00:00 - INFO - example function executed in 1.488492836s
+18:01:43.767 [main] INFO  Handler_hello - hello function executed in 940 ms
+2025-02-11T18:01:44.094892544+00:00 - INFO - example function executed in 1.945384586s
+18:01:44.981 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:01:45.092 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+18:01:45.427 [main] INFO  Handler_hello - hello function executed in 197 ms
+2025-02-11T18:01:45.765652970+00:00 - INFO - example function executed in 1.23036575s
+18:01:45.984 [main] INFO  Handler_hello - hello function executed in 861 ms
+2025-02-11T18:01:46.310695221+00:00 - INFO - example function executed in 1.867909368s
+18:01:47.223 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:01:47.618 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:01:47.877 [main] INFO  Handler_hello - hello function executed in 121 ms
+2025-02-11T18:01:48.203842038+00:00 - INFO - example function executed in 1.126832028s
+18:01:48.275 [main] INFO  Handler_hello - hello function executed in 910 ms
+2025-02-11T18:01:48.600692484+00:00 - INFO - example function executed in 1.904035367s
+18:01:49.392 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+18:01:49.788 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:01:49.942 [main] INFO  Handler_hello - hello function executed in 410 ms
+2025-02-11T18:01:50.267756096+00:00 - INFO - example function executed in 1.400640211s
+18:01:50.907 [main] INFO  Handler_hello - hello function executed in 976 ms
+2025-02-11T18:01:51.239295139+00:00 - INFO - example function executed in 2.000157542s
+18:01:52.263 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:01:52.281 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:01:52.699 [main] INFO  Handler_hello - hello function executed in 291 ms
+2025-02-11T18:01:53.026586436+00:00 - INFO - example function executed in 1.304750666s
+18:01:53.392 [main] INFO  Handler_hello - hello function executed in 972 ms
+2025-02-11T18:01:53.718593328+00:00 - INFO - example function executed in 2.001513488s
+18:01:54.516 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:01:54.544 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+18:01:55.108 [main] INFO  Handler_hello - hello function executed in 423 ms
+18:01:55.113 [main] INFO  Handler_hello - hello function executed in 460 ms
+2025-02-11T18:01:55.440388008+00:00 - INFO - example function executed in 1.482067568s
+2025-02-11T18:01:55.463185345+00:00 - INFO - example function executed in 1.457541916s
+18:01:56.877 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+18:01:56.894 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+18:01:58.061 [main] INFO  Handler_hello - hello function executed in 1026 ms
+18:01:58.103 [main] INFO  Handler_hello - hello function executed in 1083 ms
+2025-02-11T18:01:58.396473105+00:00 - INFO - example function executed in 2.076037963s
+2025-02-11T18:01:58.438594444+00:00 - INFO - example function executed in 2.12034491s
+18:01:59.303 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:01:59.343 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+18:01:59.739 [main] INFO  Handler_hello - hello function executed in 298 ms
+2025-02-11T18:02:00.081056300+00:00 - INFO - example function executed in 1.322883959s
+18:02:00.178 [main] INFO  Handler_hello - hello function executed in 687 ms
+2025-02-11T18:02:00.506525883+00:00 - INFO - example function executed in 1.766958923s
+18:02:01.323 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:02:01.609 [main] INFO  Handler_hello - hello function executed in 138 ms
+2025-02-11T18:02:01.936783623+00:00 - INFO - example function executed in 1.189705242s
+18:02:02.153 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:02:03.078 [main] INFO  Handler_hello - hello function executed in 763 ms
+2025-02-11T18:02:03.407971629+00:00 - INFO - example function executed in 1.877248506s
+18:02:04.717 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+18:02:05.035 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:02:05.488 [main] INFO  Handler_hello - hello function executed in 626 ms
+2025-02-11T18:02:05.815135686+00:00 - INFO - example function executed in 1.65437085s
+18:02:06.062 [main] INFO  Handler_hello - hello function executed in 888 ms
+2025-02-11T18:02:06.430226806+00:00 - INFO - example function executed in 1.935722373s
+18:02:07.616 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+18:02:07.677 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+18:02:08.030 [main] INFO  Handler_hello - hello function executed in 260 ms
+18:02:08.243 [main] INFO  Handler_hello - hello function executed in 422 ms
+2025-02-11T18:02:08.358095341+00:00 - INFO - example function executed in 1.293120703s
+2025-02-11T18:02:08.571633274+00:00 - INFO - example function executed in 1.443673856s
+18:02:09.699 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:02:09.948 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:02:09.971 [main] INFO  Handler_hello - hello function executed in 132 ms
+2025-02-11T18:02:10.295969590+00:00 - INFO - example function executed in 1.131997407s
+18:02:10.630 [main] INFO  Handler_hello - hello function executed in 542 ms
+2025-02-11T18:02:10.959344695+00:00 - INFO - example function executed in 1.544694194s
+18:02:12.230 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:02:12.571 [main] INFO  Handler_hello - hello function executed in 203 ms
+18:02:12.637 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T18:02:12.898222724+00:00 - INFO - example function executed in 1.191033799s
+18:02:13.309 [main] INFO  Handler_hello - hello function executed in 535 ms
+2025-02-11T18:02:13.636063977+00:00 - INFO - example function executed in 1.523410698s
+18:02:14.920 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+18:02:15.033 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:02:15.586 [main] INFO  Handler_hello - hello function executed in 415 ms
+2025-02-11T18:02:15.928127228+00:00 - INFO - example function executed in 1.409215334s
+18:02:16.012 [main] INFO  Handler_hello - hello function executed in 944 ms
+2025-02-11T18:02:16.342979625+00:00 - INFO - example function executed in 1.969140269s
+18:02:17.458 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:02:17.880 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:02:17.954 [main] INFO  Handler_hello - hello function executed in 356 ms
+2025-02-11T18:02:18.280971845+00:00 - INFO - example function executed in 1.34429193s
+18:02:18.403 [main] INFO  Handler_hello - hello function executed in 382 ms
+2025-02-11T18:02:18.729177472+00:00 - INFO - example function executed in 1.386269936s
+18:02:19.773 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:02:20.383 [main] INFO  Handler_hello - hello function executed in 468 ms
+18:02:20.386 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+2025-02-11T18:02:20.709071543+00:00 - INFO - example function executed in 1.458357243s
+18:02:21.350 [main] INFO  Handler_hello - hello function executed in 826 ms
+2025-02-11T18:02:21.694226609+00:00 - INFO - example function executed in 1.837070869s
+18:02:23.260 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:02:23.376 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+18:02:24.085 [main] INFO  Handler_hello - hello function executed in 550 ms
+18:02:24.167 [main] INFO  Handler_hello - hello function executed in 759 ms
+2025-02-11T18:02:24.414381770+00:00 - INFO - example function executed in 1.579952417s
+2025-02-11T18:02:24.495079347+00:00 - INFO - example function executed in 1.783213417s
+18:02:25.690 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:02:25.918 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:02:26.038 [main] INFO  Handler_hello - hello function executed in 202 ms
+2025-02-11T18:02:26.365147080+00:00 - INFO - example function executed in 1.214485413s
+18:02:26.636 [main] INFO  Handler_hello - hello function executed in 578 ms
+2025-02-11T18:02:26.966875389+00:00 - INFO - example function executed in 1.581352613s
+18:02:27.880 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:02:28.114 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:02:28.459 [main] INFO  Handler_hello - hello function executed in 439 ms
+2025-02-11T18:02:28.787578453+00:00 - INFO - example function executed in 1.449470632s
+18:02:29.255 [main] INFO  Handler_hello - hello function executed in 999 ms
+2025-02-11T18:02:29.582001616+00:00 - INFO - example function executed in 2.018779728s
+18:02:30.467 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:02:30.982 [main] INFO  Handler_hello - hello function executed in 375 ms
+18:02:31.076 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+2025-02-11T18:02:31.307446583+00:00 - INFO - example function executed in 1.357559611s
+18:02:31.512 [main] INFO  Handler_hello - hello function executed in 287 ms
+2025-02-11T18:02:31.841685774+00:00 - INFO - example function executed in 1.312556593s
+18:02:33.120 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:02:33.563 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:02:33.807 [main] INFO  Handler_hello - hello function executed in 545 ms
+2025-02-11T18:02:34.134610926+00:00 - INFO - example function executed in 1.559120047s
+18:02:34.591 [main] INFO  Handler_hello - hello function executed in 886 ms
+2025-02-11T18:02:34.917063836+00:00 - INFO - example function executed in 1.900183613s
+18:02:35.914 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:02:35.962 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+18:02:36.285 [main] INFO  Handler_hello - hello function executed in 229 ms
+18:02:36.571 [main] INFO  Handler_hello - hello function executed in 457 ms
+2025-02-11T18:02:36.610320981+00:00 - INFO - example function executed in 1.228155151s
+2025-02-11T18:02:36.902781332+00:00 - INFO - example function executed in 1.495204874s
+18:02:37.768 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:02:38.178 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:02:38.492 [main] INFO  Handler_hello - hello function executed in 568 ms
+18:02:38.629 [main] INFO  Handler_hello - hello function executed in 316 ms
+2025-02-11T18:02:38.817437772+00:00 - INFO - example function executed in 1.606476354s
+2025-02-11T18:02:38.956255874+00:00 - INFO - example function executed in 1.323023684s
+18:02:39.791 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:02:40.122 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:02:40.591 [main] INFO  Handler_hello - hello function executed in 329 ms
+18:02:40.656 [main] INFO  Handler_hello - hello function executed in 723 ms
+2025-02-11T18:02:40.919745752+00:00 - INFO - example function executed in 1.35196482s
+2025-02-11T18:02:40.986159760+00:00 - INFO - example function executed in 1.718983185s
+18:02:41.904 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:02:42.209 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:02:42.392 [main] INFO  Handler_hello - hello function executed in 351 ms
+18:02:42.691 [main] INFO  Handler_hello - hello function executed in 340 ms
+2025-02-11T18:02:42.718892849+00:00 - INFO - example function executed in 1.334941428s
+2025-02-11T18:02:43.022023018+00:00 - INFO - example function executed in 1.361850019s
+18:02:43.894 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:02:44.662 [main] INFO  Handler_hello - hello function executed in 629 ms
+18:02:44.776 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T18:02:44.987917079+00:00 - INFO - example function executed in 1.660597866s
+18:02:45.037 [main] INFO  Handler_hello - hello function executed in 125 ms
+2025-02-11T18:02:45.366665695+00:00 - INFO - example function executed in 1.105988182s
+18:02:46.449 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:02:46.504 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:02:46.806 [main] INFO  Handler_hello - hello function executed in 160 ms
+2025-02-11T18:02:47.134761114+00:00 - INFO - example function executed in 1.178853901s
+18:02:47.569 [main] INFO  Handler_hello - hello function executed in 977 ms
+2025-02-11T18:02:47.897170238+00:00 - INFO - example function executed in 1.993421228s
+18:02:49.037 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:02:49.389 [main] INFO  Handler_hello - hello function executed in 212 ms
+18:02:49.395 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T18:02:49.713660238+00:00 - INFO - example function executed in 1.221026342s
+18:02:49.788 [main] INFO  Handler_hello - hello function executed in 254 ms
+2025-02-11T18:02:50.119575199+00:00 - INFO - example function executed in 1.283563759s
+18:02:50.917 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:02:51.388 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+18:02:51.664 [main] INFO  Handler_hello - hello function executed in 138 ms
+18:02:51.769 [main] INFO  Handler_hello - hello function executed in 714 ms
+2025-02-11T18:02:51.993667685+00:00 - INFO - example function executed in 1.135983639s
+2025-02-11T18:02:52.097221196+00:00 - INFO - example function executed in 1.716341099s
+18:02:52.999 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+18:02:53.378 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:02:53.534 [main] INFO  Handler_hello - hello function executed in 395 ms
+2025-02-11T18:02:53.861021094+00:00 - INFO - example function executed in 1.382228387s
+18:02:54.100 [main] INFO  Handler_hello - hello function executed in 581 ms
+2025-02-11T18:02:54.426653474+00:00 - INFO - example function executed in 1.604985419s
+18:02:55.623 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:02:55.674 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:02:56.145 [main] INFO  Handler_hello - hello function executed in 330 ms
+18:02:56.398 [main] INFO  Handler_hello - hello function executed in 631 ms
+2025-02-11T18:02:56.474940727+00:00 - INFO - example function executed in 1.341124966s
+2025-02-11T18:02:56.724360263+00:00 - INFO - example function executed in 1.651107702s
+18:02:57.698 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+18:02:58.003 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+18:02:58.041 [main] INFO  Handler_hello - hello function executed in 191 ms
+2025-02-11T18:02:58.368133104+00:00 - INFO - example function executed in 1.216324993s
+18:02:58.542 [main] INFO  Handler_hello - hello function executed in 393 ms
+2025-02-11T18:02:58.874038721+00:00 - INFO - example function executed in 1.44721435s
+18:02:59.643 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:03:00.070 [main] INFO  Handler_hello - hello function executed in 288 ms
+18:03:00.264 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T18:03:00.396528570+00:00 - INFO - example function executed in 1.27942354s
+18:03:01.340 [main] INFO  Handler_hello - hello function executed in 927 ms
+2025-02-11T18:03:01.670428913+00:00 - INFO - example function executed in 1.94279454s
+18:03:02.647 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:03:02.919 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:03:03.558 [main] INFO  Handler_hello - hello function executed in 497 ms
+18:03:03.844 [main] INFO  Handler_hello - hello function executed in 1045 ms
+2025-02-11T18:03:03.886143448+00:00 - INFO - example function executed in 1.494556215s
+2025-02-11T18:03:04.174291438+00:00 - INFO - example function executed in 2.078390198s
+18:03:05.643 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:03:05.797 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:03:05.993 [main] INFO  Handler_hello - hello function executed in 204 ms
+2025-02-11T18:03:06.320003481+00:00 - INFO - example function executed in 1.226598936s
+18:03:06.860 [main] INFO  Handler_hello - hello function executed in 920 ms
+2025-02-11T18:03:07.188663394+00:00 - INFO - example function executed in 1.926600627s
+18:03:08.247 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:03:08.864 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:03:08.882 [main] INFO  Handler_hello - hello function executed in 492 ms
+2025-02-11T18:03:09.208849460+00:00 - INFO - example function executed in 1.508314917s
+18:03:09.889 [main] INFO  Handler_hello - hello function executed in 886 ms
+2025-02-11T18:03:10.217599678+00:00 - INFO - example function executed in 1.901566075s
+18:03:11.439 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+18:03:11.769 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:03:12.228 [main] INFO  Handler_hello - hello function executed in 634 ms
+2025-02-11T18:03:12.553580912+00:00 - INFO - example function executed in 1.65519496s
+18:03:12.937 [main] INFO  Handler_hello - hello function executed in 1019 ms
+2025-02-11T18:03:13.266686576+00:00 - INFO - example function executed in 2.081455628s
+18:03:14.884 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:03:14.982 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:03:15.731 [main] INFO  Handler_hello - hello function executed in 610 ms
+2025-02-11T18:03:16.058303711+00:00 - INFO - example function executed in 1.610105609s
+18:03:16.092 [main] INFO  Handler_hello - hello function executed in 1062 ms
+2025-02-11T18:03:16.419062879+00:00 - INFO - example function executed in 2.097115123s
+18:03:18.139 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:03:18.167 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+18:03:18.927 [main] INFO  Handler_hello - hello function executed in 619 ms
+18:03:19.037 [main] INFO  Handler_hello - hello function executed in 753 ms
+2025-02-11T18:03:19.252735608+00:00 - INFO - example function executed in 1.656776232s
+2025-02-11T18:03:19.367133134+00:00 - INFO - example function executed in 1.763698035s
+18:03:20.778 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:03:21.110 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:03:21.756 [main] INFO  Handler_hello - hello function executed in 508 ms
+18:03:21.872 [main] INFO  Handler_hello - hello function executed in 949 ms
+2025-02-11T18:03:22.081727091+00:00 - INFO - example function executed in 1.522072678s
+2025-02-11T18:03:22.199603120+00:00 - INFO - example function executed in 1.960092818s
+18:03:23.039 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:03:23.048 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+18:03:23.735 [main] INFO  Handler_hello - hello function executed in 547 ms
+18:03:24.011 [main] INFO  Handler_hello - hello function executed in 830 ms
+2025-02-11T18:03:24.065151768+00:00 - INFO - example function executed in 1.55105576s
+2025-02-11T18:03:24.337575423+00:00 - INFO - example function executed in 1.827361549s
+18:03:25.756 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+18:03:25.869 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:03:26.806 [main] INFO  Handler_hello - hello function executed in 905 ms
+18:03:26.968 [main] INFO  Handler_hello - hello function executed in 958 ms
+2025-02-11T18:03:27.133021066+00:00 - INFO - example function executed in 1.959057742s
+2025-02-11T18:03:27.295558265+00:00 - INFO - example function executed in 1.966681694s
+18:03:28.754 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+18:03:28.873 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:03:29.648 [main] INFO  Handler_hello - hello function executed in 749 ms
+18:03:29.885 [main] INFO  Handler_hello - hello function executed in 871 ms
+2025-02-11T18:03:29.974698022+00:00 - INFO - example function executed in 1.753993352s
+2025-02-11T18:03:30.214518502+00:00 - INFO - example function executed in 1.870221152s
+18:03:31.089 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:03:31.393 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:03:31.897 [main] INFO  Handler_hello - hello function executed in 361 ms
+18:03:32.105 [main] INFO  Handler_hello - hello function executed in 874 ms
+2025-02-11T18:03:32.222474680+00:00 - INFO - example function executed in 1.359201992s
+2025-02-11T18:03:32.442386155+00:00 - INFO - example function executed in 1.884929293s
+18:03:33.789 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:03:33.980 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+18:03:34.388 [main] INFO  Handler_hello - hello function executed in 260 ms
+2025-02-11T18:03:34.719215817+00:00 - INFO - example function executed in 1.289023523s
+18:03:35.041 [main] INFO  Handler_hello - hello function executed in 1078 ms
+2025-02-11T18:03:35.368656092+00:00 - INFO - example function executed in 2.171433433s
+18:03:36.787 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+18:03:36.798 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:03:37.125 [main] INFO  Handler_hello - hello function executed in 183 ms
+2025-02-11T18:03:37.450549019+00:00 - INFO - example function executed in 1.196891086s
+18:03:37.666 [main] INFO  Handler_hello - hello function executed in 738 ms
+2025-02-11T18:03:37.998225365+00:00 - INFO - example function executed in 1.74829344s
+18:03:39.198 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:03:39.498 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:03:39.929 [main] INFO  Handler_hello - hello function executed in 293 ms
+18:03:40.179 [main] INFO  Handler_hello - hello function executed in 836 ms
+2025-02-11T18:03:40.257019773+00:00 - INFO - example function executed in 1.290351809s
+2025-02-11T18:03:40.506071150+00:00 - INFO - example function executed in 1.846189952s
+18:03:41.787 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+18:03:42.084 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:03:42.782 [main] INFO  Handler_hello - hello function executed in 850 ms
+18:03:43.074 [main] INFO  Handler_hello - hello function executed in 851 ms
+2025-02-11T18:03:43.108440930+00:00 - INFO - example function executed in 1.857092585s
+2025-02-11T18:03:43.404353741+00:00 - INFO - example function executed in 1.872727159s
+18:03:44.836 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+18:03:44.930 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+18:03:45.343 [main] INFO  Handler_hello - hello function executed in 257 ms
+18:03:45.556 [main] INFO  Handler_hello - hello function executed in 570 ms
+2025-02-11T18:03:45.683538704+00:00 - INFO - example function executed in 1.298967616s
+2025-02-11T18:03:45.891168283+00:00 - INFO - example function executed in 1.60815854s
+18:03:46.776 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:03:47.167 [main] INFO  Handler_hello - hello function executed in 247 ms
+18:03:47.391 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+2025-02-11T18:03:47.493243860+00:00 - INFO - example function executed in 1.259781523s
+18:03:48.255 [main] INFO  Handler_hello - hello function executed in 715 ms
+2025-02-11T18:03:48.586618321+00:00 - INFO - example function executed in 1.771566253s
+18:03:49.930 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:03:50.059 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:03:50.268 [main] INFO  Handler_hello - hello function executed in 197 ms
+2025-02-11T18:03:50.593382360+00:00 - INFO - example function executed in 1.204768697s
+18:03:51.034 [main] INFO  Handler_hello - hello function executed in 834 ms
+2025-02-11T18:03:51.364075638+00:00 - INFO - example function executed in 1.838532066s
+18:03:52.686 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:03:53.001 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:03:53.352 [main] INFO  Handler_hello - hello function executed in 518 ms
+2025-02-11T18:03:53.679879768+00:00 - INFO - example function executed in 1.549409634s
+18:03:53.794 [main] INFO  Handler_hello - hello function executed in 649 ms
+2025-02-11T18:03:54.124210927+00:00 - INFO - example function executed in 1.649342892s
+18:03:54.890 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:03:55.416 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:03:55.855 [main] INFO  Handler_hello - hello function executed in 818 ms
+2025-02-11T18:03:56.184052190+00:00 - INFO - example function executed in 1.835362865s
+18:03:56.384 [main] INFO  Handler_hello - hello function executed in 830 ms
+2025-02-11T18:03:56.716980858+00:00 - INFO - example function executed in 1.837599189s
+18:03:57.965 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:03:58.017 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+18:03:58.630 [main] INFO  Handler_hello - hello function executed in 461 ms
+18:03:58.898 [main] INFO  Handler_hello - hello function executed in 786 ms
+2025-02-11T18:03:58.957259051+00:00 - INFO - example function executed in 1.542312187s
+2025-02-11T18:03:59.228951632+00:00 - INFO - example function executed in 1.809655488s
+18:04:00.095 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:04:00.699 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:04:01.274 [main] INFO  Handler_hello - hello function executed in 1030 ms
+2025-02-11T18:04:01.599257895+00:00 - INFO - example function executed in 2.058403312s
+18:04:01.731 [main] INFO  Handler_hello - hello function executed in 888 ms
+2025-02-11T18:04:02.060974319+00:00 - INFO - example function executed in 1.917548142s
+18:04:03.610 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:04:03.686 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:04:04.344 [main] INFO  Handler_hello - hello function executed in 593 ms
+2025-02-11T18:04:04.669424467+00:00 - INFO - example function executed in 1.584255045s
+18:04:04.811 [main] INFO  Handler_hello - hello function executed in 984 ms
+2025-02-11T18:04:05.141463975+00:00 - INFO - example function executed in 1.995660608s
+18:04:06.232 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:04:06.938 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:04:07.122 [main] INFO  Handler_hello - hello function executed in 752 ms
+2025-02-11T18:04:07.450315768+00:00 - INFO - example function executed in 1.750877496s
+18:04:08.060 [main] INFO  Handler_hello - hello function executed in 977 ms
+2025-02-11T18:04:08.389864570+00:00 - INFO - example function executed in 1.984164353s
+18:04:09.284 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:04:09.913 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:04:10.362 [main] INFO  Handler_hello - hello function executed in 929 ms
+2025-02-11T18:04:10.688347515+00:00 - INFO - example function executed in 1.947470949s
+18:04:11.094 [main] INFO  Handler_hello - hello function executed in 1041 ms
+2025-02-11T18:04:11.424306533+00:00 - INFO - example function executed in 2.037142925s
+18:04:12.633 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:04:12.897 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:04:13.790 [main] INFO  Handler_hello - hello function executed in 1007 ms
+18:04:14.035 [main] INFO  Handler_hello - hello function executed in 998 ms
+2025-02-11T18:04:14.117349201+00:00 - INFO - example function executed in 2.046334916s
+2025-02-11T18:04:14.374239368+00:00 - INFO - example function executed in 2.026659766s
+18:04:15.405 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:04:15.510 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:04:15.786 [main] INFO  Handler_hello - hello function executed in 131 ms
+18:04:15.892 [main] INFO  Handler_hello - hello function executed in 336 ms
+2025-02-11T18:04:16.116007466+00:00 - INFO - example function executed in 1.144005716s
+2025-02-11T18:04:16.218822220+00:00 - INFO - example function executed in 1.354715941s
+18:04:17.074 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:04:17.282 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:04:17.408 [main] INFO  Handler_hello - hello function executed in 184 ms
+2025-02-11T18:04:17.734746682+00:00 - INFO - example function executed in 1.206437487s
+18:04:17.785 [main] INFO  Handler_hello - hello function executed in 365 ms
+2025-02-11T18:04:18.114579566+00:00 - INFO - example function executed in 1.371370774s
+18:04:18.977 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:04:19.155 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:04:19.402 [main] INFO  Handler_hello - hello function executed in 285 ms
+2025-02-11T18:04:19.728268546+00:00 - INFO - example function executed in 1.296484971s
+18:04:20.383 [main] INFO  Handler_hello - hello function executed in 1068 ms
+2025-02-11T18:04:20.712822087+00:00 - INFO - example function executed in 2.09778286s
+18:04:21.528 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:04:21.871 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:04:22.414 [main] INFO  Handler_hello - hello function executed in 746 ms
+18:04:22.442 [main] INFO  Handler_hello - hello function executed in 432 ms
+2025-02-11T18:04:22.741733210+00:00 - INFO - example function executed in 1.756139383s
+2025-02-11T18:04:22.771287151+00:00 - INFO - example function executed in 1.457200057s
+18:04:23.605 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:04:23.879 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:04:24.165 [main] INFO  Handler_hello - hello function executed in 419 ms
+2025-02-11T18:04:24.490645467+00:00 - INFO - example function executed in 1.421239603s
+18:04:24.729 [main] INFO  Handler_hello - hello function executed in 710 ms
+2025-02-11T18:04:25.059500500+00:00 - INFO - example function executed in 1.701187434s
+18:04:25.980 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:04:26.169 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:04:26.944 [main] INFO  Handler_hello - hello function executed in 631 ms
+18:04:27.023 [main] INFO  Handler_hello - hello function executed in 902 ms
+2025-02-11T18:04:27.272721877+00:00 - INFO - example function executed in 1.656270666s
+2025-02-11T18:04:27.349569525+00:00 - INFO - example function executed in 1.920693447s
+18:04:28.352 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:04:28.496 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:04:29.095 [main] INFO  Handler_hello - hello function executed in 606 ms
+18:04:29.186 [main] INFO  Handler_hello - hello function executed in 548 ms
+2025-02-11T18:04:29.421364681+00:00 - INFO - example function executed in 1.599200869s
+2025-02-11T18:04:29.518623778+00:00 - INFO - example function executed in 1.568642245s
+18:04:30.420 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+18:04:31.178 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:04:31.359 [main] INFO  Handler_hello - hello function executed in 788 ms
+18:04:31.456 [main] INFO  Handler_hello - hello function executed in 138 ms
+2025-02-11T18:04:31.686018751+00:00 - INFO - example function executed in 1.814966202s
+2025-02-11T18:04:31.786104433+00:00 - INFO - example function executed in 1.135515853s
+18:04:33.445 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+18:04:33.456 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:04:33.695 [main] INFO  Handler_hello - hello function executed in 104 ms
+2025-02-11T18:04:34.021852673+00:00 - INFO - example function executed in 1.148612589s
+18:04:34.094 [main] INFO  Handler_hello - hello function executed in 492 ms
+2025-02-11T18:04:34.424825283+00:00 - INFO - example function executed in 1.519403188s
+18:04:35.598 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:04:36.005 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:04:36.271 [main] INFO  Handler_hello - hello function executed in 526 ms
+2025-02-11T18:04:36.600047595+00:00 - INFO - example function executed in 1.542642704s
+18:04:37.009 [main] INFO  Handler_hello - hello function executed in 867 ms
+2025-02-11T18:04:37.339613084+00:00 - INFO - example function executed in 1.880319194s
+18:04:38.103 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:04:38.402 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:04:39.180 [main] INFO  Handler_hello - hello function executed in 934 ms
+2025-02-11T18:04:39.505880944+00:00 - INFO - example function executed in 1.928398053s
+18:04:39.544 [main] INFO  Handler_hello - hello function executed in 1001 ms
+2025-02-11T18:04:39.873431348+00:00 - INFO - example function executed in 2.002045416s
+18:04:41.094 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:04:41.573 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+18:04:42.109 [main] INFO  Handler_hello - hello function executed in 872 ms
+18:04:42.433 [main] INFO  Handler_hello - hello function executed in 719 ms
+2025-02-11T18:04:42.436154377+00:00 - INFO - example function executed in 1.879333078s
+2025-02-11T18:04:42.764193231+00:00 - INFO - example function executed in 1.719271363s
+18:04:43.737 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:04:44.340 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:04:44.629 [main] INFO  Handler_hello - hello function executed in 751 ms
+2025-02-11T18:04:44.956125751+00:00 - INFO - example function executed in 1.745133276s
+18:04:45.067 [main] INFO  Handler_hello - hello function executed in 585 ms
+2025-02-11T18:04:45.395422550+00:00 - INFO - example function executed in 1.592852033s
+18:04:46.180 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:04:46.838 [main] INFO  Handler_hello - hello function executed in 516 ms
+18:04:46.889 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+2025-02-11T18:04:47.163048914+00:00 - INFO - example function executed in 1.509889656s
+18:04:47.638 [main] INFO  Handler_hello - hello function executed in 608 ms
+2025-02-11T18:04:47.966920720+00:00 - INFO - example function executed in 1.598385897s
+18:04:49.476 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:04:49.522 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+18:04:49.957 [main] INFO  Handler_hello - hello function executed in 342 ms
+18:04:50.246 [main] INFO  Handler_hello - hello function executed in 580 ms
+2025-02-11T18:04:50.283085968+00:00 - INFO - example function executed in 1.334454879s
+2025-02-11T18:04:50.574898912+00:00 - INFO - example function executed in 1.582912947s
+18:04:51.437 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:04:52.132 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+18:04:52.349 [main] INFO  Handler_hello - hello function executed in 770 ms
+2025-02-11T18:04:52.676064485+00:00 - INFO - example function executed in 1.755427336s
+18:04:53.012 [main] INFO  Handler_hello - hello function executed in 743 ms
+2025-02-11T18:04:53.342922157+00:00 - INFO - example function executed in 1.753974241s
+18:04:54.856 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:04:54.957 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:04:55.311 [main] INFO  Handler_hello - hello function executed in 309 ms
+2025-02-11T18:04:55.641542960+00:00 - INFO - example function executed in 1.339593171s
+18:04:56.171 [main] INFO  Handler_hello - hello function executed in 1070 ms
+2025-02-11T18:04:56.502360299+00:00 - INFO - example function executed in 2.087512848s
+18:04:57.321 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:04:57.652 [main] INFO  Handler_hello - hello function executed in 190 ms
+18:04:57.818 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T18:04:57.980465044+00:00 - INFO - example function executed in 1.180549614s
+18:04:58.486 [main] INFO  Handler_hello - hello function executed in 532 ms
+2025-02-11T18:04:58.816756667+00:00 - INFO - example function executed in 1.549213152s
+18:05:00.255 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:05:00.431 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:05:00.700 [main] INFO  Handler_hello - hello function executed in 130 ms
+18:05:00.940 [main] INFO  Handler_hello - hello function executed in 548 ms
+2025-02-11T18:05:01.029000011+00:00 - INFO - example function executed in 1.130722955s
+2025-02-11T18:05:01.266587421+00:00 - INFO - example function executed in 1.5439108s
+18:05:02.127 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:05:02.886 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:05:03.214 [main] INFO  Handler_hello - hello function executed in 953 ms
+18:05:03.534 [main] INFO  Handler_hello - hello function executed in 513 ms
+2025-02-11T18:05:03.540883475+00:00 - INFO - example function executed in 1.924866286s
+2025-02-11T18:05:03.864232923+00:00 - INFO - example function executed in 1.516645066s
+18:05:04.722 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:05:04.922 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:05:05.380 [main] INFO  Handler_hello - hello function executed in 518 ms
+18:05:05.531 [main] INFO  Handler_hello - hello function executed in 469 ms
+2025-02-11T18:05:05.706840982+00:00 - INFO - example function executed in 1.518736636s
+2025-02-11T18:05:05.858320331+00:00 - INFO - example function executed in 1.487637275s
+18:05:06.985 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:05:07.142 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:05:07.629 [main] INFO  Handler_hello - hello function executed in 499 ms
+2025-02-11T18:05:07.954940414+00:00 - INFO - example function executed in 1.51511962s
+18:05:08.008 [main] INFO  Handler_hello - hello function executed in 726 ms
+2025-02-11T18:05:08.337316488+00:00 - INFO - example function executed in 1.731114865s
+18:05:09.084 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:05:09.397 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:05:09.990 [main] INFO  Handler_hello - hello function executed in 758 ms
+2025-02-11T18:05:10.316875620+00:00 - INFO - example function executed in 1.752710713s
+18:05:10.461 [main] INFO  Handler_hello - hello function executed in 925 ms
+2025-02-11T18:05:10.787117294+00:00 - INFO - example function executed in 1.932049379s
+18:05:12.184 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:05:12.280 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:05:12.841 [main] INFO  Handler_hello - hello function executed in 505 ms
+18:05:13.124 [main] INFO  Handler_hello - hello function executed in 700 ms
+2025-02-11T18:05:13.167208597+00:00 - INFO - example function executed in 1.536541179s
+2025-02-11T18:05:13.453958611+00:00 - INFO - example function executed in 1.729323708s
+18:05:15.008 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:05:15.102 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+18:05:15.991 [main] INFO  Handler_hello - hello function executed in 744 ms
+18:05:16.144 [main] INFO  Handler_hello - hello function executed in 985 ms
+2025-02-11T18:05:16.317719056+00:00 - INFO - example function executed in 1.75242535s
+2025-02-11T18:05:16.471033031+00:00 - INFO - example function executed in 2.012848894s
+18:05:17.404 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:05:17.734 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:05:18.427 [main] INFO  Handler_hello - hello function executed in 881 ms
+2025-02-11T18:05:18.753733663+00:00 - INFO - example function executed in 1.879003941s
+18:05:18.808 [main] INFO  Handler_hello - hello function executed in 935 ms
+2025-02-11T18:05:19.137317891+00:00 - INFO - example function executed in 1.952551169s
+18:05:20.453 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:05:20.529 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:05:21.160 [main] INFO  Handler_hello - hello function executed in 482 ms
+18:05:21.341 [main] INFO  Handler_hello - hello function executed in 748 ms
+2025-02-11T18:05:21.491128288+00:00 - INFO - example function executed in 1.521648179s
+2025-02-11T18:05:21.667708418+00:00 - INFO - example function executed in 1.753600862s
+18:05:22.468 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:05:22.697 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:05:23.352 [main] INFO  Handler_hello - hello function executed in 740 ms
+18:05:23.526 [main] INFO  Handler_hello - hello function executed in 685 ms
+2025-02-11T18:05:23.679039754+00:00 - INFO - example function executed in 1.74539429s
+2025-02-11T18:05:23.856737898+00:00 - INFO - example function executed in 1.691542049s
+18:05:25.616 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:05:25.643 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:05:25.843 [main] INFO  Handler_hello - hello function executed in 82 ms
+18:05:25.927 [main] INFO  Handler_hello - hello function executed in 143 ms
+2025-02-11T18:05:26.170088266+00:00 - INFO - example function executed in 1.101722762s
+2025-02-11T18:05:26.257089157+00:00 - INFO - example function executed in 1.159496227s
+18:05:27.011 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:05:27.136 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+18:05:28.009 [main] INFO  Handler_hello - hello function executed in 720 ms
+18:05:28.089 [main] INFO  Handler_hello - hello function executed in 934 ms
+2025-02-11T18:05:28.340005462+00:00 - INFO - example function executed in 1.753459727s
+2025-02-11T18:05:28.416610931+00:00 - INFO - example function executed in 1.940657105s
+18:05:29.707 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:05:30.118 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:05:30.461 [main] INFO  Handler_hello - hello function executed in 611 ms
+2025-02-11T18:05:30.787523400+00:00 - INFO - example function executed in 1.607189943s
+18:05:30.956 [main] INFO  Handler_hello - hello function executed in 682 ms
+2025-02-11T18:05:31.287940239+00:00 - INFO - example function executed in 1.699476738s
+18:05:32.186 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+18:05:32.723 [main] INFO  Handler_hello - hello function executed in 399 ms
+18:05:32.938 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+2025-02-11T18:05:33.049113950+00:00 - INFO - example function executed in 1.38944998s
+18:05:33.950 [main] INFO  Handler_hello - hello function executed in 871 ms
+2025-02-11T18:05:34.279290390+00:00 - INFO - example function executed in 1.866744151s
+18:05:35.630 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:05:35.768 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:05:36.777 [main] INFO  Handler_hello - hello function executed in 864 ms
+18:05:36.832 [main] INFO  Handler_hello - hello function executed in 1057 ms
+2025-02-11T18:05:37.107580167+00:00 - INFO - example function executed in 1.870423768s
+2025-02-11T18:05:37.162970063+00:00 - INFO - example function executed in 2.072136167s
+18:05:37.937 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:05:38.350 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:05:38.485 [main] INFO  Handler_hello - hello function executed in 408 ms
+2025-02-11T18:05:38.816019960+00:00 - INFO - example function executed in 1.418690313s
+18:05:39.347 [main] INFO  Handler_hello - hello function executed in 856 ms
+2025-02-11T18:05:39.678909583+00:00 - INFO - example function executed in 1.850391683s
+18:05:41.348 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+18:05:41.375 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:05:41.909 [main] INFO  Handler_hello - hello function executed in 388 ms
+18:05:42.042 [main] INFO  Handler_hello - hello function executed in 535 ms
+2025-02-11T18:05:42.240317677+00:00 - INFO - example function executed in 1.449287918s
+2025-02-11T18:05:42.368720976+00:00 - INFO - example function executed in 1.581274625s
+18:05:43.821 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:05:44.016 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:05:44.514 [main] INFO  Handler_hello - hello function executed in 549 ms
+18:05:44.538 [main] INFO  Handler_hello - hello function executed in 381 ms
+2025-02-11T18:05:44.839872603+00:00 - INFO - example function executed in 1.554681525s
+2025-02-11T18:05:44.869230223+00:00 - INFO - example function executed in 1.393117872s
+18:05:46.232 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:05:46.407 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:05:46.601 [main] INFO  Handler_hello - hello function executed in 229 ms
+2025-02-11T18:05:46.927482827+00:00 - INFO - example function executed in 1.269708367s
+18:05:47.090 [main] INFO  Handler_hello - hello function executed in 538 ms
+2025-02-11T18:05:47.430684847+00:00 - INFO - example function executed in 1.563857192s
+18:05:48.241 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:05:48.456 [main] INFO  Handler_hello - hello function executed in 77 ms
+2025-02-11T18:05:48.782052502+00:00 - INFO - example function executed in 1.0668474s
+18:05:49.022 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:05:49.760 [main] INFO  Handler_hello - hello function executed in 596 ms
+2025-02-11T18:05:50.091879945+00:00 - INFO - example function executed in 1.608069038s
+18:05:51.446 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:05:51.694 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:05:52.275 [main] INFO  Handler_hello - hello function executed in 685 ms
+2025-02-11T18:05:52.602088864+00:00 - INFO - example function executed in 1.70788244s
+18:05:52.899 [main] INFO  Handler_hello - hello function executed in 1049 ms
+2025-02-11T18:05:53.228650990+00:00 - INFO - example function executed in 2.08383775s
+18:05:54.520 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:05:54.612 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:05:54.855 [main] INFO  Handler_hello - hello function executed in 188 ms
+2025-02-11T18:05:55.180827405+00:00 - INFO - example function executed in 1.212307572s
+18:05:55.795 [main] INFO  Handler_hello - hello function executed in 1039 ms
+2025-02-11T18:05:56.125766102+00:00 - INFO - example function executed in 2.040840638s
+18:05:57.084 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:05:57.131 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:05:57.631 [main] INFO  Handler_hello - hello function executed in 404 ms
+18:05:57.652 [main] INFO  Handler_hello - hello function executed in 381 ms
+2025-02-11T18:05:57.959104023+00:00 - INFO - example function executed in 1.414630676s
+2025-02-11T18:05:57.982105480+00:00 - INFO - example function executed in 1.389917554s
+18:05:59.228 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+18:05:59.276 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:06:00.127 [main] INFO  Handler_hello - hello function executed in 758 ms
+18:06:00.412 [main] INFO  Handler_hello - hello function executed in 997 ms
+2025-02-11T18:06:00.453759204+00:00 - INFO - example function executed in 1.757968039s
+2025-02-11T18:06:00.741827674+00:00 - INFO - example function executed in 1.999057135s
+18:06:01.477 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+18:06:02.079 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:06:02.356 [main] INFO  Handler_hello - hello function executed in 139 ms
+18:06:02.660 [main] INFO  Handler_hello - hello function executed in 1047 ms
+2025-02-11T18:06:02.686168402+00:00 - INFO - example function executed in 1.144329726s
+2025-02-11T18:06:02.985380633+00:00 - INFO - example function executed in 2.017154893s
+18:06:04.256 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:06:04.801 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+18:06:05.149 [main] INFO  Handler_hello - hello function executed in 740 ms
+2025-02-11T18:06:05.476786826+00:00 - INFO - example function executed in 1.776038672s
+18:06:05.862 [main] INFO  Handler_hello - hello function executed in 887 ms
+2025-02-11T18:06:06.195133920+00:00 - INFO - example function executed in 2.03867618s
+18:06:07.093 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:06:07.459 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:06:07.485 [main] INFO  Handler_hello - hello function executed in 241 ms
+2025-02-11T18:06:07.812339946+00:00 - INFO - example function executed in 1.297415994s
+18:06:08.580 [main] INFO  Handler_hello - hello function executed in 983 ms
+2025-02-11T18:06:08.910113212+00:00 - INFO - example function executed in 1.987682711s
+18:06:09.775 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:06:09.901 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:06:10.395 [main] INFO  Handler_hello - hello function executed in 346 ms
+18:06:10.533 [main] INFO  Handler_hello - hello function executed in 618 ms
+2025-02-11T18:06:10.723957404+00:00 - INFO - example function executed in 1.366978785s
+2025-02-11T18:06:10.861176215+00:00 - INFO - example function executed in 1.624399975s
+18:06:12.181 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:06:12.228 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+18:06:12.782 [main] INFO  Handler_hello - hello function executed in 462 ms
+18:06:13.039 [main] INFO  Handler_hello - hello function executed in 669 ms
+2025-02-11T18:06:13.107619968+00:00 - INFO - example function executed in 1.460071667s
+2025-02-11T18:06:13.369579677+00:00 - INFO - example function executed in 1.7051676s
+18:06:14.629 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:06:14.657 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:06:14.904 [main] INFO  Handler_hello - hello function executed in 106 ms
+2025-02-11T18:06:15.233878602+00:00 - INFO - example function executed in 1.105315732s
+18:06:15.395 [main] INFO  Handler_hello - hello function executed in 624 ms
+2025-02-11T18:06:15.722051185+00:00 - INFO - example function executed in 1.634272095s
+18:06:16.493 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:06:16.780 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:06:17.079 [main] INFO  Handler_hello - hello function executed in 445 ms
+18:06:17.347 [main] INFO  Handler_hello - hello function executed in 428 ms
+2025-02-11T18:06:17.404607569+00:00 - INFO - example function executed in 1.449565393s
+2025-02-11T18:06:17.673508943+00:00 - INFO - example function executed in 1.430784658s
+18:06:18.958 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:06:19.010 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+18:06:19.355 [main] INFO  Handler_hello - hello function executed in 247 ms
+18:06:19.440 [main] INFO  Handler_hello - hello function executed in 279 ms
+2025-02-11T18:06:19.681597622+00:00 - INFO - example function executed in 1.25012121s
+2025-02-11T18:06:19.771083702+00:00 - INFO - example function executed in 1.322712185s
+18:06:20.885 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:06:21.340 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:06:21.874 [main] INFO  Handler_hello - hello function executed in 847 ms
+18:06:22.051 [main] INFO  Handler_hello - hello function executed in 571 ms
+2025-02-11T18:06:22.201060716+00:00 - INFO - example function executed in 1.849171435s
+2025-02-11T18:06:22.383034458+00:00 - INFO - example function executed in 1.564841259s
+18:06:23.797 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:06:24.079 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:06:24.165 [main] INFO  Handler_hello - hello function executed in 225 ms
+18:06:24.399 [main] INFO  Handler_hello - hello function executed in 180 ms
+2025-02-11T18:06:24.492079007+00:00 - INFO - example function executed in 1.234057982s
+2025-02-11T18:06:24.727772198+00:00 - INFO - example function executed in 1.174493131s
+18:06:26.072 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:06:26.495 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:06:26.760 [main] INFO  Handler_hello - hello function executed in 129 ms
+18:06:26.841 [main] INFO  Handler_hello - hello function executed in 615 ms
+2025-02-11T18:06:27.090216807+00:00 - INFO - example function executed in 1.154742286s
+2025-02-11T18:06:27.168659545+00:00 - INFO - example function executed in 1.626237144s
+18:06:28.480 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:06:28.877 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:06:29.050 [main] INFO  Handler_hello - hello function executed in 426 ms
+2025-02-11T18:06:29.375126737+00:00 - INFO - example function executed in 1.424459934s
+18:06:29.849 [main] INFO  Handler_hello - hello function executed in 830 ms
+2025-02-11T18:06:30.179624329+00:00 - INFO - example function executed in 1.835670637s
+18:06:32.991 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:06:33.083 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:06:33.781 [main] INFO  Handler_hello - hello function executed in 642 ms
+18:06:33.866 [main] INFO  Handler_hello - hello function executed in 641 ms
+2025-02-11T18:06:34.106061463+00:00 - INFO - example function executed in 1.65736534s
+2025-02-11T18:06:34.197048309+00:00 - INFO - example function executed in 1.662363766s
+18:06:37.589 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:06:37.663 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:06:37.903 [main] INFO  Handler_hello - hello function executed in 93 ms
+18:06:37.908 [main] INFO  Handler_hello - hello function executed in 167 ms
+2025-02-11T18:06:38.233668110+00:00 - INFO - example function executed in 1.112965681s
+2025-02-11T18:06:38.251244699+00:00 - INFO - example function executed in 1.220636728s
+18:06:41.297 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:06:41.436 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:06:41.600 [main] INFO  Handler_hello - hello function executed in 162 ms
+2025-02-11T18:06:41.926822701+00:00 - INFO - example function executed in 1.178731033s
+18:06:42.556 [main] INFO  Handler_hello - hello function executed in 983 ms
+2025-02-11T18:06:42.885702445+00:00 - INFO - example function executed in 2.002599747s
+18:06:45.490 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:06:45.688 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:06:45.776 [main] INFO  Handler_hello - hello function executed in 145 ms
+2025-02-11T18:06:46.102369092+00:00 - INFO - example function executed in 1.134911503s
+18:06:46.754 [main] INFO  Handler_hello - hello function executed in 927 ms
+2025-02-11T18:06:47.083939525+00:00 - INFO - example function executed in 1.955308354s
+18:06:48.944 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:06:49.105 [main] INFO  Injector - Read from MongoDB table executed in 48 ms
+18:06:49.507 [main] INFO  Handler_hello - hello function executed in 261 ms
+18:06:49.514 [main] INFO  Handler_hello - hello function executed in 428 ms
+2025-02-11T18:06:49.837159414+00:00 - INFO - example function executed in 1.280152699s
+2025-02-11T18:06:49.841017482+00:00 - INFO - example function executed in 1.435144033s
+18:06:52.901 [main] INFO  Injector - Read from MongoDB table executed in 58 ms
+18:06:52.932 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:06:53.169 [main] INFO  Handler_hello - hello function executed in 122 ms
+2025-02-11T18:06:53.496335693+00:00 - INFO - example function executed in 1.149934154s
+18:06:53.668 [main] INFO  Handler_hello - hello function executed in 594 ms
+2025-02-11T18:06:54.000194744+00:00 - INFO - example function executed in 1.595480116s
+18:06:56.313 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:06:56.822 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:06:57.325 [main] INFO  Handler_hello - hello function executed in 860 ms
+18:06:57.573 [main] INFO  Handler_hello - hello function executed in 603 ms
+2025-02-11T18:06:57.653515516+00:00 - INFO - example function executed in 1.885176916s
+2025-02-11T18:06:57.902226255+00:00 - INFO - example function executed in 1.689143002s
+18:07:00.715 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:07:00.849 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:07:01.246 [main] INFO  Handler_hello - hello function executed in 258 ms
+18:07:01.553 [main] INFO  Handler_hello - hello function executed in 690 ms
+2025-02-11T18:07:01.575031472+00:00 - INFO - example function executed in 1.259771732s
+2025-02-11T18:07:01.880050942+00:00 - INFO - example function executed in 1.698179507s
+18:07:04.297 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:07:04.498 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+18:07:04.712 [main] INFO  Handler_hello - hello function executed in 273 ms
+18:07:04.720 [main] INFO  Handler_hello - hello function executed in 82 ms
+2025-02-11T18:07:05.038987341+00:00 - INFO - example function executed in 1.303079519s
+2025-02-11T18:07:05.049601995+00:00 - INFO - example function executed in 1.128890332s
+18:07:07.881 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+18:07:08.121 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:07:08.142 [main] INFO  Handler_hello - hello function executed in 122 ms
+2025-02-11T18:07:08.468447395+00:00 - INFO - example function executed in 1.12181967s
+18:07:09.255 [main] INFO  Handler_hello - hello function executed in 968 ms
+2025-02-11T18:07:09.580752002+00:00 - INFO - example function executed in 2.013336015s
+18:07:12.417 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:07:12.616 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:07:12.694 [main] INFO  Handler_hello - hello function executed in 133 ms
+2025-02-11T18:07:13.020719571+00:00 - INFO - example function executed in 1.142462337s
+18:07:13.139 [main] INFO  Handler_hello - hello function executed in 384 ms
+2025-02-11T18:07:13.470281566+00:00 - INFO - example function executed in 1.383598152s
+18:07:15.745 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:07:16.104 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:07:16.508 [main] INFO  Handler_hello - hello function executed in 621 ms
+2025-02-11T18:07:16.833255988+00:00 - INFO - example function executed in 1.633163603s
+18:07:17.270 [main] INFO  Handler_hello - hello function executed in 1025 ms
+2025-02-11T18:07:17.600065259+00:00 - INFO - example function executed in 2.026163221s
+18:07:20.447 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:07:21.233 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:07:21.355 [main] INFO  Handler_hello - hello function executed in 762 ms
+2025-02-11T18:07:21.681908943+00:00 - INFO - example function executed in 1.77536928s
+18:07:22.407 [main] INFO  Handler_hello - hello function executed in 1036 ms
+2025-02-11T18:07:22.737649009+00:00 - INFO - example function executed in 2.038815018s
+18:07:26.051 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+18:07:26.143 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:07:27.029 [main] INFO  Handler_hello - hello function executed in 827 ms
+18:07:27.183 [main] INFO  Handler_hello - hello function executed in 893 ms
+2025-02-11T18:07:27.366680963+00:00 - INFO - example function executed in 1.879365377s
+2025-02-11T18:07:27.518859217+00:00 - INFO - example function executed in 1.925556888s
+18:07:29.967 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:07:30.342 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:07:30.885 [main] INFO  Handler_hello - hello function executed in 386 ms
+18:07:31.026 [main] INFO  Handler_hello - hello function executed in 913 ms
+2025-02-11T18:07:31.216006898+00:00 - INFO - example function executed in 1.452847016s
+2025-02-11T18:07:31.353682445+00:00 - INFO - example function executed in 1.917436301s
+18:07:32.753 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:07:32.791 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:07:33.148 [main] INFO  Handler_hello - hello function executed in 238 ms
+2025-02-11T18:07:33.486030631+00:00 - INFO - example function executed in 1.31213703s
+18:07:33.794 [main] INFO  Handler_hello - hello function executed in 852 ms
+2025-02-11T18:07:34.136697565+00:00 - INFO - example function executed in 1.888257346s
+18:07:37.054 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+18:07:37.451 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:07:37.485 [main] INFO  Handler_hello - hello function executed in 281 ms
+2025-02-11T18:07:37.816483659+00:00 - INFO - example function executed in 1.343540833s
+18:07:38.235 [main] INFO  Handler_hello - hello function executed in 637 ms
+2025-02-11T18:07:38.567256630+00:00 - INFO - example function executed in 1.691981687s
+18:07:41.109 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+18:07:41.231 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:07:41.799 [main] INFO  Handler_hello - hello function executed in 514 ms
+2025-02-11T18:07:42.123975620+00:00 - INFO - example function executed in 1.579772315s
+18:07:42.152 [main] INFO  Handler_hello - hello function executed in 770 ms
+2025-02-11T18:07:42.478533335+00:00 - INFO - example function executed in 1.785715739s
+18:07:44.587 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:07:44.673 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:07:45.197 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:07:45.246 [main] INFO  Handler_hello - hello function executed in 493 ms
+18:07:45.522 [main] INFO  Handler_hello - hello function executed in 704 ms
+2025-02-11T18:07:45.572537729+00:00 - INFO - example function executed in 1.523861661s
+2025-02-11T18:07:45.848891160+00:00 - INFO - example function executed in 1.713121682s
+18:07:45.904 [main] INFO  Handler_hello - hello function executed in 563 ms
+2025-02-11T18:07:46.233322578+00:00 - INFO - example function executed in 1.605181136s
+18:07:49.214 [main] INFO  Injector - Read from MongoDB table executed in 45 ms
+18:07:49.329 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+18:07:49.549 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:07:49.998 [main] INFO  Handler_hello - hello function executed in 501 ms
+18:07:50.105 [main] INFO  Handler_hello - hello function executed in 708 ms
+18:07:50.203 [main] INFO  Handler_hello - hello function executed in 512 ms
+2025-02-11T18:07:50.323854657+00:00 - INFO - example function executed in 1.588726328s
+2025-02-11T18:07:50.433785012+00:00 - INFO - example function executed in 1.836550328s
+2025-02-11T18:07:50.533038285+00:00 - INFO - example function executed in 1.617963818s
+18:07:53.043 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+18:07:53.315 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:07:53.397 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:07:53.894 [main] INFO  Handler_hello - hello function executed in 675 ms
+18:07:54.040 [main] INFO  Handler_hello - hello function executed in 575 ms
+18:07:54.178 [main] INFO  Handler_hello - hello function executed in 636 ms
+2025-02-11T18:07:54.221007042+00:00 - INFO - example function executed in 1.741515508s
+2025-02-11T18:07:54.367416588+00:00 - INFO - example function executed in 1.715274319s
+2025-02-11T18:07:54.503525033+00:00 - INFO - example function executed in 1.691724482s
+18:07:56.697 [main] INFO  Injector - Read from MongoDB table executed in 54 ms
+18:07:57.018 [main] INFO  Handler_hello - hello function executed in 168 ms
+18:07:57.075 [main] INFO  Injector - Read from MongoDB table executed in 48 ms
+18:07:57.183 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T18:07:57.368931095+00:00 - INFO - example function executed in 1.236192027s
+18:07:57.936 [main] INFO  Handler_hello - hello function executed in 709 ms
+18:07:58.241 [main] INFO  Handler_hello - hello function executed in 914 ms
+2025-02-11T18:07:58.267082119+00:00 - INFO - example function executed in 1.793995985s
+2025-02-11T18:07:58.571583997+00:00 - INFO - example function executed in 1.975942207s
+18:08:00.940 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:08:01.579 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:08:01.615 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:08:01.754 [main] INFO  Handler_hello - hello function executed in 672 ms
+2025-02-11T18:08:02.080308584+00:00 - INFO - example function executed in 1.67896072s
+18:08:02.150 [main] INFO  Handler_hello - hello function executed in 396 ms
+2025-02-11T18:08:02.481032556+00:00 - INFO - example function executed in 1.40613029s
+18:08:02.674 [main] INFO  Handler_hello - hello function executed in 952 ms
+2025-02-11T18:08:02.999823969+00:00 - INFO - example function executed in 1.962919596s
+18:08:04.900 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:08:05.555 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:08:05.670 [main] INFO  Handler_hello - hello function executed in 630 ms
+18:08:05.742 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T18:08:05.996370276+00:00 - INFO - example function executed in 1.634642624s
+18:08:06.029 [main] INFO  Handler_hello - hello function executed in 322 ms
+2025-02-11T18:08:06.355553861+00:00 - INFO - example function executed in 1.346737246s
+18:08:06.806 [main] INFO  Handler_hello - hello function executed in 925 ms
+2025-02-11T18:08:07.131269786+00:00 - INFO - example function executed in 1.944796035s
+18:08:09.763 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:08:09.838 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:08:10.114 [main] INFO  Handler_hello - hello function executed in 136 ms
+18:08:10.355 [main] INFO  Handler_hello - hello function executed in 446 ms
+2025-02-11T18:08:10.439900536+00:00 - INFO - example function executed in 1.158342134s
+2025-02-11T18:08:10.681797431+00:00 - INFO - example function executed in 1.445747448s
+18:08:10.719 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:08:11.409 [main] INFO  Handler_hello - hello function executed in 551 ms
+2025-02-11T18:08:11.738350304+00:00 - INFO - example function executed in 1.539938834s
+18:08:14.154 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:08:14.505 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+18:08:14.774 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:08:14.801 [main] INFO  Handler_hello - hello function executed in 155 ms
+18:08:15.099 [main] INFO  Handler_hello - hello function executed in 788 ms
+2025-02-11T18:08:15.127385047+00:00 - INFO - example function executed in 1.218454158s
+2025-02-11T18:08:15.425674222+00:00 - INFO - example function executed in 1.813064912s
+18:08:15.583 [main] INFO  Handler_hello - hello function executed in 665 ms
+2025-02-11T18:08:15.913008741+00:00 - INFO - example function executed in 1.688315605s
+18:08:18.069 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+18:08:18.145 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:08:18.487 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:08:18.998 [main] INFO  Handler_hello - hello function executed in 767 ms
+18:08:19.077 [main] INFO  Handler_hello - hello function executed in 775 ms
+2025-02-11T18:08:19.324874053+00:00 - INFO - example function executed in 1.827520896s
+2025-02-11T18:08:19.404953019+00:00 - INFO - example function executed in 1.84074221s
+18:08:19.450 [main] INFO  Handler_hello - hello function executed in 823 ms
+2025-02-11T18:08:19.780436314+00:00 - INFO - example function executed in 1.918277375s
+18:08:21.880 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:08:22.587 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:08:22.633 [main] INFO  Handler_hello - hello function executed in 617 ms
+18:08:22.731 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T18:08:22.959662113+00:00 - INFO - example function executed in 1.602281405s
+18:08:23.548 [main] INFO  Handler_hello - hello function executed in 675 ms
+18:08:23.618 [main] INFO  Handler_hello - hello function executed in 883 ms
+2025-02-11T18:08:23.877442182+00:00 - INFO - example function executed in 1.700622431s
+2025-02-11T18:08:23.943581411+00:00 - INFO - example function executed in 1.901725526s
+18:08:26.003 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:08:26.399 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:08:26.598 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:08:26.698 [main] INFO  Handler_hello - hello function executed in 525 ms
+2025-02-11T18:08:27.023594840+00:00 - INFO - example function executed in 1.605393137s
+18:08:27.118 [main] INFO  Handler_hello - hello function executed in 565 ms
+18:08:27.144 [main] INFO  Handler_hello - hello function executed in 388 ms
+2025-02-11T18:08:27.444754952+00:00 - INFO - example function executed in 1.619647165s
+2025-02-11T18:08:27.473875403+00:00 - INFO - example function executed in 1.4196912s
+18:08:30.490 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:08:30.761 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+18:08:30.930 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:08:31.387 [main] INFO  Handler_hello - hello function executed in 707 ms
+18:08:31.688 [main] INFO  Handler_hello - hello function executed in 612 ms
+2025-02-11T18:08:31.713265630+00:00 - INFO - example function executed in 1.762011346s
+18:08:31.753 [main] INFO  Handler_hello - hello function executed in 832 ms
+2025-02-11T18:08:32.018100391+00:00 - INFO - example function executed in 1.719700058s
+2025-02-11T18:08:32.079767466+00:00 - INFO - example function executed in 1.958665027s
+18:08:34.649 [main] INFO  Injector - Read from MongoDB table executed in 56 ms
+18:08:34.736 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+18:08:35.057 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:08:35.136 [main] INFO  Handler_hello - hello function executed in 322 ms
+18:08:35.284 [main] INFO  Handler_hello - hello function executed in 400 ms
+2025-02-11T18:08:35.462688649+00:00 - INFO - example function executed in 1.39377979s
+2025-02-11T18:08:35.611031414+00:00 - INFO - example function executed in 1.485871261s
+18:08:36.050 [main] INFO  Handler_hello - hello function executed in 849 ms
+2025-02-11T18:08:36.381851146+00:00 - INFO - example function executed in 1.974025988s
+18:08:39.159 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+18:08:39.664 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:08:39.670 [main] INFO  Injector - Read from MongoDB table executed in 45 ms
+18:08:40.252 [main] INFO  Handler_hello - hello function executed in 915 ms
+18:08:40.306 [main] INFO  Handler_hello - hello function executed in 500 ms
+2025-02-11T18:08:40.578601735+00:00 - INFO - example function executed in 1.999875432s
+2025-02-11T18:08:40.635541496+00:00 - INFO - example function executed in 1.569134871s
+18:08:40.888 [main] INFO  Handler_hello - hello function executed in 1073 ms
+2025-02-11T18:08:41.214914651+00:00 - INFO - example function executed in 2.180800262s
+18:08:43.611 [main] INFO  Injector - Read from MongoDB table executed in 70 ms
+18:08:43.622 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+18:08:43.725 [main] INFO  Injector - Read from MongoDB table executed in 54 ms
+18:08:44.054 [main] INFO  Handler_hello - hello function executed in 258 ms
+2025-02-11T18:08:44.382582875+00:00 - INFO - example function executed in 1.430054694s
+18:08:44.390 [main] INFO  Handler_hello - hello function executed in 507 ms
+18:08:44.398 [main] INFO  Handler_hello - hello function executed in 592 ms
+2025-02-11T18:08:44.722636631+00:00 - INFO - example function executed in 1.675079098s
+2025-02-11T18:08:44.725335495+00:00 - INFO - example function executed in 1.790516792s
+18:08:47.317 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:08:47.488 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:08:47.755 [main] INFO  Handler_hello - hello function executed in 119 ms
+18:08:48.024 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T18:08:48.081472432+00:00 - INFO - example function executed in 1.130660657s
+18:08:48.283 [main] INFO  Handler_hello - hello function executed in 118 ms
+18:08:48.448 [main] INFO  Handler_hello - hello function executed in 989 ms
+2025-02-11T18:08:48.612874008+00:00 - INFO - example function executed in 1.125517811s
+2025-02-11T18:08:48.776292880+00:00 - INFO - example function executed in 2.012692944s
+18:08:51.568 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:08:52.005 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:08:52.153 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:08:52.487 [main] INFO  Handler_hello - hello function executed in 339 ms
+18:08:52.723 [main] INFO  Handler_hello - hello function executed in 985 ms
+2025-02-11T18:08:52.812293146+00:00 - INFO - example function executed in 1.377783339s
+2025-02-11T18:08:53.049042310+00:00 - INFO - example function executed in 2.01495456s
+18:08:53.374 [main] INFO  Handler_hello - hello function executed in 1072 ms
+2025-02-11T18:08:53.705316583+00:00 - INFO - example function executed in 2.109900126s
+18:08:56.371 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:08:56.619 [main] INFO  Injector - Read from MongoDB table executed in 48 ms
+18:08:56.939 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:08:57.187 [main] INFO  Handler_hello - hello function executed in 659 ms
+2025-02-11T18:08:57.513141283+00:00 - INFO - example function executed in 1.676450209s
+18:08:57.577 [main] INFO  Handler_hello - hello function executed in 497 ms
+18:08:57.627 [main] INFO  Handler_hello - hello function executed in 855 ms
+2025-02-11T18:08:57.906918692+00:00 - INFO - example function executed in 1.591617907s
+2025-02-11T18:08:57.954292935+00:00 - INFO - example function executed in 1.949449917s
+18:09:00.313 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:09:00.720 [main] INFO  Handler_hello - hello function executed in 268 ms
+2025-02-11T18:09:01.046829252+00:00 - INFO - example function executed in 1.248716645s
+18:09:01.102 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+18:09:01.191 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:09:01.793 [main] INFO  Handler_hello - hello function executed in 549 ms
+18:09:01.869 [main] INFO  Handler_hello - hello function executed in 534 ms
+2025-02-11T18:09:02.119274882+00:00 - INFO - example function executed in 1.555620564s
+2025-02-11T18:09:02.196109817+00:00 - INFO - example function executed in 1.548367904s
+18:09:04.761 [main] INFO  Injector - Read from MongoDB table executed in 55 ms
+18:09:04.823 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+18:09:05.072 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:09:05.674 [main] INFO  Handler_hello - hello function executed in 731 ms
+18:09:05.801 [main] INFO  Handler_hello - hello function executed in 588 ms
+18:09:05.843 [main] INFO  Handler_hello - hello function executed in 856 ms
+2025-02-11T18:09:06.000782539+00:00 - INFO - example function executed in 1.848264446s
+2025-02-11T18:09:06.134684262+00:00 - INFO - example function executed in 1.732323495s
+2025-02-11T18:09:06.172758256+00:00 - INFO - example function executed in 1.940317154s
+18:09:08.510 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:09:08.920 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:09:09.160 [main] INFO  Handler_hello - hello function executed in 505 ms
+18:09:09.166 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T18:09:09.488428683+00:00 - INFO - example function executed in 1.51156272s
+18:09:10.055 [main] INFO  Handler_hello - hello function executed in 990 ms
+18:09:10.108 [main] INFO  Handler_hello - hello function executed in 797 ms
+2025-02-11T18:09:10.381516316+00:00 - INFO - example function executed in 2.015229784s
+2025-02-11T18:09:10.438219942+00:00 - INFO - example function executed in 1.807745955s
+18:09:12.376 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:09:13.131 [main] INFO  Handler_hello - hello function executed in 600 ms
+18:09:13.297 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:09:13.329 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+2025-02-11T18:09:13.459719593+00:00 - INFO - example function executed in 1.619876556s
+18:09:13.792 [main] INFO  Handler_hello - hello function executed in 316 ms
+2025-02-11T18:09:14.122511016+00:00 - INFO - example function executed in 1.336135031s
+18:09:14.172 [main] INFO  Handler_hello - hello function executed in 730 ms
+2025-02-11T18:09:14.499766984+00:00 - INFO - example function executed in 1.750022486s
+18:09:16.766 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:09:17.023 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+18:09:17.232 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:09:17.544 [main] INFO  Handler_hello - hello function executed in 376 ms
+2025-02-11T18:09:17.871113341+00:00 - INFO - example function executed in 1.48776324s
+18:09:18.039 [main] INFO  Handler_hello - hello function executed in 1078 ms
+18:09:18.205 [main] INFO  Handler_hello - hello function executed in 830 ms
+2025-02-11T18:09:18.366523028+00:00 - INFO - example function executed in 2.148310053s
+2025-02-11T18:09:18.534888226+00:00 - INFO - example function executed in 1.94202303s
+18:09:19.904 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:09:20.221 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:09:20.411 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:09:21.028 [main] INFO  Handler_hello - hello function executed in 665 ms
+18:09:21.078 [main] INFO  Handler_hello - hello function executed in 1002 ms
+2025-02-11T18:09:21.354812358+00:00 - INFO - example function executed in 1.748398861s
+2025-02-11T18:09:21.403216309+00:00 - INFO - example function executed in 2.03612411s
+18:09:21.533 [main] INFO  Handler_hello - hello function executed in 974 ms
+2025-02-11T18:09:21.862230703+00:00 - INFO - example function executed in 2.068988182s
+18:09:24.965 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+18:09:25.218 [main] INFO  Injector - Read from MongoDB table executed in 51 ms
+18:09:25.399 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:09:26.028 [main] INFO  Handler_hello - hello function executed in 484 ms
+18:09:26.186 [main] INFO  Handler_hello - hello function executed in 1033 ms
+18:09:26.303 [main] INFO  Handler_hello - hello function executed in 922 ms
+2025-02-11T18:09:26.358585496+00:00 - INFO - example function executed in 1.605942513s
+2025-02-11T18:09:26.513509946+00:00 - INFO - example function executed in 2.109735127s
+2025-02-11T18:09:26.629689778+00:00 - INFO - example function executed in 2.072348288s
+18:09:27.888 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:09:28.141 [main] INFO  Handler_hello - hello function executed in 106 ms
+18:09:28.359 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:09:28.436 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T18:09:28.476493558+00:00 - INFO - example function executed in 1.126396739s
+18:09:29.438 [main] INFO  Handler_hello - hello function executed in 933 ms
+18:09:29.451 [main] INFO  Handler_hello - hello function executed in 872 ms
+2025-02-11T18:09:29.765089761+00:00 - INFO - example function executed in 1.986414455s
+2025-02-11T18:09:29.779794878+00:00 - INFO - example function executed in 1.908970114s
+18:09:31.697 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:09:32.001 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+18:09:32.020 [main] INFO  Handler_hello - hello function executed in 166 ms
+18:09:32.295 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+2025-02-11T18:09:32.356882290+00:00 - INFO - example function executed in 1.190381498s
+18:09:32.779 [main] INFO  Handler_hello - hello function executed in 346 ms
+18:09:32.852 [main] INFO  Handler_hello - hello function executed in 709 ms
+2025-02-11T18:09:33.105666182+00:00 - INFO - example function executed in 1.364468331s
+2025-02-11T18:09:33.179626269+00:00 - INFO - example function executed in 1.757548813s
+18:09:35.861 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:09:36.259 [main] INFO  Handler_hello - hello function executed in 249 ms
+18:09:36.393 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T18:09:36.586375406+00:00 - INFO - example function executed in 1.260885176s
+18:09:36.598 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+18:09:37.259 [main] INFO  Handler_hello - hello function executed in 722 ms
+2025-02-11T18:09:37.586711920+00:00 - INFO - example function executed in 1.733175051s
+18:09:37.755 [main] INFO  Handler_hello - hello function executed in 1015 ms
+2025-02-11T18:09:38.084842990+00:00 - INFO - example function executed in 2.04799905s
+18:09:40.982 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+18:09:41.219 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:09:41.299 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+18:09:41.536 [main] INFO  Handler_hello - hello function executed in 168 ms
+18:09:41.780 [main] INFO  Handler_hello - hello function executed in 338 ms
+2025-02-11T18:09:41.862796828+00:00 - INFO - example function executed in 1.312791118s
+2025-02-11T18:09:42.111876975+00:00 - INFO - example function executed in 1.456481507s
+18:09:42.167 [main] INFO  Handler_hello - hello function executed in 1034 ms
+2025-02-11T18:09:42.492337485+00:00 - INFO - example function executed in 2.093673687s
+18:09:44.741 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+18:09:44.770 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+18:09:45.350 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:09:45.812 [main] INFO  Handler_hello - hello function executed in 322 ms
+18:09:45.983 [main] INFO  Handler_hello - hello function executed in 1036 ms
+18:09:45.993 [main] INFO  Handler_hello - hello function executed in 1076 ms
+2025-02-11T18:09:46.141591864+00:00 - INFO - example function executed in 1.348996321s
+2025-02-11T18:09:46.309875145+00:00 - INFO - example function executed in 2.130961701s
+2025-02-11T18:09:46.319476831+00:00 - INFO - example function executed in 2.14216341s
+18:09:48.991 [main] INFO  Injector - Read from MongoDB table executed in 52 ms
+18:09:49.032 [main] INFO  Injector - Read from MongoDB table executed in 64 ms
+18:09:49.122 [main] INFO  Injector - Read from MongoDB table executed in 49 ms
+18:09:49.458 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:09:49.624 [main] INFO  Handler_hello - hello function executed in 354 ms
+2025-02-11T18:09:49.951319911+00:00 - INFO - example function executed in 1.606543523s
+18:09:49.953 [main] INFO  Handler_hello - hello function executed in 636 ms
+18:09:50.119 [main] INFO  Handler_hello - hello function executed in 934 ms
+2025-02-11T18:09:50.280401615+00:00 - INFO - example function executed in 1.84826512s
+2025-02-11T18:09:50.447563574+00:00 - INFO - example function executed in 2.0979895s
+18:09:50.563 [main] INFO  Handler_hello - hello function executed in 961 ms
+2025-02-11T18:09:50.892700814+00:00 - INFO - example function executed in 2.062955802s
+18:09:51.854 [main] INFO  Injector - Read from MongoDB table executed in 52 ms
+18:09:52.298 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:09:52.369 [main] INFO  Injector - Read from MongoDB table executed in 57 ms
+18:09:52.464 [main] INFO  Injector - Read from MongoDB table executed in 65 ms
+18:09:52.478 [main] INFO  Handler_hello - hello function executed in 402 ms
+2025-02-11T18:09:52.803652336+00:00 - INFO - example function executed in 1.526728904s
+18:09:53.197 [main] INFO  Handler_hello - hello function executed in 645 ms
+18:09:53.412 [main] INFO  Handler_hello - hello function executed in 964 ms
+18:09:53.424 [main] INFO  Handler_hello - hello function executed in 778 ms
+2025-02-11T18:09:53.524647240+00:00 - INFO - example function executed in 1.901365629s
+2025-02-11T18:09:53.738478712+00:00 - INFO - example function executed in 2.230269487s
+2025-02-11T18:09:53.749821767+00:00 - INFO - example function executed in 2.054060028s
+18:09:55.485 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:09:55.791 [main] INFO  Handler_hello - hello function executed in 143 ms
+18:09:55.852 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:09:56.088 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+2025-02-11T18:09:56.124325864+00:00 - INFO - example function executed in 1.172508684s
+18:09:56.451 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:09:56.653 [main] INFO  Handler_hello - hello function executed in 643 ms
+2025-02-11T18:09:56.978331899+00:00 - INFO - example function executed in 1.697591083s
+18:09:57.063 [main] INFO  Handler_hello - hello function executed in 830 ms
+2025-02-11T18:09:57.391034546+00:00 - INFO - example function executed in 1.94311573s
+18:09:57.608 [main] INFO  Handler_hello - hello function executed in 1016 ms
+2025-02-11T18:09:57.940161314+00:00 - INFO - example function executed in 2.047152298s
+18:10:00.065 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:10:00.435 [main] INFO  Handler_hello - hello function executed in 204 ms
+18:10:00.504 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:10:00.593 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+2025-02-11T18:10:00.771688705+00:00 - INFO - example function executed in 1.255258564s
+18:10:00.878 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+18:10:00.935 [main] INFO  Handler_hello - hello function executed in 188 ms
+2025-02-11T18:10:01.259862165+00:00 - INFO - example function executed in 1.318739314s
+18:10:01.293 [main] INFO  Handler_hello - hello function executed in 275 ms
+18:10:01.430 [main] INFO  Handler_hello - hello function executed in 718 ms
+2025-02-11T18:10:01.622511975+00:00 - INFO - example function executed in 1.411639898s
+2025-02-11T18:10:01.755904116+00:00 - INFO - example function executed in 1.904065986s
+18:10:04.251 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:10:04.796 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+18:10:04.866 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+18:10:04.910 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+18:10:05.028 [main] INFO  Handler_hello - hello function executed in 591 ms
+18:10:05.188 [main] INFO  Handler_hello - hello function executed in 218 ms
+2025-02-11T18:10:05.356316377+00:00 - INFO - example function executed in 1.684637543s
+2025-02-11T18:10:05.513309392+00:00 - INFO - example function executed in 1.391268104s
+18:10:05.703 [main] INFO  Handler_hello - hello function executed in 673 ms
+18:10:05.788 [main] INFO  Handler_hello - hello function executed in 715 ms
+2025-02-11T18:10:06.029808262+00:00 - INFO - example function executed in 1.963328368s
+2025-02-11T18:10:06.116878083+00:00 - INFO - example function executed in 1.929907979s
+18:10:08.111 [main] INFO  Injector - Read from MongoDB table executed in 51 ms
+18:10:08.436 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:10:08.578 [main] INFO  Handler_hello - hello function executed in 251 ms
+18:10:08.649 [main] INFO  Injector - Read from MongoDB table executed in 48 ms
+18:10:08.833 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T18:10:08.905232146+00:00 - INFO - example function executed in 1.366936993s
+18:10:09.453 [main] INFO  Handler_hello - hello function executed in 647 ms
+18:10:09.497 [main] INFO  Handler_hello - hello function executed in 849 ms
+2025-02-11T18:10:09.779939581+00:00 - INFO - example function executed in 1.780534405s
+2025-02-11T18:10:09.821906699+00:00 - INFO - example function executed in 2.029095512s
+18:10:09.889 [main] INFO  Handler_hello - hello function executed in 911 ms
+2025-02-11T18:10:10.215311625+00:00 - INFO - example function executed in 2.033873351s
+18:10:12.002 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:10:12.664 [main] INFO  Handler_hello - hello function executed in 526 ms
+18:10:12.714 [main] INFO  Injector - Read from MongoDB table executed in 57 ms
+18:10:12.750 [main] INFO  Injector - Read from MongoDB table executed in 61 ms
+2025-02-11T18:10:12.999548261+00:00 - INFO - example function executed in 1.526753925s
+18:10:13.006 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:10:13.175 [main] INFO  Handler_hello - hello function executed in 290 ms
+18:10:13.417 [main] INFO  Handler_hello - hello function executed in 274 ms
+2025-02-11T18:10:13.502592298+00:00 - INFO - example function executed in 1.394667884s
+2025-02-11T18:10:13.747550709+00:00 - INFO - example function executed in 1.347154331s
+18:10:13.915 [main] INFO  Handler_hello - hello function executed in 988 ms
+2025-02-11T18:10:14.242775719+00:00 - INFO - example function executed in 2.096327963s
+18:10:16.120 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:10:16.370 [main] INFO  Handler_hello - hello function executed in 110 ms
+18:10:16.495 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+2025-02-11T18:10:16.709199245+00:00 - INFO - example function executed in 1.118847401s
+18:10:16.899 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+18:10:16.960 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:10:17.135 [main] INFO  Handler_hello - hello function executed in 469 ms
+2025-02-11T18:10:17.461066743+00:00 - INFO - example function executed in 1.513975293s
+18:10:17.516 [main] INFO  Handler_hello - hello function executed in 472 ms
+18:10:17.831 [main] INFO  Handler_hello - hello function executed in 729 ms
+2025-02-11T18:10:17.842936822+00:00 - INFO - example function executed in 1.526899958s
+2025-02-11T18:10:18.160055221+00:00 - INFO - example function executed in 1.774698156s
+18:10:20.120 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:10:20.414 [main] INFO  Injector - Read from MongoDB table executed in 51 ms
+18:10:20.716 [main] INFO  Handler_hello - hello function executed in 149 ms
+18:10:20.802 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+18:10:20.916 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T18:10:21.059777089+00:00 - INFO - example function executed in 1.257024472s
+18:10:21.065 [main] INFO  Handler_hello - hello function executed in 786 ms
+18:10:21.235 [main] INFO  Handler_hello - hello function executed in 181 ms
+2025-02-11T18:10:21.391885420+00:00 - INFO - example function executed in 1.846745502s
+2025-02-11T18:10:21.562724253+00:00 - INFO - example function executed in 1.1941415s
+18:10:22.013 [main] INFO  Handler_hello - hello function executed in 1072 ms
+2025-02-11T18:10:22.338885377+00:00 - INFO - example function executed in 2.160748308s
+18:10:24.146 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:10:24.442 [main] INFO  Handler_hello - hello function executed in 111 ms
+18:10:24.672 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+18:10:24.683 [main] INFO  Injector - Read from MongoDB table executed in 69 ms
+2025-02-11T18:10:24.782136531+00:00 - INFO - example function executed in 1.175592542s
+18:10:24.887 [main] INFO  Injector - Read from MongoDB table executed in 45 ms
+18:10:25.062 [main] INFO  Handler_hello - hello function executed in 160 ms
+2025-02-11T18:10:25.391197965+00:00 - INFO - example function executed in 1.486389521s
+18:10:25.570 [main] INFO  Handler_hello - hello function executed in 702 ms
+2025-02-11T18:10:25.898293664+00:00 - INFO - example function executed in 1.949908982s
+18:10:25.934 [main] INFO  Handler_hello - hello function executed in 901 ms
+2025-02-11T18:10:26.264014775+00:00 - INFO - example function executed in 2.107995184s
+18:10:27.475 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:10:27.972 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+18:10:28.098 [main] INFO  Injector - Read from MongoDB table executed in 54 ms
+18:10:28.147 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+18:10:28.381 [main] INFO  Handler_hello - hello function executed in 726 ms
+18:10:28.412 [main] INFO  Handler_hello - hello function executed in 148 ms
+18:10:28.513 [main] INFO  Handler_hello - hello function executed in 371 ms
+2025-02-11T18:10:28.708050382+00:00 - INFO - example function executed in 1.799431979s
+2025-02-11T18:10:28.740820466+00:00 - INFO - example function executed in 1.3755247s
+2025-02-11T18:10:28.840315129+00:00 - INFO - example function executed in 1.598288955s
+18:10:29.161 [main] INFO  Handler_hello - hello function executed in 867 ms
+2025-02-11T18:10:29.489624791+00:00 - INFO - example function executed in 2.048639731s
+18:10:32.763 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+18:10:32.846 [main] INFO  Injector - Read from MongoDB table executed in 66 ms
+18:10:33.011 [main] INFO  Injector - Read from MongoDB table executed in 71 ms
+18:10:33.184 [main] INFO  Injector - Read from MongoDB table executed in 49 ms
+18:10:33.819 [main] INFO  Handler_hello - hello function executed in 492 ms
+18:10:33.830 [main] INFO  Handler_hello - hello function executed in 825 ms
+18:10:33.994 [main] INFO  Handler_hello - hello function executed in 809 ms
+18:10:34.076 [main] INFO  Handler_hello - hello function executed in 1026 ms
+2025-02-11T18:10:34.150728307+00:00 - INFO - example function executed in 1.7541151s
+2025-02-11T18:10:34.157213442+00:00 - INFO - example function executed in 2.037732526s
+2025-02-11T18:10:34.320853847+00:00 - INFO - example function executed in 2.079600875s
+2025-02-11T18:10:34.401970062+00:00 - INFO - example function executed in 2.262725799s
+18:10:35.489 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:10:35.665 [main] INFO  Injector - Read from MongoDB table executed in 51 ms
+18:10:36.028 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:10:36.071 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:10:36.147 [main] INFO  Handler_hello - hello function executed in 314 ms
+18:10:36.258 [main] INFO  Handler_hello - hello function executed in 524 ms
+2025-02-11T18:10:36.473374339+00:00 - INFO - example function executed in 1.429574826s
+18:10:36.509 [main] INFO  Handler_hello - hello function executed in 296 ms
+2025-02-11T18:10:36.583454198+00:00 - INFO - example function executed in 1.650549052s
+2025-02-11T18:10:36.838709230+00:00 - INFO - example function executed in 1.437892579s
+18:10:36.868 [main] INFO  Handler_hello - hello function executed in 678 ms
+2025-02-11T18:10:37.193834493+00:00 - INFO - example function executed in 1.803854151s
+18:10:39.892 [main] INFO  Injector - Read from MongoDB table executed in 83 ms
+18:10:39.984 [main] INFO  Injector - Read from MongoDB table executed in 55 ms
+18:10:40.094 [main] INFO  Injector - Read from MongoDB table executed in 83 ms
+18:10:40.405 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:10:40.723 [main] INFO  Handler_hello - hello function executed in 443 ms
+18:10:40.797 [main] INFO  Handler_hello - hello function executed in 707 ms
+2025-02-11T18:10:41.049854299+00:00 - INFO - example function executed in 1.728719822s
+2025-02-11T18:10:41.124690245+00:00 - INFO - example function executed in 1.973600118s
+18:10:41.271 [main] INFO  Handler_hello - hello function executed in 1056 ms
+18:10:41.509 [main] INFO  Handler_hello - hello function executed in 956 ms
+2025-02-11T18:10:41.602852803+00:00 - INFO - example function executed in 2.397785366s
+2025-02-11T18:10:41.838639097+00:00 - INFO - example function executed in 2.215677696s
+18:10:44.437 [main] INFO  Injector - Read from MongoDB table executed in 48 ms
+18:10:44.891 [main] INFO  Handler_hello - hello function executed in 286 ms
+18:10:44.899 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+18:10:45.000 [main] INFO  Injector - Read from MongoDB table executed in 51 ms
+18:10:45.073 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+2025-02-11T18:10:45.225759498+00:00 - INFO - example function executed in 1.34508885s
+18:10:45.729 [main] INFO  Handler_hello - hello function executed in 568 ms
+18:10:45.902 [main] INFO  Handler_hello - hello function executed in 837 ms
+2025-02-11T18:10:46.055315930+00:00 - INFO - example function executed in 1.801467423s
+18:10:46.190 [main] INFO  Handler_hello - hello function executed in 940 ms
+2025-02-11T18:10:46.229625147+00:00 - INFO - example function executed in 2.020661374s
+2025-02-11T18:10:46.523060463+00:00 - INFO - example function executed in 2.159647478s
+18:10:48.437 [main] INFO  Injector - Read from MongoDB table executed in 52 ms
+18:10:48.757 [main] INFO  Injector - Read from MongoDB table executed in 64 ms
+18:10:48.888 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+18:10:49.207 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+18:10:49.291 [main] INFO  Handler_hello - hello function executed in 658 ms
+18:10:49.617 [main] INFO  Handler_hello - hello function executed in 671 ms
+2025-02-11T18:10:49.630903711+00:00 - INFO - example function executed in 1.764278513s
+18:10:49.903 [main] INFO  Handler_hello - hello function executed in 839 ms
+2025-02-11T18:10:49.943950598+00:00 - INFO - example function executed in 1.839396902s
+2025-02-11T18:10:50.231492101+00:00 - INFO - example function executed in 2.023592492s
+18:10:50.235 [main] INFO  Handler_hello - hello function executed in 880 ms
+2025-02-11T18:10:50.568201155+00:00 - INFO - example function executed in 1.98673525s
+18:10:52.032 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:10:52.376 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:10:52.708 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:10:53.015 [main] INFO  Handler_hello - hello function executed in 162 ms
+18:10:53.049 [main] INFO  Handler_hello - hello function executed in 874 ms
+18:10:53.293 [main] INFO  Handler_hello - hello function executed in 775 ms
+2025-02-11T18:10:53.339538621+00:00 - INFO - example function executed in 1.179495452s
+18:10:53.349 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T18:10:53.376081431+00:00 - INFO - example function executed in 1.904074679s
+2025-02-11T18:10:53.619034761+00:00 - INFO - example function executed in 1.777234093s
+18:10:54.397 [main] INFO  Handler_hello - hello function executed in 906 ms
+2025-02-11T18:10:54.725546426+00:00 - INFO - example function executed in 1.9043978s
+18:10:57.420 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:10:57.431 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:10:58.102 [main] INFO  Handler_hello - hello function executed in 526 ms
+18:10:58.116 [main] INFO  Handler_hello - hello function executed in 552 ms
+18:10:58.332 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:10:58.355 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T18:10:58.428245811+00:00 - INFO - example function executed in 1.532509566s
+2025-02-11T18:10:58.447532177+00:00 - INFO - example function executed in 1.55512888s
+18:10:58.731 [main] INFO  Handler_hello - hello function executed in 260 ms
+2025-02-11T18:10:59.056612911+00:00 - INFO - example function executed in 1.261490559s
+18:10:59.406 [main] INFO  Handler_hello - hello function executed in 912 ms
+2025-02-11T18:10:59.736297551+00:00 - INFO - example function executed in 1.922388123s
+18:11:01.648 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:11:01.845 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+18:11:02.184 [main] INFO  Handler_hello - hello function executed in 390 ms
+18:11:02.216 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+18:11:02.243 [main] INFO  Handler_hello - hello function executed in 241 ms
+18:11:02.501 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T18:11:02.511308196+00:00 - INFO - example function executed in 1.404520511s
+2025-02-11T18:11:02.569781001+00:00 - INFO - example function executed in 1.298700216s
+18:11:02.622 [main] INFO  Handler_hello - hello function executed in 262 ms
+18:11:02.802 [main] INFO  Handler_hello - hello function executed in 158 ms
+2025-02-11T18:11:02.948298312+00:00 - INFO - example function executed in 1.333924001s
+2025-02-11T18:11:03.128671642+00:00 - INFO - example function executed in 1.226954971s
+18:11:05.879 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+18:11:05.940 [main] INFO  Injector - Read from MongoDB table executed in 51 ms
+18:11:06.135 [main] INFO  Injector - Read from MongoDB table executed in 84 ms
+18:11:06.333 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:11:06.665 [main] INFO  Handler_hello - hello function executed in 195 ms
+18:11:06.836 [main] INFO  Handler_hello - hello function executed in 684 ms
+18:11:06.869 [main] INFO  Handler_hello - hello function executed in 794 ms
+18:11:06.984 [main] INFO  Handler_hello - hello function executed in 671 ms
+2025-02-11T18:11:06.994114228+00:00 - INFO - example function executed in 1.324807408s
+2025-02-11T18:11:07.162788291+00:00 - INFO - example function executed in 1.92798798s
+2025-02-11T18:11:07.195455010+00:00 - INFO - example function executed in 1.964575525s
+2025-02-11T18:11:07.311657811+00:00 - INFO - example function executed in 1.917996829s
+18:11:09.831 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:11:10.385 [main] INFO  Injector - Read from MongoDB table executed in 68 ms
+18:11:10.418 [main] INFO  Handler_hello - hello function executed in 396 ms
+18:11:10.513 [main] INFO  Injector - Read from MongoDB table executed in 52 ms
+18:11:10.544 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T18:11:10.758181628+00:00 - INFO - example function executed in 1.461614917s
+18:11:10.775 [main] INFO  Handler_hello - hello function executed in 237 ms
+2025-02-11T18:11:11.101506250+00:00 - INFO - example function executed in 1.392648556s
+18:11:11.472 [main] INFO  Handler_hello - hello function executed in 785 ms
+18:11:11.641 [main] INFO  Handler_hello - hello function executed in 989 ms
+2025-02-11T18:11:11.797607626+00:00 - INFO - example function executed in 2.008352021s
+2025-02-11T18:11:11.984075985+00:00 - INFO - example function executed in 2.164152326s
+18:11:14.904 [main] INFO  Injector - Read from MongoDB table executed in 68 ms
+18:11:14.975 [main] INFO  Injector - Read from MongoDB table executed in 49 ms
+18:11:15.074 [main] INFO  Injector - Read from MongoDB table executed in 67 ms
+18:11:15.395 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:11:15.545 [main] INFO  Handler_hello - hello function executed in 432 ms
+18:11:15.649 [main] INFO  Handler_hello - hello function executed in 460 ms
+18:11:15.766 [main] INFO  Handler_hello - hello function executed in 510 ms
+2025-02-11T18:11:15.871040870+00:00 - INFO - example function executed in 1.622966104s
+2025-02-11T18:11:15.974535104+00:00 - INFO - example function executed in 1.726765924s
+2025-02-11T18:11:16.092768510+00:00 - INFO - example function executed in 1.720500753s
+18:11:16.119 [main] INFO  Handler_hello - hello function executed in 583 ms
+2025-02-11T18:11:16.449384126+00:00 - INFO - example function executed in 1.772641362s
+18:11:18.804 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:11:19.566 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+18:11:19.587 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:11:19.627 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:11:19.667 [main] INFO  Handler_hello - hello function executed in 720 ms
+2025-02-11T18:11:20.022108335+00:00 - INFO - example function executed in 1.742848696s
+18:11:20.161 [main] INFO  Handler_hello - hello function executed in 404 ms
+2025-02-11T18:11:20.496874560+00:00 - INFO - example function executed in 1.577511678s
+18:11:20.698 [main] INFO  Handler_hello - hello function executed in 939 ms
+18:11:20.707 [main] INFO  Handler_hello - hello function executed in 933 ms
+2025-02-11T18:11:21.028506944+00:00 - INFO - example function executed in 2.165147216s
+2025-02-11T18:11:21.038974180+00:00 - INFO - example function executed in 1.997669608s
+18:11:23.938 [main] INFO  Injector - Read from MongoDB table executed in 52 ms
+18:11:24.109 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:11:24.462 [main] INFO  Handler_hello - hello function executed in 144 ms
+18:11:24.582 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+18:11:24.644 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:11:24.771 [main] INFO  Handler_hello - hello function executed in 658 ms
+2025-02-11T18:11:24.804005390+00:00 - INFO - example function executed in 1.253274788s
+2025-02-11T18:11:25.097321239+00:00 - INFO - example function executed in 1.707337877s
+18:11:25.220 [main] INFO  Handler_hello - hello function executed in 433 ms
+18:11:25.326 [main] INFO  Handler_hello - hello function executed in 590 ms
+2025-02-11T18:11:25.546291394+00:00 - INFO - example function executed in 1.502279371s
+2025-02-11T18:11:25.651786256+00:00 - INFO - example function executed in 1.746576s
+18:11:27.919 [main] INFO  Injector - Read from MongoDB table executed in 60 ms
+18:11:28.037 [main] INFO  Injector - Read from MongoDB table executed in 57 ms
+18:11:28.420 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:11:28.512 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:11:28.520 [main] INFO  Handler_hello - hello function executed in 435 ms
+18:11:28.742 [main] INFO  Handler_hello - hello function executed in 90 ms
+2025-02-11T18:11:28.847196686+00:00 - INFO - example function executed in 1.49541494s
+2025-02-11T18:11:29.072287311+00:00 - INFO - example function executed in 1.217904405s
+18:11:29.235 [main] INFO  Handler_hello - hello function executed in 669 ms
+18:11:29.264 [main] INFO  Handler_hello - hello function executed in 1075 ms
+2025-02-11T18:11:29.560715537+00:00 - INFO - example function executed in 1.815778377s
+2025-02-11T18:11:29.590380532+00:00 - INFO - example function executed in 2.151310982s
+18:11:31.960 [main] INFO  Injector - Read from MongoDB table executed in 67 ms
+18:11:32.275 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:11:32.386 [main] INFO  Injector - Read from MongoDB table executed in 54 ms
+18:11:32.542 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+18:11:32.549 [main] INFO  Handler_hello - hello function executed in 395 ms
+2025-02-11T18:11:32.875907255+00:00 - INFO - example function executed in 1.497388057s
+18:11:32.978 [main] INFO  Handler_hello - hello function executed in 297 ms
+18:11:33.250 [main] INFO  Handler_hello - hello function executed in 803 ms
+2025-02-11T18:11:33.308022003+00:00 - INFO - example function executed in 1.453321476s
+18:11:33.510 [main] INFO  Handler_hello - hello function executed in 950 ms
+2025-02-11T18:11:33.576865545+00:00 - INFO - example function executed in 1.978195739s
+2025-02-11T18:11:33.837642676+00:00 - INFO - example function executed in 2.167385082s
+18:11:34.928 [main] INFO  Injector - Read from MongoDB table executed in 60 ms
+18:11:34.963 [main] INFO  Injector - Read from MongoDB table executed in 69 ms
+18:11:35.253 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+18:11:35.724 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:11:36.002 [main] INFO  Handler_hello - hello function executed in 139 ms
+18:11:36.093 [main] INFO  Handler_hello - hello function executed in 1003 ms
+18:11:36.181 [main] INFO  Handler_hello - hello function executed in 1018 ms
+2025-02-11T18:11:36.330333739+00:00 - INFO - example function executed in 1.138754929s
+2025-02-11T18:11:36.422289701+00:00 - INFO - example function executed in 2.104074726s
+18:11:36.461 [main] INFO  Handler_hello - hello function executed in 1059 ms
+2025-02-11T18:11:36.508953856+00:00 - INFO - example function executed in 2.151508638s
+2025-02-11T18:11:36.787913532+00:00 - INFO - example function executed in 2.19909114s
+18:11:39.070 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+18:11:39.183 [main] INFO  Injector - Read from MongoDB table executed in 66 ms
+18:11:39.326 [main] INFO  Injector - Read from MongoDB table executed in 64 ms
+18:11:39.417 [main] INFO  Handler_hello - hello function executed in 114 ms
+18:11:39.549 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T18:11:39.749126456+00:00 - INFO - example function executed in 1.290575339s
+18:11:39.755 [main] INFO  Handler_hello - hello function executed in 322 ms
+18:11:39.813 [main] INFO  Handler_hello - hello function executed in 311 ms
+2025-02-11T18:11:40.082888964+00:00 - INFO - example function executed in 1.528300459s
+2025-02-11T18:11:40.139841005+00:00 - INFO - example function executed in 1.531755907s
+18:11:40.742 [main] INFO  Handler_hello - hello function executed in 1055 ms
+2025-02-11T18:11:41.071106402+00:00 - INFO - example function executed in 2.226517293s
+18:11:43.036 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:11:43.253 [main] INFO  Injector - Read from MongoDB table executed in 65 ms
+18:11:43.449 [main] INFO  Handler_hello - hello function executed in 263 ms
+18:11:43.631 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:11:43.705 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T18:11:43.775088904+00:00 - INFO - example function executed in 1.273073915s
+18:11:43.877 [main] INFO  Handler_hello - hello function executed in 475 ms
+2025-02-11T18:11:44.203447996+00:00 - INFO - example function executed in 1.549449552s
+18:11:44.233 [main] INFO  Handler_hello - hello function executed in 463 ms
+18:11:44.281 [main] INFO  Handler_hello - hello function executed in 435 ms
+2025-02-11T18:11:44.557746827+00:00 - INFO - example function executed in 1.53913828s
+2025-02-11T18:11:44.608758157+00:00 - INFO - example function executed in 1.523929385s
+18:11:47.180 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:11:47.352 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:11:47.808 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:11:47.837 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:11:48.074 [main] INFO  Handler_hello - hello function executed in 554 ms
+18:11:48.125 [main] INFO  Handler_hello - hello function executed in 769 ms
+2025-02-11T18:11:48.399834319+00:00 - INFO - example function executed in 1.631981621s
+2025-02-11T18:11:48.451378765+00:00 - INFO - example function executed in 1.850413584s
+18:11:48.523 [main] INFO  Handler_hello - hello function executed in 542 ms
+18:11:48.640 [main] INFO  Handler_hello - hello function executed in 681 ms
+2025-02-11T18:11:48.849022384+00:00 - INFO - example function executed in 1.692526068s
+2025-02-11T18:11:48.970254858+00:00 - INFO - example function executed in 1.728669322s
+18:11:51.012 [main] INFO  Injector - Read from MongoDB table executed in 51 ms
+18:11:51.130 [main] INFO  Injector - Read from MongoDB table executed in 67 ms
+18:11:51.351 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+18:11:51.443 [main] INFO  Handler_hello - hello function executed in 95 ms
+18:11:51.638 [main] INFO  Handler_hello - hello function executed in 132 ms
+18:11:51.687 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T18:11:51.779807177+00:00 - INFO - example function executed in 1.276332449s
+2025-02-11T18:11:51.964341501+00:00 - INFO - example function executed in 1.310196753s
+18:11:52.102 [main] INFO  Handler_hello - hello function executed in 886 ms
+2025-02-11T18:11:52.432778479+00:00 - INFO - example function executed in 2.000461519s
+18:11:52.557 [main] INFO  Handler_hello - hello function executed in 730 ms
+2025-02-11T18:11:52.885938003+00:00 - INFO - example function executed in 1.813564731s
+18:11:55.657 [main] INFO  Injector - Read from MongoDB table executed in 86 ms
+18:11:55.864 [main] INFO  Injector - Read from MongoDB table executed in 71 ms
+18:11:55.896 [main] INFO  Injector - Read from MongoDB table executed in 63 ms
+18:11:56.190 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+18:11:56.459 [main] INFO  Handler_hello - hello function executed in 413 ms
+18:11:56.584 [main] INFO  Handler_hello - hello function executed in 249 ms
+2025-02-11T18:11:56.787631688+00:00 - INFO - example function executed in 1.714163408s
+18:11:56.804 [main] INFO  Handler_hello - hello function executed in 869 ms
+2025-02-11T18:11:56.916397549+00:00 - INFO - example function executed in 1.443357941s
+18:11:57.055 [main] INFO  Handler_hello - hello function executed in 935 ms
+2025-02-11T18:11:57.136445293+00:00 - INFO - example function executed in 2.162202488s
+2025-02-11T18:11:57.394583129+00:00 - INFO - example function executed in 2.180792361s
+18:11:59.523 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:12:00.122 [main] INFO  Injector - Read from MongoDB table executed in 85 ms
+18:12:00.232 [main] INFO  Injector - Read from MongoDB table executed in 59 ms
+18:12:00.240 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+18:12:00.739 [main] INFO  Handler_hello - hello function executed in 1037 ms
+18:12:00.818 [main] INFO  Handler_hello - hello function executed in 442 ms
+18:12:01.025 [main] INFO  Handler_hello - hello function executed in 727 ms
+2025-02-11T18:12:01.066332562+00:00 - INFO - example function executed in 2.074743114s
+2025-02-11T18:12:01.143868734+00:00 - INFO - example function executed in 1.571769253s
+18:12:01.341 [main] INFO  Handler_hello - hello function executed in 924 ms
+2025-02-11T18:12:01.352813394+00:00 - INFO - example function executed in 1.898840418s
+2025-02-11T18:12:01.668763391+00:00 - INFO - example function executed in 2.133568341s
+18:12:04.190 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:12:04.245 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:12:04.864 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:12:04.881 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:12:05.054 [main] INFO  Handler_hello - hello function executed in 707 ms
+18:12:05.134 [main] INFO  Handler_hello - hello function executed in 721 ms
+2025-02-11T18:12:05.380749367+00:00 - INFO - example function executed in 1.732186129s
+2025-02-11T18:12:05.461236005+00:00 - INFO - example function executed in 1.739703939s
+18:12:05.604 [main] INFO  Handler_hello - hello function executed in 586 ms
+18:12:05.804 [main] INFO  Handler_hello - hello function executed in 800 ms
+2025-02-11T18:12:05.937573763+00:00 - INFO - example function executed in 1.642183476s
+2025-02-11T18:12:06.136802333+00:00 - INFO - example function executed in 1.84129714s
+18:12:08.298 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:12:08.317 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:12:08.868 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:12:08.996 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:12:09.016 [main] INFO  Handler_hello - hello function executed in 534 ms
+18:12:09.291 [main] INFO  Handler_hello - hello function executed in 843 ms
+2025-02-11T18:12:09.342746048+00:00 - INFO - example function executed in 1.586663625s
+18:12:09.345 [main] INFO  Handler_hello - hello function executed in 200 ms
+18:12:09.409 [main] INFO  Handler_hello - hello function executed in 399 ms
+2025-02-11T18:12:09.619417292+00:00 - INFO - example function executed in 1.869374074s
+2025-02-11T18:12:09.674355739+00:00 - INFO - example function executed in 1.218108395s
+2025-02-11T18:12:09.735168491+00:00 - INFO - example function executed in 1.414899072s
+18:12:12.579 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+18:12:12.780 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+18:12:13.085 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+18:12:13.120 [main] INFO  Handler_hello - hello function executed in 353 ms
+18:12:13.166 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:12:13.412 [main] INFO  Handler_hello - hello function executed in 437 ms
+2025-02-11T18:12:13.446718361+00:00 - INFO - example function executed in 1.427160827s
+2025-02-11T18:12:13.739068446+00:00 - INFO - example function executed in 1.596431582s
+18:12:13.930 [main] INFO  Handler_hello - hello function executed in 622 ms
+18:12:14.197 [main] INFO  Handler_hello - hello function executed in 965 ms
+2025-02-11T18:12:14.259842980+00:00 - INFO - example function executed in 1.756040876s
+2025-02-11T18:12:14.521764324+00:00 - INFO - example function executed in 2.117390574s
+18:12:17.330 [main] INFO  Injector - Read from MongoDB table executed in 62 ms
+18:12:17.626 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+18:12:17.892 [main] INFO  Injector - Read from MongoDB table executed in 48 ms
+18:12:17.936 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+18:12:18.547 [main] INFO  Handler_hello - hello function executed in 989 ms
+18:12:18.769 [main] INFO  Handler_hello - hello function executed in 727 ms
+2025-02-11T18:12:18.876141893+00:00 - INFO - example function executed in 2.130771598s
+18:12:18.905 [main] INFO  Handler_hello - hello function executed in 1055 ms
+2025-02-11T18:12:19.097903513+00:00 - INFO - example function executed in 1.974588074s
+18:12:19.177 [main] INFO  Handler_hello - hello function executed in 1080 ms
+2025-02-11T18:12:19.232909949+00:00 - INFO - example function executed in 2.284131993s
+2025-02-11T18:12:19.508479388+00:00 - INFO - example function executed in 2.354564733s
+18:12:21.903 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:12:22.014 [main] INFO  Injector - Read from MongoDB table executed in 69 ms
+18:12:22.255 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:12:22.302 [main] INFO  Injector - Read from MongoDB table executed in 54 ms
+18:12:22.355 [main] INFO  Handler_hello - hello function executed in 133 ms
+2025-02-11T18:12:22.681962833+00:00 - INFO - example function executed in 1.384903702s
+18:12:22.709 [main] INFO  Handler_hello - hello function executed in 304 ms
+2025-02-11T18:12:23.036354172+00:00 - INFO - example function executed in 1.519791385s
+18:12:23.101 [main] INFO  Handler_hello - hello function executed in 966 ms
+2025-02-11T18:12:23.428729396+00:00 - INFO - example function executed in 2.250016391s
+18:12:23.516 [main] INFO  Handler_hello - hello function executed in 1050 ms
+2025-02-11T18:12:23.844261204+00:00 - INFO - example function executed in 2.455245422s
+18:12:26.444 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+18:12:26.492 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:12:26.614 [main] INFO  Injector - Read from MongoDB table executed in 56 ms
+18:12:26.935 [main] INFO  Handler_hello - hello function executed in 252 ms
+2025-02-11T18:12:27.262296874+00:00 - INFO - example function executed in 1.367495193s
+18:12:27.280 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:12:27.495 [main] INFO  Handler_hello - hello function executed in 865 ms
+18:12:27.685 [main] INFO  Handler_hello - hello function executed in 908 ms
+2025-02-11T18:12:27.830194614+00:00 - INFO - example function executed in 1.99618797s
+18:12:27.975 [main] INFO  Handler_hello - hello function executed in 543 ms
+2025-02-11T18:12:28.014124559+00:00 - INFO - example function executed in 2.064220641s
+2025-02-11T18:12:28.308127356+00:00 - INFO - example function executed in 1.603602722s
+18:12:30.585 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+18:12:30.821 [main] INFO  Injector - Read from MongoDB table executed in 57 ms
+18:12:31.190 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:12:31.282 [main] INFO  Handler_hello - hello function executed in 271 ms
+18:12:31.333 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+2025-02-11T18:12:31.612966735+00:00 - INFO - example function executed in 1.482556841s
+18:12:31.699 [main] INFO  Handler_hello - hello function executed in 201 ms
+18:12:31.787 [main] INFO  Handler_hello - hello function executed in 1006 ms
+18:12:31.908 [main] INFO  Handler_hello - hello function executed in 562 ms
+2025-02-11T18:12:32.036166827+00:00 - INFO - example function executed in 1.413771774s
+2025-02-11T18:12:32.115289044+00:00 - INFO - example function executed in 2.092877869s
+2025-02-11T18:12:32.246281109+00:00 - INFO - example function executed in 1.775301208s
+18:12:34.743 [main] INFO  Injector - Read from MongoDB table executed in 77 ms
+18:12:34.854 [main] INFO  Injector - Read from MongoDB table executed in 75 ms
+18:12:35.045 [main] INFO  Injector - Read from MongoDB table executed in 57 ms
+18:12:35.148 [main] INFO  Injector - Read from MongoDB table executed in 52 ms
+18:12:35.334 [main] INFO  Handler_hello - hello function executed in 269 ms
+18:12:35.346 [main] INFO  Handler_hello - hello function executed in 121 ms
+2025-02-11T18:12:35.661789750+00:00 - INFO - example function executed in 1.545314965s
+2025-02-11T18:12:35.677325041+00:00 - INFO - example function executed in 1.419505553s
+18:12:35.891 [main] INFO  Handler_hello - hello function executed in 590 ms
+18:12:36.004 [main] INFO  Handler_hello - hello function executed in 962 ms
+2025-02-11T18:12:36.222191481+00:00 - INFO - example function executed in 1.854744225s
+2025-02-11T18:12:36.329874673+00:00 - INFO - example function executed in 2.279027608s
+18:12:38.519 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+18:12:38.560 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:12:38.852 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:12:39.237 [main] INFO  Handler_hello - hello function executed in 525 ms
+18:12:39.376 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:12:39.477 [main] INFO  Handler_hello - hello function executed in 729 ms
+2025-02-11T18:12:39.563239432+00:00 - INFO - example function executed in 1.632539792s
+18:12:39.769 [main] INFO  Handler_hello - hello function executed in 254 ms
+2025-02-11T18:12:39.806839534+00:00 - INFO - example function executed in 1.840230097s
+18:12:39.827 [main] INFO  Handler_hello - hello function executed in 819 ms
+2025-02-11T18:12:40.104219611+00:00 - INFO - example function executed in 1.267156538s
+2025-02-11T18:12:40.154130558+00:00 - INFO - example function executed in 1.942457914s
+18:12:43.150 [main] INFO  Injector - Read from MongoDB table executed in 82 ms
+18:12:43.327 [main] INFO  Injector - Read from MongoDB table executed in 66 ms
+18:12:43.367 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+18:12:43.648 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:12:43.950 [main] INFO  Handler_hello - hello function executed in 408 ms
+2025-02-11T18:12:44.276092724+00:00 - INFO - example function executed in 1.65517766s
+18:12:44.325 [main] INFO  Handler_hello - hello function executed in 980 ms
+18:12:44.371 [main] INFO  Handler_hello - hello function executed in 584 ms
+18:12:44.501 [main] INFO  Handler_hello - hello function executed in 937 ms
+2025-02-11T18:12:44.652138150+00:00 - INFO - example function executed in 2.151465619s
+2025-02-11T18:12:44.699145287+00:00 - INFO - example function executed in 1.778564791s
+2025-02-11T18:12:44.828245137+00:00 - INFO - example function executed in 2.178101349s
+18:12:47.641 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:12:47.765 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+18:12:48.191 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:12:48.242 [main] INFO  Handler_hello - hello function executed in 315 ms
+18:12:48.480 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+2025-02-11T18:12:48.567992235+00:00 - INFO - example function executed in 1.346801749s
+18:12:48.595 [main] INFO  Handler_hello - hello function executed in 804 ms
+18:12:48.799 [main] INFO  Handler_hello - hello function executed in 179 ms
+2025-02-11T18:12:48.921675029+00:00 - INFO - example function executed in 1.832542041s
+2025-02-11T18:12:49.128467022+00:00 - INFO - example function executed in 1.189304211s
+18:12:49.224 [main] INFO  Handler_hello - hello function executed in 891 ms
+2025-02-11T18:12:49.562217113+00:00 - INFO - example function executed in 1.936213869s
+18:12:52.180 [main] INFO  Injector - Read from MongoDB table executed in 70 ms
+18:12:52.307 [main] INFO  Injector - Read from MongoDB table executed in 96 ms
+18:12:52.529 [main] INFO  Handler_hello - hello function executed in 149 ms
+18:12:52.645 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:12:52.702 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+18:12:52.728 [main] INFO  Handler_hello - hello function executed in 190 ms
+2025-02-11T18:12:52.859930913+00:00 - INFO - example function executed in 1.315622932s
+2025-02-11T18:12:53.055391865+00:00 - INFO - example function executed in 1.487375299s
+18:12:53.190 [main] INFO  Handler_hello - hello function executed in 398 ms
+2025-02-11T18:12:53.517961767+00:00 - INFO - example function executed in 1.59761178s
+18:12:53.897 [main] INFO  Handler_hello - hello function executed in 1033 ms
+2025-02-11T18:12:54.227337469+00:00 - INFO - example function executed in 2.270473858s
+18:12:57.053 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+18:12:57.404 [main] INFO  Handler_hello - hello function executed in 157 ms
+18:12:57.412 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+18:12:57.523 [main] INFO  Injector - Read from MongoDB table executed in 61 ms
+18:12:57.634 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+2025-02-11T18:12:57.735616276+00:00 - INFO - example function executed in 1.246372587s
+18:12:57.855 [main] INFO  Handler_hello - hello function executed in 144 ms
+18:12:58.067 [main] INFO  Handler_hello - hello function executed in 292 ms
+18:12:58.148 [main] INFO  Handler_hello - hello function executed in 591 ms
+2025-02-11T18:12:58.181715586+00:00 - INFO - example function executed in 1.34729761s
+2025-02-11T18:12:58.393856474+00:00 - INFO - example function executed in 1.415119322s
+2025-02-11T18:12:58.475382018+00:00 - INFO - example function executed in 1.752674268s
+18:13:00.731 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:13:01.215 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+18:13:01.443 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+18:13:01.453 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+18:13:01.861 [main] INFO  Handler_hello - hello function executed in 943 ms
+2025-02-11T18:13:02.188226240+00:00 - INFO - example function executed in 1.987687022s
+18:13:02.195 [main] INFO  Handler_hello - hello function executed in 596 ms
+18:13:02.263 [main] INFO  Handler_hello - hello function executed in 857 ms
+2025-02-11T18:13:02.522242931+00:00 - INFO - example function executed in 1.841226575s
+2025-02-11T18:13:02.590472311+00:00 - INFO - example function executed in 2.038091059s
+18:13:02.619 [main] INFO  Handler_hello - hello function executed in 984 ms
+2025-02-11T18:13:02.944625279+00:00 - INFO - example function executed in 2.205875251s
+18:13:04.904 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+18:13:04.964 [main] INFO  Injector - Read from MongoDB table executed in 58 ms
+18:13:05.298 [main] INFO  Handler_hello - hello function executed in 156 ms
+18:13:05.462 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:13:05.546 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T18:13:05.625861284+00:00 - INFO - example function executed in 1.268278411s
+18:13:05.842 [main] INFO  Handler_hello - hello function executed in 153 ms
+18:13:06.159 [main] INFO  Handler_hello - hello function executed in 1071 ms
+2025-02-11T18:13:06.170472481+00:00 - INFO - example function executed in 1.256745585s
+18:13:06.443 [main] INFO  Handler_hello - hello function executed in 824 ms
+2025-02-11T18:13:06.485862048+00:00 - INFO - example function executed in 2.125599608s
+2025-02-11T18:13:06.768865166+00:00 - INFO - example function executed in 1.953281682s
+18:13:08.900 [main] INFO  Injector - Read from MongoDB table executed in 51 ms
+18:13:08.940 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+18:13:09.386 [main] INFO  Injector - Read from MongoDB table executed in 45 ms
+18:13:09.464 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:13:09.732 [main] INFO  Handler_hello - hello function executed in 592 ms
+18:13:09.856 [main] INFO  Handler_hello - hello function executed in 774 ms
+18:13:10.003 [main] INFO  Handler_hello - hello function executed in 394 ms
+2025-02-11T18:13:10.059771632+00:00 - INFO - example function executed in 1.711311737s
+2025-02-11T18:13:10.183041392+00:00 - INFO - example function executed in 1.852729979s
+2025-02-11T18:13:10.328473823+00:00 - INFO - example function executed in 1.604616527s
+18:13:10.430 [main] INFO  Handler_hello - hello function executed in 895 ms
+2025-02-11T18:13:10.759252062+00:00 - INFO - example function executed in 2.030216584s
+18:13:13.251 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+18:13:13.534 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+18:13:13.559 [main] INFO  Injector - Read from MongoDB table executed in 62 ms
+18:13:13.654 [main] INFO  Injector - Read from MongoDB table executed in 63 ms
+18:13:13.834 [main] INFO  Handler_hello - hello function executed in 348 ms
+18:13:13.837 [main] INFO  Handler_hello - hello function executed in 142 ms
+2025-02-11T18:13:14.164924530+00:00 - INFO - example function executed in 1.552374908s
+2025-02-11T18:13:14.167811798+00:00 - INFO - example function executed in 1.393191025s
+18:13:14.322 [main] INFO  Handler_hello - hello function executed in 580 ms
+18:13:14.405 [main] INFO  Handler_hello - hello function executed in 585 ms
+2025-02-11T18:13:14.649719001+00:00 - INFO - example function executed in 1.824990682s
+2025-02-11T18:13:14.731793658+00:00 - INFO - example function executed in 1.960874119s
+18:13:17.113 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+18:13:17.222 [main] INFO  Injector - Read from MongoDB table executed in 51 ms
+18:13:17.711 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:13:17.786 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:13:18.173 [main] INFO  Handler_hello - hello function executed in 765 ms
+18:13:18.265 [main] INFO  Handler_hello - hello function executed in 339 ms
+18:13:18.369 [main] INFO  Handler_hello - hello function executed in 1049 ms
+2025-02-11T18:13:18.499971660+00:00 - INFO - example function executed in 1.871928286s
+2025-02-11T18:13:18.593051496+00:00 - INFO - example function executed in 1.389368926s
+18:13:18.634 [main] INFO  Handler_hello - hello function executed in 782 ms
+2025-02-11T18:13:18.696306156+00:00 - INFO - example function executed in 2.150244487s
+2025-02-11T18:13:18.960904136+00:00 - INFO - example function executed in 1.918902552s
+18:13:20.825 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:13:21.540 [main] INFO  Handler_hello - hello function executed in 575 ms
+18:13:21.592 [main] INFO  Injector - Read from MongoDB table executed in 66 ms
+18:13:21.637 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:13:21.757 [main] INFO  Injector - Read from MongoDB table executed in 52 ms
+2025-02-11T18:13:21.870896424+00:00 - INFO - example function executed in 1.569213237s
+18:13:22.165 [main] INFO  Handler_hello - hello function executed in 226 ms
+18:13:22.324 [main] INFO  Handler_hello - hello function executed in 515 ms
+18:13:22.448 [main] INFO  Handler_hello - hello function executed in 672 ms
+2025-02-11T18:13:22.496234146+00:00 - INFO - example function executed in 1.395247105s
+2025-02-11T18:13:22.649617783+00:00 - INFO - example function executed in 1.674897187s
+2025-02-11T18:13:22.775325784+00:00 - INFO - example function executed in 1.810700131s
+18:13:24.964 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:13:25.295 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:13:25.469 [main] INFO  Handler_hello - hello function executed in 360 ms
+18:13:25.791 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+2025-02-11T18:13:25.796912946+00:00 - INFO - example function executed in 1.373160962s
+18:13:25.863 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:13:26.405 [main] INFO  Handler_hello - hello function executed in 923 ms
+18:13:26.711 [main] INFO  Handler_hello - hello function executed in 705 ms
+2025-02-11T18:13:26.731278350+00:00 - INFO - example function executed in 1.973755101s
+18:13:26.935 [main] INFO  Handler_hello - hello function executed in 1002 ms
+2025-02-11T18:13:27.040431359+00:00 - INFO - example function executed in 1.713134875s
+2025-02-11T18:13:27.260171941+00:00 - INFO - example function executed in 2.030435169s
+18:13:30.236 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+18:13:30.603 [main] INFO  Injector - Read from MongoDB table executed in 61 ms
+18:13:30.759 [main] INFO  Injector - Read from MongoDB table executed in 67 ms
+18:13:30.797 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+18:13:30.910 [main] INFO  Handler_hello - hello function executed in 413 ms
+2025-02-11T18:13:31.241329147+00:00 - INFO - example function executed in 1.628865484s
+18:13:31.498 [main] INFO  Handler_hello - hello function executed in 534 ms
+18:13:31.535 [main] INFO  Handler_hello - hello function executed in 774 ms
+2025-02-11T18:13:31.828650808+00:00 - INFO - example function executed in 1.807243478s
+2025-02-11T18:13:31.862785440+00:00 - INFO - example function executed in 2.025345573s
+18:13:31.878 [main] INFO  Handler_hello - hello function executed in 934 ms
+2025-02-11T18:13:32.205920976+00:00 - INFO - example function executed in 2.215187209s
+18:13:34.403 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+18:13:34.570 [main] INFO  Injector - Read from MongoDB table executed in 49 ms
+18:13:34.656 [main] INFO  Injector - Read from MongoDB table executed in 63 ms
+18:13:34.845 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+18:13:35.125 [main] INFO  Handler_hello - hello function executed in 275 ms
+2025-02-11T18:13:35.452280902+00:00 - INFO - example function executed in 1.561488448s
+18:13:35.480 [main] INFO  Handler_hello - hello function executed in 490 ms
+18:13:35.522 [main] INFO  Handler_hello - hello function executed in 904 ms
+2025-02-11T18:13:35.809391929+00:00 - INFO - example function executed in 1.738699802s
+18:13:35.836 [main] INFO  Handler_hello - hello function executed in 1069 ms
+2025-02-11T18:13:35.850156538+00:00 - INFO - example function executed in 2.08078503s
+2025-02-11T18:13:36.162889431+00:00 - INFO - example function executed in 2.351782283s
+18:13:38.024 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:13:38.366 [main] INFO  Handler_hello - hello function executed in 202 ms
+2025-02-11T18:13:38.695143589+00:00 - INFO - example function executed in 1.200808558s
+18:13:38.728 [main] INFO  Injector - Read from MongoDB table executed in 52 ms
+18:13:38.823 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+18:13:38.902 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+18:13:39.120 [main] INFO  Handler_hello - hello function executed in 222 ms
+2025-02-11T18:13:39.446617747+00:00 - INFO - example function executed in 1.336167907s
+18:13:39.844 [main] INFO  Handler_hello - hello function executed in 854 ms
+18:13:40.152 [main] INFO  Handler_hello - hello function executed in 1074 ms
+2025-02-11T18:13:40.171587124+00:00 - INFO - example function executed in 2.01884179s
+2025-02-11T18:13:40.486205697+00:00 - INFO - example function executed in 2.184003791s
+18:13:43.091 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+18:13:43.345 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:13:43.398 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:13:43.938 [main] INFO  Handler_hello - hello function executed in 673 ms
+18:13:44.044 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:13:44.045 [main] INFO  Handler_hello - hello function executed in 496 ms
+2025-02-11T18:13:44.264715728+00:00 - INFO - example function executed in 1.736423974s
+2025-02-11T18:13:44.371790774+00:00 - INFO - example function executed in 1.600341283s
+18:13:44.573 [main] INFO  Handler_hello - hello function executed in 1065 ms
+18:13:44.868 [main] INFO  Handler_hello - hello function executed in 686 ms
+2025-02-11T18:13:44.900587880+00:00 - INFO - example function executed in 2.171547959s
+2025-02-11T18:13:45.197212150+00:00 - INFO - example function executed in 1.692627535s
+18:13:47.255 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:13:47.668 [main] INFO  Handler_hello - hello function executed in 261 ms
+18:13:47.702 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+18:13:48.011 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+2025-02-11T18:13:48.014430242+00:00 - INFO - example function executed in 1.30494208s
+18:13:48.018 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:13:48.094 [main] INFO  Handler_hello - hello function executed in 231 ms
+18:13:48.255 [main] INFO  Handler_hello - hello function executed in 89 ms
+2025-02-11T18:13:48.422197679+00:00 - INFO - example function executed in 1.355881604s
+18:13:48.536 [main] INFO  Handler_hello - hello function executed in 380 ms
+2025-02-11T18:13:48.581563454+00:00 - INFO - example function executed in 1.180612106s
+2025-02-11T18:13:48.869865100+00:00 - INFO - example function executed in 1.4645601s
+18:13:51.424 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:13:51.605 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:13:52.063 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:13:52.182 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:13:52.557 [main] INFO  Handler_hello - hello function executed in 231 ms
+18:13:52.625 [main] INFO  Handler_hello - hello function executed in 1043 ms
+18:13:52.717 [main] INFO  Handler_hello - hello function executed in 942 ms
+2025-02-11T18:13:52.885962729+00:00 - INFO - example function executed in 1.311559873s
+2025-02-11T18:13:52.951614304+00:00 - INFO - example function executed in 2.050294201s
+18:13:52.979 [main] INFO  Handler_hello - hello function executed in 774 ms
+2025-02-11T18:13:53.043951340+00:00 - INFO - example function executed in 2.007166823s
+2025-02-11T18:13:53.304072466+00:00 - INFO - example function executed in 1.870623226s
+18:13:55.386 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+18:13:55.842 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:13:55.896 [main] INFO  Injector - Read from MongoDB table executed in 51 ms
+18:13:55.925 [main] INFO  Handler_hello - hello function executed in 366 ms
+18:13:56.012 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+2025-02-11T18:13:56.252435634+00:00 - INFO - example function executed in 1.434714021s
+18:13:56.522 [main] INFO  Handler_hello - hello function executed in 361 ms
+18:13:56.551 [main] INFO  Handler_hello - hello function executed in 478 ms
+18:13:56.646 [main] INFO  Handler_hello - hello function executed in 622 ms
+2025-02-11T18:13:56.851153290+00:00 - INFO - example function executed in 1.536464706s
+2025-02-11T18:13:56.876938356+00:00 - INFO - example function executed in 1.728031751s
+2025-02-11T18:13:56.973033400+00:00 - INFO - example function executed in 1.826553414s
+18:13:58.429 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:13:58.794 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:13:58.909 [main] INFO  Handler_hello - hello function executed in 334 ms
+18:13:59.179 [main] INFO  Handler_hello - hello function executed in 241 ms
+2025-02-11T18:13:59.234260772+00:00 - INFO - example function executed in 1.337765505s
+2025-02-11T18:13:59.508496063+00:00 - INFO - example function executed in 1.251005599s
+18:14:01.432 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:14:01.534 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:14:02.247 [main] INFO  Handler_hello - hello function executed in 566 ms
+18:14:02.537 [main] INFO  Handler_hello - hello function executed in 958 ms
+2025-02-11T18:14:02.576593535+00:00 - INFO - example function executed in 1.591493923s
+2025-02-11T18:14:02.863705847+00:00 - INFO - example function executed in 1.980413796s
+18:14:05.739 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:14:05.846 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:14:06.302 [main] INFO  Handler_hello - hello function executed in 418 ms
+2025-02-11T18:14:06.629936655+00:00 - INFO - example function executed in 1.421071314s
+18:14:06.991 [main] INFO  Handler_hello - hello function executed in 1004 ms
+2025-02-11T18:14:07.316955429+00:00 - INFO - example function executed in 2.016975103s
+18:14:09.969 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:14:10.061 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:14:10.482 [main] INFO  Handler_hello - hello function executed in 280 ms
+2025-02-11T18:14:10.814192134+00:00 - INFO - example function executed in 1.308602508s
+18:14:10.918 [main] INFO  Handler_hello - hello function executed in 809 ms
+2025-02-11T18:14:11.246172746+00:00 - INFO - example function executed in 1.816319168s
+18:14:13.543 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:14:14.135 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:14:14.355 [main] INFO  Handler_hello - hello function executed in 675 ms
+2025-02-11T18:14:14.681432706+00:00 - INFO - example function executed in 1.66504368s
+18:14:15.119 [main] INFO  Handler_hello - hello function executed in 846 ms
+2025-02-11T18:14:15.448321712+00:00 - INFO - example function executed in 1.843869146s
+18:14:17.881 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:14:18.305 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:14:18.498 [main] INFO  Handler_hello - hello function executed in 474 ms
+2025-02-11T18:14:18.825056859+00:00 - INFO - example function executed in 1.472810332s
+18:14:19.322 [main] INFO  Handler_hello - hello function executed in 878 ms
+2025-02-11T18:14:19.659933349+00:00 - INFO - example function executed in 1.883895915s
+18:14:21.641 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+18:14:21.770 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:14:22.180 [main] INFO  Handler_hello - hello function executed in 268 ms
+18:14:22.454 [main] INFO  Handler_hello - hello function executed in 666 ms
+2025-02-11T18:14:22.516312110+00:00 - INFO - example function executed in 1.277903624s
+2025-02-11T18:14:22.782167085+00:00 - INFO - example function executed in 1.728953502s
+18:14:24.556 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:14:24.816 [main] INFO  Handler_hello - hello function executed in 117 ms
+2025-02-11T18:14:25.143138731+00:00 - INFO - example function executed in 1.114746999s
+18:14:25.208 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:14:26.367 [main] INFO  Handler_hello - hello function executed in 1018 ms
+2025-02-11T18:14:26.697132066+00:00 - INFO - example function executed in 2.019729363s
+18:14:28.588 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:14:28.976 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:14:29.664 [main] INFO  Handler_hello - hello function executed in 934 ms
+18:14:29.930 [main] INFO  Handler_hello - hello function executed in 806 ms
+2025-02-11T18:14:29.990866675+00:00 - INFO - example function executed in 1.930823846s
+2025-02-11T18:14:30.259656459+00:00 - INFO - example function executed in 1.825198606s
+18:14:33.141 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+18:14:33.558 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:14:34.232 [main] INFO  Handler_hello - hello function executed in 933 ms
+18:14:34.409 [main] INFO  Handler_hello - hello function executed in 710 ms
+2025-02-11T18:14:34.558999031+00:00 - INFO - example function executed in 1.972794596s
+2025-02-11T18:14:34.738504988+00:00 - INFO - example function executed in 1.746751138s
+18:14:36.885 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:14:36.949 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:14:37.539 [main] INFO  Handler_hello - hello function executed in 445 ms
+18:14:37.858 [main] INFO  Handler_hello - hello function executed in 835 ms
+2025-02-11T18:14:37.870452872+00:00 - INFO - example function executed in 1.462577101s
+2025-02-11T18:14:38.184824456+00:00 - INFO - example function executed in 1.834615162s
+18:14:41.475 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:14:41.608 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:14:42.074 [main] INFO  Handler_hello - hello function executed in 456 ms
+2025-02-11T18:14:42.401707561+00:00 - INFO - example function executed in 1.462743774s
+18:14:42.573 [main] INFO  Handler_hello - hello function executed in 827 ms
+2025-02-11T18:14:42.903577003+00:00 - INFO - example function executed in 1.837955846s
+18:14:44.833 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:14:44.852 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+18:14:45.219 [main] INFO  Handler_hello - hello function executed in 226 ms
+18:14:45.362 [main] INFO  Handler_hello - hello function executed in 379 ms
+2025-02-11T18:14:45.545143204+00:00 - INFO - example function executed in 1.250492377s
+2025-02-11T18:14:45.693534436+00:00 - INFO - example function executed in 1.398794954s
+18:14:47.716 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:14:47.948 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:14:48.190 [main] INFO  Handler_hello - hello function executed in 97 ms
+2025-02-11T18:14:48.521173723+00:00 - INFO - example function executed in 1.131416632s
+18:14:48.613 [main] INFO  Handler_hello - hello function executed in 749 ms
+2025-02-11T18:14:48.950846002+00:00 - INFO - example function executed in 1.778393379s
+18:14:51.150 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:14:51.531 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:14:51.936 [main] INFO  Handler_hello - hello function executed in 638 ms
+2025-02-11T18:14:52.262971167+00:00 - INFO - example function executed in 1.724418961s
+18:14:52.281 [main] INFO  Handler_hello - hello function executed in 611 ms
+2025-02-11T18:14:52.607686983+00:00 - INFO - example function executed in 1.598578204s
+18:14:55.380 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:14:55.556 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:14:55.641 [main] INFO  Handler_hello - hello function executed in 120 ms
+18:14:55.802 [main] INFO  Handler_hello - hello function executed in 108 ms
+2025-02-11T18:14:55.966786741+00:00 - INFO - example function executed in 1.115943655s
+2025-02-11T18:14:56.132823519+00:00 - INFO - example function executed in 1.117185757s
+18:14:58.932 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:14:59.327 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:14:59.568 [main] INFO  Handler_hello - hello function executed in 492 ms
+2025-02-11T18:14:59.895784779+00:00 - INFO - example function executed in 1.50842617s
+18:15:00.325 [main] INFO  Handler_hello - hello function executed in 853 ms
+2025-02-11T18:15:00.653790256+00:00 - INFO - example function executed in 1.866448738s
+18:15:03.146 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:15:03.840 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:15:04.336 [main] INFO  Handler_hello - hello function executed in 1047 ms
+2025-02-11T18:15:04.663108261+00:00 - INFO - example function executed in 2.047427556s
+18:15:04.982 [main] INFO  Handler_hello - hello function executed in 1001 ms
+2025-02-11T18:15:05.310054801+00:00 - INFO - example function executed in 1.988865656s
+18:15:08.343 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:15:08.701 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:15:09.196 [main] INFO  Handler_hello - hello function executed in 356 ms
+2025-02-11T18:15:09.523802571+00:00 - INFO - example function executed in 1.365618622s
+18:15:09.531 [main] INFO  Handler_hello - hello function executed in 1044 ms
+2025-02-11T18:15:09.858554330+00:00 - INFO - example function executed in 2.051555429s
+18:15:12.254 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+18:15:12.909 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:15:12.974 [main] INFO  Handler_hello - hello function executed in 581 ms
+18:15:13.236 [main] INFO  Handler_hello - hello function executed in 187 ms
+2025-02-11T18:15:13.299945800+00:00 - INFO - example function executed in 1.562417976s
+2025-02-11T18:15:13.566337953+00:00 - INFO - example function executed in 1.198349392s
+18:15:16.347 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:15:16.634 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:15:17.173 [main] INFO  Handler_hello - hello function executed in 684 ms
+18:15:17.337 [main] INFO  Handler_hello - hello function executed in 557 ms
+2025-02-11T18:15:17.500796353+00:00 - INFO - example function executed in 1.711097635s
+2025-02-11T18:15:17.668108562+00:00 - INFO - example function executed in 1.579734002s
+18:15:20.832 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+18:15:20.919 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:15:21.350 [main] INFO  Handler_hello - hello function executed in 286 ms
+18:15:21.502 [main] INFO  Handler_hello - hello function executed in 532 ms
+2025-02-11T18:15:21.675340394+00:00 - INFO - example function executed in 1.288791877s
+2025-02-11T18:15:21.831772200+00:00 - INFO - example function executed in 1.546461004s
+18:15:24.249 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+18:15:24.258 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+18:15:24.737 [main] INFO  Handler_hello - hello function executed in 339 ms
+18:15:24.751 [main] INFO  Handler_hello - hello function executed in 347 ms
+2025-02-11T18:15:25.064095010+00:00 - INFO - example function executed in 1.383122151s
+2025-02-11T18:15:25.081137589+00:00 - INFO - example function executed in 1.366566319s
+18:15:27.449 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+18:15:27.570 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:15:27.821 [main] INFO  Handler_hello - hello function executed in 112 ms
+2025-02-11T18:15:28.149949969+00:00 - INFO - example function executed in 1.130465113s
+18:15:28.297 [main] INFO  Handler_hello - hello function executed in 702 ms
+2025-02-11T18:15:28.624058290+00:00 - INFO - example function executed in 1.729408076s
+18:15:30.503 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:15:30.724 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:15:30.830 [main] INFO  Handler_hello - hello function executed in 186 ms
+2025-02-11T18:15:31.156586350+00:00 - INFO - example function executed in 1.184817458s
+18:15:31.739 [main] INFO  Handler_hello - hello function executed in 874 ms
+2025-02-11T18:15:32.068550031+00:00 - INFO - example function executed in 1.877360921s
+18:15:35.070 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:15:35.091 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:15:35.470 [main] INFO  Handler_hello - hello function executed in 251 ms
+18:15:35.515 [main] INFO  Handler_hello - hello function executed in 280 ms
+2025-02-11T18:15:35.797182490+00:00 - INFO - example function executed in 1.353026265s
+2025-02-11T18:15:35.844750753+00:00 - INFO - example function executed in 1.311515654s
+18:15:38.275 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:15:39.076 [main] INFO  Handler_hello - hello function executed in 663 ms
+18:15:39.160 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+2025-02-11T18:15:39.403732358+00:00 - INFO - example function executed in 1.663191615s
+18:15:39.418 [main] INFO  Handler_hello - hello function executed in 120 ms
+2025-02-11T18:15:39.747847821+00:00 - INFO - example function executed in 1.118119025s
+18:15:42.382 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:15:42.942 [main] INFO  Handler_hello - hello function executed in 419 ms
+18:15:43.049 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T18:15:43.268204572+00:00 - INFO - example function executed in 1.410141822s
+18:15:44.052 [main] INFO  Handler_hello - hello function executed in 862 ms
+2025-02-11T18:15:44.383801860+00:00 - INFO - example function executed in 1.867212413s
+18:15:46.974 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+18:15:47.222 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+18:15:47.324 [main] INFO  Handler_hello - hello function executed in 207 ms
+2025-02-11T18:15:47.656170331+00:00 - INFO - example function executed in 1.235806075s
+18:15:48.093 [main] INFO  Handler_hello - hello function executed in 721 ms
+2025-02-11T18:15:48.423150276+00:00 - INFO - example function executed in 1.785911363s
+18:15:50.237 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:15:50.242 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+18:15:51.395 [main] INFO  Handler_hello - hello function executed in 969 ms
+18:15:51.444 [main] INFO  Handler_hello - hello function executed in 1058 ms
+2025-02-11T18:15:51.722958508+00:00 - INFO - example function executed in 2.120431607s
+2025-02-11T18:15:51.782694268+00:00 - INFO - example function executed in 2.097819612s
+18:15:54.547 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:15:54.826 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:15:55.185 [main] INFO  Handler_hello - hello function executed in 497 ms
+2025-02-11T18:15:55.511844250+00:00 - INFO - example function executed in 1.504458049s
+18:15:55.673 [main] INFO  Handler_hello - hello function executed in 709 ms
+2025-02-11T18:15:56.004379165+00:00 - INFO - example function executed in 1.717515689s
+18:15:58.964 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:15:59.009 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:15:59.734 [main] INFO  Handler_hello - hello function executed in 622 ms
+18:15:59.875 [main] INFO  Handler_hello - hello function executed in 718 ms
+2025-02-11T18:16:00.060730259+00:00 - INFO - example function executed in 1.661011569s
+2025-02-11T18:16:00.205484959+00:00 - INFO - example function executed in 1.735344526s
+18:16:02.781 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:16:03.065 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:16:03.375 [main] INFO  Handler_hello - hello function executed in 454 ms
+18:16:03.653 [main] INFO  Handler_hello - hello function executed in 445 ms
+2025-02-11T18:16:03.700815936+00:00 - INFO - example function executed in 1.487614042s
+2025-02-11T18:16:03.982290575+00:00 - INFO - example function executed in 1.468536231s
+18:16:06.463 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:16:06.706 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:16:06.881 [main] INFO  Handler_hello - hello function executed in 279 ms
+2025-02-11T18:16:07.208136283+00:00 - INFO - example function executed in 1.283625998s
+18:16:07.841 [main] INFO  Handler_hello - hello function executed in 986 ms
+2025-02-11T18:16:08.170967514+00:00 - INFO - example function executed in 2.021940681s
+18:16:10.795 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+18:16:10.923 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:16:11.503 [main] INFO  Handler_hello - hello function executed in 559 ms
+18:16:11.825 [main] INFO  Handler_hello - hello function executed in 761 ms
+2025-02-11T18:16:11.829721488+00:00 - INFO - example function executed in 1.601452569s
+2025-02-11T18:16:12.155386047+00:00 - INFO - example function executed in 1.761294702s
+18:16:15.018 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+18:16:15.374 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:16:16.127 [main] INFO  Handler_hello - hello function executed in 949 ms
+18:16:16.248 [main] INFO  Handler_hello - hello function executed in 718 ms
+2025-02-11T18:16:16.454438780+00:00 - INFO - example function executed in 2.054564553s
+2025-02-11T18:16:16.578410818+00:00 - INFO - example function executed in 1.755474026s
+18:16:18.869 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:16:19.429 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:16:20.011 [main] INFO  Handler_hello - hello function executed in 970 ms
+2025-02-11T18:16:20.344740572+00:00 - INFO - example function executed in 2.021329146s
+18:16:20.616 [main] INFO  Handler_hello - hello function executed in 1044 ms
+2025-02-11T18:16:20.944212307+00:00 - INFO - example function executed in 2.082381445s
+18:16:23.412 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:16:23.633 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:16:24.175 [main] INFO  Handler_hello - hello function executed in 404 ms
+18:16:24.261 [main] INFO  Handler_hello - hello function executed in 706 ms
+2025-02-11T18:16:24.510739988+00:00 - INFO - example function executed in 1.424801954s
+2025-02-11T18:16:24.588022427+00:00 - INFO - example function executed in 1.730753362s
+18:16:26.941 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:16:27.567 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:16:27.771 [main] INFO  Handler_hello - hello function executed in 688 ms
+18:16:28.001 [main] INFO  Handler_hello - hello function executed in 296 ms
+2025-02-11T18:16:28.096668609+00:00 - INFO - example function executed in 1.685545741s
+2025-02-11T18:16:28.330957734+00:00 - INFO - example function executed in 1.302204405s
+18:16:31.033 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:16:31.262 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:16:31.441 [main] INFO  Handler_hello - hello function executed in 267 ms
+2025-02-11T18:16:31.767920431+00:00 - INFO - example function executed in 1.258841865s
+18:16:32.118 [main] INFO  Handler_hello - hello function executed in 714 ms
+2025-02-11T18:16:32.449104947+00:00 - INFO - example function executed in 1.727270207s
+18:16:34.921 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+18:16:34.938 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:16:35.390 [main] INFO  Handler_hello - hello function executed in 311 ms
+2025-02-11T18:16:35.721914806+00:00 - INFO - example function executed in 1.314544515s
+18:16:35.932 [main] INFO  Handler_hello - hello function executed in 868 ms
+2025-02-11T18:16:36.257966670+00:00 - INFO - example function executed in 1.92385583s
+18:16:39.048 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:16:39.531 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+18:16:40.149 [main] INFO  Handler_hello - hello function executed in 483 ms
+18:16:40.157 [main] INFO  Handler_hello - hello function executed in 968 ms
+2025-02-11T18:16:40.479155312+00:00 - INFO - example function executed in 1.464923038s
+2025-02-11T18:16:40.482956653+00:00 - INFO - example function executed in 1.963993335s
+18:16:43.324 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:16:43.769 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:16:44.205 [main] INFO  Handler_hello - hello function executed in 741 ms
+18:16:44.384 [main] INFO  Handler_hello - hello function executed in 475 ms
+2025-02-11T18:16:44.533203198+00:00 - INFO - example function executed in 1.734878385s
+2025-02-11T18:16:44.713854198+00:00 - INFO - example function executed in 1.471849882s
+18:16:47.139 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:16:47.711 [main] INFO  Handler_hello - hello function executed in 432 ms
+18:16:47.809 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T18:16:48.038652429+00:00 - INFO - example function executed in 1.43752882s
+18:16:48.669 [main] INFO  Handler_hello - hello function executed in 716 ms
+2025-02-11T18:16:49.001010724+00:00 - INFO - example function executed in 1.726298637s
+18:16:51.193 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:16:51.422 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:16:52.403 [main] INFO  Handler_hello - hello function executed in 1070 ms
+18:16:52.551 [main] INFO  Handler_hello - hello function executed in 982 ms
+2025-02-11T18:16:52.734328712+00:00 - INFO - example function executed in 2.080085865s
+2025-02-11T18:16:52.881350973+00:00 - INFO - example function executed in 1.991222699s
+18:16:55.031 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:16:55.447 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:16:55.779 [main] INFO  Handler_hello - hello function executed in 607 ms
+2025-02-11T18:16:56.106428831+00:00 - INFO - example function executed in 1.611274077s
+18:16:56.210 [main] INFO  Handler_hello - hello function executed in 629 ms
+2025-02-11T18:16:56.541280245+00:00 - INFO - example function executed in 1.643467416s
+18:16:58.359 [main] INFO  Injector - Read from MongoDB table executed in 48 ms
+18:16:58.736 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:16:59.133 [main] INFO  Handler_hello - hello function executed in 600 ms
+18:16:59.335 [main] INFO  Handler_hello - hello function executed in 454 ms
+2025-02-11T18:16:59.463208730+00:00 - INFO - example function executed in 1.732746828s
+2025-02-11T18:16:59.666700660+00:00 - INFO - example function executed in 1.478834345s
+18:17:02.405 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:17:02.477 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:17:03.026 [main] INFO  Handler_hello - hello function executed in 475 ms
+18:17:03.201 [main] INFO  Handler_hello - hello function executed in 534 ms
+2025-02-11T18:17:03.355727203+00:00 - INFO - example function executed in 1.502462606s
+2025-02-11T18:17:03.533461568+00:00 - INFO - example function executed in 1.64436331s
+18:17:06.069 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:17:06.274 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:17:06.719 [main] INFO  Handler_hello - hello function executed in 503 ms
+2025-02-11T18:17:07.043445280+00:00 - INFO - example function executed in 1.503373382s
+18:17:07.182 [main] INFO  Handler_hello - hello function executed in 772 ms
+2025-02-11T18:17:07.512727465+00:00 - INFO - example function executed in 1.768203981s
+18:17:10.551 [main] INFO  Injector - Read from MongoDB table executed in 49 ms
+18:17:10.893 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:17:11.085 [main] INFO  Handler_hello - hello function executed in 391 ms
+18:17:11.358 [main] INFO  Handler_hello - hello function executed in 327 ms
+2025-02-11T18:17:11.412066619+00:00 - INFO - example function executed in 1.42564299s
+2025-02-11T18:17:11.689386450+00:00 - INFO - example function executed in 1.329045133s
+18:17:14.556 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:17:14.823 [main] INFO  Handler_hello - hello function executed in 122 ms
+18:17:14.888 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T18:17:15.151237609+00:00 - INFO - example function executed in 1.132152458s
+18:17:15.781 [main] INFO  Handler_hello - hello function executed in 754 ms
+2025-02-11T18:17:16.110116176+00:00 - INFO - example function executed in 1.771895151s
+18:17:18.812 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:17:18.930 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:17:19.620 [main] INFO  Handler_hello - hello function executed in 667 ms
+2025-02-11T18:17:19.947212013+00:00 - INFO - example function executed in 1.687775523s
+18:17:20.005 [main] INFO  Handler_hello - hello function executed in 938 ms
+2025-02-11T18:17:20.335329587+00:00 - INFO - example function executed in 1.959397322s
+18:17:22.621 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+18:17:23.047 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:17:23.829 [main] INFO  Handler_hello - hello function executed in 1057 ms
+2025-02-11T18:17:24.156137003+00:00 - INFO - example function executed in 2.119840314s
+18:17:24.266 [main] INFO  Handler_hello - hello function executed in 1072 ms
+2025-02-11T18:17:24.596871846+00:00 - INFO - example function executed in 2.095576808s
+18:17:27.513 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+18:17:27.782 [main] INFO  Handler_hello - hello function executed in 122 ms
+18:17:27.870 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T18:17:28.107414169+00:00 - INFO - example function executed in 1.127172157s
+18:17:28.253 [main] INFO  Handler_hello - hello function executed in 239 ms
+2025-02-11T18:17:28.582962514+00:00 - INFO - example function executed in 1.273739363s
+18:17:30.487 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+18:17:30.615 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:17:30.950 [main] INFO  Handler_hello - hello function executed in 196 ms
+2025-02-11T18:17:31.279971360+00:00 - INFO - example function executed in 1.213319903s
+18:17:31.620 [main] INFO  Handler_hello - hello function executed in 976 ms
+2025-02-11T18:17:31.946701287+00:00 - INFO - example function executed in 1.996942439s
+18:17:34.987 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:17:35.318 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:17:35.482 [main] INFO  Handler_hello - hello function executed in 352 ms
+2025-02-11T18:17:35.809225657+00:00 - INFO - example function executed in 1.354858585s
+18:17:36.275 [main] INFO  Handler_hello - hello function executed in 817 ms
+2025-02-11T18:17:36.603437481+00:00 - INFO - example function executed in 1.81954974s
+18:17:38.801 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+18:17:39.187 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+18:17:39.727 [main] INFO  Handler_hello - hello function executed in 790 ms
+18:17:39.861 [main] INFO  Handler_hello - hello function executed in 536 ms
+2025-02-11T18:17:40.052142369+00:00 - INFO - example function executed in 1.77401737s
+2025-02-11T18:17:40.191393993+00:00 - INFO - example function executed in 1.549426484s
+18:17:42.512 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+18:17:42.913 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+18:17:43.191 [main] INFO  Handler_hello - hello function executed in 140 ms
+18:17:43.316 [main] INFO  Handler_hello - hello function executed in 665 ms
+2025-02-11T18:17:43.519378810+00:00 - INFO - example function executed in 1.128415078s
+2025-02-11T18:17:43.642995597+00:00 - INFO - example function executed in 1.667014044s
+18:17:45.647 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+18:17:45.750 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:17:46.073 [main] INFO  Handler_hello - hello function executed in 280 ms
+2025-02-11T18:17:46.399616615+00:00 - INFO - example function executed in 1.294475841s
+18:17:46.924 [main] INFO  Handler_hello - hello function executed in 1033 ms
+2025-02-11T18:17:47.254671051+00:00 - INFO - example function executed in 2.055382705s
+18:17:50.122 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+18:17:50.270 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+18:17:50.730 [main] INFO  Handler_hello - hello function executed in 453 ms
+2025-02-11T18:17:51.059915681+00:00 - INFO - example function executed in 1.478118808s
+18:17:51.127 [main] INFO  Handler_hello - hello function executed in 709 ms
+2025-02-11T18:17:51.458318585+00:00 - INFO - example function executed in 1.744614248s

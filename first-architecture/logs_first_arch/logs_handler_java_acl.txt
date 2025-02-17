@@ -1,0 +1,2250 @@
+19:02:20.137 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+19:02:20.413 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:02:20.885 [main] INFO  Handler_acl - access control function executed in 330 ms
+19:02:21.046 [main] INFO  Handler_acl - access control function executed in 751 ms
+2025-02-11T19:02:21.221900892+00:00 - INFO - example function executed in 1.363290282s
+2025-02-11T19:02:21.389089936+00:00 - INFO - example function executed in 2.100875571s
+19:02:22.515 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:02:22.762 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:02:23.026 [main] INFO  Handler_acl - access control function executed in 356 ms
+2025-02-11T19:02:23.353175874+00:00 - INFO - example function executed in 1.394560394s
+19:02:23.630 [main] INFO  Handler_acl - access control function executed in 723 ms
+2025-02-11T19:02:23.974176114+00:00 - INFO - example function executed in 1.830504457s
+19:02:24.880 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+19:02:24.887 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+19:02:25.636 [main] INFO  Handler_acl - access control function executed in 609 ms
+2025-02-11T19:02:25.963279660+00:00 - INFO - example function executed in 1.649770514s
+19:02:26.000 [main] INFO  Handler_acl - access control function executed in 934 ms
+2025-02-11T19:02:26.333929372+00:00 - INFO - example function executed in 2.012577404s
+19:02:27.880 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:02:27.940 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:02:28.885 [main] INFO  Handler_acl - access control function executed in 835 ms
+19:02:29.004 [main] INFO  Handler_acl - access control function executed in 909 ms
+2025-02-11T19:02:29.212320011+00:00 - INFO - example function executed in 1.897845429s
+2025-02-11T19:02:29.333873368+00:00 - INFO - example function executed in 1.978442182s
+19:02:30.957 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:02:30.975 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:02:32.143 [main] INFO  Handler_acl - access control function executed in 1045 ms
+19:02:32.158 [main] INFO  Handler_acl - access control function executed in 1040 ms
+2025-02-11T19:02:32.469748530+00:00 - INFO - example function executed in 2.04854505s
+2025-02-11T19:02:32.485866796+00:00 - INFO - example function executed in 2.047198435s
+19:02:33.747 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:02:34.111 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:02:34.529 [main] INFO  Handler_acl - access control function executed in 630 ms
+2025-02-11T19:02:34.859455347+00:00 - INFO - example function executed in 1.659655945s
+19:02:35.307 [main] INFO  Handler_acl - access control function executed in 1056 ms
+2025-02-11T19:02:35.643748371+00:00 - INFO - example function executed in 2.083644005s
+19:02:36.752 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+19:02:36.803 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:02:37.104 [main] INFO  Handler_acl - access control function executed in 158 ms
+2025-02-11T19:02:37.432683996+00:00 - INFO - example function executed in 1.181664324s
+19:02:37.867 [main] INFO  Handler_acl - access control function executed in 970 ms
+2025-02-11T19:02:38.194323106+00:00 - INFO - example function executed in 2.028400467s
+19:02:39.361 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:02:39.364 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:02:39.800 [main] INFO  Handler_acl - access control function executed in 289 ms
+2025-02-11T19:02:40.125741224+00:00 - INFO - example function executed in 1.314807394s
+19:02:40.278 [main] INFO  Handler_acl - access control function executed in 775 ms
+2025-02-11T19:02:40.609531709+00:00 - INFO - example function executed in 1.780059075s
+19:02:42.146 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+19:02:42.277 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+19:02:42.606 [main] INFO  Handler_acl - access control function executed in 311 ms
+2025-02-11T19:02:42.933728492+00:00 - INFO - example function executed in 1.339315278s
+19:02:43.320 [main] INFO  Handler_acl - access control function executed in 897 ms
+2025-02-11T19:02:43.693333830+00:00 - INFO - example function executed in 1.992121178s
+19:02:44.846 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:02:45.452 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:02:45.523 [main] INFO  Handler_acl - access control function executed in 535 ms
+2025-02-11T19:02:45.848701451+00:00 - INFO - example function executed in 1.515921948s
+19:02:46.050 [main] INFO  Handler_acl - access control function executed in 461 ms
+2025-02-11T19:02:46.380704385+00:00 - INFO - example function executed in 1.453337053s
+19:02:47.597 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:02:47.730 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+19:02:48.064 [main] INFO  Handler_acl - access control function executed in 324 ms
+2025-02-11T19:02:48.391637873+00:00 - INFO - example function executed in 1.339074558s
+19:02:48.967 [main] INFO  Handler_acl - access control function executed in 1095 ms
+2025-02-11T19:02:49.297102224+00:00 - INFO - example function executed in 2.129339399s
+19:02:50.566 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:02:50.822 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:02:51.504 [main] INFO  Handler_acl - access control function executed in 794 ms
+19:02:51.719 [main] INFO  Handler_acl - access control function executed in 757 ms
+2025-02-11T19:02:51.830553302+00:00 - INFO - example function executed in 1.795152327s
+2025-02-11T19:02:52.050348743+00:00 - INFO - example function executed in 1.804000824s
+19:02:52.794 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:02:53.722 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:02:53.979 [main] INFO  Handler_acl - access control function executed in 1038 ms
+2025-02-11T19:02:54.305837455+00:00 - INFO - example function executed in 2.046658703s
+19:02:54.765 [main] INFO  Handler_acl - access control function executed in 899 ms
+2025-02-11T19:02:55.095344248+00:00 - INFO - example function executed in 1.899974426s
+19:02:56.794 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:02:56.897 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+19:02:57.265 [main] INFO  Handler_acl - access control function executed in 223 ms
+2025-02-11T19:02:57.595777560+00:00 - INFO - example function executed in 1.321420015s
+19:02:57.731 [main] INFO  Handler_acl - access control function executed in 787 ms
+2025-02-11T19:02:58.057923840+00:00 - INFO - example function executed in 1.836953432s
+19:02:59.467 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:02:59.738 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:03:00.233 [main] INFO  Handler_acl - access control function executed in 587 ms
+2025-02-11T19:03:00.560099965+00:00 - INFO - example function executed in 1.646377018s
+19:03:00.713 [main] INFO  Handler_acl - access control function executed in 833 ms
+2025-02-11T19:03:01.040923660+00:00 - INFO - example function executed in 1.868386131s
+19:03:02.594 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:03:02.766 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:03:03.494 [main] INFO  Handler_acl - access control function executed in 582 ms
+19:03:03.555 [main] INFO  Handler_acl - access control function executed in 805 ms
+2025-02-11T19:03:03.826875730+00:00 - INFO - example function executed in 1.655300579s
+2025-02-11T19:03:03.882506571+00:00 - INFO - example function executed in 1.829432017s
+19:03:04.824 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:03:05.526 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:03:05.900 [main] INFO  Handler_acl - access control function executed in 934 ms
+2025-02-11T19:03:06.226401076+00:00 - INFO - example function executed in 1.940384143s
+19:03:06.699 [main] INFO  Handler_acl - access control function executed in 1034 ms
+2025-02-11T19:03:07.024235761+00:00 - INFO - example function executed in 2.047509992s
+19:03:08.368 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:03:08.749 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:03:09.102 [main] INFO  Handler_acl - access control function executed in 575 ms
+2025-02-11T19:03:09.429075343+00:00 - INFO - example function executed in 1.603772548s
+19:03:09.658 [main] INFO  Handler_acl - access control function executed in 770 ms
+2025-02-11T19:03:09.986967634+00:00 - INFO - example function executed in 1.785087095s
+19:03:11.006 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:03:11.493 [main] INFO  Handler_acl - access control function executed in 343 ms
+19:03:11.529 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T19:03:11.818305787+00:00 - INFO - example function executed in 1.346111221s
+19:03:11.872 [main] INFO  Handler_acl - access control function executed in 203 ms
+2025-02-11T19:03:12.202430284+00:00 - INFO - example function executed in 1.205757962s
+19:03:13.271 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:03:13.484 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+19:03:14.091 [main] INFO  Handler_acl - access control function executed in 661 ms
+19:03:14.237 [main] INFO  Handler_acl - access control function executed in 601 ms
+2025-02-11T19:03:14.418090957+00:00 - INFO - example function executed in 1.695993847s
+2025-02-11T19:03:14.566956091+00:00 - INFO - example function executed in 1.622029189s
+19:03:16.008 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:03:16.082 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+19:03:16.319 [main] INFO  Handler_acl - access control function executed in 155 ms
+2025-02-11T19:03:16.645920476+00:00 - INFO - example function executed in 1.185777367s
+19:03:17.306 [main] INFO  Handler_acl - access control function executed in 1066 ms
+2025-02-11T19:03:17.634056893+00:00 - INFO - example function executed in 2.119018707s
+19:03:18.539 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:03:18.928 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:03:19.186 [main] INFO  Handler_acl - access control function executed in 113 ms
+19:03:19.226 [main] INFO  Handler_acl - access control function executed in 527 ms
+2025-02-11T19:03:19.516977811+00:00 - INFO - example function executed in 1.132428917s
+2025-02-11T19:03:19.556734957+00:00 - INFO - example function executed in 1.590760523s
+19:03:20.577 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:03:21.387 [main] INFO  Handler_acl - access control function executed in 670 ms
+19:03:21.454 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+2025-02-11T19:03:21.713980191+00:00 - INFO - example function executed in 1.659911053s
+19:03:21.790 [main] INFO  Handler_acl - access control function executed in 189 ms
+2025-02-11T19:03:22.125574703+00:00 - INFO - example function executed in 1.212469842s
+19:03:22.987 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:03:23.658 [main] INFO  Handler_acl - access control function executed in 521 ms
+19:03:23.704 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+2025-02-11T19:03:23.985531361+00:00 - INFO - example function executed in 1.569209462s
+19:03:24.372 [main] INFO  Handler_acl - access control function executed in 529 ms
+2025-02-11T19:03:24.711763050+00:00 - INFO - example function executed in 1.55441561s
+19:03:25.646 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:03:26.174 [main] INFO  Handler_acl - access control function executed in 386 ms
+19:03:26.438 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+2025-02-11T19:03:26.507836544+00:00 - INFO - example function executed in 1.448774771s
+19:03:26.866 [main] INFO  Handler_acl - access control function executed in 286 ms
+2025-02-11T19:03:27.198460152+00:00 - INFO - example function executed in 1.313146719s
+19:03:28.605 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:03:28.753 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:03:29.045 [main] INFO  Handler_acl - access control function executed in 270 ms
+2025-02-11T19:03:29.372719977+00:00 - INFO - example function executed in 1.364371907s
+19:03:29.534 [main] INFO  Handler_acl - access control function executed in 635 ms
+2025-02-11T19:03:29.865374462+00:00 - INFO - example function executed in 1.694868905s
+19:03:30.656 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:03:31.351 [main] INFO  Handler_acl - access control function executed in 551 ms
+19:03:31.593 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+2025-02-11T19:03:31.678279163+00:00 - INFO - example function executed in 1.55318312s
+19:03:32.527 [main] INFO  Handler_acl - access control function executed in 794 ms
+2025-02-11T19:03:32.859190608+00:00 - INFO - example function executed in 1.796209777s
+19:03:33.672 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:03:33.703 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:03:34.473 [main] INFO  Handler_acl - access control function executed in 662 ms
+2025-02-11T19:03:34.800755550+00:00 - INFO - example function executed in 1.663206469s
+19:03:34.862 [main] INFO  Handler_acl - access control function executed in 1018 ms
+2025-02-11T19:03:35.194284739+00:00 - INFO - example function executed in 2.040040545s
+19:03:36.284 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:03:36.932 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:03:37.147 [main] INFO  Handler_acl - access control function executed in 721 ms
+19:03:37.452 [main] INFO  Handler_acl - access control function executed in 380 ms
+2025-02-11T19:03:37.474000490+00:00 - INFO - example function executed in 1.737491811s
+2025-02-11T19:03:37.781620622+00:00 - INFO - example function executed in 1.398398826s
+19:03:38.726 [main] INFO  Injector - Read from MongoDB table executed in 54 ms
+19:03:38.867 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+19:03:39.226 [main] INFO  Handler_acl - access control function executed in 216 ms
+19:03:39.306 [main] INFO  Handler_acl - access control function executed in 412 ms
+2025-02-11T19:03:39.556157202+00:00 - INFO - example function executed in 1.289719326s
+2025-02-11T19:03:39.633395758+00:00 - INFO - example function executed in 1.485699603s
+19:03:41.044 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:03:41.347 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:03:42.308 [main] INFO  Handler_acl - access control function executed in 1110 ms
+19:03:42.467 [main] INFO  Handler_acl - access control function executed in 982 ms
+2025-02-11T19:03:42.638045484+00:00 - INFO - example function executed in 2.129842416s
+2025-02-11T19:03:42.797931813+00:00 - INFO - example function executed in 1.998379891s
+19:03:43.755 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:03:44.257 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:03:44.956 [main] INFO  Handler_acl - access control function executed in 1058 ms
+19:03:45.264 [main] INFO  Handler_acl - access control function executed in 866 ms
+2025-02-11T19:03:45.282034903+00:00 - INFO - example function executed in 2.061079644s
+2025-02-11T19:03:45.595254330+00:00 - INFO - example function executed in 1.893031663s
+19:03:46.380 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:03:46.959 [main] INFO  Handler_acl - access control function executed in 443 ms
+19:03:47.089 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+2025-02-11T19:03:47.285786818+00:00 - INFO - example function executed in 1.472767803s
+19:03:47.976 [main] INFO  Handler_acl - access control function executed in 748 ms
+2025-02-11T19:03:48.306176385+00:00 - INFO - example function executed in 1.731248752s
+19:03:49.511 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+19:03:49.567 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:03:49.779 [main] INFO  Handler_acl - access control function executed in 115 ms
+19:03:49.905 [main] INFO  Handler_acl - access control function executed in 191 ms
+2025-02-11T19:03:50.105758158+00:00 - INFO - example function executed in 1.178939297s
+2025-02-11T19:03:50.235142372+00:00 - INFO - example function executed in 1.203459165s
+19:03:51.560 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:03:51.735 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:03:51.863 [main] INFO  Handler_acl - access control function executed in 139 ms
+2025-02-11T19:03:52.190007818+00:00 - INFO - example function executed in 1.171046188s
+19:03:52.209 [main] INFO  Handler_acl - access control function executed in 326 ms
+2025-02-11T19:03:52.539651022+00:00 - INFO - example function executed in 1.362228179s
+19:03:53.354 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:03:53.741 [main] INFO  Handler_acl - access control function executed in 247 ms
+19:03:53.904 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T19:03:54.067690201+00:00 - INFO - example function executed in 1.251667705s
+19:03:54.934 [main] INFO  Handler_acl - access control function executed in 888 ms
+2025-02-11T19:03:55.263828327+00:00 - INFO - example function executed in 1.896047581s
+19:03:56.845 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:03:56.923 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:03:57.474 [main] INFO  Handler_acl - access control function executed in 457 ms
+2025-02-11T19:03:57.814423049+00:00 - INFO - example function executed in 1.5340249s
+19:03:57.905 [main] INFO  Handler_acl - access control function executed in 817 ms
+2025-02-11T19:03:58.236638761+00:00 - INFO - example function executed in 1.890076945s
+19:03:59.181 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+19:03:59.473 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:04:00.185 [main] INFO  Handler_acl - access control function executed in 573 ms
+19:04:00.415 [main] INFO  Handler_acl - access control function executed in 1086 ms
+2025-02-11T19:04:00.514969798+00:00 - INFO - example function executed in 1.588536525s
+2025-02-11T19:04:00.742313711+00:00 - INFO - example function executed in 2.101430353s
+19:04:01.496 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:04:01.988 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:04:02.312 [main] INFO  Handler_acl - access control function executed in 678 ms
+2025-02-11T19:04:02.639150157+00:00 - INFO - example function executed in 1.669417782s
+19:04:02.810 [main] INFO  Handler_acl - access control function executed in 684 ms
+2025-02-11T19:04:03.140686637+00:00 - INFO - example function executed in 1.694444151s
+19:04:04.415 [main] INFO  Injector - Read from MongoDB table executed in 57 ms
+19:04:04.597 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:04:05.290 [main] INFO  Handler_acl - access control function executed in 735 ms
+2025-02-11T19:04:05.617084868+00:00 - INFO - example function executed in 1.776017481s
+19:04:05.772 [main] INFO  Handler_acl - access control function executed in 1032 ms
+2025-02-11T19:04:06.103414048+00:00 - INFO - example function executed in 2.042138736s
+19:04:06.995 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:04:07.689 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:04:07.951 [main] INFO  Handler_acl - access control function executed in 814 ms
+19:04:08.088 [main] INFO  Handler_acl - access control function executed in 256 ms
+2025-02-11T19:04:08.279002763+00:00 - INFO - example function executed in 1.814447208s
+2025-02-11T19:04:08.417315012+00:00 - INFO - example function executed in 1.267221639s
+19:04:09.807 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:04:09.938 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:04:10.221 [main] INFO  Handler_acl - access control function executed in 142 ms
+19:04:10.287 [main] INFO  Handler_acl - access control function executed in 330 ms
+2025-02-11T19:04:10.553886484+00:00 - INFO - example function executed in 1.149681491s
+2025-02-11T19:04:10.614908009+00:00 - INFO - example function executed in 1.3302278s
+19:04:11.616 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:04:12.144 [main] INFO  Handler_acl - access control function executed in 382 ms
+19:04:12.274 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+2025-02-11T19:04:12.471291454+00:00 - INFO - example function executed in 1.387240284s
+19:04:13.045 [main] INFO  Handler_acl - access control function executed in 594 ms
+2025-02-11T19:04:13.374724226+00:00 - INFO - example function executed in 1.744169714s
+19:04:14.593 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+19:04:14.951 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+19:04:15.410 [main] INFO  Handler_acl - access control function executed in 312 ms
+2025-02-11T19:04:15.748546139+00:00 - INFO - example function executed in 1.378860536s
+19:04:15.782 [main] INFO  Handler_acl - access control function executed in 1025 ms
+2025-02-11T19:04:16.120031750+00:00 - INFO - example function executed in 2.223170959s
+19:04:17.555 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:04:17.810 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:04:18.584 [main] INFO  Handler_acl - access control function executed in 857 ms
+19:04:18.870 [main] INFO  Handler_acl - access control function executed in 878 ms
+2025-02-11T19:04:18.914892427+00:00 - INFO - example function executed in 1.899944759s
+2025-02-11T19:04:19.210914897+00:00 - INFO - example function executed in 2.012636687s
+19:04:20.570 [main] INFO  Injector - Read from MongoDB table executed in 49 ms
+19:04:20.756 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:04:20.868 [main] INFO  Handler_acl - access control function executed in 142 ms
+19:04:21.120 [main] INFO  Handler_acl - access control function executed in 195 ms
+2025-02-11T19:04:21.197720678+00:00 - INFO - example function executed in 1.195479924s
+2025-02-11T19:04:21.452655885+00:00 - INFO - example function executed in 1.329614775s
+19:04:22.257 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:04:23.047 [main] INFO  Handler_acl - access control function executed in 633 ms
+19:04:23.123 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+2025-02-11T19:04:23.374544616+00:00 - INFO - example function executed in 1.669815101s
+19:04:24.309 [main] INFO  Handler_acl - access control function executed in 1030 ms
+2025-02-11T19:04:24.638959316+00:00 - INFO - example function executed in 2.120271301s
+19:04:26.354 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:04:26.445 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+19:04:26.878 [main] INFO  Handler_acl - access control function executed in 362 ms
+19:04:27.031 [main] INFO  Handler_acl - access control function executed in 398 ms
+2025-02-11T19:04:27.209374855+00:00 - INFO - example function executed in 1.459687592s
+2025-02-11T19:04:27.367894441+00:00 - INFO - example function executed in 1.565063812s
+19:04:28.884 [main] INFO  Injector - Read from MongoDB table executed in 60 ms
+19:04:29.043 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:04:29.207 [main] INFO  Handler_acl - access control function executed in 139 ms
+19:04:29.367 [main] INFO  Handler_acl - access control function executed in 176 ms
+2025-02-11T19:04:29.535755046+00:00 - INFO - example function executed in 1.308093265s
+2025-02-11T19:04:29.711685061+00:00 - INFO - example function executed in 1.286884905s
+19:04:31.270 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+19:04:31.409 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:04:32.029 [main] INFO  Handler_acl - access control function executed in 592 ms
+19:04:32.122 [main] INFO  Handler_acl - access control function executed in 565 ms
+2025-02-11T19:04:32.371558948+00:00 - INFO - example function executed in 1.707493751s
+2025-02-11T19:04:32.467851438+00:00 - INFO - example function executed in 1.651978738s
+19:04:33.497 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+19:04:33.998 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:04:34.428 [main] INFO  Handler_acl - access control function executed in 284 ms
+19:04:34.476 [main] INFO  Handler_acl - access control function executed in 828 ms
+2025-02-11T19:04:34.768204719+00:00 - INFO - example function executed in 1.367274505s
+2025-02-11T19:04:34.810862828+00:00 - INFO - example function executed in 1.917766491s
+19:04:36.252 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+19:04:36.567 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:04:36.661 [main] INFO  Handler_acl - access control function executed in 253 ms
+19:04:36.922 [main] INFO  Handler_acl - access control function executed in 194 ms
+2025-02-11T19:04:36.988781454+00:00 - INFO - example function executed in 1.284494435s
+2025-02-11T19:04:37.252308132+00:00 - INFO - example function executed in 1.277370048s
+19:04:38.898 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+19:04:39.014 [main] INFO  Injector - Read from MongoDB table executed in 54 ms
+19:04:39.712 [main] INFO  Handler_acl - access control function executed in 643 ms
+19:04:39.858 [main] INFO  Handler_acl - access control function executed in 686 ms
+2025-02-11T19:04:40.046201689+00:00 - INFO - example function executed in 1.732813371s
+2025-02-11T19:04:40.194036039+00:00 - INFO - example function executed in 1.793030247s
+19:04:41.507 [main] INFO  Injector - Read from MongoDB table executed in 49 ms
+19:04:41.675 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:04:42.367 [main] INFO  Handler_acl - access control function executed in 661 ms
+19:04:42.614 [main] INFO  Handler_acl - access control function executed in 793 ms
+2025-02-11T19:04:42.695632817+00:00 - INFO - example function executed in 1.755667907s
+2025-02-11T19:04:42.948574247+00:00 - INFO - example function executed in 1.901949403s
+19:04:44.038 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:04:44.492 [main] INFO  Handler_acl - access control function executed in 267 ms
+19:04:44.660 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+2025-02-11T19:04:44.820021955+00:00 - INFO - example function executed in 1.426845894s
+19:04:45.486 [main] INFO  Handler_acl - access control function executed in 653 ms
+2025-02-11T19:04:45.828929529+00:00 - INFO - example function executed in 1.827197761s
+19:04:46.956 [main] INFO  Injector - Read from MongoDB table executed in 52 ms
+19:04:47.306 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:04:47.581 [main] INFO  Handler_acl - access control function executed in 457 ms
+19:04:47.673 [main] INFO  Handler_acl - access control function executed in 206 ms
+2025-02-11T19:04:47.918804046+00:00 - INFO - example function executed in 1.573521537s
+2025-02-11T19:04:48.011496967+00:00 - INFO - example function executed in 1.400974163s
+19:04:49.260 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:04:49.484 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+19:04:49.855 [main] INFO  Handler_acl - access control function executed in 441 ms
+2025-02-11T19:04:50.186675871+00:00 - INFO - example function executed in 1.516186731s
+19:04:50.734 [main] INFO  Handler_acl - access control function executed in 1095 ms
+2025-02-11T19:04:51.065096171+00:00 - INFO - example function executed in 2.266554187s
+19:04:52.200 [main] INFO  Injector - Read from MongoDB table executed in 49 ms
+19:04:52.518 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:04:53.087 [main] INFO  Handler_acl - access control function executed in 734 ms
+19:04:53.367 [main] INFO  Handler_acl - access control function executed in 695 ms
+2025-02-11T19:04:53.415159318+00:00 - INFO - example function executed in 1.791674073s
+2025-02-11T19:04:53.698137348+00:00 - INFO - example function executed in 1.879222887s
+19:04:56.272 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:04:56.454 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:04:56.758 [main] INFO  Handler_acl - access control function executed in 329 ms
+19:04:56.900 [main] INFO  Handler_acl - access control function executed in 300 ms
+2025-02-11T19:04:57.087030335+00:00 - INFO - example function executed in 1.39982143s
+2025-02-11T19:04:57.233036161+00:00 - INFO - example function executed in 1.348952847s
+19:04:58.643 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:04:58.947 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:04:59.038 [main] INFO  Handler_acl - access control function executed in 229 ms
+2025-02-11T19:04:59.365655498+00:00 - INFO - example function executed in 1.27505366s
+19:05:00.040 [main] INFO  Handler_acl - access control function executed in 940 ms
+2025-02-11T19:05:00.371830642+00:00 - INFO - example function executed in 2.050007109s
+19:05:02.218 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:05:02.813 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:05:03.013 [main] INFO  Handler_acl - access control function executed in 656 ms
+2025-02-11T19:05:03.339062432+00:00 - INFO - example function executed in 1.650046233s
+19:05:03.434 [main] INFO  Handler_acl - access control function executed in 482 ms
+2025-02-11T19:05:03.764037659+00:00 - INFO - example function executed in 1.484004431s
+19:05:05.138 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:05:05.487 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:05:05.695 [main] INFO  Handler_acl - access control function executed in 415 ms
+2025-02-11T19:05:06.022841491+00:00 - INFO - example function executed in 1.426179241s
+19:05:06.442 [main] INFO  Handler_acl - access control function executed in 811 ms
+2025-02-11T19:05:06.773333560+00:00 - INFO - example function executed in 1.862850414s
+19:05:08.158 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:05:08.535 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:05:09.027 [main] INFO  Handler_acl - access control function executed in 719 ms
+19:05:09.195 [main] INFO  Handler_acl - access control function executed in 512 ms
+2025-02-11T19:05:09.354674933+00:00 - INFO - example function executed in 1.739706512s
+2025-02-11T19:05:09.540260370+00:00 - INFO - example function executed in 1.55673151s
+19:05:10.450 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:05:10.768 [main] INFO  Handler_acl - access control function executed in 175 ms
+2025-02-11T19:05:11.094910751+00:00 - INFO - example function executed in 1.171078991s
+19:05:11.544 [main] INFO  Injector - Read from MongoDB table executed in 51 ms
+19:05:12.262 [main] INFO  Handler_acl - access control function executed in 565 ms
+2025-02-11T19:05:12.594680091+00:00 - INFO - example function executed in 1.612465211s
+19:05:13.566 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:05:14.064 [main] INFO  Handler_acl - access control function executed in 359 ms
+19:05:14.218 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+2025-02-11T19:05:14.390595562+00:00 - INFO - example function executed in 1.350753106s
+19:05:15.362 [main] INFO  Handler_acl - access control function executed in 1005 ms
+2025-02-11T19:05:15.691915689+00:00 - INFO - example function executed in 2.015342812s
+19:05:16.516 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:05:17.025 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:05:17.388 [main] INFO  Handler_acl - access control function executed in 723 ms
+2025-02-11T19:05:17.716136589+00:00 - INFO - example function executed in 1.724724345s
+19:05:18.133 [main] INFO  Handler_acl - access control function executed in 966 ms
+2025-02-11T19:05:18.463223685+00:00 - INFO - example function executed in 1.972927018s
+19:05:19.681 [main] INFO  Injector - Read from MongoDB table executed in 45 ms
+19:05:19.773 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+19:05:20.033 [main] INFO  Handler_acl - access control function executed in 175 ms
+2025-02-11T19:05:20.359638187+00:00 - INFO - example function executed in 1.240608376s
+19:05:20.636 [main] INFO  Handler_acl - access control function executed in 725 ms
+2025-02-11T19:05:20.966003658+00:00 - INFO - example function executed in 1.769990993s
+19:05:21.947 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:05:22.336 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:05:22.685 [main] INFO  Handler_acl - access control function executed in 211 ms
+2025-02-11T19:05:23.018156671+00:00 - INFO - example function executed in 1.232753114s
+19:05:23.117 [main] INFO  Handler_acl - access control function executed in 1029 ms
+2025-02-11T19:05:23.441748902+00:00 - INFO - example function executed in 2.032115343s
+19:05:24.332 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:05:24.685 [main] INFO  Handler_acl - access control function executed in 211 ms
+19:05:25.012 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T19:05:25.012402651+00:00 - INFO - example function executed in 1.215825373s
+19:05:25.672 [main] INFO  Handler_acl - access control function executed in 521 ms
+2025-02-11T19:05:26.001773405+00:00 - INFO - example function executed in 1.528637126s
+19:05:26.884 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:05:27.213 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:05:27.980 [main] INFO  Handler_acl - access control function executed in 615 ms
+19:05:28.050 [main] INFO  Handler_acl - access control function executed in 1015 ms
+2025-02-11T19:05:28.309355134+00:00 - INFO - example function executed in 1.692714257s
+2025-02-11T19:05:28.376070080+00:00 - INFO - example function executed in 2.042104141s
+19:05:29.307 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:05:29.956 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:05:30.120 [main] INFO  Handler_acl - access control function executed in 674 ms
+2025-02-11T19:05:30.446933030+00:00 - INFO - example function executed in 1.671171359s
+19:05:30.799 [main] INFO  Handler_acl - access control function executed in 704 ms
+2025-02-11T19:05:31.128647899+00:00 - INFO - example function executed in 1.70396574s
+19:05:31.953 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:05:32.651 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:05:33.031 [main] INFO  Handler_acl - access control function executed in 941 ms
+2025-02-11T19:05:33.357879699+00:00 - INFO - example function executed in 1.931919461s
+19:05:33.358 [main] INFO  Handler_acl - access control function executed in 568 ms
+2025-02-11T19:05:33.689352087+00:00 - INFO - example function executed in 1.570610238s
+19:05:35.280 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+19:05:35.450 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:05:35.679 [main] INFO  Handler_acl - access control function executed in 214 ms
+2025-02-11T19:05:36.006188671+00:00 - INFO - example function executed in 1.30395486s
+19:05:36.406 [main] INFO  Handler_acl - access control function executed in 809 ms
+2025-02-11T19:05:36.736484625+00:00 - INFO - example function executed in 1.892952534s
+19:05:38.104 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+19:05:38.286 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:05:38.521 [main] INFO  Handler_acl - access control function executed in 261 ms
+19:05:38.719 [main] INFO  Handler_acl - access control function executed in 292 ms
+2025-02-11T19:05:38.848001569+00:00 - INFO - example function executed in 1.296236363s
+2025-02-11T19:05:39.048197502+00:00 - INFO - example function executed in 1.310336568s
+19:05:40.000 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:05:40.523 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:05:40.565 [main] INFO  Handler_acl - access control function executed in 408 ms
+2025-02-11T19:05:40.891417205+00:00 - INFO - example function executed in 1.453564198s
+19:05:41.487 [main] INFO  Handler_acl - access control function executed in 821 ms
+2025-02-11T19:05:41.817684092+00:00 - INFO - example function executed in 1.839089805s
+19:05:43.157 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:05:43.284 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:05:44.061 [main] INFO  Handler_acl - access control function executed in 634 ms
+19:05:44.384 [main] INFO  Handler_acl - access control function executed in 1072 ms
+2025-02-11T19:05:44.395078881+00:00 - INFO - example function executed in 1.677735652s
+2025-02-11T19:05:44.711387862+00:00 - INFO - example function executed in 2.119236702s
+19:05:45.914 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:05:46.157 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:05:46.694 [main] INFO  Handler_acl - access control function executed in 393 ms
+2025-02-11T19:05:47.025000995+00:00 - INFO - example function executed in 1.469751603s
+19:05:47.138 [main] INFO  Handler_acl - access control function executed in 1067 ms
+2025-02-11T19:05:47.465818806+00:00 - INFO - example function executed in 2.08959689s
+19:05:48.384 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:05:48.942 [main] INFO  Handler_acl - access control function executed in 415 ms
+2025-02-11T19:05:49.269943449+00:00 - INFO - example function executed in 1.411097448s
+19:05:49.357 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+19:05:49.997 [main] INFO  Handler_acl - access control function executed in 502 ms
+2025-02-11T19:05:50.326423136+00:00 - INFO - example function executed in 1.500355546s
+19:05:51.641 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+19:05:51.780 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:05:52.135 [main] INFO  Handler_acl - access control function executed in 325 ms
+2025-02-11T19:05:52.462178176+00:00 - INFO - example function executed in 1.399790574s
+19:05:52.623 [main] INFO  Handler_acl - access control function executed in 679 ms
+2025-02-11T19:05:52.952894251+00:00 - INFO - example function executed in 1.719155209s
+19:05:54.126 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:05:54.630 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:05:54.746 [main] INFO  Handler_acl - access control function executed in 477 ms
+19:05:54.956 [main] INFO  Handler_acl - access control function executed in 187 ms
+2025-02-11T19:05:55.073572563+00:00 - INFO - example function executed in 1.481173403s
+2025-02-11T19:05:55.287258221+00:00 - INFO - example function executed in 1.209950982s
+19:05:56.884 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+19:05:56.903 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:05:57.407 [main] INFO  Handler_acl - access control function executed in 373 ms
+19:05:57.591 [main] INFO  Handler_acl - access control function executed in 537 ms
+2025-02-11T19:05:57.735795176+00:00 - INFO - example function executed in 1.476493148s
+2025-02-11T19:05:57.928906165+00:00 - INFO - example function executed in 1.559376573s
+19:05:58.844 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:05:59.466 [main] INFO  Handler_acl - access control function executed in 483 ms
+19:05:59.570 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T19:05:59.794457773+00:00 - INFO - example function executed in 1.492612544s
+19:06:00.318 [main] INFO  Handler_acl - access control function executed in 602 ms
+2025-02-11T19:06:00.649353023+00:00 - INFO - example function executed in 1.623008972s
+19:06:01.750 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+19:06:02.218 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:06:02.598 [main] INFO  Handler_acl - access control function executed in 677 ms
+2025-02-11T19:06:02.928147768+00:00 - INFO - example function executed in 1.818065869s
+19:06:03.342 [main] INFO  Handler_acl - access control function executed in 978 ms
+2025-02-11T19:06:03.673444347+00:00 - INFO - example function executed in 1.995644913s
+19:06:04.810 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:06:05.137 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:06:05.605 [main] INFO  Handler_acl - access control function executed in 640 ms
+2025-02-11T19:06:05.932729800+00:00 - INFO - example function executed in 1.655164652s
+19:06:06.195 [main] INFO  Handler_acl - access control function executed in 916 ms
+2025-02-11T19:06:06.526118750+00:00 - INFO - example function executed in 1.926637419s
+19:06:08.200 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+19:06:08.327 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+19:06:08.900 [main] INFO  Handler_acl - access control function executed in 557 ms
+19:06:09.166 [main] INFO  Handler_acl - access control function executed in 690 ms
+2025-02-11T19:06:09.227301073+00:00 - INFO - example function executed in 1.61225537s
+2025-02-11T19:06:09.497134556+00:00 - INFO - example function executed in 1.776670986s
+19:06:10.875 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:06:10.975 [main] INFO  Injector - Read from MongoDB table executed in 49 ms
+19:06:11.229 [main] INFO  Handler_acl - access control function executed in 192 ms
+2025-02-11T19:06:11.559055796+00:00 - INFO - example function executed in 1.231448769s
+19:06:11.614 [main] INFO  Handler_acl - access control function executed in 490 ms
+2025-02-11T19:06:11.946333302+00:00 - INFO - example function executed in 1.566537308s
+19:06:13.135 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:06:13.752 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:06:13.758 [main] INFO  Handler_acl - access control function executed in 482 ms
+2025-02-11T19:06:14.083870291+00:00 - INFO - example function executed in 1.474038831s
+19:06:14.920 [main] INFO  Handler_acl - access control function executed in 1007 ms
+2025-02-11T19:06:15.250379497+00:00 - INFO - example function executed in 2.018292193s
+19:06:16.335 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:06:16.843 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:06:17.392 [main] INFO  Handler_acl - access control function executed in 413 ms
+19:06:17.506 [main] INFO  Handler_acl - access control function executed in 1021 ms
+2025-02-11T19:06:17.722196630+00:00 - INFO - example function executed in 1.413926941s
+2025-02-11T19:06:17.832719869+00:00 - INFO - example function executed in 2.026675532s
+19:06:18.887 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:06:19.400 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:06:19.582 [main] INFO  Handler_acl - access control function executed in 558 ms
+19:06:19.722 [main] INFO  Handler_acl - access control function executed in 181 ms
+2025-02-11T19:06:19.908138049+00:00 - INFO - example function executed in 1.530371483s
+2025-02-11T19:06:20.052034893+00:00 - INFO - example function executed in 1.183788634s
+19:06:20.866 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:06:20.923 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:06:21.810 [main] INFO  Handler_acl - access control function executed in 726 ms
+19:06:22.084 [main] INFO  Handler_acl - access control function executed in 1071 ms
+2025-02-11T19:06:22.139836042+00:00 - INFO - example function executed in 1.78065783s
+2025-02-11T19:06:22.412690762+00:00 - INFO - example function executed in 2.094053603s
+19:06:23.709 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:06:23.785 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:06:24.688 [main] INFO  Handler_acl - access control function executed in 836 ms
+19:06:24.773 [main] INFO  Handler_acl - access control function executed in 842 ms
+2025-02-11T19:06:25.015276803+00:00 - INFO - example function executed in 1.840169102s
+2025-02-11T19:06:25.103034197+00:00 - INFO - example function executed in 1.859183201s
+19:06:26.584 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:06:26.785 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:06:27.088 [main] INFO  Handler_acl - access control function executed in 168 ms
+2025-02-11T19:06:27.419033765+00:00 - INFO - example function executed in 1.194875525s
+19:06:27.466 [main] INFO  Handler_acl - access control function executed in 725 ms
+2025-02-11T19:06:27.793187653+00:00 - INFO - example function executed in 1.745657029s
+19:06:28.751 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+19:06:28.975 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:06:29.261 [main] INFO  Handler_acl - access control function executed in 357 ms
+19:06:29.431 [main] INFO  Handler_acl - access control function executed in 309 ms
+2025-02-11T19:06:29.587898178+00:00 - INFO - example function executed in 1.382980196s
+2025-02-11T19:06:29.762938645+00:00 - INFO - example function executed in 1.331099509s
+19:06:31.152 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:06:31.292 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:06:31.959 [main] INFO  Handler_acl - access control function executed in 662 ms
+19:06:32.250 [main] INFO  Handler_acl - access control function executed in 818 ms
+2025-02-11T19:06:32.285534566+00:00 - INFO - example function executed in 1.680301443s
+2025-02-11T19:06:32.580709433+00:00 - INFO - example function executed in 1.829377687s
+19:06:33.893 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:06:34.280 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:06:34.842 [main] INFO  Handler_acl - access control function executed in 418 ms
+19:06:35.140 [main] INFO  Handler_acl - access control function executed in 1102 ms
+2025-02-11T19:06:35.172897801+00:00 - INFO - example function executed in 1.442140539s
+2025-02-11T19:06:35.467888050+00:00 - INFO - example function executed in 2.119065576s
+19:06:36.505 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:06:36.803 [main] INFO  Handler_acl - access control function executed in 153 ms
+19:06:36.813 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+2025-02-11T19:06:37.128612085+00:00 - INFO - example function executed in 1.161742607s
+19:06:37.615 [main] INFO  Handler_acl - access control function executed in 659 ms
+2025-02-11T19:06:37.947533491+00:00 - INFO - example function executed in 1.683449805s
+19:06:38.886 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:06:39.247 [main] INFO  Handler_acl - access control function executed in 216 ms
+19:06:39.367 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+2025-02-11T19:06:39.573628337+00:00 - INFO - example function executed in 1.225883363s
+19:06:39.680 [main] INFO  Handler_acl - access control function executed in 174 ms
+2025-02-11T19:06:40.009084649+00:00 - INFO - example function executed in 1.176247554s
+19:06:41.348 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:06:41.581 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:06:41.837 [main] INFO  Handler_acl - access control function executed in 111 ms
+19:06:42.130 [main] INFO  Handler_acl - access control function executed in 612 ms
+2025-02-11T19:06:42.165833682+00:00 - INFO - example function executed in 1.144625936s
+2025-02-11T19:06:42.471380793+00:00 - INFO - example function executed in 1.685859349s
+19:06:47.131 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:06:47.869 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:06:48.004 [main] INFO  Handler_acl - access control function executed in 731 ms
+2025-02-11T19:06:48.331158761+00:00 - INFO - example function executed in 1.739535379s
+19:06:48.597 [main] INFO  Handler_acl - access control function executed in 586 ms
+2025-02-11T19:06:48.928901848+00:00 - INFO - example function executed in 1.604017976s
+19:06:51.499 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+19:06:51.576 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:06:51.956 [main] INFO  Handler_acl - access control function executed in 234 ms
+2025-02-11T19:06:52.287647407+00:00 - INFO - example function executed in 1.283223263s
+19:06:52.671 [main] INFO  Handler_acl - access control function executed in 1004 ms
+2025-02-11T19:06:52.998121771+00:00 - INFO - example function executed in 2.072005506s
+19:06:54.880 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:06:55.542 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:06:55.727 [main] INFO  Handler_acl - access control function executed in 709 ms
+19:06:55.995 [main] INFO  Handler_acl - access control function executed in 312 ms
+2025-02-11T19:06:56.054486861+00:00 - INFO - example function executed in 1.695001338s
+2025-02-11T19:06:56.325354100+00:00 - INFO - example function executed in 1.304046878s
+19:06:58.817 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:06:58.847 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:06:59.214 [main] INFO  Handler_acl - access control function executed in 216 ms
+2025-02-11T19:06:59.545273993+00:00 - INFO - example function executed in 1.28811167s
+19:06:59.905 [main] INFO  Handler_acl - access control function executed in 922 ms
+2025-02-11T19:07:00.231346290+00:00 - INFO - example function executed in 1.988678105s
+19:07:02.983 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+19:07:03.096 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+19:07:04.043 [main] INFO  Handler_acl - access control function executed in 881 ms
+19:07:04.177 [main] INFO  Handler_acl - access control function executed in 929 ms
+2025-02-11T19:07:04.369333590+00:00 - INFO - example function executed in 1.960978008s
+2025-02-11T19:07:04.506973439+00:00 - INFO - example function executed in 1.993967996s
+19:07:07.542 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+19:07:07.711 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:07:08.023 [main] INFO  Handler_acl - access control function executed in 167 ms
+2025-02-11T19:07:08.354341819+00:00 - INFO - example function executed in 1.241280654s
+19:07:08.731 [main] INFO  Handler_acl - access control function executed in 1032 ms
+2025-02-11T19:07:09.059206830+00:00 - INFO - example function executed in 2.171242184s
+19:07:10.895 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+19:07:11.211 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:07:11.607 [main] INFO  Handler_acl - access control function executed in 554 ms
+19:07:11.823 [main] INFO  Handler_acl - access control function executed in 474 ms
+2025-02-11T19:07:11.934330740+00:00 - INFO - example function executed in 1.617017178s
+2025-02-11T19:07:12.151603772+00:00 - INFO - example function executed in 1.473549309s
+19:07:14.537 [main] INFO  Injector - Read from MongoDB table executed in 45 ms
+19:07:14.583 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:07:14.975 [main] INFO  Handler_acl - access control function executed in 286 ms
+2025-02-11T19:07:15.301925016+00:00 - INFO - example function executed in 1.346482121s
+19:07:15.395 [main] INFO  Handler_acl - access control function executed in 643 ms
+2025-02-11T19:07:15.726112251+00:00 - INFO - example function executed in 1.759921135s
+19:07:17.973 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:07:18.813 [main] INFO  Handler_acl - access control function executed in 700 ms
+19:07:18.936 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+2025-02-11T19:07:19.140307480+00:00 - INFO - example function executed in 1.70465765s
+19:07:20.118 [main] INFO  Handler_acl - access control function executed in 1041 ms
+2025-02-11T19:07:20.447902776+00:00 - INFO - example function executed in 2.040430934s
+19:07:22.927 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:07:22.946 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+19:07:24.060 [main] INFO  Handler_acl - access control function executed in 973 ms
+19:07:24.161 [main] INFO  Handler_acl - access control function executed in 1050 ms
+2025-02-11T19:07:24.389482080+00:00 - INFO - example function executed in 2.007221177s
+2025-02-11T19:07:24.488161123+00:00 - INFO - example function executed in 2.106303692s
+19:07:27.351 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+19:07:27.636 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:07:27.913 [main] INFO  Handler_acl - access control function executed in 131 ms
+2025-02-11T19:07:28.243537519+00:00 - INFO - example function executed in 1.201655289s
+19:07:28.256 [main] INFO  Handler_acl - access control function executed in 737 ms
+2025-02-11T19:07:28.583800508+00:00 - INFO - example function executed in 1.799750927s
+19:07:31.229 [main] INFO  Injector - Read from MongoDB table executed in 45 ms
+19:07:31.502 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:07:31.972 [main] INFO  Handler_acl - access control function executed in 572 ms
+19:07:32.213 [main] INFO  Handler_acl - access control function executed in 548 ms
+2025-02-11T19:07:32.302271336+00:00 - INFO - example function executed in 1.719619826s
+2025-02-11T19:07:32.541993427+00:00 - INFO - example function executed in 1.619339807s
+19:07:35.438 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:07:35.827 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:07:36.253 [main] INFO  Handler_acl - access control function executed in 677 ms
+19:07:36.569 [main] INFO  Handler_acl - access control function executed in 605 ms
+2025-02-11T19:07:36.582921611+00:00 - INFO - example function executed in 1.689294797s
+2025-02-11T19:07:36.899270703+00:00 - INFO - example function executed in 1.612562382s
+19:07:39.474 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:07:39.844 [main] INFO  Handler_acl - access control function executed in 232 ms
+19:07:40.070 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+2025-02-11T19:07:40.171060511+00:00 - INFO - example function executed in 1.210835697s
+19:07:40.830 [main] INFO  Handler_acl - access control function executed in 584 ms
+2025-02-11T19:07:41.165147885+00:00 - INFO - example function executed in 1.7214016s
+19:07:43.634 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:07:44.053 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:07:44.178 [main] INFO  Handler_acl - access control function executed in 380 ms
+19:07:44.384 [main] INFO  Handler_acl - access control function executed in 179 ms
+2025-02-11T19:07:44.506083062+00:00 - INFO - example function executed in 1.40442253s
+2025-02-11T19:07:44.716125196+00:00 - INFO - example function executed in 1.254804893s
+19:07:47.502 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:07:47.578 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:07:47.942 [main] INFO  Handler_acl - access control function executed in 222 ms
+2025-02-11T19:07:48.273969429+00:00 - INFO - example function executed in 1.232651302s
+19:07:48.675 [main] INFO  Handler_acl - access control function executed in 1014 ms
+2025-02-11T19:07:49.002036515+00:00 - INFO - example function executed in 2.068597776s
+19:07:51.842 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:07:51.893 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:07:52.509 [main] INFO  Handler_acl - access control function executed in 471 ms
+19:07:52.628 [main] INFO  Handler_acl - access control function executed in 644 ms
+2025-02-11T19:07:52.838428016+00:00 - INFO - example function executed in 1.477951897s
+2025-02-11T19:07:52.953278254+00:00 - INFO - example function executed in 1.636070212s
+19:07:55.316 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:07:55.643 [main] INFO  Handler_acl - access control function executed in 184 ms
+19:07:55.711 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T19:07:55.969884318+00:00 - INFO - example function executed in 1.188425974s
+19:07:56.116 [main] INFO  Handler_acl - access control function executed in 262 ms
+2025-02-11T19:07:56.444863979+00:00 - INFO - example function executed in 1.282220362s
+19:07:58.983 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:07:59.164 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:07:59.904 [main] INFO  Handler_acl - access control function executed in 599 ms
+19:07:59.938 [main] INFO  Handler_acl - access control function executed in 805 ms
+2025-02-11T19:08:00.233186752+00:00 - INFO - example function executed in 1.636019836s
+2025-02-11T19:08:00.263980416+00:00 - INFO - example function executed in 1.828660421s
+19:08:02.745 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:08:03.116 [main] INFO  Handler_acl - access control function executed in 231 ms
+19:08:03.241 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T19:08:03.442104045+00:00 - INFO - example function executed in 1.21426896s
+19:08:03.868 [main] INFO  Handler_acl - access control function executed in 488 ms
+2025-02-11T19:08:04.201789614+00:00 - INFO - example function executed in 1.496288868s
+19:08:07.086 [main] INFO  Injector - Read from MongoDB table executed in 49 ms
+19:08:07.177 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:08:07.833 [main] INFO  Handler_acl - access control function executed in 507 ms
+19:08:08.080 [main] INFO  Handler_acl - access control function executed in 837 ms
+2025-02-11T19:08:08.161537930+00:00 - INFO - example function executed in 1.554921342s
+2025-02-11T19:08:08.408045151+00:00 - INFO - example function executed in 1.920996135s
+19:08:10.608 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+19:08:11.041 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:08:11.064 [main] INFO  Handler_acl - access control function executed in 308 ms
+2025-02-11T19:08:11.391727315+00:00 - INFO - example function executed in 1.339433411s
+19:08:11.917 [main] INFO  Handler_acl - access control function executed in 738 ms
+2025-02-11T19:08:12.250742081+00:00 - INFO - example function executed in 1.793233957s
+19:08:15.171 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:08:15.327 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:08:15.925 [main] INFO  Handler_acl - access control function executed in 454 ms
+19:08:16.181 [main] INFO  Handler_acl - access control function executed in 856 ms
+2025-02-11T19:08:16.257589035+00:00 - INFO - example function executed in 1.48042253s
+2025-02-11T19:08:16.507359267+00:00 - INFO - example function executed in 1.887496546s
+19:08:19.238 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+19:08:19.357 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:08:19.634 [main] INFO  Handler_acl - access control function executed in 132 ms
+19:08:19.640 [main] INFO  Handler_acl - access control function executed in 239 ms
+2025-02-11T19:08:19.964141011+00:00 - INFO - example function executed in 1.161381234s
+2025-02-11T19:08:19.967907795+00:00 - INFO - example function executed in 1.284062452s
+19:08:22.837 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:08:23.208 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:08:23.612 [main] INFO  Handler_acl - access control function executed in 610 ms
+2025-02-11T19:08:23.939479482+00:00 - INFO - example function executed in 1.650296743s
+19:08:24.274 [main] INFO  Handler_acl - access control function executed in 925 ms
+2025-02-11T19:08:24.602554281+00:00 - INFO - example function executed in 1.969102917s
+19:08:26.879 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:08:27.239 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:08:27.611 [main] INFO  Handler_acl - access control function executed in 232 ms
+19:08:27.794 [main] INFO  Handler_acl - access control function executed in 757 ms
+2025-02-11T19:08:27.941513446+00:00 - INFO - example function executed in 1.283437191s
+2025-02-11T19:08:28.126382601+00:00 - INFO - example function executed in 1.817719611s
+19:08:30.680 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:08:30.731 [main] INFO  Injector - Read from MongoDB table executed in 48 ms
+19:08:31.398 [main] INFO  Handler_acl - access control function executed in 569 ms
+19:08:31.402 [main] INFO  Handler_acl - access control function executed in 533 ms
+2025-02-11T19:08:31.725602404+00:00 - INFO - example function executed in 1.605324684s
+2025-02-11T19:08:31.734736507+00:00 - INFO - example function executed in 1.581798987s
+19:08:34.220 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+19:08:34.372 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:08:34.698 [main] INFO  Handler_acl - access control function executed in 327 ms
+2025-02-11T19:08:35.025767207+00:00 - INFO - example function executed in 1.371277472s
+19:08:35.099 [main] INFO  Handler_acl - access control function executed in 587 ms
+2025-02-11T19:08:35.429129611+00:00 - INFO - example function executed in 1.621492653s
+19:08:37.760 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:08:38.254 [main] INFO  Handler_acl - access control function executed in 328 ms
+2025-02-11T19:08:38.594943758+00:00 - INFO - example function executed in 1.382275169s
+19:08:38.698 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:08:39.682 [main] INFO  Handler_acl - access control function executed in 823 ms
+2025-02-11T19:08:40.022625236+00:00 - INFO - example function executed in 1.875235998s
+19:08:41.866 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:08:42.519 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:08:42.568 [main] INFO  Handler_acl - access control function executed in 555 ms
+2025-02-11T19:08:42.903262779+00:00 - INFO - example function executed in 1.591174063s
+19:08:43.299 [main] INFO  Handler_acl - access control function executed in 633 ms
+2025-02-11T19:08:43.632309835+00:00 - INFO - example function executed in 1.742275943s
+19:08:46.046 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:08:46.448 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:08:46.662 [main] INFO  Handler_acl - access control function executed in 473 ms
+2025-02-11T19:08:46.988938762+00:00 - INFO - example function executed in 1.475534594s
+19:08:47.041 [main] INFO  Handler_acl - access control function executed in 442 ms
+2025-02-11T19:08:47.369941987+00:00 - INFO - example function executed in 1.458010344s
+19:08:50.647 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+19:08:50.666 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:08:51.855 [main] INFO  Handler_acl - access control function executed in 1019 ms
+19:08:51.863 [main] INFO  Handler_acl - access control function executed in 1040 ms
+2025-02-11T19:08:52.182998807+00:00 - INFO - example function executed in 2.14600101s
+2025-02-11T19:08:52.194199181+00:00 - INFO - example function executed in 2.136235087s
+19:08:53.954 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:08:54.055 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:08:54.708 [main] INFO  Handler_acl - access control function executed in 613 ms
+2025-02-11T19:08:55.034722403+00:00 - INFO - example function executed in 1.619298248s
+19:08:55.169 [main] INFO  Handler_acl - access control function executed in 969 ms
+2025-02-11T19:08:55.500803894+00:00 - INFO - example function executed in 2.011125705s
+19:08:58.165 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:08:58.259 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:08:58.460 [main] INFO  Handler_acl - access control function executed in 144 ms
+2025-02-11T19:08:58.796996748+00:00 - INFO - example function executed in 1.175267434s
+19:08:58.920 [main] INFO  Handler_acl - access control function executed in 499 ms
+2025-02-11T19:08:59.250598157+00:00 - INFO - example function executed in 1.539791783s
+19:09:01.280 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:09:01.862 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:09:02.346 [main] INFO  Handler_acl - access control function executed in 916 ms
+19:09:02.656 [main] INFO  Handler_acl - access control function executed in 650 ms
+2025-02-11T19:09:02.675016004+00:00 - INFO - example function executed in 1.919518744s
+2025-02-11T19:09:02.995115469+00:00 - INFO - example function executed in 1.656107539s
+19:09:05.089 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:09:05.678 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:09:05.878 [main] INFO  Handler_acl - access control function executed in 639 ms
+2025-02-11T19:09:06.205030926+00:00 - INFO - example function executed in 1.682152169s
+19:09:06.814 [main] INFO  Handler_acl - access control function executed in 999 ms
+2025-02-11T19:09:07.143830737+00:00 - INFO - example function executed in 2.006915715s
+19:09:09.409 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:09:09.961 [main] INFO  Handler_acl - access control function executed in 404 ms
+19:09:09.993 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T19:09:10.288315066+00:00 - INFO - example function executed in 1.417478489s
+19:09:10.612 [main] INFO  Handler_acl - access control function executed in 482 ms
+2025-02-11T19:09:10.941049491+00:00 - INFO - example function executed in 1.499095878s
+19:09:13.596 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:09:14.251 [main] INFO  Handler_acl - access control function executed in 515 ms
+19:09:14.327 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+2025-02-11T19:09:14.577833506+00:00 - INFO - example function executed in 1.53441762s
+19:09:15.282 [main] INFO  Handler_acl - access control function executed in 817 ms
+2025-02-11T19:09:15.612058554+00:00 - INFO - example function executed in 1.812148019s
+19:09:18.842 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:09:19.147 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:09:19.344 [main] INFO  Handler_acl - access control function executed in 338 ms
+2025-02-11T19:09:19.672174850+00:00 - INFO - example function executed in 1.392324438s
+19:09:19.857 [main] INFO  Handler_acl - access control function executed in 561 ms
+2025-02-11T19:09:20.184090269+00:00 - INFO - example function executed in 1.604565249s
+19:09:22.575 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:09:22.575 [main] INFO  Injector - Read from MongoDB table executed in 48 ms
+19:09:22.935 [main] INFO  Handler_acl - access control function executed in 207 ms
+2025-02-11T19:09:23.265122616+00:00 - INFO - example function executed in 1.252209958s
+19:09:23.281 [main] INFO  Handler_acl - access control function executed in 571 ms
+2025-02-11T19:09:23.611794942+00:00 - INFO - example function executed in 1.588652447s
+19:09:26.756 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:09:26.799 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:09:27.315 [main] INFO  Handler_acl - access control function executed in 408 ms
+19:09:27.454 [main] INFO  Handler_acl - access control function executed in 507 ms
+2025-02-11T19:09:27.642062202+00:00 - INFO - example function executed in 1.433667075s
+2025-02-11T19:09:27.802106032+00:00 - INFO - example function executed in 1.54122105s
+19:09:30.443 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:09:30.768 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:09:31.294 [main] INFO  Handler_acl - access control function executed in 710 ms
+2025-02-11T19:09:31.633390865+00:00 - INFO - example function executed in 1.721540869s
+19:09:31.633 [main] INFO  Handler_acl - access control function executed in 722 ms
+2025-02-11T19:09:31.964744522+00:00 - INFO - example function executed in 1.771372884s
+19:09:34.435 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+19:09:34.714 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:09:35.244 [main] INFO  Handler_acl - access control function executed in 653 ms
+2025-02-11T19:09:35.572503260+00:00 - INFO - example function executed in 1.694279856s
+19:09:35.574 [main] INFO  Handler_acl - access control function executed in 716 ms
+2025-02-11T19:09:35.901529163+00:00 - INFO - example function executed in 1.777300977s
+19:09:38.969 [main] INFO  Injector - Read from MongoDB table executed in 52 ms
+19:09:39.073 [main] INFO  Injector - Read from MongoDB table executed in 49 ms
+19:09:39.461 [main] INFO  Handler_acl - access control function executed in 335 ms
+2025-02-11T19:09:39.789475744+00:00 - INFO - example function executed in 1.385230694s
+19:09:39.897 [main] INFO  Handler_acl - access control function executed in 679 ms
+2025-02-11T19:09:40.223788284+00:00 - INFO - example function executed in 1.711819516s
+19:09:42.932 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+19:09:43.087 [main] INFO  Injector - Read from MongoDB table executed in 48 ms
+19:09:43.931 [main] INFO  Handler_acl - access control function executed in 833 ms
+19:09:43.936 [main] INFO  Handler_acl - access control function executed in 702 ms
+2025-02-11T19:09:44.258624883+00:00 - INFO - example function executed in 1.892397225s
+2025-02-11T19:09:44.271579741+00:00 - INFO - example function executed in 1.810488409s
+19:09:46.846 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:09:47.072 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+19:09:48.068 [main] INFO  Handler_acl - access control function executed in 1041 ms
+19:09:48.210 [main] INFO  Handler_acl - access control function executed in 994 ms
+2025-02-11T19:09:48.395787111+00:00 - INFO - example function executed in 2.102304187s
+2025-02-11T19:09:48.540819099+00:00 - INFO - example function executed in 2.039796802s
+19:09:51.203 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:09:51.330 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:09:51.628 [main] INFO  Handler_acl - access control function executed in 270 ms
+2025-02-11T19:09:51.955123059+00:00 - INFO - example function executed in 1.321790981s
+19:09:52.066 [main] INFO  Handler_acl - access control function executed in 595 ms
+2025-02-11T19:09:52.396529307+00:00 - INFO - example function executed in 1.616150824s
+19:09:54.109 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:09:54.509 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:09:54.849 [main] INFO  Handler_acl - access control function executed in 597 ms
+19:09:55.038 [main] INFO  Handler_acl - access control function executed in 386 ms
+2025-02-11T19:09:55.176801046+00:00 - INFO - example function executed in 1.598707234s
+2025-02-11T19:09:55.367258203+00:00 - INFO - example function executed in 1.424986622s
+19:09:57.107 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+19:09:57.588 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:09:58.252 [main] INFO  Handler_acl - access control function executed in 972 ms
+19:09:58.475 [main] INFO  Handler_acl - access control function executed in 729 ms
+2025-02-11T19:09:58.579035894+00:00 - INFO - example function executed in 2.076095306s
+2025-02-11T19:09:58.813594176+00:00 - INFO - example function executed in 1.824745267s
+19:10:00.942 [main] INFO  Injector - Read from MongoDB table executed in 62 ms
+19:10:01.213 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:10:01.682 [main] INFO  Handler_acl - access control function executed in 592 ms
+2025-02-11T19:10:02.012790442+00:00 - INFO - example function executed in 1.651513068s
+19:10:02.051 [main] INFO  Handler_acl - access control function executed in 680 ms
+2025-02-11T19:10:02.383315380+00:00 - INFO - example function executed in 1.731656612s
+19:10:04.964 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:10:05.249 [main] INFO  Handler_acl - access control function executed in 137 ms
+19:10:05.352 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T19:10:05.576127212+00:00 - INFO - example function executed in 1.156537473s
+19:10:05.898 [main] INFO  Handler_acl - access control function executed in 403 ms
+2025-02-11T19:10:06.226105433+00:00 - INFO - example function executed in 1.426205217s
+19:10:09.106 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:10:09.367 [main] INFO  Handler_acl - access control function executed in 120 ms
+19:10:09.431 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T19:10:09.694485469+00:00 - INFO - example function executed in 1.124991583s
+19:10:09.888 [main] INFO  Handler_acl - access control function executed in 316 ms
+2025-02-11T19:10:10.217884173+00:00 - INFO - example function executed in 1.352015494s
+19:10:13.488 [main] INFO  Injector - Read from MongoDB table executed in 45 ms
+19:10:13.651 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+19:10:13.777 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+19:10:14.145 [main] INFO  Handler_acl - access control function executed in 447 ms
+2025-02-11T19:10:14.472667598+00:00 - INFO - example function executed in 1.614490566s
+19:10:14.501 [main] INFO  Handler_acl - access control function executed in 677 ms
+19:10:14.606 [main] INFO  Handler_acl - access control function executed in 678 ms
+2025-02-11T19:10:14.828042936+00:00 - INFO - example function executed in 1.847061484s
+2025-02-11T19:10:14.937137412+00:00 - INFO - example function executed in 1.924936996s
+19:10:16.985 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+19:10:17.058 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:10:17.352 [main] INFO  Handler_acl - access control function executed in 204 ms
+2025-02-11T19:10:17.679283374+00:00 - INFO - example function executed in 1.284099238s
+19:10:17.698 [main] INFO  Handler_acl - access control function executed in 482 ms
+19:10:17.714 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+2025-02-11T19:10:18.025256864+00:00 - INFO - example function executed in 1.528982776s
+19:10:18.066 [main] INFO  Handler_acl - access control function executed in 209 ms
+2025-02-11T19:10:18.396171675+00:00 - INFO - example function executed in 1.256357702s
+19:10:20.806 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:10:20.963 [main] INFO  Injector - Read from MongoDB table executed in 58 ms
+19:10:21.216 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:10:21.517 [main] INFO  Handler_acl - access control function executed in 545 ms
+19:10:21.841 [main] INFO  Handler_acl - access control function executed in 688 ms
+2025-02-11T19:10:21.844898284+00:00 - INFO - example function executed in 1.624689209s
+19:10:22.126 [main] INFO  Handler_acl - access control function executed in 757 ms
+2025-02-11T19:10:22.166832380+00:00 - INFO - example function executed in 1.877700352s
+2025-02-11T19:10:22.455328174+00:00 - INFO - example function executed in 1.905839046s
+19:10:25.209 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:10:25.313 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+19:10:25.784 [main] INFO  Handler_acl - access control function executed in 310 ms
+19:10:25.839 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T19:10:26.111023688+00:00 - INFO - example function executed in 1.389882048s
+19:10:26.142 [main] INFO  Handler_acl - access control function executed in 756 ms
+19:10:26.179 [main] INFO  Handler_acl - access control function executed in 204 ms
+2025-02-11T19:10:26.468093696+00:00 - INFO - example function executed in 1.802437573s
+2025-02-11T19:10:26.504745401+00:00 - INFO - example function executed in 1.240023641s
+19:10:27.651 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:10:28.198 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:10:28.480 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:10:28.562 [main] INFO  Handler_acl - access control function executed in 762 ms
+2025-02-11T19:10:28.889170196+00:00 - INFO - example function executed in 1.778860239s
+19:10:29.218 [main] INFO  Handler_acl - access control function executed in 875 ms
+19:10:29.524 [main] INFO  Handler_acl - access control function executed in 903 ms
+2025-02-11T19:10:29.542979082+00:00 - INFO - example function executed in 1.903963525s
+2025-02-11T19:10:29.852748700+00:00 - INFO - example function executed in 1.934699171s
+19:10:32.484 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:10:32.571 [main] INFO  Injector - Read from MongoDB table executed in 60 ms
+19:10:32.795 [main] INFO  Injector - Read from MongoDB table executed in 54 ms
+19:10:33.662 [main] INFO  Handler_acl - access control function executed in 978 ms
+19:10:33.734 [main] INFO  Handler_acl - access control function executed in 959 ms
+19:10:33.829 [main] INFO  Handler_acl - access control function executed in 866 ms
+2025-02-11T19:10:33.989888453+00:00 - INFO - example function executed in 2.093315226s
+2025-02-11T19:10:34.060988826+00:00 - INFO - example function executed in 2.161306465s
+2025-02-11T19:10:34.171243579+00:00 - INFO - example function executed in 2.075028961s
+19:10:36.046 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+19:10:36.225 [main] INFO  Injector - Read from MongoDB table executed in 54 ms
+19:10:36.473 [main] INFO  Handler_acl - access control function executed in 216 ms
+19:10:36.699 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+2025-02-11T19:10:36.802005437+00:00 - INFO - example function executed in 1.348603148s
+19:10:36.808 [main] INFO  Handler_acl - access control function executed in 410 ms
+2025-02-11T19:10:37.149046848+00:00 - INFO - example function executed in 1.547009564s
+19:10:37.234 [main] INFO  Handler_acl - access control function executed in 373 ms
+2025-02-11T19:10:37.565513619+00:00 - INFO - example function executed in 1.511048189s
+19:10:40.259 [main] INFO  Injector - Read from MongoDB table executed in 61 ms
+19:10:40.492 [main] INFO  Injector - Read from MongoDB table executed in 45 ms
+19:10:40.733 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+19:10:41.012 [main] INFO  Handler_acl - access control function executed in 139 ms
+2025-02-11T19:10:41.340631056+00:00 - INFO - example function executed in 1.184601632s
+19:10:41.422 [main] INFO  Handler_acl - access control function executed in 990 ms
+19:10:41.684 [main] INFO  Handler_acl - access control function executed in 1049 ms
+2025-02-11T19:10:41.747502854+00:00 - INFO - example function executed in 2.068967915s
+2025-02-11T19:10:42.009690461+00:00 - INFO - example function executed in 2.17027679s
+19:10:44.092 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:10:44.436 [main] INFO  Handler_acl - access control function executed in 202 ms
+19:10:44.478 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+2025-02-11T19:10:44.768339760+00:00 - INFO - example function executed in 1.211624195s
+19:10:44.994 [main] INFO  Injector - Read from MongoDB table executed in 45 ms
+19:10:45.011 [main] INFO  Handler_acl - access control function executed in 390 ms
+2025-02-11T19:10:45.339282332+00:00 - INFO - example function executed in 1.409142189s
+19:10:46.086 [main] INFO  Handler_acl - access control function executed in 899 ms
+2025-02-11T19:10:46.419881487+00:00 - INFO - example function executed in 2.093279339s
+19:10:49.213 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:10:49.946 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:10:50.018 [main] INFO  Handler_acl - access control function executed in 655 ms
+19:10:50.042 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+19:10:50.218 [main] INFO  Handler_acl - access control function executed in 115 ms
+2025-02-11T19:10:50.348660660+00:00 - INFO - example function executed in 1.701428507s
+19:10:50.465 [main] INFO  Handler_acl - access control function executed in 238 ms
+2025-02-11T19:10:50.550012977+00:00 - INFO - example function executed in 1.190049192s
+2025-02-11T19:10:50.806014212+00:00 - INFO - example function executed in 1.401163764s
+19:10:53.292 [main] INFO  Injector - Read from MongoDB table executed in 56 ms
+19:10:53.463 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+19:10:53.905 [main] INFO  Handler_acl - access control function executed in 431 ms
+19:10:54.004 [main] INFO  Handler_acl - access control function executed in 365 ms
+19:10:54.098 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+2025-02-11T19:10:54.250796639+00:00 - INFO - example function executed in 1.545794073s
+2025-02-11T19:10:54.339052198+00:00 - INFO - example function executed in 1.522049777s
+19:10:54.483 [main] INFO  Handler_acl - access control function executed in 220 ms
+2025-02-11T19:10:54.819886159+00:00 - INFO - example function executed in 1.317581552s
+19:10:57.462 [main] INFO  Injector - Read from MongoDB table executed in 68 ms
+19:10:57.725 [main] INFO  Injector - Read from MongoDB table executed in 66 ms
+19:10:57.830 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+19:10:58.142 [main] INFO  Handler_acl - access control function executed in 159 ms
+19:10:58.279 [main] INFO  Handler_acl - access control function executed in 625 ms
+19:10:58.373 [main] INFO  Handler_acl - access control function executed in 460 ms
+2025-02-11T19:10:58.480204760+00:00 - INFO - example function executed in 1.286376323s
+2025-02-11T19:10:58.609339068+00:00 - INFO - example function executed in 1.804061941s
+2025-02-11T19:10:58.705561033+00:00 - INFO - example function executed in 1.750886162s
+19:11:01.501 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+19:11:01.717 [main] INFO  Injector - Read from MongoDB table executed in 59 ms
+19:11:01.744 [main] INFO  Injector - Read from MongoDB table executed in 62 ms
+19:11:02.072 [main] INFO  Handler_acl - access control function executed in 197 ms
+19:11:02.144 [main] INFO  Handler_acl - access control function executed in 449 ms
+19:11:02.152 [main] INFO  Handler_acl - access control function executed in 237 ms
+2025-02-11T19:11:02.400473835+00:00 - INFO - example function executed in 1.480258088s
+2025-02-11T19:11:02.471348382+00:00 - INFO - example function executed in 1.649683794s
+2025-02-11T19:11:02.494478372+00:00 - INFO - example function executed in 1.495988343s
+19:11:05.369 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+19:11:05.439 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:11:05.811 [main] INFO  Handler_acl - access control function executed in 238 ms
+19:11:06.022 [main] INFO  Handler_acl - access control function executed in 425 ms
+19:11:06.105 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+2025-02-11T19:11:06.145279309+00:00 - INFO - example function executed in 1.373130567s
+2025-02-11T19:11:06.349373378+00:00 - INFO - example function executed in 1.526638186s
+19:11:07.206 [main] INFO  Handler_acl - access control function executed in 956 ms
+2025-02-11T19:11:07.535450949+00:00 - INFO - example function executed in 2.02263866s
+19:11:09.468 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:11:09.917 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:11:09.935 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:11:10.736 [main] INFO  Handler_acl - access control function executed in 1089 ms
+19:11:10.957 [main] INFO  Handler_acl - access control function executed in 884 ms
+19:11:11.037 [main] INFO  Handler_acl - access control function executed in 972 ms
+2025-02-11T19:11:11.062370419+00:00 - INFO - example function executed in 2.163504561s
+2025-02-11T19:11:11.287156727+00:00 - INFO - example function executed in 1.935529457s
+2025-02-11T19:11:11.364556563+00:00 - INFO - example function executed in 2.080422844s
+19:11:13.484 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:11:13.786 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+19:11:14.058 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:11:14.158 [main] INFO  Handler_acl - access control function executed in 494 ms
+19:11:14.482 [main] INFO  Handler_acl - access control function executed in 285 ms
+2025-02-11T19:11:14.483974337+00:00 - INFO - example function executed in 1.541533338s
+2025-02-11T19:11:14.810951710+00:00 - INFO - example function executed in 1.308057472s
+19:11:14.874 [main] INFO  Handler_acl - access control function executed in 946 ms
+2025-02-11T19:11:15.201382076+00:00 - INFO - example function executed in 1.990666715s
+19:11:17.374 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:11:17.715 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:11:17.956 [main] INFO  Handler_acl - access control function executed in 412 ms
+19:11:18.074 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T19:11:18.283263428+00:00 - INFO - example function executed in 1.455059615s
+19:11:18.640 [main] INFO  Handler_acl - access control function executed in 429 ms
+19:11:18.691 [main] INFO  Handler_acl - access control function executed in 835 ms
+2025-02-11T19:11:18.969373262+00:00 - INFO - example function executed in 1.453588922s
+2025-02-11T19:11:19.015789828+00:00 - INFO - example function executed in 1.860527725s
+19:11:21.697 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:11:21.896 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:11:22.099 [main] INFO  Handler_acl - access control function executed in 204 ms
+19:11:22.256 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T19:11:22.425677379+00:00 - INFO - example function executed in 1.258906071s
+19:11:22.550 [main] INFO  Handler_acl - access control function executed in 157 ms
+19:11:22.579 [main] INFO  Handler_acl - access control function executed in 531 ms
+2025-02-11T19:11:22.873808632+00:00 - INFO - example function executed in 1.203152738s
+2025-02-11T19:11:22.904645196+00:00 - INFO - example function executed in 1.566735491s
+19:11:25.756 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:11:26.286 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:11:26.375 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:11:26.734 [main] INFO  Handler_acl - access control function executed in 216 ms
+19:11:27.029 [main] INFO  Handler_acl - access control function executed in 1106 ms
+2025-02-11T19:11:27.062778873+00:00 - INFO - example function executed in 1.277107525s
+2025-02-11T19:11:27.355014608+00:00 - INFO - example function executed in 2.138192545s
+19:11:27.523 [main] INFO  Handler_acl - access control function executed in 1088 ms
+2025-02-11T19:11:27.850223101+00:00 - INFO - example function executed in 2.137721562s
+19:11:30.728 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+19:11:31.091 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:11:31.386 [main] INFO  Handler_acl - access control function executed in 496 ms
+19:11:31.398 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T19:11:31.712422746+00:00 - INFO - example function executed in 1.540018957s
+19:11:32.116 [main] INFO  Handler_acl - access control function executed in 578 ms
+19:11:32.178 [main] INFO  Handler_acl - access control function executed in 935 ms
+2025-02-11T19:11:32.442236117+00:00 - INFO - example function executed in 1.627167561s
+2025-02-11T19:11:32.504443322+00:00 - INFO - example function executed in 1.982055238s
+19:11:34.512 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:11:34.965 [main] INFO  Handler_acl - access control function executed in 301 ms
+19:11:34.967 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+2025-02-11T19:11:35.292019608+00:00 - INFO - example function executed in 1.329340586s
+19:11:35.311 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+19:11:36.073 [main] INFO  Handler_acl - access control function executed in 962 ms
+2025-02-11T19:11:36.397807428+00:00 - INFO - example function executed in 1.978216887s
+19:11:36.518 [main] INFO  Handler_acl - access control function executed in 1051 ms
+2025-02-11T19:11:36.857531202+00:00 - INFO - example function executed in 2.111517823s
+19:11:39.627 [main] INFO  Injector - Read from MongoDB table executed in 52 ms
+19:11:39.866 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+19:11:40.344 [main] INFO  Handler_acl - access control function executed in 320 ms
+19:11:40.582 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:11:40.599 [main] INFO  Handler_acl - access control function executed in 816 ms
+2025-02-11T19:11:40.670611108+00:00 - INFO - example function executed in 1.489167595s
+2025-02-11T19:11:40.929731417+00:00 - INFO - example function executed in 1.871954838s
+19:11:41.285 [main] INFO  Handler_acl - access control function executed in 562 ms
+2025-02-11T19:11:41.614994495+00:00 - INFO - example function executed in 1.634378939s
+19:11:43.660 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:11:44.269 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:11:44.518 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:11:44.758 [main] INFO  Handler_acl - access control function executed in 955 ms
+2025-02-11T19:11:45.084902489+00:00 - INFO - example function executed in 1.969278702s
+19:11:45.098 [main] INFO  Handler_acl - access control function executed in 681 ms
+2025-02-11T19:11:45.423865826+00:00 - INFO - example function executed in 1.732596321s
+19:11:45.752 [main] INFO  Handler_acl - access control function executed in 1091 ms
+2025-02-11T19:11:46.081472999+00:00 - INFO - example function executed in 2.103769047s
+19:11:48.613 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:11:48.996 [main] INFO  Handler_acl - access control function executed in 229 ms
+19:11:49.210 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+19:11:49.311 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T19:11:49.335046932+00:00 - INFO - example function executed in 1.251782039s
+19:11:49.872 [main] INFO  Handler_acl - access control function executed in 499 ms
+19:11:49.955 [main] INFO  Handler_acl - access control function executed in 498 ms
+2025-02-11T19:11:50.210193907+00:00 - INFO - example function executed in 1.56680562s
+2025-02-11T19:11:50.287860155+00:00 - INFO - example function executed in 1.571849528s
+19:11:53.497 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:11:53.732 [main] INFO  Injector - Read from MongoDB table executed in 49 ms
+19:11:53.736 [main] INFO  Injector - Read from MongoDB table executed in 51 ms
+19:11:54.089 [main] INFO  Handler_acl - access control function executed in 193 ms
+2025-02-11T19:11:54.419530455+00:00 - INFO - example function executed in 1.316914981s
+19:11:54.483 [main] INFO  Handler_acl - access control function executed in 607 ms
+19:11:54.786 [main] INFO  Handler_acl - access control function executed in 1114 ms
+2025-02-11T19:11:54.809330852+00:00 - INFO - example function executed in 1.720375614s
+2025-02-11T19:11:55.112681169+00:00 - INFO - example function executed in 2.237111448s
+19:11:58.303 [main] INFO  Injector - Read from MongoDB table executed in 62 ms
+19:11:58.516 [main] INFO  Injector - Read from MongoDB table executed in 48 ms
+19:11:58.552 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+19:11:58.820 [main] INFO  Handler_acl - access control function executed in 296 ms
+2025-02-11T19:11:59.150961018+00:00 - INFO - example function executed in 1.511475315s
+19:11:59.303 [main] INFO  Handler_acl - access control function executed in 621 ms
+2025-02-11T19:11:59.632900761+00:00 - INFO - example function executed in 1.775640957s
+19:11:59.758 [main] INFO  Handler_acl - access control function executed in 1041 ms
+2025-02-11T19:12:00.098560513+00:00 - INFO - example function executed in 2.190506138s
+19:12:03.879 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+19:12:03.941 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:12:04.458 [main] INFO  Handler_acl - access control function executed in 395 ms
+19:12:04.667 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+2025-02-11T19:12:04.796192923+00:00 - INFO - example function executed in 1.504517975s
+19:12:04.931 [main] INFO  Handler_acl - access control function executed in 822 ms
+2025-02-11T19:12:05.266432880+00:00 - INFO - example function executed in 1.962030832s
+19:12:05.921 [main] INFO  Handler_acl - access control function executed in 1091 ms
+2025-02-11T19:12:06.260529612+00:00 - INFO - example function executed in 2.169836872s
+19:12:09.097 [main] INFO  Injector - Read from MongoDB table executed in 49 ms
+19:12:09.412 [main] INFO  Handler_acl - access control function executed in 129 ms
+19:12:09.568 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+19:12:09.674 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+2025-02-11T19:12:09.762359489+00:00 - INFO - example function executed in 1.238478399s
+19:12:09.832 [main] INFO  Handler_acl - access control function executed in 123 ms
+2025-02-11T19:12:10.158501290+00:00 - INFO - example function executed in 1.219735053s
+19:12:10.495 [main] INFO  Handler_acl - access control function executed in 681 ms
+2025-02-11T19:12:10.824104680+00:00 - INFO - example function executed in 1.767698656s
+19:12:12.974 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+19:12:13.369 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:12:13.643 [main] INFO  Handler_acl - access control function executed in 501 ms
+19:12:13.741 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:12:13.890 [main] INFO  Handler_acl - access control function executed in 381 ms
+2025-02-11T19:12:13.969353812+00:00 - INFO - example function executed in 1.534206645s
+2025-02-11T19:12:14.216978931+00:00 - INFO - example function executed in 1.388640471s
+19:12:14.677 [main] INFO  Handler_acl - access control function executed in 793 ms
+2025-02-11T19:12:15.005892073+00:00 - INFO - example function executed in 1.790285957s
+19:12:17.696 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+19:12:17.756 [main] INFO  Injector - Read from MongoDB table executed in 48 ms
+19:12:17.812 [main] INFO  Injector - Read from MongoDB table executed in 58 ms
+19:12:18.329 [main] INFO  Handler_acl - access control function executed in 435 ms
+19:12:18.371 [main] INFO  Handler_acl - access control function executed in 442 ms
+19:12:18.591 [main] INFO  Handler_acl - access control function executed in 620 ms
+2025-02-11T19:12:18.655578295+00:00 - INFO - example function executed in 1.621367179s
+2025-02-11T19:12:18.697870522+00:00 - INFO - example function executed in 1.568905111s
+2025-02-11T19:12:18.918759890+00:00 - INFO - example function executed in 1.75525973s
+19:12:20.989 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+19:12:21.081 [main] INFO  Injector - Read from MongoDB table executed in 58 ms
+19:12:21.144 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:12:21.655 [main] INFO  Handler_acl - access control function executed in 402 ms
+19:12:21.801 [main] INFO  Handler_acl - access control function executed in 647 ms
+19:12:21.844 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:12:21.874 [main] INFO  Handler_acl - access control function executed in 571 ms
+2025-02-11T19:12:21.982376303+00:00 - INFO - example function executed in 1.582859989s
+2025-02-11T19:12:22.128082961+00:00 - INFO - example function executed in 1.738371131s
+2025-02-11T19:12:22.199025956+00:00 - INFO - example function executed in 1.713179571s
+19:12:22.525 [main] INFO  Handler_acl - access control function executed in 539 ms
+2025-02-11T19:12:22.855397845+00:00 - INFO - example function executed in 1.551299905s
+19:12:24.077 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:12:24.575 [main] INFO  Handler_acl - access control function executed in 352 ms
+19:12:24.757 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+2025-02-11T19:12:24.921209793+00:00 - INFO - example function executed in 1.371060093s
+19:12:25.057 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+19:12:25.139 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+19:12:25.652 [main] INFO  Handler_acl - access control function executed in 442 ms
+2025-02-11T19:12:25.979057065+00:00 - INFO - example function executed in 1.682290107s
+19:12:26.044 [main] INFO  Handler_acl - access control function executed in 1113 ms
+19:12:26.125 [main] INFO  Handler_acl - access control function executed in 844 ms
+2025-02-11T19:12:26.371373990+00:00 - INFO - example function executed in 2.230124316s
+2025-02-11T19:12:26.456882086+00:00 - INFO - example function executed in 2.067822715s
+19:12:28.850 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:12:29.327 [main] INFO  Injector - Read from MongoDB table executed in 65 ms
+19:12:29.424 [main] INFO  Injector - Read from MongoDB table executed in 54 ms
+19:12:29.591 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:12:29.837 [main] INFO  Handler_acl - access control function executed in 833 ms
+19:12:30.138 [main] INFO  Handler_acl - access control function executed in 615 ms
+2025-02-11T19:12:30.163891782+00:00 - INFO - example function executed in 1.852944009s
+2025-02-11T19:12:30.463060413+00:00 - INFO - example function executed in 1.828314753s
+19:12:30.544 [main] INFO  Handler_acl - access control function executed in 961 ms
+19:12:30.759 [main] INFO  Handler_acl - access control function executed in 1016 ms
+2025-02-11T19:12:30.871092464+00:00 - INFO - example function executed in 2.095257923s
+2025-02-11T19:12:31.088376803+00:00 - INFO - example function executed in 2.18542786s
+19:12:32.721 [main] INFO  Injector - Read from MongoDB table executed in 74 ms
+19:12:33.094 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+19:12:33.184 [main] INFO  Injector - Read from MongoDB table executed in 48 ms
+19:12:33.265 [main] INFO  Injector - Read from MongoDB table executed in 56 ms
+19:12:33.271 [main] INFO  Handler_acl - access control function executed in 363 ms
+2025-02-11T19:12:33.610589364+00:00 - INFO - example function executed in 1.521961061s
+19:12:33.636 [main] INFO  Handler_acl - access control function executed in 208 ms
+19:12:33.755 [main] INFO  Handler_acl - access control function executed in 394 ms
+2025-02-11T19:12:33.963069554+00:00 - INFO - example function executed in 1.501373086s
+19:12:33.990 [main] INFO  Handler_acl - access control function executed in 708 ms
+2025-02-11T19:12:34.081301279+00:00 - INFO - example function executed in 1.693260976s
+2025-02-11T19:12:34.316660377+00:00 - INFO - example function executed in 1.955757181s
+19:12:36.184 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:12:36.633 [main] INFO  Injector - Read from MongoDB table executed in 48 ms
+19:12:36.911 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:12:37.096 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+19:12:37.350 [main] INFO  Handler_acl - access control function executed in 1005 ms
+19:12:37.471 [main] INFO  Handler_acl - access control function executed in 218 ms
+19:12:37.535 [main] INFO  Handler_acl - access control function executed in 721 ms
+2025-02-11T19:12:37.678912494+00:00 - INFO - example function executed in 2.045247508s
+2025-02-11T19:12:37.812024312+00:00 - INFO - example function executed in 1.34036329s
+2025-02-11T19:12:37.864400571+00:00 - INFO - example function executed in 1.871107473s
+19:12:38.021 [main] INFO  Handler_acl - access control function executed in 965 ms
+2025-02-11T19:12:38.350129527+00:00 - INFO - example function executed in 2.03068866s
+19:12:40.273 [main] INFO  Injector - Read from MongoDB table executed in 49 ms
+19:12:40.300 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:12:40.425 [main] INFO  Injector - Read from MongoDB table executed in 67 ms
+19:12:40.931 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:12:41.175 [main] INFO  Handler_acl - access control function executed in 682 ms
+19:12:41.486 [main] INFO  Handler_acl - access control function executed in 407 ms
+2025-02-11T19:12:41.501730176+00:00 - INFO - example function executed in 1.902448389s
+19:12:41.653 [main] INFO  Handler_acl - access control function executed in 988 ms
+19:12:41.705 [main] INFO  Handler_acl - access control function executed in 1148 ms
+2025-02-11T19:12:41.817976970+00:00 - INFO - example function executed in 1.526429795s
+2025-02-11T19:12:41.990841593+00:00 - INFO - example function executed in 2.318512545s
+2025-02-11T19:12:42.037989247+00:00 - INFO - example function executed in 2.3965013s
+19:12:44.182 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:12:44.525 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+19:12:44.736 [main] INFO  Handler_acl - access control function executed in 405 ms
+19:12:44.939 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:12:44.971 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T19:12:45.076799909+00:00 - INFO - example function executed in 1.443508024s
+19:12:45.506 [main] INFO  Handler_acl - access control function executed in 420 ms
+19:12:45.794 [main] INFO  Handler_acl - access control function executed in 668 ms
+19:12:45.802 [main] INFO  Handler_acl - access control function executed in 1081 ms
+2025-02-11T19:12:45.838881137+00:00 - INFO - example function executed in 1.55751632s
+2025-02-11T19:12:46.135051991+00:00 - INFO - example function executed in 1.836964621s
+2025-02-11T19:12:46.135548546+00:00 - INFO - example function executed in 2.224229602s
+19:12:48.269 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:12:48.349 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:12:48.955 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:12:49.110 [main] INFO  Handler_acl - access control function executed in 677 ms
+19:12:49.202 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T19:12:49.447425550+00:00 - INFO - example function executed in 1.744783538s
+19:12:49.596 [main] INFO  Handler_acl - access control function executed in 1084 ms
+19:12:49.737 [main] INFO  Handler_acl - access control function executed in 394 ms
+19:12:49.796 [main] INFO  Handler_acl - access control function executed in 693 ms
+2025-02-11T19:12:49.926871775+00:00 - INFO - example function executed in 2.135688553s
+2025-02-11T19:12:50.064084676+00:00 - INFO - example function executed in 1.394962745s
+2025-02-11T19:12:50.137555102+00:00 - INFO - example function executed in 1.744596536s
+19:12:52.368 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:12:52.665 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:12:52.950 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+19:12:53.120 [main] INFO  Handler_acl - access control function executed in 600 ms
+19:12:53.193 [main] INFO  Handler_acl - access control function executed in 357 ms
+19:12:53.209 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+2025-02-11T19:12:53.445435719+00:00 - INFO - example function executed in 1.610487843s
+2025-02-11T19:12:53.529561282+00:00 - INFO - example function executed in 1.489191162s
+19:12:53.898 [main] INFO  Handler_acl - access control function executed in 775 ms
+19:12:54.029 [main] INFO  Handler_acl - access control function executed in 666 ms
+2025-02-11T19:12:54.226210964+00:00 - INFO - example function executed in 1.905255412s
+2025-02-11T19:12:54.359680114+00:00 - INFO - example function executed in 1.74996144s
+19:12:56.478 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+19:12:56.565 [main] INFO  Injector - Read from MongoDB table executed in 60 ms
+19:12:56.897 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:12:57.038 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:12:57.361 [main] INFO  Handler_acl - access control function executed in 560 ms
+19:12:57.672 [main] INFO  Handler_acl - access control function executed in 616 ms
+2025-02-11T19:12:57.688882716+00:00 - INFO - example function executed in 1.796239934s
+19:12:57.854 [main] INFO  Handler_acl - access control function executed in 1119 ms
+2025-02-11T19:12:57.998697095+00:00 - INFO - example function executed in 1.914073117s
+19:12:58.073 [main] INFO  Handler_acl - access control function executed in 884 ms
+2025-02-11T19:12:58.190713296+00:00 - INFO - example function executed in 2.36076131s
+2025-02-11T19:12:58.404847983+00:00 - INFO - example function executed in 2.061031701s
+19:13:00.507 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+19:13:00.560 [main] INFO  Injector - Read from MongoDB table executed in 49 ms
+19:13:01.083 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:13:01.339 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:13:01.489 [main] INFO  Handler_acl - access control function executed in 257 ms
+19:13:01.579 [main] INFO  Handler_acl - access control function executed in 843 ms
+19:13:01.671 [main] INFO  Handler_acl - access control function executed in 923 ms
+2025-02-11T19:13:01.815856406+00:00 - INFO - example function executed in 1.332784375s
+2025-02-11T19:13:01.908435368+00:00 - INFO - example function executed in 2.010909219s
+2025-02-11T19:13:02.006605692+00:00 - INFO - example function executed in 2.078384343s
+19:13:02.569 [main] INFO  Handler_acl - access control function executed in 1081 ms
+2025-02-11T19:13:02.899421339+00:00 - INFO - example function executed in 2.219826398s
+19:13:07.548 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+19:13:07.977 [main] INFO  Handler_acl - access control function executed in 273 ms
+19:13:08.083 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:13:08.102 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+2025-02-11T19:13:08.305057836+00:00 - INFO - example function executed in 1.335394107s
+19:13:08.433 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:13:09.243 [main] INFO  Handler_acl - access control function executed in 927 ms
+19:13:09.260 [main] INFO  Handler_acl - access control function executed in 668 ms
+19:13:09.310 [main] INFO  Handler_acl - access control function executed in 1065 ms
+2025-02-11T19:13:09.570740517+00:00 - INFO - example function executed in 2.248170165s
+2025-02-11T19:13:09.587947423+00:00 - INFO - example function executed in 1.85070762s
+2025-02-11T19:13:09.638408295+00:00 - INFO - example function executed in 2.248263812s
+19:13:10.544 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+19:13:10.860 [main] INFO  Injector - Read from MongoDB table executed in 56 ms
+19:13:11.155 [main] INFO  Injector - Read from MongoDB table executed in 60 ms
+19:13:11.188 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:13:11.507 [main] INFO  Handler_acl - access control function executed in 206 ms
+19:13:11.770 [main] INFO  Handler_acl - access control function executed in 1028 ms
+2025-02-11T19:13:11.833798280+00:00 - INFO - example function executed in 1.458863976s
+19:13:11.903 [main] INFO  Handler_acl - access control function executed in 870 ms
+2025-02-11T19:13:12.107260768+00:00 - INFO - example function executed in 2.19883749s
+2025-02-11T19:13:12.235121256+00:00 - INFO - example function executed in 2.109603955s
+19:13:12.302 [main] INFO  Handler_acl - access control function executed in 905 ms
+2025-02-11T19:13:12.633350083+00:00 - INFO - example function executed in 2.188359702s
+19:13:13.871 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+19:13:14.565 [main] INFO  Handler_acl - access control function executed in 534 ms
+2025-02-11T19:13:14.905571034+00:00 - INFO - example function executed in 1.600210264s
+19:13:15.256 [main] INFO  Injector - Read from MongoDB table executed in 59 ms
+19:13:15.270 [main] INFO  Injector - Read from MongoDB table executed in 56 ms
+19:13:15.321 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:13:16.342 [main] INFO  Handler_acl - access control function executed in 877 ms
+19:13:16.514 [main] INFO  Handler_acl - access control function executed in 1083 ms
+19:13:16.538 [main] INFO  Handler_acl - access control function executed in 1043 ms
+2025-02-11T19:13:16.673537761+00:00 - INFO - example function executed in 2.102466276s
+2025-02-11T19:13:16.841015862+00:00 - INFO - example function executed in 2.252755113s
+2025-02-11T19:13:16.867298509+00:00 - INFO - example function executed in 2.228606834s
+19:13:17.826 [main] INFO  Injector - Read from MongoDB table executed in 56 ms
+19:13:17.887 [main] INFO  Injector - Read from MongoDB table executed in 70 ms
+19:13:17.922 [main] INFO  Injector - Read from MongoDB table executed in 45 ms
+19:13:18.497 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:13:18.631 [main] INFO  Handler_acl - access control function executed in 498 ms
+19:13:18.771 [main] INFO  Handler_acl - access control function executed in 127 ms
+19:13:18.949 [main] INFO  Handler_acl - access control function executed in 824 ms
+2025-02-11T19:13:18.958283060+00:00 - INFO - example function executed in 1.799334159s
+2025-02-11T19:13:19.103505003+00:00 - INFO - example function executed in 1.273091154s
+19:13:19.136 [main] INFO  Handler_acl - access control function executed in 1084 ms
+2025-02-11T19:13:19.276154532+00:00 - INFO - example function executed in 2.02203598s
+2025-02-11T19:13:19.468113014+00:00 - INFO - example function executed in 2.319270647s
+19:13:20.640 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:13:21.840 [main] INFO  Handler_acl - access control function executed in 1035 ms
+2025-02-11T19:13:22.183191961+00:00 - INFO - example function executed in 2.176141046s
+19:13:22.421 [main] INFO  Injector - Read from MongoDB table executed in 59 ms
+19:13:22.489 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:13:22.542 [main] INFO  Injector - Read from MongoDB table executed in 70 ms
+19:13:23.250 [main] INFO  Handler_acl - access control function executed in 577 ms
+19:13:23.308 [main] INFO  Handler_acl - access control function executed in 702 ms
+19:13:23.379 [main] INFO  Handler_acl - access control function executed in 639 ms
+2025-02-11T19:13:23.582599362+00:00 - INFO - example function executed in 1.714917727s
+2025-02-11T19:13:23.638668216+00:00 - INFO - example function executed in 1.964526293s
+2025-02-11T19:13:23.707519743+00:00 - INFO - example function executed in 1.866115646s
+19:13:24.761 [main] INFO  Injector - Read from MongoDB table executed in 78 ms
+19:13:24.916 [main] INFO  Injector - Read from MongoDB table executed in 58 ms
+19:13:25.205 [main] INFO  Injector - Read from MongoDB table executed in 54 ms
+19:13:25.391 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:13:25.601 [main] INFO  Handler_acl - access control function executed in 455 ms
+2025-02-11T19:13:25.929535520+00:00 - INFO - example function executed in 1.659631949s
+19:13:26.078 [main] INFO  Handler_acl - access control function executed in 530 ms
+19:13:26.085 [main] INFO  Handler_acl - access control function executed in 1100 ms
+2025-02-11T19:13:26.414201256+00:00 - INFO - example function executed in 1.750677073s
+2025-02-11T19:13:26.415737168+00:00 - INFO - example function executed in 2.277320154s
+19:13:26.453 [main] INFO  Handler_acl - access control function executed in 1058 ms
+2025-02-11T19:13:26.790934472+00:00 - INFO - example function executed in 2.363041089s
+19:13:27.804 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:13:28.479 [main] INFO  Handler_acl - access control function executed in 523 ms
+2025-02-11T19:13:28.810250850+00:00 - INFO - example function executed in 1.54841081s
+19:13:29.255 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:13:29.266 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:13:29.359 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+19:13:29.880 [main] INFO  Handler_acl - access control function executed in 355 ms
+2025-02-11T19:13:30.209945101+00:00 - INFO - example function executed in 1.502139827s
+19:13:30.259 [main] INFO  Handler_acl - access control function executed in 790 ms
+19:13:30.373 [main] INFO  Handler_acl - access control function executed in 944 ms
+2025-02-11T19:13:30.584638897+00:00 - INFO - example function executed in 2.001697625s
+2025-02-11T19:13:30.698283582+00:00 - INFO - example function executed in 2.059298504s
+19:13:31.519 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:13:32.232 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+19:13:32.253 [main] INFO  Injector - Read from MongoDB table executed in 55 ms
+19:13:32.455 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:13:32.563 [main] INFO  Handler_acl - access control function executed in 129 ms
+19:13:32.676 [main] INFO  Handler_acl - access control function executed in 1010 ms
+2025-02-11T19:13:32.890593335+00:00 - INFO - example function executed in 1.304575247s
+19:13:32.968 [main] INFO  Handler_acl - access control function executed in 356 ms
+2025-02-11T19:13:33.003172593+00:00 - INFO - example function executed in 2.048088754s
+2025-02-11T19:13:33.299093907+00:00 - INFO - example function executed in 1.507730424s
+19:13:33.423 [main] INFO  Handler_acl - access control function executed in 964 ms
+2025-02-11T19:13:33.749288220+00:00 - INFO - example function executed in 2.152117195s
+19:13:34.963 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:13:35.335 [main] INFO  Handler_acl - access control function executed in 231 ms
+2025-02-11T19:13:35.662170312+00:00 - INFO - example function executed in 1.236581346s
+19:13:35.745 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:13:36.163 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+19:13:36.313 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:13:36.537 [main] INFO  Handler_acl - access control function executed in 620 ms
+19:13:36.623 [main] INFO  Handler_acl - access control function executed in 305 ms
+2025-02-11T19:13:36.864077825+00:00 - INFO - example function executed in 1.653805616s
+2025-02-11T19:13:36.948924565+00:00 - INFO - example function executed in 1.363934556s
+19:13:37.495 [main] INFO  Handler_acl - access control function executed in 1037 ms
+2025-02-11T19:13:37.823587565+00:00 - INFO - example function executed in 2.124969621s
+19:13:38.900 [main] INFO  Injector - Read from MongoDB table executed in 73 ms
+19:13:39.043 [main] INFO  Injector - Read from MongoDB table executed in 81 ms
+19:13:39.275 [main] INFO  Injector - Read from MongoDB table executed in 48 ms
+19:13:39.436 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:13:39.506 [main] INFO  Handler_acl - access control function executed in 377 ms
+19:13:39.744 [main] INFO  Handler_acl - access control function executed in 289 ms
+2025-02-11T19:13:39.832522300+00:00 - INFO - example function executed in 1.589622282s
+2025-02-11T19:13:40.071005182+00:00 - INFO - example function executed in 1.532274651s
+19:13:40.257 [main] INFO  Handler_acl - access control function executed in 985 ms
+19:13:40.469 [main] INFO  Handler_acl - access control function executed in 884 ms
+2025-02-11T19:13:40.584997665+00:00 - INFO - example function executed in 2.174132149s
+2025-02-11T19:13:40.795441622+00:00 - INFO - example function executed in 2.039947481s
+19:13:41.666 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:13:42.256 [main] INFO  Handler_acl - access control function executed in 450 ms
+19:13:42.395 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:13:42.503 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+2025-02-11T19:13:42.590963941+00:00 - INFO - example function executed in 1.452803574s
+19:13:42.896 [main] INFO  Handler_acl - access control function executed in 353 ms
+19:13:43.129 [main] INFO  Handler_acl - access control function executed in 482 ms
+2025-02-11T19:13:43.221422132+00:00 - INFO - example function executed in 1.357034883s
+19:13:43.353 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+2025-02-11T19:13:43.453685520+00:00 - INFO - example function executed in 1.504456831s
+19:13:44.301 [main] INFO  Handler_acl - access control function executed in 807 ms
+2025-02-11T19:13:44.631998097+00:00 - INFO - example function executed in 1.808090327s
+19:13:45.691 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+19:13:46.060 [main] INFO  Injector - Read from MongoDB table executed in 51 ms
+19:13:46.274 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+19:13:46.492 [main] INFO  Handler_acl - access control function executed in 221 ms
+19:13:46.508 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:13:46.677 [main] INFO  Handler_acl - access control function executed in 199 ms
+2025-02-11T19:13:46.829343512+00:00 - INFO - example function executed in 1.420835596s
+19:13:47.003 [main] INFO  Handler_acl - access control function executed in 1125 ms
+2025-02-11T19:13:47.012103821+00:00 - INFO - example function executed in 1.426780152s
+2025-02-11T19:13:47.332302857+00:00 - INFO - example function executed in 2.213157354s
+19:13:47.607 [main] INFO  Handler_acl - access control function executed in 957 ms
+2025-02-11T19:13:47.937385638+00:00 - INFO - example function executed in 2.097338322s
+19:13:48.845 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:13:49.274 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+19:13:49.454 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:13:49.914 [main] INFO  Handler_acl - access control function executed in 866 ms
+19:13:50.090 [main] INFO  Handler_acl - access control function executed in 498 ms
+19:13:50.161 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T19:13:50.240902134+00:00 - INFO - example function executed in 1.93110632s
+2025-02-11T19:13:50.415197713+00:00 - INFO - example function executed in 1.57436662s
+19:13:50.496 [main] INFO  Handler_acl - access control function executed in 1078 ms
+19:13:50.514 [main] INFO  Handler_acl - access control function executed in 212 ms
+2025-02-11T19:13:50.822871548+00:00 - INFO - example function executed in 2.156586975s
+2025-02-11T19:13:50.843482084+00:00 - INFO - example function executed in 1.211217035s
+19:13:52.374 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:13:52.603 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+19:13:52.940 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:13:53.472 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:13:53.628 [main] INFO  Handler_acl - access control function executed in 1039 ms
+19:13:53.807 [main] INFO  Handler_acl - access control function executed in 1043 ms
+2025-02-11T19:13:53.954558571+00:00 - INFO - example function executed in 2.124866974s
+19:13:53.964 [main] INFO  Handler_acl - access control function executed in 877 ms
+2025-02-11T19:13:54.134321265+00:00 - INFO - example function executed in 2.121921117s
+2025-02-11T19:13:54.292238037+00:00 - INFO - example function executed in 1.959592698s
+19:13:54.320 [main] INFO  Handler_acl - access control function executed in 708 ms
+2025-02-11T19:13:54.649804264+00:00 - INFO - example function executed in 1.712116637s
+19:13:55.784 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+19:13:56.002 [main] INFO  Injector - Read from MongoDB table executed in 57 ms
+19:13:56.477 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:13:56.486 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:13:56.749 [main] INFO  Handler_acl - access control function executed in 558 ms
+19:13:56.929 [main] INFO  Handler_acl - access control function executed in 309 ms
+19:13:57.038 [main] INFO  Handler_acl - access control function executed in 1051 ms
+2025-02-11T19:13:57.075608761+00:00 - INFO - example function executed in 1.660060434s
+19:13:57.102 [main] INFO  Handler_acl - access control function executed in 471 ms
+2025-02-11T19:13:57.255024732+00:00 - INFO - example function executed in 1.431841563s
+2025-02-11T19:13:57.364715199+00:00 - INFO - example function executed in 2.123454974s
+2025-02-11T19:13:57.431550349+00:00 - INFO - example function executed in 1.58782854s
+19:13:59.508 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+19:13:59.784 [main] INFO  Injector - Read from MongoDB table executed in 64 ms
+19:13:59.956 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:14:00.266 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:14:00.365 [main] INFO  Handler_acl - access control function executed in 669 ms
+19:14:00.582 [main] INFO  Handler_acl - access control function executed in 174 ms
+19:14:00.595 [main] INFO  Handler_acl - access control function executed in 484 ms
+19:14:00.650 [main] INFO  Handler_acl - access control function executed in 688 ms
+2025-02-11T19:14:00.691470972+00:00 - INFO - example function executed in 1.736460809s
+2025-02-11T19:14:00.911233818+00:00 - INFO - example function executed in 1.26113892s
+2025-02-11T19:14:00.922265563+00:00 - INFO - example function executed in 1.629684516s
+2025-02-11T19:14:00.976590372+00:00 - INFO - example function executed in 1.841940545s
+19:14:02.742 [main] INFO  Injector - Read from MongoDB table executed in 91 ms
+19:14:03.030 [main] INFO  Injector - Read from MongoDB table executed in 76 ms
+19:14:03.087 [main] INFO  Injector - Read from MongoDB table executed in 54 ms
+19:14:03.246 [main] INFO  Injector - Read from MongoDB table executed in 65 ms
+19:14:03.531 [main] INFO  Handler_acl - access control function executed in 304 ms
+19:14:03.661 [main] INFO  Handler_acl - access control function executed in 238 ms
+2025-02-11T19:14:03.857345921+00:00 - INFO - example function executed in 1.601933493s
+2025-02-11T19:14:03.991554573+00:00 - INFO - example function executed in 1.559705075s
+19:14:04.105 [main] INFO  Handler_acl - access control function executed in 1077 ms
+19:14:04.237 [main] INFO  Handler_acl - access control function executed in 979 ms
+2025-02-11T19:14:04.431853089+00:00 - INFO - example function executed in 2.355890828s
+2025-02-11T19:14:04.562997361+00:00 - INFO - example function executed in 2.197987851s
+19:14:06.362 [main] INFO  Injector - Read from MongoDB table executed in 65 ms
+19:14:06.651 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:14:06.691 [main] INFO  Injector - Read from MongoDB table executed in 49 ms
+19:14:06.738 [main] INFO  Handler_acl - access control function executed in 159 ms
+19:14:06.758 [main] INFO  Injector - Read from MongoDB table executed in 48 ms
+19:14:07.040 [main] INFO  Handler_acl - access control function executed in 157 ms
+2025-02-11T19:14:07.090676086+00:00 - INFO - example function executed in 1.398798704s
+2025-02-11T19:14:07.366204415+00:00 - INFO - example function executed in 1.443649952s
+19:14:07.447 [main] INFO  Handler_acl - access control function executed in 631 ms
+19:14:07.546 [main] INFO  Handler_acl - access control function executed in 615 ms
+2025-02-11T19:14:07.773703028+00:00 - INFO - example function executed in 1.862116622s
+2025-02-11T19:14:07.879382032+00:00 - INFO - example function executed in 1.902531434s
+19:14:09.399 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:14:09.618 [main] INFO  Injector - Read from MongoDB table executed in 57 ms
+19:14:10.092 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:14:10.159 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:14:10.186 [main] INFO  Handler_acl - access control function executed in 631 ms
+2025-02-11T19:14:10.512430758+00:00 - INFO - example function executed in 1.65466989s
+19:14:10.551 [main] INFO  Handler_acl - access control function executed in 239 ms
+19:14:10.844 [main] INFO  Handler_acl - access control function executed in 1039 ms
+2025-02-11T19:14:10.881060150+00:00 - INFO - example function executed in 1.317691496s
+2025-02-11T19:14:11.184171244+00:00 - INFO - example function executed in 2.192258761s
+19:14:11.303 [main] INFO  Handler_acl - access control function executed in 1052 ms
+2025-02-11T19:14:11.633768551+00:00 - INFO - example function executed in 2.201596526s
+19:14:12.846 [main] INFO  Injector - Read from MongoDB table executed in 52 ms
+19:14:13.278 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+19:14:13.514 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+19:14:13.588 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:14:14.070 [main] INFO  Handler_acl - access control function executed in 940 ms
+19:14:14.242 [main] INFO  Handler_acl - access control function executed in 783 ms
+19:14:14.248 [main] INFO  Handler_acl - access control function executed in 521 ms
+2025-02-11T19:14:14.395912431+00:00 - INFO - example function executed in 2.112141522s
+19:14:14.486 [main] INFO  Handler_acl - access control function executed in 806 ms
+2025-02-11T19:14:14.568440671+00:00 - INFO - example function executed in 2.002049246s
+2025-02-11T19:14:14.578097987+00:00 - INFO - example function executed in 1.698273139s
+2025-02-11T19:14:14.811803901+00:00 - INFO - example function executed in 2.037810373s
+19:14:16.059 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:14:16.449 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:14:16.739 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:14:16.959 [main] INFO  Handler_acl - access control function executed in 749 ms
+19:14:17.167 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T19:14:17.285521060+00:00 - INFO - example function executed in 1.772710024s
+19:14:17.550 [main] INFO  Handler_acl - access control function executed in 959 ms
+19:14:17.843 [main] INFO  Handler_acl - access control function executed in 957 ms
+2025-02-11T19:14:17.875098482+00:00 - INFO - example function executed in 1.993672961s
+19:14:17.889 [main] INFO  Handler_acl - access control function executed in 580 ms
+2025-02-11T19:14:18.168579007+00:00 - INFO - example function executed in 1.98412602s
+2025-02-11T19:14:18.219032445+00:00 - INFO - example function executed in 1.584981309s
+19:14:20.077 [main] INFO  Injector - Read from MongoDB table executed in 49 ms
+19:14:20.329 [main] INFO  Injector - Read from MongoDB table executed in 45 ms
+19:14:20.330 [main] INFO  Injector - Read from MongoDB table executed in 65 ms
+19:14:20.608 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+19:14:20.725 [main] INFO  Handler_acl - access control function executed in 175 ms
+19:14:20.960 [main] INFO  Handler_acl - access control function executed in 628 ms
+2025-02-11T19:14:21.052907162+00:00 - INFO - example function executed in 1.474565864s
+2025-02-11T19:14:21.300594527+00:00 - INFO - example function executed in 1.904327654s
+19:14:21.523 [main] INFO  Handler_acl - access control function executed in 929 ms
+19:14:21.621 [main] INFO  Handler_acl - access control function executed in 855 ms
+2025-02-11T19:14:21.850142261+00:00 - INFO - example function executed in 2.281373571s
+2025-02-11T19:14:21.948470451+00:00 - INFO - example function executed in 2.136145086s
+19:14:23.144 [main] INFO  Injector - Read from MongoDB table executed in 48 ms
+19:14:23.533 [main] INFO  Handler_acl - access control function executed in 204 ms
+19:14:23.641 [main] INFO  Injector - Read from MongoDB table executed in 59 ms
+2025-02-11T19:14:23.867228082+00:00 - INFO - example function executed in 1.274060277s
+19:14:23.911 [main] INFO  Injector - Read from MongoDB table executed in 60 ms
+19:14:23.949 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+19:14:24.059 [main] INFO  Handler_acl - access control function executed in 219 ms
+2025-02-11T19:14:24.389226553+00:00 - INFO - example function executed in 1.513784744s
+19:14:24.411 [main] INFO  Handler_acl - access control function executed in 302 ms
+2025-02-11T19:14:24.758417593+00:00 - INFO - example function executed in 1.538965245s
+19:14:24.991 [main] INFO  Handler_acl - access control function executed in 908 ms
+2025-02-11T19:14:25.318890539+00:00 - INFO - example function executed in 2.149948948s
+19:14:26.609 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+19:14:26.844 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:14:27.412 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:14:27.420 [main] INFO  Handler_acl - access control function executed in 656 ms
+19:14:27.501 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+2025-02-11T19:14:27.747082009+00:00 - INFO - example function executed in 1.693809372s
+19:14:27.957 [main] INFO  Handler_acl - access control function executed in 968 ms
+2025-02-11T19:14:28.284037608+00:00 - INFO - example function executed in 1.98310715s
+19:14:28.345 [main] INFO  Handler_acl - access control function executed in 777 ms
+2025-02-11T19:14:28.670743033+00:00 - INFO - example function executed in 1.820201923s
+19:14:28.728 [main] INFO  Handler_acl - access control function executed in 1082 ms
+2025-02-11T19:14:29.057455218+00:00 - INFO - example function executed in 2.108295211s
+19:14:30.287 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+19:14:30.377 [main] INFO  Injector - Read from MongoDB table executed in 70 ms
+19:14:30.553 [main] INFO  Injector - Read from MongoDB table executed in 62 ms
+19:14:30.907 [main] INFO  Handler_acl - access control function executed in 157 ms
+19:14:30.962 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T19:14:31.234784403+00:00 - INFO - example function executed in 1.329011083s
+19:14:31.303 [main] INFO  Handler_acl - access control function executed in 819 ms
+19:14:31.308 [main] INFO  Handler_acl - access control function executed in 730 ms
+19:14:31.385 [main] INFO  Handler_acl - access control function executed in 284 ms
+2025-02-11T19:14:31.629484896+00:00 - INFO - example function executed in 1.945054689s
+2025-02-11T19:14:31.636676239+00:00 - INFO - example function executed in 1.923233452s
+2025-02-11T19:14:31.714828010+00:00 - INFO - example function executed in 1.395668958s
+19:14:33.290 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:14:33.817 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:14:34.198 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:14:34.385 [main] INFO  Handler_acl - access control function executed in 955 ms
+19:14:34.586 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T19:14:34.711250870+00:00 - INFO - example function executed in 1.963826361s
+19:14:34.711 [main] INFO  Handler_acl - access control function executed in 749 ms
+19:14:34.920 [main] INFO  Handler_acl - access control function executed in 582 ms
+2025-02-11T19:14:35.037638559+00:00 - INFO - example function executed in 1.753259852s
+19:14:35.226 [main] INFO  Handler_acl - access control function executed in 498 ms
+2025-02-11T19:14:35.246784040+00:00 - INFO - example function executed in 1.575709375s
+2025-02-11T19:14:35.555333854+00:00 - INFO - example function executed in 1.497481809s
+19:14:37.388 [main] INFO  Injector - Read from MongoDB table executed in 78 ms
+19:14:37.434 [main] INFO  Injector - Read from MongoDB table executed in 55 ms
+19:14:37.442 [main] INFO  Injector - Read from MongoDB table executed in 84 ms
+19:14:37.473 [main] INFO  Injector - Read from MongoDB table executed in 57 ms
+19:14:37.828 [main] INFO  Handler_acl - access control function executed in 218 ms
+19:14:38.018 [main] INFO  Handler_acl - access control function executed in 354 ms
+19:14:38.152 [main] INFO  Handler_acl - access control function executed in 481 ms
+2025-02-11T19:14:38.156736989+00:00 - INFO - example function executed in 1.577814972s
+19:14:38.287 [main] INFO  Handler_acl - access control function executed in 637 ms
+2025-02-11T19:14:38.345153861+00:00 - INFO - example function executed in 1.715344848s
+2025-02-11T19:14:38.478819661+00:00 - INFO - example function executed in 1.833507309s
+2025-02-11T19:14:38.618351969+00:00 - INFO - example function executed in 1.903231981s
+19:14:40.296 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+19:14:40.633 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+19:14:40.913 [main] INFO  Injector - Read from MongoDB table executed in 68 ms
+19:14:40.992 [main] INFO  Handler_acl - access control function executed in 535 ms
+19:14:41.149 [main] INFO  Handler_acl - access control function executed in 311 ms
+19:14:41.169 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T19:14:41.327583966+00:00 - INFO - example function executed in 1.616008495s
+2025-02-11T19:14:41.476557455+00:00 - INFO - example function executed in 1.438546629s
+19:14:41.848 [main] INFO  Handler_acl - access control function executed in 543 ms
+19:14:42.030 [main] INFO  Handler_acl - access control function executed in 954 ms
+2025-02-11T19:14:42.174017928+00:00 - INFO - example function executed in 1.618342794s
+2025-02-11T19:14:42.356528155+00:00 - INFO - example function executed in 2.109435409s
+19:14:43.757 [main] INFO  Injector - Read from MongoDB table executed in 64 ms
+19:14:44.044 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+19:14:44.260 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+19:14:44.303 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:14:44.361 [main] INFO  Handler_acl - access control function executed in 167 ms
+2025-02-11T19:14:44.688746869+00:00 - INFO - example function executed in 1.343284322s
+19:14:44.814 [main] INFO  Handler_acl - access control function executed in 839 ms
+2025-02-11T19:14:45.140284342+00:00 - INFO - example function executed in 1.9832039s
+19:14:45.301 [main] INFO  Handler_acl - access control function executed in 878 ms
+19:14:45.498 [main] INFO  Handler_acl - access control function executed in 1045 ms
+2025-02-11T19:14:45.627286723+00:00 - INFO - example function executed in 2.14820268s
+2025-02-11T19:14:45.831255374+00:00 - INFO - example function executed in 2.212651834s
+19:14:47.200 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:14:47.323 [main] INFO  Injector - Read from MongoDB table executed in 61 ms
+19:14:47.805 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:14:47.898 [main] INFO  Handler_acl - access control function executed in 470 ms
+19:14:47.964 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:14:48.170 [main] INFO  Handler_acl - access control function executed in 647 ms
+2025-02-11T19:14:48.225276961+00:00 - INFO - example function executed in 1.586650821s
+2025-02-11T19:14:48.497021091+00:00 - INFO - example function executed in 1.785800474s
+19:14:48.707 [main] INFO  Handler_acl - access control function executed in 756 ms
+19:14:48.889 [main] INFO  Handler_acl - access control function executed in 782 ms
+2025-02-11T19:14:49.033149061+00:00 - INFO - example function executed in 1.858837613s
+2025-02-11T19:14:49.219282101+00:00 - INFO - example function executed in 1.862446841s
+19:14:50.419 [main] INFO  Injector - Read from MongoDB table executed in 52 ms
+19:14:50.676 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:14:51.124 [main] INFO  Handler_acl - access control function executed in 554 ms
+19:14:51.189 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:14:51.394 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T19:14:51.464260326+00:00 - INFO - example function executed in 1.60655247s
+19:14:51.472 [main] INFO  Handler_acl - access control function executed in 643 ms
+2025-02-11T19:14:51.798175141+00:00 - INFO - example function executed in 1.657600125s
+19:14:52.053 [main] INFO  Handler_acl - access control function executed in 511 ms
+2025-02-11T19:14:52.378081246+00:00 - INFO - example function executed in 1.546523178s
+19:14:52.448 [main] INFO  Handler_acl - access control function executed in 1099 ms
+2025-02-11T19:14:52.783455581+00:00 - INFO - example function executed in 2.155830043s
+19:14:54.164 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+19:14:54.416 [main] INFO  Injector - Read from MongoDB table executed in 92 ms
+19:14:54.774 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:14:54.863 [main] INFO  Handler_acl - access control function executed in 511 ms
+19:14:54.917 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:14:55.079 [main] INFO  Handler_acl - access control function executed in 127 ms
+2025-02-11T19:14:55.190589411+00:00 - INFO - example function executed in 1.593686008s
+19:14:55.368 [main] INFO  Handler_acl - access control function executed in 303 ms
+2025-02-11T19:14:55.405613963+00:00 - INFO - example function executed in 1.372119837s
+19:14:55.524 [main] INFO  Handler_acl - access control function executed in 877 ms
+2025-02-11T19:14:55.710031156+00:00 - INFO - example function executed in 1.490454355s
+2025-02-11T19:14:55.850502853+00:00 - INFO - example function executed in 2.180025882s
+19:14:57.022 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+19:14:57.362 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:14:57.508 [main] INFO  Handler_acl - access control function executed in 323 ms
+2025-02-11T19:14:57.835215514+00:00 - INFO - example function executed in 1.370629691s
+19:14:57.927 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:14:58.198 [main] INFO  Handler_acl - access control function executed in 688 ms
+19:14:58.344 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T19:14:58.526866588+00:00 - INFO - example function executed in 1.728388431s
+19:14:58.962 [main] INFO  Handler_acl - access control function executed in 889 ms
+19:14:59.169 [main] INFO  Handler_acl - access control function executed in 679 ms
+2025-02-11T19:14:59.289854490+00:00 - INFO - example function executed in 1.911463805s
+2025-02-11T19:14:59.511314370+00:00 - INFO - example function executed in 1.727440677s
+19:15:00.740 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:15:01.046 [main] INFO  Injector - Read from MongoDB table executed in 61 ms
+19:15:01.376 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:15:01.510 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:15:01.606 [main] INFO  Handler_acl - access control function executed in 674 ms
+19:15:01.796 [main] INFO  Handler_acl - access control function executed in 573 ms
+19:15:01.916 [main] INFO  Handler_acl - access control function executed in 385 ms
+2025-02-11T19:15:01.941078699+00:00 - INFO - example function executed in 1.750072471s
+19:15:02.002 [main] INFO  Handler_acl - access control function executed in 341 ms
+2025-02-11T19:15:02.127610842+00:00 - INFO - example function executed in 1.72165522s
+2025-02-11T19:15:02.250698180+00:00 - INFO - example function executed in 1.540406108s
+2025-02-11T19:15:02.337778507+00:00 - INFO - example function executed in 1.486849515s
+19:15:03.763 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+19:15:04.088 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:15:04.485 [main] INFO  Handler_acl - access control function executed in 236 ms
+19:15:04.681 [main] INFO  Handler_acl - access control function executed in 757 ms
+2025-02-11T19:15:04.813971694+00:00 - INFO - example function executed in 1.286690069s
+19:15:04.863 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+2025-02-11T19:15:05.011809257+00:00 - INFO - example function executed in 1.825458029s
+19:15:05.078 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:15:05.421 [main] INFO  Handler_acl - access control function executed in 202 ms
+2025-02-11T19:15:05.753673775+00:00 - INFO - example function executed in 1.242044367s
+19:15:05.937 [main] INFO  Handler_acl - access control function executed in 917 ms
+2025-02-11T19:15:06.266928467+00:00 - INFO - example function executed in 1.976350432s
+19:15:07.588 [main] INFO  Injector - Read from MongoDB table executed in 92 ms
+19:15:07.901 [main] INFO  Injector - Read from MongoDB table executed in 81 ms
+19:15:08.063 [main] INFO  Injector - Read from MongoDB table executed in 68 ms
+19:15:08.214 [main] INFO  Injector - Read from MongoDB table executed in 67 ms
+19:15:08.660 [main] INFO  Handler_acl - access control function executed in 400 ms
+19:15:08.737 [main] INFO  Handler_acl - access control function executed in 358 ms
+19:15:08.890 [main] INFO  Handler_acl - access control function executed in 765 ms
+19:15:08.972 [main] INFO  Handler_acl - access control function executed in 1104 ms
+2025-02-11T19:15:08.987126513+00:00 - INFO - example function executed in 1.735945373s
+2025-02-11T19:15:09.079759145+00:00 - INFO - example function executed in 1.663993377s
+2025-02-11T19:15:09.220622350+00:00 - INFO - example function executed in 2.092714358s
+2025-02-11T19:15:09.304967115+00:00 - INFO - example function executed in 2.363576988s
+19:15:10.381 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:15:10.650 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:15:11.108 [main] INFO  Handler_acl - access control function executed in 289 ms
+19:15:11.302 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+19:15:11.395 [main] INFO  Handler_acl - access control function executed in 838 ms
+2025-02-11T19:15:11.434682908+00:00 - INFO - example function executed in 1.422535222s
+2025-02-11T19:15:11.723488128+00:00 - INFO - example function executed in 1.909067414s
+19:15:11.808 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:15:11.952 [main] INFO  Handler_acl - access control function executed in 503 ms
+2025-02-11T19:15:12.282248079+00:00 - INFO - example function executed in 1.528226827s
+19:15:13.009 [main] INFO  Handler_acl - access control function executed in 1057 ms
+2025-02-11T19:15:13.341685324+00:00 - INFO - example function executed in 2.074311837s
+19:15:14.570 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+19:15:14.889 [main] INFO  Injector - Read from MongoDB table executed in 65 ms
+19:15:15.045 [main] INFO  Injector - Read from MongoDB table executed in 69 ms
+19:15:15.236 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:15:15.455 [main] INFO  Handler_acl - access control function executed in 221 ms
+19:15:15.638 [main] INFO  Handler_acl - access control function executed in 859 ms
+2025-02-11T19:15:15.782437995+00:00 - INFO - example function executed in 1.561508668s
+2025-02-11T19:15:15.966106263+00:00 - INFO - example function executed in 1.978530075s
+19:15:16.096 [main] INFO  Handler_acl - access control function executed in 698 ms
+19:15:16.133 [main] INFO  Handler_acl - access control function executed in 1060 ms
+2025-02-11T19:15:16.428424568+00:00 - INFO - example function executed in 1.959315109s
+2025-02-11T19:15:16.461835371+00:00 - INFO - example function executed in 2.381752828s
+19:15:17.439 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+19:15:17.485 [main] INFO  Injector - Read from MongoDB table executed in 45 ms
+19:15:17.885 [main] INFO  Handler_acl - access control function executed in 199 ms
+19:15:17.953 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:15:18.076 [main] INFO  Handler_acl - access control function executed in 441 ms
+2025-02-11T19:15:18.211016799+00:00 - INFO - example function executed in 1.401424513s
+2025-02-11T19:15:18.402833304+00:00 - INFO - example function executed in 1.581506107s
+19:15:18.676 [main] INFO  Handler_acl - access control function executed in 543 ms
+19:15:18.903 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+2025-02-11T19:15:19.002965632+00:00 - INFO - example function executed in 1.720227972s
+19:15:20.044 [main] INFO  Handler_acl - access control function executed in 980 ms
+2025-02-11T19:15:20.375239867+00:00 - INFO - example function executed in 2.033233088s
+19:15:21.400 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:15:21.605 [main] INFO  Injector - Read from MongoDB table executed in 49 ms
+19:15:22.134 [main] INFO  Injector - Read from MongoDB table executed in 48 ms
+19:15:22.170 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+19:15:22.389 [main] INFO  Handler_acl - access control function executed in 557 ms
+19:15:22.415 [main] INFO  Handler_acl - access control function executed in 797 ms
+19:15:22.500 [main] INFO  Handler_acl - access control function executed in 186 ms
+2025-02-11T19:15:22.716656519+00:00 - INFO - example function executed in 1.750176943s
+2025-02-11T19:15:22.749684541+00:00 - INFO - example function executed in 1.966939632s
+2025-02-11T19:15:22.830481844+00:00 - INFO - example function executed in 1.368404088s
+19:15:22.973 [main] INFO  Handler_acl - access control function executed in 688 ms
+2025-02-11T19:15:23.309842233+00:00 - INFO - example function executed in 1.881092473s
+19:15:24.685 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+19:15:24.894 [main] INFO  Injector - Read from MongoDB table executed in 59 ms
+19:15:24.996 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+19:15:25.654 [main] INFO  Handler_acl - access control function executed in 793 ms
+19:15:25.776 [main] INFO  Handler_acl - access control function executed in 627 ms
+19:15:25.955 [main] INFO  Handler_acl - access control function executed in 908 ms
+2025-02-11T19:15:25.979351165+00:00 - INFO - example function executed in 1.905646513s
+19:15:25.992 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+2025-02-11T19:15:26.101782077+00:00 - INFO - example function executed in 1.814270278s
+2025-02-11T19:15:26.280706963+00:00 - INFO - example function executed in 2.100260087s
+19:15:27.054 [main] INFO  Handler_acl - access control function executed in 898 ms
+2025-02-11T19:15:27.385910049+00:00 - INFO - example function executed in 2.010315275s
+19:15:28.282 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+19:15:28.615 [main] INFO  Handler_acl - access control function executed in 158 ms
+19:15:28.730 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+19:15:28.806 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+2025-02-11T19:15:28.947376697+00:00 - INFO - example function executed in 1.230260953s
+19:15:29.141 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:15:29.291 [main] INFO  Handler_acl - access control function executed in 386 ms
+2025-02-11T19:15:29.617264413+00:00 - INFO - example function executed in 1.518435459s
+19:15:29.744 [main] INFO  Handler_acl - access control function executed in 461 ms
+19:15:29.978 [main] INFO  Handler_acl - access control function executed in 975 ms
+2025-02-11T19:15:30.074810892+00:00 - INFO - example function executed in 1.575832716s
+2025-02-11T19:15:30.306062203+00:00 - INFO - example function executed in 2.173402806s
+19:15:31.607 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:15:31.778 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+19:15:32.020 [main] INFO  Handler_acl - access control function executed in 229 ms
+19:15:32.088 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T19:15:32.345987332+00:00 - INFO - example function executed in 1.297035881s
+19:15:32.645 [main] INFO  Handler_acl - access control function executed in 416 ms
+19:15:32.764 [main] INFO  Handler_acl - access control function executed in 827 ms
+19:15:32.925 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T19:15:32.969510040+00:00 - INFO - example function executed in 1.480892235s
+2025-02-11T19:15:33.089294728+00:00 - INFO - example function executed in 1.924401937s
+19:15:33.250 [main] INFO  Handler_acl - access control function executed in 184 ms
+2025-02-11T19:15:33.579348406+00:00 - INFO - example function executed in 1.193126821s
+19:15:34.592 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:15:35.151 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:15:35.395 [main] INFO  Handler_acl - access control function executed in 639 ms
+19:15:35.520 [main] INFO  Handler_acl - access control function executed in 225 ms
+19:15:35.624 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+2025-02-11T19:15:35.722223760+00:00 - INFO - example function executed in 1.681233158s
+2025-02-11T19:15:35.845658923+00:00 - INFO - example function executed in 1.228079396s
+19:15:35.858 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:15:36.837 [main] INFO  Handler_acl - access control function executed in 1075 ms
+19:15:37.001 [main] INFO  Handler_acl - access control function executed in 1001 ms
+2025-02-11T19:15:37.163220116+00:00 - INFO - example function executed in 2.088077622s
+2025-02-11T19:15:37.332003983+00:00 - INFO - example function executed in 2.025642659s
+19:15:38.102 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:15:38.609 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:15:38.718 [main] INFO  Injector - Read from MongoDB table executed in 45 ms
+19:15:38.842 [main] INFO  Handler_acl - access control function executed in 565 ms
+19:15:39.021 [main] INFO  Handler_acl - access control function executed in 244 ms
+19:15:39.165 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T19:15:39.169427085+00:00 - INFO - example function executed in 1.606173724s
+2025-02-11T19:15:39.346612825+00:00 - INFO - example function executed in 1.376578802s
+19:15:39.542 [main] INFO  Handler_acl - access control function executed in 235 ms
+19:15:39.617 [main] INFO  Handler_acl - access control function executed in 729 ms
+2025-02-11T19:15:39.873126717+00:00 - INFO - example function executed in 1.293421603s
+2025-02-11T19:15:39.943246983+00:00 - INFO - example function executed in 1.853629982s
+19:15:41.288 [main] INFO  Injector - Read from MongoDB table executed in 52 ms
+19:15:41.408 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:15:42.242 [main] INFO  Handler_acl - access control function executed in 810 ms
+19:15:42.340 [main] INFO  Handler_acl - access control function executed in 789 ms
+2025-02-11T19:15:42.569185519+00:00 - INFO - example function executed in 1.846497743s
+2025-02-11T19:15:42.665930317+00:00 - INFO - example function executed in 1.819944093s
+19:15:42.701 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:15:42.883 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:15:43.088 [main] INFO  Handler_acl - access control function executed in 241 ms
+2025-02-11T19:15:43.413736333+00:00 - INFO - example function executed in 1.250105515s
+19:15:43.914 [main] INFO  Handler_acl - access control function executed in 892 ms
+2025-02-11T19:15:44.245454058+00:00 - INFO - example function executed in 1.91317539s
+19:15:45.661 [main] INFO  Injector - Read from MongoDB table executed in 58 ms
+19:15:45.803 [main] INFO  Injector - Read from MongoDB table executed in 81 ms
+19:15:46.109 [main] INFO  Injector - Read from MongoDB table executed in 51 ms
+19:15:46.115 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:15:46.597 [main] INFO  Handler_acl - access control function executed in 325 ms
+19:15:46.679 [main] INFO  Handler_acl - access control function executed in 612 ms
+19:15:46.706 [main] INFO  Handler_acl - access control function executed in 437 ms
+19:15:46.780 [main] INFO  Handler_acl - access control function executed in 912 ms
+2025-02-11T19:15:46.926320378+00:00 - INFO - example function executed in 1.541279691s
+2025-02-11T19:15:47.018487755+00:00 - INFO - example function executed in 1.920384008s
+2025-02-11T19:15:47.035835966+00:00 - INFO - example function executed in 1.740510055s
+2025-02-11T19:15:47.116143858+00:00 - INFO - example function executed in 2.115901752s
+19:15:48.108 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:15:48.462 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:15:48.621 [main] INFO  Handler_acl - access control function executed in 366 ms
+19:15:48.944 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T19:15:48.946997967+00:00 - INFO - example function executed in 1.37725211s
+19:15:49.001 [main] INFO  Handler_acl - access control function executed in 396 ms
+2025-02-11T19:15:49.326828063+00:00 - INFO - example function executed in 1.417935218s
+19:15:49.765 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:15:50.115 [main] INFO  Handler_acl - access control function executed in 210 ms
+19:15:50.188 [main] INFO  Handler_acl - access control function executed in 1103 ms
+2025-02-11T19:15:50.446198237+00:00 - INFO - example function executed in 1.200445122s
+2025-02-11T19:15:50.513932661+00:00 - INFO - example function executed in 2.099894806s
+19:15:52.710 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:15:52.832 [main] INFO  Injector - Read from MongoDB table executed in 77 ms
+19:15:52.858 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+19:15:52.963 [main] INFO  Injector - Read from MongoDB table executed in 60 ms
+19:15:53.432 [main] INFO  Handler_acl - access control function executed in 436 ms
+19:15:53.571 [main] INFO  Handler_acl - access control function executed in 502 ms
+2025-02-11T19:15:53.767110331+00:00 - INFO - example function executed in 1.840411958s
+2025-02-11T19:15:53.907413501+00:00 - INFO - example function executed in 1.888563352s
+19:15:53.951 [main] INFO  Handler_acl - access control function executed in 900 ms
+19:15:53.964 [main] INFO  Handler_acl - access control function executed in 811 ms
+2025-02-11T19:15:54.279711491+00:00 - INFO - example function executed in 2.243583313s
+2025-02-11T19:15:54.302859826+00:00 - INFO - example function executed in 2.186480883s
+19:15:55.446 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:15:55.844 [main] INFO  Handler_acl - access control function executed in 252 ms
+19:15:55.971 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T19:15:56.170524880+00:00 - INFO - example function executed in 1.264011926s
+19:15:57.086 [main] INFO  Handler_acl - access control function executed in 967 ms
+2025-02-11T19:15:57.415347877+00:00 - INFO - example function executed in 1.98613827s
+19:15:58.193 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:15:58.448 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:15:58.614 [main] INFO  Handler_acl - access control function executed in 257 ms
+2025-02-11T19:15:58.940765503+00:00 - INFO - example function executed in 1.288514691s
+19:15:59.475 [main] INFO  Handler_acl - access control function executed in 882 ms
+2025-02-11T19:15:59.804633083+00:00 - INFO - example function executed in 1.89608342s
+19:16:01.489 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:16:01.555 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:16:02.032 [main] INFO  Handler_acl - access control function executed in 398 ms
+19:16:02.186 [main] INFO  Handler_acl - access control function executed in 480 ms
+2025-02-11T19:16:02.358279290+00:00 - INFO - example function executed in 1.425763226s
+2025-02-11T19:16:02.516551169+00:00 - INFO - example function executed in 1.519453173s
+19:16:03.785 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:16:03.898 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:16:04.411 [main] INFO  Handler_acl - access control function executed in 370 ms
+19:16:04.425 [main] INFO  Handler_acl - access control function executed in 496 ms
+2025-02-11T19:16:04.742114523+00:00 - INFO - example function executed in 1.379157375s
+2025-02-11T19:16:04.750552684+00:00 - INFO - example function executed in 1.504931353s
+19:16:05.634 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+19:16:06.002 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:16:06.400 [main] INFO  Handler_acl - access control function executed in 611 ms
+19:16:06.432 [main] INFO  Handler_acl - access control function executed in 289 ms
+2025-02-11T19:16:06.726690480+00:00 - INFO - example function executed in 1.644853173s
+2025-02-11T19:16:06.761619882+00:00 - INFO - example function executed in 1.305792069s
+19:16:07.563 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:16:08.264 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:16:08.758 [main] INFO  Handler_acl - access control function executed in 1054 ms
+2025-02-11T19:16:09.082750317+00:00 - INFO - example function executed in 2.080038935s
+19:16:09.158 [main] INFO  Handler_acl - access control function executed in 749 ms
+2025-02-11T19:16:09.490765329+00:00 - INFO - example function executed in 1.763561745s
+19:16:11.049 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:16:11.215 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:16:11.584 [main] INFO  Handler_acl - access control function executed in 370 ms
+2025-02-11T19:16:11.910904763+00:00 - INFO - example function executed in 1.414865465s
+19:16:12.065 [main] INFO  Handler_acl - access control function executed in 702 ms
+2025-02-11T19:16:12.395514127+00:00 - INFO - example function executed in 1.763724692s
+19:16:14.014 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:16:14.138 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:16:14.444 [main] INFO  Handler_acl - access control function executed in 165 ms
+19:16:14.465 [main] INFO  Handler_acl - access control function executed in 306 ms
+2025-02-11T19:16:14.773275243+00:00 - INFO - example function executed in 1.17086768s
+2025-02-11T19:16:14.791589514+00:00 - INFO - example function executed in 1.318224434s
+19:16:15.617 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:16:16.262 [main] INFO  Handler_acl - access control function executed in 503 ms
+19:16:16.266 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T19:16:16.587565867+00:00 - INFO - example function executed in 1.507800045s
+19:16:17.485 [main] INFO  Handler_acl - access control function executed in 1080 ms
+2025-02-11T19:16:17.815120261+00:00 - INFO - example function executed in 2.082035498s
+19:16:18.807 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:16:19.455 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:16:19.458 [main] INFO  Handler_acl - access control function executed in 514 ms
+2025-02-11T19:16:19.784449524+00:00 - INFO - example function executed in 1.511636572s
+19:16:20.040 [main] INFO  Handler_acl - access control function executed in 449 ms
+2025-02-11T19:16:20.369028797+00:00 - INFO - example function executed in 1.443306364s
+19:16:21.674 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+19:16:21.960 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:16:22.307 [main] INFO  Handler_acl - access control function executed in 209 ms
+2025-02-11T19:16:22.636232311+00:00 - INFO - example function executed in 1.245862815s
+19:16:22.801 [main] INFO  Handler_acl - access control function executed in 954 ms
+2025-02-11T19:16:23.129328005+00:00 - INFO - example function executed in 2.024510425s
+19:16:23.969 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:16:24.273 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:16:24.285 [main] INFO  Handler_acl - access control function executed in 165 ms
+2025-02-11T19:16:24.612806277+00:00 - INFO - example function executed in 1.199149833s
+19:16:25.157 [main] INFO  Handler_acl - access control function executed in 741 ms
+2025-02-11T19:16:25.488541560+00:00 - INFO - example function executed in 1.779717242s
+19:16:26.936 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:16:27.161 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:16:27.657 [main] INFO  Handler_acl - access control function executed in 567 ms
+19:16:27.916 [main] INFO  Handler_acl - access control function executed in 617 ms
+2025-02-11T19:16:27.983889322+00:00 - INFO - example function executed in 1.602322417s
+2025-02-11T19:16:28.246161672+00:00 - INFO - example function executed in 1.658393774s
+19:16:29.610 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+19:16:29.817 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+19:16:30.294 [main] INFO  Handler_acl - access control function executed in 501 ms
+19:16:30.574 [main] INFO  Handler_acl - access control function executed in 614 ms
+2025-02-11T19:16:30.623661093+00:00 - INFO - example function executed in 1.574281899s
+2025-02-11T19:16:30.904644280+00:00 - INFO - example function executed in 1.668246409s
+19:16:31.717 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:16:32.203 [main] INFO  Handler_acl - access control function executed in 339 ms
+19:16:32.261 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T19:16:32.532956984+00:00 - INFO - example function executed in 1.351877319s
+19:16:32.766 [main] INFO  Handler_acl - access control function executed in 360 ms
+2025-02-11T19:16:33.095988497+00:00 - INFO - example function executed in 1.384434041s
+19:16:34.165 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:16:34.656 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:16:34.935 [main] INFO  Handler_acl - access control function executed in 595 ms
+2025-02-11T19:16:35.261974529+00:00 - INFO - example function executed in 1.636780131s
+19:16:35.734 [main] INFO  Handler_acl - access control function executed in 932 ms
+2025-02-11T19:16:36.064137333+00:00 - INFO - example function executed in 1.963775882s
+19:16:37.554 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:16:37.730 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:16:38.603 [main] INFO  Handler_acl - access control function executed in 863 ms
+19:16:38.805 [main] INFO  Handler_acl - access control function executed in 931 ms
+2025-02-11T19:16:38.929976120+00:00 - INFO - example function executed in 1.919250817s
+2025-02-11T19:16:39.137374869+00:00 - INFO - example function executed in 1.996666985s
+19:16:39.975 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:16:40.712 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:16:40.837 [main] INFO  Handler_acl - access control function executed in 719 ms
+2025-02-11T19:16:41.164330438+00:00 - INFO - example function executed in 1.724974072s
+19:16:41.873 [main] INFO  Handler_acl - access control function executed in 1020 ms
+2025-02-11T19:16:42.209232625+00:00 - INFO - example function executed in 2.022185682s
+19:16:43.515 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:16:43.730 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:16:44.140 [main] INFO  Handler_acl - access control function executed in 477 ms
+19:16:44.297 [main] INFO  Handler_acl - access control function executed in 426 ms
+2025-02-11T19:16:44.466374207+00:00 - INFO - example function executed in 1.492013424s
+2025-02-11T19:16:44.628066008+00:00 - INFO - example function executed in 1.472027515s
+19:16:45.801 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:16:46.035 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:16:46.424 [main] INFO  Handler_acl - access control function executed in 472 ms
+2025-02-11T19:16:46.760439949+00:00 - INFO - example function executed in 1.496293666s
+19:16:47.169 [main] INFO  Handler_acl - access control function executed in 993 ms
+2025-02-11T19:16:47.510126806+00:00 - INFO - example function executed in 2.008787994s
+19:16:48.550 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:16:49.258 [main] INFO  Handler_acl - access control function executed in 562 ms
+19:16:49.371 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T19:16:49.588763806+00:00 - INFO - example function executed in 1.583319591s
+19:16:50.532 [main] INFO  Handler_acl - access control function executed in 1024 ms
+2025-02-11T19:16:50.862447432+00:00 - INFO - example function executed in 2.064204866s
+19:16:51.808 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:16:52.212 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:16:52.877 [main] INFO  Handler_acl - access control function executed in 920 ms
+2025-02-11T19:16:53.203555715+00:00 - INFO - example function executed in 1.937058986s
+19:16:53.439 [main] INFO  Handler_acl - access control function executed in 1090 ms
+2025-02-11T19:16:53.768966397+00:00 - INFO - example function executed in 2.142389299s
+19:16:54.545 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:16:55.304 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:16:55.629 [main] INFO  Handler_acl - access control function executed in 940 ms
+2025-02-11T19:16:55.955850182+00:00 - INFO - example function executed in 1.925885904s
+19:16:56.229 [main] INFO  Handler_acl - access control function executed in 783 ms
+2025-02-11T19:16:56.558741493+00:00 - INFO - example function executed in 1.785030014s
+19:16:57.608 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:16:57.612 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+19:16:58.021 [main] INFO  Handler_acl - access control function executed in 270 ms
+19:16:58.280 [main] INFO  Handler_acl - access control function executed in 520 ms
+2025-02-11T19:16:58.350875750+00:00 - INFO - example function executed in 1.283920548s
+2025-02-11T19:16:58.608454674+00:00 - INFO - example function executed in 1.545265204s
+19:17:00.098 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+19:17:00.254 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:17:00.533 [main] INFO  Handler_acl - access control function executed in 139 ms
+19:17:00.561 [main] INFO  Handler_acl - access control function executed in 288 ms
+2025-02-11T19:17:00.866164115+00:00 - INFO - example function executed in 1.147704172s
+2025-02-11T19:17:00.887890361+00:00 - INFO - example function executed in 1.360075726s
+19:17:01.888 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+19:17:01.974 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:17:02.288 [main] INFO  Handler_acl - access control function executed in 174 ms
+2025-02-11T19:17:02.617955039+00:00 - INFO - example function executed in 1.185682416s
+19:17:02.830 [main] INFO  Handler_acl - access control function executed in 786 ms
+2025-02-11T19:17:03.156838733+00:00 - INFO - example function executed in 1.835314392s
+19:17:04.394 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:17:04.489 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:17:04.780 [main] INFO  Handler_acl - access control function executed in 243 ms
+2025-02-11T19:17:05.106759350+00:00 - INFO - example function executed in 1.25538254s
+19:17:05.526 [main] INFO  Handler_acl - access control function executed in 895 ms
+2025-02-11T19:17:05.859934195+00:00 - INFO - example function executed in 1.943212522s
+19:17:06.936 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:17:07.654 [main] INFO  Handler_acl - access control function executed in 570 ms
+19:17:07.697 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+2025-02-11T19:17:07.994683329+00:00 - INFO - example function executed in 1.591926905s
+19:17:08.699 [main] INFO  Handler_acl - access control function executed in 851 ms
+2025-02-11T19:17:09.032342375+00:00 - INFO - example function executed in 2.003156286s
+19:17:10.015 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+19:17:10.131 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:17:10.774 [main] INFO  Handler_acl - access control function executed in 602 ms
+2025-02-11T19:17:11.115799362+00:00 - INFO - example function executed in 1.679660967s
+19:17:11.203 [main] INFO  Handler_acl - access control function executed in 921 ms
+2025-02-11T19:17:11.534134562+00:00 - INFO - example function executed in 2.019983347s
+19:17:12.813 [main] INFO  Injector - Read from MongoDB table executed in 59 ms
+19:17:12.958 [main] INFO  Injector - Read from MongoDB table executed in 62 ms
+19:17:13.284 [main] INFO  Handler_acl - access control function executed in 168 ms
+2025-02-11T19:17:13.619800627+00:00 - INFO - example function executed in 1.28968862s
+19:17:13.664 [main] INFO  Handler_acl - access control function executed in 689 ms
+2025-02-11T19:17:13.992911457+00:00 - INFO - example function executed in 1.869250914s
+19:17:15.260 [main] INFO  Injector - Read from MongoDB table executed in 59 ms
+19:17:15.444 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:17:16.084 [main] INFO  Handler_acl - access control function executed in 639 ms
+19:17:16.299 [main] INFO  Handler_acl - access control function executed in 693 ms
+2025-02-11T19:17:16.411655669+00:00 - INFO - example function executed in 1.749346403s
+2025-02-11T19:17:16.635895213+00:00 - INFO - example function executed in 1.775446212s
+19:17:17.432 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:17:18.247 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:17:18.537 [main] INFO  Handler_acl - access control function executed in 962 ms
+19:17:18.829 [main] INFO  Handler_acl - access control function executed in 436 ms
+2025-02-11T19:17:18.876170001+00:00 - INFO - example function executed in 1.958270905s
+2025-02-11T19:17:19.160816887+00:00 - INFO - example function executed in 1.467326829s
+19:17:20.032 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:17:20.629 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:17:20.807 [main] INFO  Handler_acl - access control function executed in 626 ms
+2025-02-11T19:17:21.135201887+00:00 - INFO - example function executed in 1.703137819s
+19:17:21.421 [main] INFO  Handler_acl - access control function executed in 645 ms
+2025-02-11T19:17:21.747026881+00:00 - INFO - example function executed in 1.662389286s
+19:17:23.444 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:17:23.525 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:17:23.888 [main] INFO  Handler_acl - access control function executed in 216 ms
+2025-02-11T19:17:24.216271800+00:00 - INFO - example function executed in 1.275726965s
+19:17:24.403 [main] INFO  Handler_acl - access control function executed in 786 ms
+2025-02-11T19:17:24.729685167+00:00 - INFO - example function executed in 1.894934332s
+19:17:26.104 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+19:17:26.380 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:17:26.572 [main] INFO  Handler_acl - access control function executed in 293 ms
+19:17:26.681 [main] INFO  Handler_acl - access control function executed in 154 ms
+2025-02-11T19:17:26.899484269+00:00 - INFO - example function executed in 1.34778552s
+2025-02-11T19:17:27.010193615+00:00 - INFO - example function executed in 1.192722505s
+19:17:28.694 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:17:28.767 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+19:17:29.166 [main] INFO  Handler_acl - access control function executed in 310 ms
+2025-02-11T19:17:29.493745767+00:00 - INFO - example function executed in 1.34406312s
+19:17:29.782 [main] INFO  Handler_acl - access control function executed in 864 ms
+2025-02-11T19:17:30.113114086+00:00 - INFO - example function executed in 1.91345496s
+19:17:31.078 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:17:31.542 [main] INFO  Handler_acl - access control function executed in 323 ms
+19:17:31.679 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T19:17:31.867548390+00:00 - INFO - example function executed in 1.303466155s
+19:17:32.630 [main] INFO  Handler_acl - access control function executed in 812 ms
+2025-02-11T19:17:32.960433602+00:00 - INFO - example function executed in 1.821486429s
+19:17:34.070 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+19:17:34.359 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:17:35.129 [main] INFO  Handler_acl - access control function executed in 898 ms
+19:17:35.134 [main] INFO  Handler_acl - access control function executed in 636 ms
+2025-02-11T19:17:35.457809169+00:00 - INFO - example function executed in 1.93192539s
+2025-02-11T19:17:35.464256020+00:00 - INFO - example function executed in 1.686623175s
+19:17:37.070 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+19:17:37.148 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+19:17:37.528 [main] INFO  Handler_acl - access control function executed in 316 ms
+2025-02-11T19:17:37.855597864+00:00 - INFO - example function executed in 1.337774495s
+19:17:38.327 [main] INFO  Handler_acl - access control function executed in 1006 ms
+2025-02-11T19:17:38.657412201+00:00 - INFO - example function executed in 2.107842296s
+19:17:39.642 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:17:40.171 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+19:17:40.219 [main] INFO  Handler_acl - access control function executed in 432 ms
+2025-02-11T19:17:40.547223505+00:00 - INFO - example function executed in 1.426565725s
+19:17:41.266 [main] INFO  Handler_acl - access control function executed in 955 ms
+2025-02-11T19:17:41.591411186+00:00 - INFO - example function executed in 1.946909686s
+19:17:42.407 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:17:42.868 [main] INFO  Handler_acl - access control function executed in 324 ms
+2025-02-11T19:17:43.195198888+00:00 - INFO - example function executed in 1.306618009s
+19:17:43.303 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:17:43.585 [main] INFO  Handler_acl - access control function executed in 145 ms
+2025-02-11T19:17:43.916025623+00:00 - INFO - example function executed in 1.137199718s
+19:17:45.421 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:17:45.747 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+19:17:45.863 [main] INFO  Handler_acl - access control function executed in 257 ms
+2025-02-11T19:17:46.200200002+00:00 - INFO - example function executed in 1.338858541s
+19:17:46.679 [main] INFO  Handler_acl - access control function executed in 742 ms
+2025-02-11T19:17:47.007925820+00:00 - INFO - example function executed in 1.927860881s
+19:17:48.469 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+19:17:48.525 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:17:48.972 [main] INFO  Handler_acl - access control function executed in 331 ms
+19:17:48.975 [main] INFO  Handler_acl - access control function executed in 301 ms
+2025-02-11T19:17:49.311482434+00:00 - INFO - example function executed in 1.475747344s
+2025-02-11T19:17:49.313044715+00:00 - INFO - example function executed in 1.334825676s
+19:17:50.193 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+19:17:50.355 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:17:50.985 [main] INFO  Handler_acl - access control function executed in 635 ms
+19:17:51.071 [main] INFO  Handler_acl - access control function executed in 576 ms
+2025-02-11T19:17:51.312673084+00:00 - INFO - example function executed in 1.679535828s
+2025-02-11T19:17:51.397933773+00:00 - INFO - example function executed in 1.594171381s
+19:17:52.593 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:17:53.105 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:17:53.254 [main] INFO  Handler_acl - access control function executed in 521 ms
+2025-02-11T19:17:53.580697706+00:00 - INFO - example function executed in 1.507391869s
+19:17:53.626 [main] INFO  Handler_acl - access control function executed in 380 ms
+2025-02-11T19:17:53.956905458+00:00 - INFO - example function executed in 1.374150229s
+19:17:55.417 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+19:17:55.597 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:17:55.885 [main] INFO  Handler_acl - access control function executed in 303 ms
+2025-02-11T19:17:56.212646779+00:00 - INFO - example function executed in 1.349231203s
+19:17:56.321 [main] INFO  Handler_acl - access control function executed in 582 ms
+2025-02-11T19:17:56.647903727+00:00 - INFO - example function executed in 1.622367874s
+19:17:57.923 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:17:58.397 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:17:58.677 [main] INFO  Handler_acl - access control function executed in 142 ms
+2025-02-11T19:17:59.007296252+00:00 - INFO - example function executed in 1.147935839s
+19:17:59.112 [main] INFO  Handler_acl - access control function executed in 1050 ms
+2025-02-11T19:17:59.439342141+00:00 - INFO - example function executed in 2.049225189s
+19:18:00.475 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:18:00.740 [main] INFO  Handler_acl - access control function executed in 121 ms
+19:18:00.791 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T19:18:01.066471694+00:00 - INFO - example function executed in 1.12440445s
+19:18:01.516 [main] INFO  Handler_acl - access control function executed in 586 ms
+2025-02-11T19:18:01.843148559+00:00 - INFO - example function executed in 1.602383878s
+19:18:02.641 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:18:03.373 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:18:03.506 [main] INFO  Handler_acl - access control function executed in 729 ms
+2025-02-11T19:18:03.831686161+00:00 - INFO - example function executed in 1.695705399s
+19:18:04.618 [main] INFO  Handler_acl - access control function executed in 1103 ms
+2025-02-11T19:18:04.946661454+00:00 - INFO - example function executed in 2.095075169s
+19:18:05.899 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+19:18:06.182 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+19:18:07.088 [main] INFO  Handler_acl - access control function executed in 1018 ms
+19:18:07.380 [main] INFO  Handler_acl - access control function executed in 1049 ms
+2025-02-11T19:18:07.416662672+00:00 - INFO - example function executed in 2.070514075s
+2025-02-11T19:18:07.709118275+00:00 - INFO - example function executed in 2.274853311s
+19:18:08.555 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:18:09.330 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+19:18:09.789 [main] INFO  Handler_acl - access control function executed in 1088 ms
+19:18:09.833 [main] INFO  Handler_acl - access control function executed in 353 ms
+2025-02-11T19:18:10.116269081+00:00 - INFO - example function executed in 2.111659312s
+2025-02-11T19:18:10.173156196+00:00 - INFO - example function executed in 1.388454781s
+19:18:11.546 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+19:18:11.601 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+19:18:12.339 [main] INFO  Handler_acl - access control function executed in 620 ms
+19:18:12.460 [main] INFO  Handler_acl - access control function executed in 672 ms
+2025-02-11T19:18:12.680773399+00:00 - INFO - example function executed in 1.756191592s
+2025-02-11T19:18:12.792165791+00:00 - INFO - example function executed in 1.805750817s
+19:18:13.835 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:18:14.294 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+19:18:14.619 [main] INFO  Handler_acl - access control function executed in 186 ms
+2025-02-11T19:18:14.949616231+00:00 - INFO - example function executed in 1.18437348s
+19:18:15.020 [main] INFO  Handler_acl - access control function executed in 1042 ms
+2025-02-11T19:18:15.347594584+00:00 - INFO - example function executed in 2.048420448s
+19:18:16.504 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:18:16.870 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:18:17.022 [main] INFO  Handler_acl - access control function executed in 373 ms
+2025-02-11T19:18:17.348634270+00:00 - INFO - example function executed in 1.368388309s
+19:18:17.574 [main] INFO  Handler_acl - access control function executed in 556 ms
+2025-02-11T19:18:17.902804374+00:00 - INFO - example function executed in 1.570607045s
+19:18:19.008 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:18:19.135 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+19:18:19.324 [main] INFO  Handler_acl - access control function executed in 167 ms
+2025-02-11T19:18:19.652705089+00:00 - INFO - example function executed in 1.182048491s
+19:18:20.048 [main] INFO  Handler_acl - access control function executed in 774 ms
+2025-02-11T19:18:20.380291825+00:00 - INFO - example function executed in 1.788057605s
+19:18:21.446 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+19:18:21.955 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+19:18:21.980 [main] INFO  Handler_acl - access control function executed in 393 ms
+2025-02-11T19:18:22.305750093+00:00 - INFO - example function executed in 1.391265453s
+19:18:22.551 [main] INFO  Handler_acl - access control function executed in 455 ms
+2025-02-11T19:18:22.878420016+00:00 - INFO - example function executed in 1.448952364s
+19:18:24.285 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:18:24.349 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+19:18:24.797 [main] INFO  Handler_acl - access control function executed in 368 ms
+19:18:25.100 [main] INFO  Handler_acl - access control function executed in 595 ms
+2025-02-11T19:18:25.123915752+00:00 - INFO - example function executed in 1.367942732s
+2025-02-11T19:18:25.430622284+00:00 - INFO - example function executed in 1.621243648s
+19:18:26.405 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+19:18:26.691 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:18:27.568 [main] INFO  Handler_acl - access control function executed in 986 ms
+19:18:27.625 [main] INFO  Handler_acl - access control function executed in 772 ms
+2025-02-11T19:18:27.895307662+00:00 - INFO - example function executed in 2.049738513s
+2025-02-11T19:18:27.951816875+00:00 - INFO - example function executed in 1.869416233s
+19:18:29.475 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+19:18:29.665 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+19:18:30.093 [main] INFO  Handler_acl - access control function executed in 469 ms
+2025-02-11T19:18:30.420084570+00:00 - INFO - example function executed in 1.481765373s
+19:18:30.467 [main] INFO  Handler_acl - access control function executed in 662 ms
+2025-02-11T19:18:30.796878685+00:00 - INFO - example function executed in 1.677072153s
+19:18:31.787 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+19:18:32.348 [main] INFO  Handler_acl - access control function executed in 418 ms
+19:18:32.485 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T19:18:32.674911856+00:00 - INFO - example function executed in 1.428313857s
+19:18:33.263 [main] INFO  Handler_acl - access control function executed in 636 ms
+2025-02-11T19:18:33.590585+00:00 - INFO - example function executed in 1.64838469s

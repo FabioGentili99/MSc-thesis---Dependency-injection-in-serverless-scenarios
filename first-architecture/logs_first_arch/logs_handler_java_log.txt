@@ -1,0 +1,2250 @@
+21:33:45.157 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:33:45.221 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:33:46.196 [main] INFO  Handler_log - logging function executed in 836 ms
+21:33:46.397 [main] INFO  Handler_log - logging function executed in 1099 ms
+2025-02-11T21:33:46.526203014+00:00 - INFO - example function executed in 1.843312518s
+2025-02-11T21:33:46.722552876+00:00 - INFO - example function executed in 2.116373305s
+21:33:47.944 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:33:48.412 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:33:48.682 [main] INFO  Handler_log - logging function executed in 594 ms
+2025-02-11T21:33:49.008251573+00:00 - INFO - example function executed in 1.612707772s
+21:33:49.648 [main] INFO  Handler_log - logging function executed in 1092 ms
+2025-02-11T21:33:49.986423814+00:00 - INFO - example function executed in 2.134987475s
+21:33:51.046 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:33:51.209 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:33:51.792 [main] INFO  Handler_log - logging function executed in 445 ms
+21:33:51.800 [main] INFO  Handler_log - logging function executed in 611 ms
+2025-02-11T21:33:52.119911927+00:00 - INFO - example function executed in 1.446753329s
+2025-02-11T21:33:52.125149109+00:00 - INFO - example function executed in 1.62672227s
+21:33:53.127 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:33:53.154 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:33:54.076 [main] INFO  Handler_log - logging function executed in 775 ms
+21:33:54.261 [main] INFO  Handler_log - logging function executed in 991 ms
+2025-02-11T21:33:54.404747115+00:00 - INFO - example function executed in 1.780769388s
+2025-02-11T21:33:54.586482983+00:00 - INFO - example function executed in 1.998121527s
+21:33:55.990 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:33:56.098 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:33:56.721 [main] INFO  Handler_log - logging function executed in 583 ms
+21:33:56.753 [main] INFO  Handler_log - logging function executed in 510 ms
+2025-02-11T21:33:57.046110276+00:00 - INFO - example function executed in 1.594040621s
+2025-02-11T21:33:57.082912929+00:00 - INFO - example function executed in 1.538155798s
+21:33:58.054 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:33:58.792 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:33:59.040 [main] INFO  Handler_log - logging function executed in 847 ms
+2025-02-11T21:33:59.365126647+00:00 - INFO - example function executed in 1.848116576s
+21:33:59.699 [main] INFO  Handler_log - logging function executed in 766 ms
+2025-02-11T21:34:00.027889679+00:00 - INFO - example function executed in 1.77761949s
+21:34:00.836 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:34:01.120 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+21:34:01.122 [main] INFO  Handler_log - logging function executed in 144 ms
+2025-02-11T21:34:01.447344527+00:00 - INFO - example function executed in 1.142006068s
+21:34:01.611 [main] INFO  Handler_log - logging function executed in 358 ms
+2025-02-11T21:34:01.939266506+00:00 - INFO - example function executed in 1.342363748s
+21:34:03.494 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:34:03.520 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:34:03.863 [main] INFO  Handler_log - logging function executed in 201 ms
+2025-02-11T21:34:04.193061611+00:00 - INFO - example function executed in 1.204728275s
+21:34:04.453 [main] INFO  Handler_log - logging function executed in 818 ms
+2025-02-11T21:34:04.779067315+00:00 - INFO - example function executed in 1.811348614s
+21:34:05.864 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:34:05.975 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:34:06.856 [main] INFO  Handler_log - logging function executed in 847 ms
+21:34:07.063 [main] INFO  Handler_log - logging function executed in 936 ms
+2025-02-11T21:34:07.181521003+00:00 - INFO - example function executed in 1.850708323s
+2025-02-11T21:34:07.388922637+00:00 - INFO - example function executed in 1.958887217s
+21:34:08.372 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:34:08.677 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:34:09.032 [main] INFO  Handler_log - logging function executed in 209 ms
+2025-02-11T21:34:09.361478970+00:00 - INFO - example function executed in 1.223515211s
+21:34:09.541 [main] INFO  Handler_log - logging function executed in 1022 ms
+2025-02-11T21:34:09.869555737+00:00 - INFO - example function executed in 2.016874138s
+21:34:11.061 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:34:11.105 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:34:11.448 [main] INFO  Handler_log - logging function executed in 201 ms
+2025-02-11T21:34:11.773793108+00:00 - INFO - example function executed in 1.197803761s
+21:34:11.953 [main] INFO  Handler_log - logging function executed in 743 ms
+2025-02-11T21:34:12.277958761+00:00 - INFO - example function executed in 1.740046999s
+21:34:13.333 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+21:34:13.822 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:34:14.348 [main] INFO  Handler_log - logging function executed in 384 ms
+21:34:14.507 [main] INFO  Handler_log - logging function executed in 1007 ms
+2025-02-11T21:34:14.677567924+00:00 - INFO - example function executed in 1.400402557s
+2025-02-11T21:34:14.842952116+00:00 - INFO - example function executed in 2.055221146s
+21:34:16.172 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:34:16.507 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:34:16.656 [main] INFO  Handler_log - logging function executed in 324 ms
+21:34:16.865 [main] INFO  Handler_log - logging function executed in 208 ms
+2025-02-11T21:34:16.981165663+00:00 - INFO - example function executed in 1.365416905s
+2025-02-11T21:34:17.206579121+00:00 - INFO - example function executed in 1.234999669s
+21:34:18.628 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:34:18.683 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:34:18.987 [main] INFO  Handler_log - logging function executed in 203 ms
+21:34:19.062 [main] INFO  Handler_log - logging function executed in 235 ms
+2025-02-11T21:34:19.314026904+00:00 - INFO - example function executed in 1.241374133s
+2025-02-11T21:34:19.391621183+00:00 - INFO - example function executed in 1.249638703s
+21:34:20.555 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:34:20.927 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:34:21.331 [main] INFO  Handler_log - logging function executed in 637 ms
+21:34:21.337 [main] INFO  Handler_log - logging function executed in 255 ms
+2025-02-11T21:34:21.657788091+00:00 - INFO - example function executed in 1.629751547s
+2025-02-11T21:34:21.666820878+00:00 - INFO - example function executed in 1.309390909s
+21:34:22.685 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:34:23.214 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:34:23.803 [main] INFO  Handler_log - logging function executed in 978 ms
+21:34:23.896 [main] INFO  Handler_log - logging function executed in 538 ms
+2025-02-11T21:34:24.128094475+00:00 - INFO - example function executed in 1.968012803s
+2025-02-11T21:34:24.225581187+00:00 - INFO - example function executed in 1.544827712s
+21:34:25.229 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:34:25.313 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:34:26.173 [main] INFO  Handler_log - logging function executed in 721 ms
+21:34:26.389 [main] INFO  Handler_log - logging function executed in 1016 ms
+2025-02-11T21:34:26.504516725+00:00 - INFO - example function executed in 1.735233879s
+2025-02-11T21:34:26.714691710+00:00 - INFO - example function executed in 2.026158635s
+21:34:27.493 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:34:27.938 [main] INFO  Handler_log - logging function executed in 305 ms
+21:34:27.976 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T21:34:28.263313609+00:00 - INFO - example function executed in 1.290992422s
+21:34:28.430 [main] INFO  Handler_log - logging function executed in 317 ms
+2025-02-11T21:34:28.759023725+00:00 - INFO - example function executed in 1.302456307s
+21:34:30.193 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:34:30.482 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:34:31.059 [main] INFO  Handler_log - logging function executed in 443 ms
+2025-02-11T21:34:31.389915058+00:00 - INFO - example function executed in 1.431810805s
+21:34:31.391 [main] INFO  Handler_log - logging function executed in 1058 ms
+2025-02-11T21:34:31.716792950+00:00 - INFO - example function executed in 2.049512162s
+21:34:32.640 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:34:32.990 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:34:33.251 [main] INFO  Handler_log - logging function executed in 468 ms
+2025-02-11T21:34:33.578357976+00:00 - INFO - example function executed in 1.475985999s
+21:34:34.179 [main] INFO  Handler_log - logging function executed in 1050 ms
+2025-02-11T21:34:34.509565250+00:00 - INFO - example function executed in 2.048062074s
+21:34:35.603 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:34:35.789 [main] INFO  Injector - Read from MongoDB table executed in 45 ms
+21:34:35.993 [main] INFO  Handler_log - logging function executed in 235 ms
+2025-02-11T21:34:36.317827890+00:00 - INFO - example function executed in 1.246188175s
+21:34:36.964 [main] INFO  Handler_log - logging function executed in 1011 ms
+2025-02-11T21:34:37.296204106+00:00 - INFO - example function executed in 2.070347606s
+21:34:38.215 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:34:38.959 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:34:39.054 [main] INFO  Handler_log - logging function executed in 695 ms
+2025-02-11T21:34:39.379402242+00:00 - INFO - example function executed in 1.680367714s
+21:34:39.590 [main] INFO  Handler_log - logging function executed in 489 ms
+2025-02-11T21:34:39.920820753+00:00 - INFO - example function executed in 1.486974444s
+21:34:41.158 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:34:41.529 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:34:42.191 [main] INFO  Handler_log - logging function executed in 889 ms
+2025-02-11T21:34:42.518611162+00:00 - INFO - example function executed in 1.904403704s
+21:34:42.563 [main] INFO  Handler_log - logging function executed in 898 ms
+2025-02-11T21:34:42.892633412+00:00 - INFO - example function executed in 1.893048684s
+21:34:43.962 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:34:44.473 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:34:45.201 [main] INFO  Handler_log - logging function executed in 1101 ms
+2025-02-11T21:34:45.527293806+00:00 - INFO - example function executed in 2.093519073s
+21:34:45.550 [main] INFO  Handler_log - logging function executed in 937 ms
+2025-02-11T21:34:45.880059302+00:00 - INFO - example function executed in 1.935777338s
+21:34:46.695 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:34:47.279 [main] INFO  Handler_log - logging function executed in 439 ms
+21:34:47.590 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T21:34:47.603781163+00:00 - INFO - example function executed in 1.448627839s
+21:34:48.066 [main] INFO  Handler_log - logging function executed in 336 ms
+2025-02-11T21:34:48.397150223+00:00 - INFO - example function executed in 1.324915879s
+21:34:49.638 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:34:49.985 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:34:50.818 [main] INFO  Handler_log - logging function executed in 1040 ms
+21:34:51.084 [main] INFO  Handler_log - logging function executed in 962 ms
+2025-02-11T21:34:51.146678906+00:00 - INFO - example function executed in 2.044843338s
+2025-02-11T21:34:51.413075363+00:00 - INFO - example function executed in 1.965631585s
+21:34:52.587 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:34:53.132 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+21:34:53.794 [main] INFO  Handler_log - logging function executed in 1068 ms
+2025-02-11T21:34:54.119802549+00:00 - INFO - example function executed in 2.060117201s
+21:34:54.351 [main] INFO  Handler_log - logging function executed in 1076 ms
+2025-02-11T21:34:54.680457064+00:00 - INFO - example function executed in 2.063225614s
+21:34:55.762 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:34:56.203 [main] INFO  Handler_log - logging function executed in 297 ms
+21:34:56.225 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:34:56.507 [main] INFO  Handler_log - logging function executed in 145 ms
+2025-02-11T21:34:56.527273170+00:00 - INFO - example function executed in 1.292747631s
+2025-02-11T21:34:56.835685327+00:00 - INFO - example function executed in 1.137651339s
+21:34:57.812 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:34:57.974 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:34:58.832 [main] INFO  Handler_log - logging function executed in 719 ms
+21:34:59.041 [main] INFO  Handler_log - logging function executed in 1087 ms
+2025-02-11T21:34:59.161159502+00:00 - INFO - example function executed in 1.740834189s
+2025-02-11T21:34:59.367656177+00:00 - INFO - example function executed in 2.079654439s
+21:35:00.555 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:35:00.999 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:35:01.448 [main] INFO  Handler_log - logging function executed in 311 ms
+21:35:01.481 [main] INFO  Handler_log - logging function executed in 790 ms
+2025-02-11T21:35:01.778443437+00:00 - INFO - example function executed in 1.320667124s
+2025-02-11T21:35:01.808623412+00:00 - INFO - example function executed in 1.779334142s
+21:35:03.098 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:35:03.421 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:35:03.889 [main] INFO  Handler_log - logging function executed in 648 ms
+2025-02-11T21:35:04.215783768+00:00 - INFO - example function executed in 1.647644401s
+21:35:04.666 [main] INFO  Handler_log - logging function executed in 1104 ms
+2025-02-11T21:35:04.995272540+00:00 - INFO - example function executed in 2.109789707s
+21:35:06.024 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:35:06.589 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:35:07.046 [main] INFO  Handler_log - logging function executed in 880 ms
+21:35:07.063 [main] INFO  Handler_log - logging function executed in 334 ms
+2025-02-11T21:35:07.372051775+00:00 - INFO - example function executed in 1.879388394s
+2025-02-11T21:35:07.387875469+00:00 - INFO - example function executed in 1.338582491s
+21:35:09.140 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:35:09.680 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:35:09.695 [main] INFO  Handler_log - logging function executed in 412 ms
+2025-02-11T21:35:10.020844237+00:00 - INFO - example function executed in 1.418452587s
+21:35:10.685 [main] INFO  Handler_log - logging function executed in 869 ms
+2025-02-11T21:35:11.014912304+00:00 - INFO - example function executed in 1.854813095s
+21:35:11.957 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:35:12.001 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:35:12.722 [main] INFO  Handler_log - logging function executed in 575 ms
+21:35:13.035 [main] INFO  Handler_log - logging function executed in 932 ms
+2025-02-11T21:35:13.048329802+00:00 - INFO - example function executed in 1.579628312s
+2025-02-11T21:35:13.361778986+00:00 - INFO - example function executed in 1.938924399s
+21:35:14.210 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:35:14.211 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:35:14.502 [main] INFO  Handler_log - logging function executed in 151 ms
+21:35:14.746 [main] INFO  Handler_log - logging function executed in 396 ms
+2025-02-11T21:35:14.826699880+00:00 - INFO - example function executed in 1.152320647s
+2025-02-11T21:35:15.075015005+00:00 - INFO - example function executed in 1.393361004s
+21:35:16.146 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:35:16.707 [main] INFO  Handler_log - logging function executed in 422 ms
+21:35:16.731 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T21:35:17.031407176+00:00 - INFO - example function executed in 1.411915352s
+21:35:17.578 [main] INFO  Handler_log - logging function executed in 706 ms
+2025-02-11T21:35:17.903614410+00:00 - INFO - example function executed in 1.701303664s
+21:35:19.084 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:35:19.427 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:35:19.971 [main] INFO  Handler_log - logging function executed in 408 ms
+21:35:20.297 [main] INFO  Handler_log - logging function executed in 1069 ms
+2025-02-11T21:35:20.301069999+00:00 - INFO - example function executed in 1.40624638s
+2025-02-11T21:35:20.624561682+00:00 - INFO - example function executed in 2.104804475s
+21:35:21.548 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:35:21.807 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:35:22.014 [main] INFO  Handler_log - logging function executed in 323 ms
+2025-02-11T21:35:22.339099436+00:00 - INFO - example function executed in 1.331101163s
+21:35:22.671 [main] INFO  Handler_log - logging function executed in 725 ms
+2025-02-11T21:35:22.999883358+00:00 - INFO - example function executed in 1.728587126s
+21:35:23.844 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:35:24.063 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:35:24.360 [main] INFO  Handler_log - logging function executed in 375 ms
+2025-02-11T21:35:24.686006244+00:00 - INFO - example function executed in 1.382664203s
+21:35:25.100 [main] INFO  Handler_log - logging function executed in 899 ms
+2025-02-11T21:35:25.428198479+00:00 - INFO - example function executed in 1.896990977s
+21:35:26.467 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:35:26.518 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:35:27.505 [main] INFO  Handler_log - logging function executed in 899 ms
+21:35:27.684 [main] INFO  Handler_log - logging function executed in 1026 ms
+2025-02-11T21:35:27.829733377+00:00 - INFO - example function executed in 1.890328251s
+2025-02-11T21:35:28.011957362+00:00 - INFO - example function executed in 2.028448723s
+21:35:29.068 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:35:29.467 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:35:29.864 [main] INFO  Handler_log - logging function executed in 657 ms
+21:35:30.041 [main] INFO  Handler_log - logging function executed in 432 ms
+2025-02-11T21:35:30.189796870+00:00 - INFO - example function executed in 1.648016708s
+2025-02-11T21:35:30.369894642+00:00 - INFO - example function executed in 1.444316178s
+21:35:31.505 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:35:32.040 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:35:32.431 [main] INFO  Handler_log - logging function executed in 248 ms
+21:35:32.565 [main] INFO  Handler_log - logging function executed in 917 ms
+2025-02-11T21:35:32.760780606+00:00 - INFO - example function executed in 1.253020513s
+2025-02-11T21:35:32.890483500+00:00 - INFO - example function executed in 1.915265749s
+21:35:33.938 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:35:34.262 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:35:34.318 [main] INFO  Handler_log - logging function executed in 218 ms
+2025-02-11T21:35:34.643377083+00:00 - INFO - example function executed in 1.232052663s
+21:35:35.393 [main] INFO  Handler_log - logging function executed in 989 ms
+2025-02-11T21:35:35.721774495+00:00 - INFO - example function executed in 2.000068414s
+21:35:37.372 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:35:37.844 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+21:35:37.892 [main] INFO  Handler_log - logging function executed in 370 ms
+2025-02-11T21:35:38.217630018+00:00 - INFO - example function executed in 1.394705581s
+21:35:38.745 [main] INFO  Handler_log - logging function executed in 762 ms
+2025-02-11T21:35:39.077029684+00:00 - INFO - example function executed in 1.77174992s
+21:35:40.207 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:35:40.697 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:35:41.349 [main] INFO  Handler_log - logging function executed in 990 ms
+21:35:41.469 [main] INFO  Handler_log - logging function executed in 628 ms
+2025-02-11T21:35:41.674768384+00:00 - INFO - example function executed in 2.057885401s
+2025-02-11T21:35:41.797670082+00:00 - INFO - example function executed in 1.643324813s
+21:35:43.086 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+21:35:43.229 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:35:43.501 [main] INFO  Handler_log - logging function executed in 269 ms
+2025-02-11T21:35:43.826887788+00:00 - INFO - example function executed in 1.287454513s
+21:35:44.414 [main] INFO  Handler_log - logging function executed in 1043 ms
+2025-02-11T21:35:44.742951288+00:00 - INFO - example function executed in 2.081213749s
+21:35:45.694 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:35:46.286 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:35:46.457 [main] INFO  Handler_log - logging function executed in 623 ms
+2025-02-11T21:35:46.781694300+00:00 - INFO - example function executed in 1.624757018s
+21:35:47.150 [main] INFO  Handler_log - logging function executed in 725 ms
+2025-02-11T21:35:47.477763459+00:00 - INFO - example function executed in 1.718813035s
+21:35:48.677 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:35:49.096 [main] INFO  Handler_log - logging function executed in 275 ms
+21:35:49.245 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T21:35:49.421533160+00:00 - INFO - example function executed in 1.275866909s
+21:35:50.097 [main] INFO  Handler_log - logging function executed in 708 ms
+2025-02-11T21:35:50.425146678+00:00 - INFO - example function executed in 1.740741753s
+21:35:51.849 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:35:51.859 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:35:52.764 [main] INFO  Handler_log - logging function executed in 772 ms
+21:35:52.844 [main] INFO  Handler_log - logging function executed in 842 ms
+2025-02-11T21:35:53.088862145+00:00 - INFO - example function executed in 1.788767021s
+2025-02-11T21:35:53.176676900+00:00 - INFO - example function executed in 1.850770437s
+21:35:53.982 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:35:54.193 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:35:54.387 [main] INFO  Handler_log - logging function executed in 265 ms
+2025-02-11T21:35:54.712372689+00:00 - INFO - example function executed in 1.252115709s
+21:35:54.775 [main] INFO  Handler_log - logging function executed in 445 ms
+2025-02-11T21:35:55.103856129+00:00 - INFO - example function executed in 1.434385996s
+21:35:56.072 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:35:56.398 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:35:56.812 [main] INFO  Handler_log - logging function executed in 272 ms
+2025-02-11T21:35:57.139857508+00:00 - INFO - example function executed in 1.271142607s
+21:35:57.287 [main] INFO  Handler_log - logging function executed in 1073 ms
+2025-02-11T21:35:57.613133563+00:00 - INFO - example function executed in 2.077906663s
+21:35:58.755 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:35:59.213 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:35:59.662 [main] INFO  Handler_log - logging function executed in 737 ms
+2025-02-11T21:35:59.987075188+00:00 - INFO - example function executed in 1.767730175s
+21:36:00.325 [main] INFO  Handler_log - logging function executed in 975 ms
+2025-02-11T21:36:00.653213081+00:00 - INFO - example function executed in 1.964547443s
+21:36:01.453 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:36:01.783 [main] INFO  Handler_log - logging function executed in 191 ms
+2025-02-11T21:36:02.107766853+00:00 - INFO - example function executed in 1.189336858s
+21:36:02.256 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:36:02.677 [main] INFO  Handler_log - logging function executed in 273 ms
+2025-02-11T21:36:03.007493519+00:00 - INFO - example function executed in 1.285994836s
+21:36:04.047 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+21:36:04.375 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:36:04.992 [main] INFO  Handler_log - logging function executed in 799 ms
+21:36:05.047 [main] INFO  Handler_log - logging function executed in 527 ms
+2025-02-11T21:36:05.318189785+00:00 - INFO - example function executed in 1.816283222s
+2025-02-11T21:36:05.375753571+00:00 - INFO - example function executed in 1.550259749s
+21:36:06.294 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:36:06.442 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:36:06.979 [main] INFO  Handler_log - logging function executed in 392 ms
+21:36:07.183 [main] INFO  Handler_log - logging function executed in 746 ms
+2025-02-11T21:36:07.307972728+00:00 - INFO - example function executed in 1.508171542s
+2025-02-11T21:36:07.509738311+00:00 - INFO - example function executed in 1.74458903s
+21:36:09.087 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:36:09.207 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:36:09.724 [main] INFO  Handler_log - logging function executed in 377 ms
+21:36:09.729 [main] INFO  Handler_log - logging function executed in 491 ms
+2025-02-11T21:36:10.053689464+00:00 - INFO - example function executed in 1.372806957s
+2025-02-11T21:36:10.054002613+00:00 - INFO - example function executed in 1.49896593s
+21:36:11.323 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+21:36:11.376 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:36:11.673 [main] INFO  Handler_log - logging function executed in 212 ms
+2025-02-11T21:36:11.998588949+00:00 - INFO - example function executed in 1.210202722s
+21:36:12.509 [main] INFO  Handler_log - logging function executed in 987 ms
+2025-02-11T21:36:12.841841534+00:00 - INFO - example function executed in 1.999045899s
+21:36:13.791 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:36:14.449 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:36:14.470 [main] INFO  Handler_log - logging function executed in 538 ms
+2025-02-11T21:36:14.794666744+00:00 - INFO - example function executed in 1.535994434s
+21:36:15.440 [main] INFO  Handler_log - logging function executed in 847 ms
+2025-02-11T21:36:15.771196798+00:00 - INFO - example function executed in 1.855645043s
+21:36:17.290 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:36:17.471 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:36:18.305 [main] INFO  Handler_log - logging function executed in 857 ms
+21:36:18.482 [main] INFO  Handler_log - logging function executed in 868 ms
+2025-02-11T21:36:18.630063078+00:00 - INFO - example function executed in 1.875897867s
+2025-02-11T21:36:18.810834422+00:00 - INFO - example function executed in 1.882540775s
+21:36:20.082 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:36:20.095 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:36:20.447 [main] INFO  Handler_log - logging function executed in 223 ms
+2025-02-11T21:36:20.772294817+00:00 - INFO - example function executed in 1.227708708s
+21:36:20.946 [main] INFO  Handler_log - logging function executed in 709 ms
+2025-02-11T21:36:21.276174140+00:00 - INFO - example function executed in 1.72252227s
+21:36:22.810 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:36:22.853 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:36:23.394 [main] INFO  Handler_log - logging function executed in 436 ms
+21:36:23.684 [main] INFO  Handler_log - logging function executed in 691 ms
+2025-02-11T21:36:23.721034078+00:00 - INFO - example function executed in 1.460046478s
+2025-02-11T21:36:24.012626177+00:00 - INFO - example function executed in 1.71781077s
+21:36:25.109 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:36:25.409 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:36:25.801 [main] INFO  Handler_log - logging function executed in 546 ms
+2025-02-11T21:36:26.126089350+00:00 - INFO - example function executed in 1.567106219s
+21:36:26.174 [main] INFO  Handler_log - logging function executed in 615 ms
+2025-02-11T21:36:26.502992660+00:00 - INFO - example function executed in 1.639274526s
+21:36:27.773 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:36:27.970 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:36:28.433 [main] INFO  Handler_log - logging function executed in 319 ms
+2025-02-11T21:36:28.763563757+00:00 - INFO - example function executed in 1.327465063s
+21:36:28.999 [main] INFO  Handler_log - logging function executed in 1066 ms
+2025-02-11T21:36:29.324716211+00:00 - INFO - example function executed in 2.108785471s
+21:36:30.915 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:36:30.994 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:36:31.422 [main] INFO  Handler_log - logging function executed in 364 ms
+2025-02-11T21:36:31.747851901+00:00 - INFO - example function executed in 1.37904858s
+21:36:32.121 [main] INFO  Handler_log - logging function executed in 973 ms
+2025-02-11T21:36:32.457057696+00:00 - INFO - example function executed in 2.029806273s
+21:36:33.296 [main] INFO  Injector - Read from MongoDB table executed in 55 ms
+21:36:33.838 [main] INFO  Handler_log - logging function executed in 393 ms
+21:36:34.037 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+2025-02-11T21:36:34.165347154+00:00 - INFO - example function executed in 1.43232807s
+21:36:34.326 [main] INFO  Handler_log - logging function executed in 134 ms
+2025-02-11T21:36:34.654700389+00:00 - INFO - example function executed in 1.176256354s
+21:36:35.508 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:36:35.697 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:36:36.174 [main] INFO  Handler_log - logging function executed in 517 ms
+2025-02-11T21:36:36.501017382+00:00 - INFO - example function executed in 1.550720183s
+21:36:36.824 [main] INFO  Handler_log - logging function executed in 965 ms
+2025-02-11T21:36:37.153629688+00:00 - INFO - example function executed in 2.023142929s
+21:36:38.569 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:36:38.854 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+21:36:39.722 [main] INFO  Handler_log - logging function executed in 1000 ms
+2025-02-11T21:36:40.048078974+00:00 - INFO - example function executed in 2.028127786s
+21:36:40.052 [main] INFO  Handler_log - logging function executed in 1005 ms
+2025-02-11T21:36:40.384222861+00:00 - INFO - example function executed in 2.106844043s
+21:36:41.356 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:36:41.716 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:36:42.072 [main] INFO  Handler_log - logging function executed in 572 ms
+21:36:42.323 [main] INFO  Handler_log - logging function executed in 457 ms
+2025-02-11T21:36:42.397694033+00:00 - INFO - example function executed in 1.569646583s
+2025-02-11T21:36:42.651954210+00:00 - INFO - example function executed in 1.476865555s
+21:36:43.573 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:36:43.726 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+21:36:44.382 [main] INFO  Handler_log - logging function executed in 661 ms
+21:36:44.443 [main] INFO  Handler_log - logging function executed in 560 ms
+2025-02-11T21:36:44.716395182+00:00 - INFO - example function executed in 1.69323012s
+2025-02-11T21:36:44.778591642+00:00 - INFO - example function executed in 1.703130299s
+21:36:45.906 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:36:46.377 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:36:47.090 [main] INFO  Handler_log - logging function executed in 1039 ms
+2025-02-11T21:36:47.415389564+00:00 - INFO - example function executed in 2.059774439s
+21:36:47.575 [main] INFO  Handler_log - logging function executed in 1054 ms
+2025-02-11T21:36:47.906274616+00:00 - INFO - example function executed in 2.075205187s
+21:36:49.581 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+21:36:49.716 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:36:49.864 [main] INFO  Handler_log - logging function executed in 126 ms
+2025-02-11T21:36:50.190242933+00:00 - INFO - example function executed in 1.214112562s
+21:36:50.910 [main] INFO  Handler_log - logging function executed in 1053 ms
+2025-02-11T21:36:51.238381511+00:00 - INFO - example function executed in 2.04388829s
+21:36:52.425 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:36:52.635 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:36:53.137 [main] INFO  Handler_log - logging function executed in 570 ms
+2025-02-11T21:36:53.462806849+00:00 - INFO - example function executed in 1.563139067s
+21:36:53.654 [main] INFO  Handler_log - logging function executed in 879 ms
+2025-02-11T21:36:53.983358449+00:00 - INFO - example function executed in 1.88684138s
+21:36:55.529 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:36:55.634 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:36:56.218 [main] INFO  Handler_log - logging function executed in 440 ms
+2025-02-11T21:36:56.548395331+00:00 - INFO - example function executed in 1.484458561s
+21:36:56.727 [main] INFO  Handler_log - logging function executed in 1055 ms
+2025-02-11T21:36:57.052375771+00:00 - INFO - example function executed in 2.080502558s
+21:36:58.198 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:36:58.389 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:36:58.741 [main] INFO  Handler_log - logging function executed in 210 ms
+21:36:58.775 [main] INFO  Handler_log - logging function executed in 433 ms
+2025-02-11T21:36:59.068937075+00:00 - INFO - example function executed in 1.22820003s
+2025-02-11T21:36:59.100202394+00:00 - INFO - example function executed in 1.445845908s
+21:37:00.220 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:37:00.400 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+21:37:00.480 [main] INFO  Handler_log - logging function executed in 115 ms
+2025-02-11T21:37:00.805592370+00:00 - INFO - example function executed in 1.115496529s
+21:37:01.503 [main] INFO  Handler_log - logging function executed in 937 ms
+2025-02-11T21:37:01.840007731+00:00 - INFO - example function executed in 2.00270865s
+21:37:02.840 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:37:03.141 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:37:03.430 [main] INFO  Handler_log - logging function executed in 438 ms
+21:37:03.533 [main] INFO  Handler_log - logging function executed in 241 ms
+2025-02-11T21:37:03.757347340+00:00 - INFO - example function executed in 1.458442909s
+2025-02-11T21:37:03.864563689+00:00 - INFO - example function executed in 1.278745355s
+21:37:04.916 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:37:05.120 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:37:05.384 [main] INFO  Handler_log - logging function executed in 327 ms
+21:37:05.598 [main] INFO  Handler_log - logging function executed in 323 ms
+2025-02-11T21:37:05.708947250+00:00 - INFO - example function executed in 1.327767469s
+2025-02-11T21:37:05.932698774+00:00 - INFO - example function executed in 1.363516871s
+21:37:06.856 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:37:07.046 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+21:37:07.318 [main] INFO  Handler_log - logging function executed in 127 ms
+21:37:07.523 [main] INFO  Handler_log - logging function executed in 508 ms
+2025-02-11T21:37:07.659928677+00:00 - INFO - example function executed in 1.186403634s
+2025-02-11T21:37:07.851388260+00:00 - INFO - example function executed in 1.588058096s
+21:37:08.845 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:37:09.168 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:37:09.529 [main] INFO  Handler_log - logging function executed in 545 ms
+21:37:09.565 [main] INFO  Handler_log - logging function executed in 257 ms
+2025-02-11T21:37:09.854357135+00:00 - INFO - example function executed in 1.537715375s
+2025-02-11T21:37:09.893872279+00:00 - INFO - example function executed in 1.263508737s
+21:37:11.100 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:37:11.181 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:37:11.645 [main] INFO  Handler_log - logging function executed in 397 ms
+2025-02-11T21:37:11.969989880+00:00 - INFO - example function executed in 1.408690253s
+21:37:12.276 [main] INFO  Handler_log - logging function executed in 953 ms
+2025-02-11T21:37:12.611528222+00:00 - INFO - example function executed in 1.971304478s
+21:37:13.443 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:37:13.518 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:37:14.231 [main] INFO  Handler_log - logging function executed in 572 ms
+21:37:14.336 [main] INFO  Handler_log - logging function executed in 755 ms
+2025-02-11T21:37:14.560439365+00:00 - INFO - example function executed in 1.571872531s
+2025-02-11T21:37:14.662840717+00:00 - INFO - example function executed in 1.751759784s
+21:37:15.510 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:37:15.879 [main] INFO  Handler_log - logging function executed in 226 ms
+2025-02-11T21:37:16.203365004+00:00 - INFO - example function executed in 1.228625647s
+21:37:16.363 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:37:17.334 [main] INFO  Handler_log - logging function executed in 828 ms
+2025-02-11T21:37:17.664583794+00:00 - INFO - example function executed in 1.853172636s
+21:37:18.826 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:37:19.232 [main] INFO  Handler_log - logging function executed in 261 ms
+21:37:19.345 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T21:37:19.556102406+00:00 - INFO - example function executed in 1.263676999s
+21:37:20.426 [main] INFO  Handler_log - logging function executed in 941 ms
+2025-02-11T21:37:20.760318322+00:00 - INFO - example function executed in 1.955887233s
+21:37:21.664 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:37:22.010 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:37:22.139 [main] INFO  Handler_log - logging function executed in 331 ms
+2025-02-11T21:37:22.464950996+00:00 - INFO - example function executed in 1.339588675s
+21:37:22.587 [main] INFO  Handler_log - logging function executed in 437 ms
+2025-02-11T21:37:22.916701132+00:00 - INFO - example function executed in 1.447931926s
+21:37:24.528 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:37:24.654 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:37:24.877 [main] INFO  Handler_log - logging function executed in 214 ms
+21:37:25.079 [main] INFO  Handler_log - logging function executed in 282 ms
+2025-02-11T21:37:25.202417521+00:00 - INFO - example function executed in 1.207390298s
+2025-02-11T21:37:25.409118192+00:00 - INFO - example function executed in 1.314216233s
+21:37:26.866 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:37:26.979 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:37:27.131 [main] INFO  Handler_log - logging function executed in 123 ms
+21:37:27.344 [main] INFO  Handler_log - logging function executed in 222 ms
+2025-02-11T21:37:27.457067305+00:00 - INFO - example function executed in 1.114247389s
+2025-02-11T21:37:27.674082697+00:00 - INFO - example function executed in 1.245552624s
+21:37:28.622 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:37:28.898 [main] INFO  Injector - Read from MongoDB table executed in 48 ms
+21:37:29.160 [main] INFO  Handler_log - logging function executed in 395 ms
+2025-02-11T21:37:29.499036779+00:00 - INFO - example function executed in 1.40480219s
+21:37:29.688 [main] INFO  Handler_log - logging function executed in 641 ms
+2025-02-11T21:37:30.016403931+00:00 - INFO - example function executed in 1.750210546s
+21:37:31.390 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:37:31.406 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:37:31.857 [main] INFO  Handler_log - logging function executed in 324 ms
+2025-02-11T21:37:32.183190748+00:00 - INFO - example function executed in 1.34162335s
+21:37:32.563 [main] INFO  Handler_log - logging function executed in 1017 ms
+2025-02-11T21:37:32.903270842+00:00 - INFO - example function executed in 2.042154716s
+21:37:34.209 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:37:34.300 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:37:34.706 [main] INFO  Handler_log - logging function executed in 267 ms
+21:37:34.804 [main] INFO  Handler_log - logging function executed in 452 ms
+2025-02-11T21:37:35.034592883+00:00 - INFO - example function executed in 1.307798792s
+2025-02-11T21:37:35.138686654+00:00 - INFO - example function executed in 1.45635966s
+21:37:36.602 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:37:36.632 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:37:37.048 [main] INFO  Handler_log - logging function executed in 299 ms
+21:37:37.058 [main] INFO  Handler_log - logging function executed in 284 ms
+2025-02-11T21:37:37.382218436+00:00 - INFO - example function executed in 1.311271972s
+2025-02-11T21:37:37.385331288+00:00 - INFO - example function executed in 1.326222693s
+21:37:38.159 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:37:38.747 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:37:39.192 [main] INFO  Handler_log - logging function executed in 305 ms
+21:37:39.425 [main] INFO  Handler_log - logging function executed in 1116 ms
+2025-02-11T21:37:39.522678837+00:00 - INFO - example function executed in 1.321841305s
+2025-02-11T21:37:39.752955321+00:00 - INFO - example function executed in 2.11659838s
+21:37:40.639 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:37:41.345 [main] INFO  Handler_log - logging function executed in 549 ms
+21:37:41.435 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T21:37:41.670490113+00:00 - INFO - example function executed in 1.565970684s
+21:37:42.283 [main] INFO  Handler_log - logging function executed in 679 ms
+2025-02-11T21:37:42.621573752+00:00 - INFO - example function executed in 1.73716972s
+21:37:43.601 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:37:43.891 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:37:44.012 [main] INFO  Handler_log - logging function executed in 265 ms
+2025-02-11T21:37:44.337650515+00:00 - INFO - example function executed in 1.28003498s
+21:37:44.614 [main] INFO  Handler_log - logging function executed in 582 ms
+2025-02-11T21:37:44.943086625+00:00 - INFO - example function executed in 1.585519524s
+21:37:46.304 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+21:37:46.416 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:37:46.752 [main] INFO  Handler_log - logging function executed in 186 ms
+21:37:46.945 [main] INFO  Handler_log - logging function executed in 466 ms
+2025-02-11T21:37:47.081660850+00:00 - INFO - example function executed in 1.216603904s
+2025-02-11T21:37:47.273373430+00:00 - INFO - example function executed in 1.553456883s
+21:37:48.113 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+21:37:48.161 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:37:48.857 [main] INFO  Handler_log - logging function executed in 555 ms
+21:37:49.059 [main] INFO  Handler_log - logging function executed in 805 ms
+2025-02-11T21:37:49.186104402+00:00 - INFO - example function executed in 1.549872596s
+2025-02-11T21:37:49.384473565+00:00 - INFO - example function executed in 1.817983839s
+21:37:50.173 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:37:50.426 [main] INFO  Handler_log - logging function executed in 112 ms
+21:37:50.718 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T21:37:50.753479152+00:00 - INFO - example function executed in 1.106120014s
+21:37:51.730 [main] INFO  Handler_log - logging function executed in 871 ms
+2025-02-11T21:37:52.058501355+00:00 - INFO - example function executed in 1.867628117s
+21:37:53.212 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:37:53.626 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:37:54.128 [main] INFO  Handler_log - logging function executed in 775 ms
+21:37:54.315 [main] INFO  Handler_log - logging function executed in 553 ms
+2025-02-11T21:37:54.452592383+00:00 - INFO - example function executed in 1.763254882s
+2025-02-11T21:37:54.643661573+00:00 - INFO - example function executed in 1.532221852s
+21:37:55.503 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:37:55.822 [main] INFO  Handler_log - logging function executed in 176 ms
+2025-02-11T21:37:56.147829744+00:00 - INFO - example function executed in 1.170507762s
+21:37:56.231 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:37:57.424 [main] INFO  Handler_log - logging function executed in 1055 ms
+2025-02-11T21:37:57.749140599+00:00 - INFO - example function executed in 2.045211119s
+21:37:58.645 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:37:59.081 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:37:59.418 [main] INFO  Handler_log - logging function executed in 196 ms
+2025-02-11T21:37:59.746717925+00:00 - INFO - example function executed in 1.187340599s
+21:37:59.807 [main] INFO  Handler_log - logging function executed in 1021 ms
+2025-02-11T21:38:00.133142505+00:00 - INFO - example function executed in 2.039258269s
+21:38:01.799 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:38:01.841 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:38:02.658 [main] INFO  Handler_log - logging function executed in 718 ms
+2025-02-11T21:38:02.982890531+00:00 - INFO - example function executed in 1.741787427s
+21:38:03.080 [main] INFO  Handler_log - logging function executed in 1097 ms
+2025-02-11T21:38:03.410818780+00:00 - INFO - example function executed in 2.139935801s
+21:38:04.653 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:38:04.732 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:38:05.638 [main] INFO  Handler_log - logging function executed in 845 ms
+21:38:05.711 [main] INFO  Handler_log - logging function executed in 834 ms
+2025-02-11T21:38:05.963399285+00:00 - INFO - example function executed in 1.85073701s
+2025-02-11T21:38:06.041385718+00:00 - INFO - example function executed in 1.851537658s
+21:38:06.980 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:38:07.773 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:38:07.850 [main] INFO  Handler_log - logging function executed in 729 ms
+2025-02-11T21:38:08.174529942+00:00 - INFO - example function executed in 1.714110293s
+21:38:08.482 [main] INFO  Handler_log - logging function executed in 573 ms
+2025-02-11T21:38:08.810199374+00:00 - INFO - example function executed in 1.553971723s
+21:38:10.010 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:38:10.336 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:38:10.350 [main] INFO  Handler_log - logging function executed in 203 ms
+2025-02-11T21:38:10.675322235+00:00 - INFO - example function executed in 1.191536464s
+21:38:11.153 [main] INFO  Handler_log - logging function executed in 677 ms
+2025-02-11T21:38:11.478727945+00:00 - INFO - example function executed in 1.664906499s
+21:38:12.362 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:38:12.899 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:38:13.517 [main] INFO  Handler_log - logging function executed in 1013 ms
+21:38:13.637 [main] INFO  Handler_log - logging function executed in 600 ms
+2025-02-11T21:38:13.841200673+00:00 - INFO - example function executed in 2.00451644s
+2025-02-11T21:38:13.966479545+00:00 - INFO - example function executed in 1.584571962s
+21:38:15.035 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:38:15.179 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:38:15.454 [main] INFO  Handler_log - logging function executed in 273 ms
+21:38:15.563 [main] INFO  Handler_log - logging function executed in 243 ms
+2025-02-11T21:38:15.778798905+00:00 - INFO - example function executed in 1.273990963s
+2025-02-11T21:38:15.890717781+00:00 - INFO - example function executed in 1.238722634s
+21:38:17.194 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:38:17.405 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:38:17.865 [main] INFO  Handler_log - logging function executed in 528 ms
+21:38:18.174 [main] INFO  Handler_log - logging function executed in 622 ms
+2025-02-11T21:38:18.190713604+00:00 - INFO - example function executed in 1.545592571s
+2025-02-11T21:38:18.503249580+00:00 - INFO - example function executed in 1.652130867s
+21:38:20.121 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:38:20.216 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:38:20.795 [main] INFO  Handler_log - logging function executed in 535 ms
+21:38:20.982 [main] INFO  Handler_log - logging function executed in 625 ms
+2025-02-11T21:38:21.120141669+00:00 - INFO - example function executed in 1.536941582s
+2025-02-11T21:38:21.311182936+00:00 - INFO - example function executed in 1.628936052s
+21:38:22.775 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:38:22.920 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:38:23.241 [main] INFO  Handler_log - logging function executed in 323 ms
+2025-02-11T21:38:23.566830821+00:00 - INFO - example function executed in 1.340057294s
+21:38:23.766 [main] INFO  Handler_log - logging function executed in 707 ms
+2025-02-11T21:38:24.098454565+00:00 - INFO - example function executed in 1.701884079s
+21:38:24.855 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:38:25.301 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:38:25.530 [main] INFO  Handler_log - logging function executed in 539 ms
+2025-02-11T21:38:25.855581957+00:00 - INFO - example function executed in 1.525300336s
+21:38:25.889 [main] INFO  Handler_log - logging function executed in 448 ms
+2025-02-11T21:38:26.216864430+00:00 - INFO - example function executed in 1.465809488s
+21:38:26.985 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:38:27.586 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:38:27.768 [main] INFO  Handler_log - logging function executed in 632 ms
+2025-02-11T21:38:28.099249254+00:00 - INFO - example function executed in 1.670565821s
+21:38:28.299 [main] INFO  Handler_log - logging function executed in 568 ms
+2025-02-11T21:38:28.635938196+00:00 - INFO - example function executed in 1.605774814s
+21:38:30.167 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:38:30.385 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:38:30.683 [main] INFO  Handler_log - logging function executed in 155 ms
+21:38:30.798 [main] INFO  Handler_log - logging function executed in 480 ms
+2025-02-11T21:38:31.011162316+00:00 - INFO - example function executed in 1.193839687s
+2025-02-11T21:38:31.123365509+00:00 - INFO - example function executed in 1.492983116s
+21:38:32.324 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:38:32.426 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:38:33.009 [main] INFO  Handler_log - logging function executed in 443 ms
+2025-02-11T21:38:33.337547509+00:00 - INFO - example function executed in 1.437379379s
+21:38:33.341 [main] INFO  Handler_log - logging function executed in 872 ms
+2025-02-11T21:38:33.668612947+00:00 - INFO - example function executed in 1.893089546s
+21:38:34.503 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:38:35.385 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:38:35.414 [main] INFO  Handler_log - logging function executed in 771 ms
+2025-02-11T21:38:35.738417915+00:00 - INFO - example function executed in 1.760717976s
+21:38:36.292 [main] INFO  Handler_log - logging function executed in 762 ms
+2025-02-11T21:38:36.619590078+00:00 - INFO - example function executed in 1.748879846s
+21:38:38.228 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:38:38.296 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:38:38.866 [main] INFO  Handler_log - logging function executed in 429 ms
+2025-02-11T21:38:39.196012883+00:00 - INFO - example function executed in 1.442248341s
+21:38:39.199 [main] INFO  Handler_log - logging function executed in 832 ms
+2025-02-11T21:38:39.524659747+00:00 - INFO - example function executed in 1.827547067s
+21:38:40.515 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:38:40.899 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:38:40.938 [main] INFO  Handler_log - logging function executed in 285 ms
+21:38:41.217 [main] INFO  Handler_log - logging function executed in 179 ms
+2025-02-11T21:38:41.262469413+00:00 - INFO - example function executed in 1.289503021s
+2025-02-11T21:38:41.547024745+00:00 - INFO - example function executed in 1.168295914s
+21:38:42.724 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:38:42.911 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:38:43.136 [main] INFO  Handler_log - logging function executed in 273 ms
+2025-02-11T21:38:43.460747324+00:00 - INFO - example function executed in 1.27988523s
+21:38:43.985 [main] INFO  Handler_log - logging function executed in 938 ms
+2025-02-11T21:38:44.317031147+00:00 - INFO - example function executed in 1.940908858s
+21:38:45.212 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:38:45.353 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+21:38:45.524 [main] INFO  Handler_log - logging function executed in 172 ms
+2025-02-11T21:38:45.848724197+00:00 - INFO - example function executed in 1.171352461s
+21:38:46.238 [main] INFO  Handler_log - logging function executed in 752 ms
+2025-02-11T21:38:46.567120737+00:00 - INFO - example function executed in 1.72717285s
+21:38:47.506 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:38:47.797 [main] INFO  Handler_log - logging function executed in 142 ms
+21:38:47.947 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T21:38:48.122064719+00:00 - INFO - example function executed in 1.135395617s
+21:38:48.530 [main] INFO  Handler_log - logging function executed in 444 ms
+2025-02-11T21:38:48.860095690+00:00 - INFO - example function executed in 1.443650183s
+21:38:49.845 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:38:50.261 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:38:51.039 [main] INFO  Handler_log - logging function executed in 1052 ms
+2025-02-11T21:38:51.364857168+00:00 - INFO - example function executed in 2.046468547s
+21:38:51.492 [main] INFO  Handler_log - logging function executed in 1091 ms
+2025-02-11T21:38:51.821183264+00:00 - INFO - example function executed in 2.088228158s
+21:38:53.129 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:38:53.401 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:38:53.853 [main] INFO  Handler_log - logging function executed in 583 ms
+2025-02-11T21:38:54.179534763+00:00 - INFO - example function executed in 1.592566597s
+21:38:54.315 [main] INFO  Handler_log - logging function executed in 775 ms
+2025-02-11T21:38:54.643642232+00:00 - INFO - example function executed in 1.757895723s
+21:38:55.505 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:38:56.204 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+21:38:56.608 [main] INFO  Handler_log - logging function executed in 961 ms
+21:38:56.697 [main] INFO  Handler_log - logging function executed in 348 ms
+2025-02-11T21:38:56.933318619+00:00 - INFO - example function executed in 1.984735871s
+2025-02-11T21:38:57.029824295+00:00 - INFO - example function executed in 1.369278499s
+21:38:57.907 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:38:58.390 [main] INFO  Handler_log - logging function executed in 348 ms
+2025-02-11T21:38:58.714072996+00:00 - INFO - example function executed in 1.323348646s
+21:38:58.725 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+21:38:59.060 [main] INFO  Handler_log - logging function executed in 179 ms
+2025-02-11T21:38:59.391052483+00:00 - INFO - example function executed in 1.26027927s
+21:39:00.680 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:39:00.867 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:39:01.310 [main] INFO  Handler_log - logging function executed in 485 ms
+2025-02-11T21:39:01.636134356+00:00 - INFO - example function executed in 1.489609629s
+21:39:01.989 [main] INFO  Handler_log - logging function executed in 987 ms
+2025-02-11T21:39:02.316756683+00:00 - INFO - example function executed in 1.974059211s
+21:39:03.773 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:39:03.982 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:39:04.169 [main] INFO  Handler_log - logging function executed in 252 ms
+2025-02-11T21:39:04.494248405+00:00 - INFO - example function executed in 1.25833975s
+21:39:05.117 [main] INFO  Handler_log - logging function executed in 999 ms
+2025-02-11T21:39:05.448632572+00:00 - INFO - example function executed in 1.998127651s
+21:39:06.749 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:39:07.032 [main] INFO  Handler_log - logging function executed in 146 ms
+21:39:07.136 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+2025-02-11T21:39:07.358302151+00:00 - INFO - example function executed in 1.138443862s
+21:39:08.118 [main] INFO  Handler_log - logging function executed in 845 ms
+2025-02-11T21:39:08.446602908+00:00 - INFO - example function executed in 1.847846351s
+21:39:09.189 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:39:09.906 [main] INFO  Handler_log - logging function executed in 578 ms
+21:39:10.061 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T21:39:10.230614582+00:00 - INFO - example function executed in 1.55965818s
+21:39:10.821 [main] INFO  Handler_log - logging function executed in 622 ms
+2025-02-11T21:39:11.149627569+00:00 - INFO - example function executed in 1.618237723s
+21:39:12.251 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:39:12.402 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:39:13.058 [main] INFO  Handler_log - logging function executed in 664 ms
+2025-02-11T21:39:13.383535919+00:00 - INFO - example function executed in 1.66335214s
+21:39:13.627 [main] INFO  Handler_log - logging function executed in 1084 ms
+2025-02-11T21:39:13.955703182+00:00 - INFO - example function executed in 2.083538579s
+21:39:14.693 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:39:15.110 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:39:15.890 [main] INFO  Handler_log - logging function executed in 638 ms
+21:39:15.950 [main] INFO  Handler_log - logging function executed in 1117 ms
+2025-02-11T21:39:16.218937855+00:00 - INFO - example function executed in 1.643195278s
+2025-02-11T21:39:16.281085306+00:00 - INFO - example function executed in 2.110534667s
+21:39:17.951 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+21:39:18.019 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:39:18.705 [main] INFO  Handler_log - logging function executed in 546 ms
+21:39:18.980 [main] INFO  Handler_log - logging function executed in 886 ms
+2025-02-11T21:39:19.034436446+00:00 - INFO - example function executed in 1.562750495s
+2025-02-11T21:39:19.305720862+00:00 - INFO - example function executed in 1.901854593s
+21:39:20.187 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:39:20.526 [main] INFO  Handler_log - logging function executed in 197 ms
+2025-02-11T21:39:20.850384672+00:00 - INFO - example function executed in 1.185629937s
+21:39:20.942 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:39:22.116 [main] INFO  Handler_log - logging function executed in 1033 ms
+2025-02-11T21:39:22.445353563+00:00 - INFO - example function executed in 2.02765966s
+21:39:24.049 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+21:39:24.071 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:39:24.419 [main] INFO  Handler_log - logging function executed in 231 ms
+21:39:24.425 [main] INFO  Handler_log - logging function executed in 211 ms
+2025-02-11T21:39:24.747581093+00:00 - INFO - example function executed in 1.223909406s
+2025-02-11T21:39:24.755008238+00:00 - INFO - example function executed in 1.231361429s
+21:39:25.804 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:39:26.033 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:39:26.384 [main] INFO  Handler_log - logging function executed in 214 ms
+2025-02-11T21:39:26.712765536+00:00 - INFO - example function executed in 1.198564653s
+21:39:26.882 [main] INFO  Handler_log - logging function executed in 936 ms
+2025-02-11T21:39:27.206989938+00:00 - INFO - example function executed in 1.960168699s
+21:39:28.042 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:39:28.277 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:39:28.490 [main] INFO  Handler_log - logging function executed in 307 ms
+21:39:28.775 [main] INFO  Handler_log - logging function executed in 364 ms
+2025-02-11T21:39:28.814953272+00:00 - INFO - example function executed in 1.306775108s
+2025-02-11T21:39:29.101899117+00:00 - INFO - example function executed in 1.342365343s
+21:39:29.924 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:39:30.099 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:39:30.610 [main] INFO  Handler_log - logging function executed in 547 ms
+2025-02-11T21:39:30.936957602+00:00 - INFO - example function executed in 1.531552935s
+21:39:31.254 [main] INFO  Handler_log - logging function executed in 1011 ms
+2025-02-11T21:39:31.581823946+00:00 - INFO - example function executed in 2.049727044s
+21:39:32.465 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:39:32.617 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:39:33.054 [main] INFO  Handler_log - logging function executed in 449 ms
+2025-02-11T21:39:33.378300893+00:00 - INFO - example function executed in 1.434719935s
+21:39:33.728 [main] INFO  Handler_log - logging function executed in 970 ms
+2025-02-11T21:39:34.056357365+00:00 - INFO - example function executed in 1.975727979s
+21:39:34.912 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:39:35.101 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:39:36.006 [main] INFO  Handler_log - logging function executed in 765 ms
+21:39:36.046 [main] INFO  Handler_log - logging function executed in 995 ms
+2025-02-11T21:39:36.334141113+00:00 - INFO - example function executed in 1.769341383s
+2025-02-11T21:39:36.370697597+00:00 - INFO - example function executed in 1.986940123s
+21:39:37.171 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:39:37.780 [main] INFO  Handler_log - logging function executed in 472 ms
+21:39:37.929 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T21:39:38.105311833+00:00 - INFO - example function executed in 1.462880432s
+21:39:38.953 [main] INFO  Handler_log - logging function executed in 886 ms
+2025-02-11T21:39:39.280967472+00:00 - INFO - example function executed in 1.889478758s
+21:39:40.248 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:39:40.461 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:39:40.700 [main] INFO  Handler_log - logging function executed in 306 ms
+2025-02-11T21:39:41.025034308+00:00 - INFO - example function executed in 1.289920948s
+21:39:41.326 [main] INFO  Handler_log - logging function executed in 729 ms
+2025-02-11T21:39:41.655329558+00:00 - INFO - example function executed in 1.714361823s
+21:39:42.959 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:39:43.193 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:39:43.861 [main] INFO  Handler_log - logging function executed in 527 ms
+21:39:44.080 [main] INFO  Handler_log - logging function executed in 979 ms
+2025-02-11T21:39:44.189796767+00:00 - INFO - example function executed in 1.530601149s
+2025-02-11T21:39:44.406022110+00:00 - INFO - example function executed in 1.976635764s
+21:39:45.688 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:39:45.948 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:39:46.317 [main] INFO  Handler_log - logging function executed in 487 ms
+21:39:46.623 [main] INFO  Handler_log - logging function executed in 537 ms
+2025-02-11T21:39:46.642101087+00:00 - INFO - example function executed in 1.471008851s
+2025-02-11T21:39:46.957919500+00:00 - INFO - example function executed in 1.536923296s
+21:39:47.994 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:39:48.412 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:39:48.965 [main] INFO  Handler_log - logging function executed in 822 ms
+2025-02-11T21:39:49.292145766+00:00 - INFO - example function executed in 1.824199635s
+21:39:49.395 [main] INFO  Handler_log - logging function executed in 844 ms
+2025-02-11T21:39:49.727889764+00:00 - INFO - example function executed in 1.848745895s
+21:39:51.924 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:39:51.974 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:39:52.412 [main] INFO  Handler_log - logging function executed in 349 ms
+2025-02-11T21:39:52.737417049+00:00 - INFO - example function executed in 1.352710182s
+21:39:52.787 [main] INFO  Handler_log - logging function executed in 672 ms
+2025-02-11T21:39:53.116969150+00:00 - INFO - example function executed in 1.674522401s
+21:39:54.315 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:39:54.684 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:39:54.928 [main] INFO  Handler_log - logging function executed in 475 ms
+21:39:55.044 [main] INFO  Handler_log - logging function executed in 224 ms
+2025-02-11T21:39:55.253780875+00:00 - INFO - example function executed in 1.458258115s
+2025-02-11T21:39:55.373598627+00:00 - INFO - example function executed in 1.220684842s
+21:39:56.241 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:39:57.003 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+21:39:57.120 [main] INFO  Handler_log - logging function executed in 735 ms
+2025-02-11T21:39:57.445812067+00:00 - INFO - example function executed in 1.728626638s
+21:39:58.010 [main] INFO  Handler_log - logging function executed in 862 ms
+2025-02-11T21:39:58.338724105+00:00 - INFO - example function executed in 1.931534787s
+21:39:59.229 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+21:39:59.914 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:40:00.384 [main] INFO  Handler_log - logging function executed in 328 ms
+21:40:00.532 [main] INFO  Handler_log - logging function executed in 1112 ms
+2025-02-11T21:40:00.714696334+00:00 - INFO - example function executed in 1.335776538s
+2025-02-11T21:40:00.859839594+00:00 - INFO - example function executed in 2.310307937s
+21:40:01.985 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:40:02.045 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:40:02.467 [main] INFO  Handler_log - logging function executed in 336 ms
+2025-02-11T21:40:02.794049040+00:00 - INFO - example function executed in 1.343694318s
+21:40:02.908 [main] INFO  Handler_log - logging function executed in 721 ms
+2025-02-11T21:40:03.242066791+00:00 - INFO - example function executed in 1.768392631s
+21:40:04.645 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+21:40:05.007 [main] INFO  Handler_log - logging function executed in 201 ms
+21:40:05.037 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+2025-02-11T21:40:05.333634861+00:00 - INFO - example function executed in 1.261170661s
+21:40:05.635 [main] INFO  Handler_log - logging function executed in 455 ms
+2025-02-11T21:40:05.974385430+00:00 - INFO - example function executed in 1.504543542s
+21:40:07.114 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:40:07.259 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:40:08.148 [main] INFO  Handler_log - logging function executed in 738 ms
+21:40:08.157 [main] INFO  Handler_log - logging function executed in 887 ms
+2025-02-11T21:40:08.478273576+00:00 - INFO - example function executed in 1.771675296s
+2025-02-11T21:40:08.491905564+00:00 - INFO - example function executed in 1.935038253s
+21:40:09.823 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:40:10.314 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:40:10.324 [main] INFO  Handler_log - logging function executed in 351 ms
+2025-02-11T21:40:10.654491599+00:00 - INFO - example function executed in 1.377269473s
+21:40:11.366 [main] INFO  Handler_log - logging function executed in 910 ms
+2025-02-11T21:40:11.696383988+00:00 - INFO - example function executed in 1.919022183s
+21:40:13.125 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+21:40:13.532 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:40:13.705 [main] INFO  Handler_log - logging function executed in 433 ms
+2025-02-11T21:40:14.031680854+00:00 - INFO - example function executed in 1.456085582s
+21:40:14.678 [main] INFO  Handler_log - logging function executed in 992 ms
+2025-02-11T21:40:15.014885686+00:00 - INFO - example function executed in 2.119608674s
+21:40:15.910 [main] INFO  Injector - Read from MongoDB table executed in 64 ms
+21:40:15.993 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+21:40:16.189 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+21:40:16.357 [main] INFO  Handler_log - logging function executed in 190 ms
+2025-02-11T21:40:16.685310371+00:00 - INFO - example function executed in 1.279219428s
+21:40:16.796 [main] INFO  Handler_log - logging function executed in 725 ms
+2025-02-11T21:40:17.129211864+00:00 - INFO - example function executed in 1.846305374s
+21:40:17.273 [main] INFO  Handler_log - logging function executed in 934 ms
+2025-02-11T21:40:17.608639311+00:00 - INFO - example function executed in 2.045951832s
+21:40:18.909 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+21:40:19.221 [main] INFO  Injector - Read from MongoDB table executed in 51 ms
+21:40:19.308 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:40:19.687 [main] INFO  Handler_log - logging function executed in 633 ms
+2025-02-11T21:40:20.015084299+00:00 - INFO - example function executed in 1.695320344s
+21:40:20.175 [main] INFO  Handler_log - logging function executed in 797 ms
+21:40:20.235 [main] INFO  Handler_log - logging function executed in 780 ms
+2025-02-11T21:40:20.500468603+00:00 - INFO - example function executed in 1.85503363s
+2025-02-11T21:40:20.560235954+00:00 - INFO - example function executed in 1.839342083s
+21:40:21.465 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:40:21.704 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:40:21.998 [main] INFO  Handler_log - logging function executed in 379 ms
+21:40:22.093 [main] INFO  Handler_log - logging function executed in 248 ms
+21:40:22.318 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+2025-02-11T21:40:22.323841247+00:00 - INFO - example function executed in 1.422853398s
+2025-02-11T21:40:22.417827139+00:00 - INFO - example function executed in 1.253911926s
+21:40:22.772 [main] INFO  Handler_log - logging function executed in 266 ms
+2025-02-11T21:40:23.104742028+00:00 - INFO - example function executed in 1.417841702s
+21:40:24.179 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:40:24.310 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:40:24.962 [main] INFO  Handler_log - logging function executed in 642 ms
+2025-02-11T21:40:25.291780364+00:00 - INFO - example function executed in 1.657365729s
+21:40:25.546 [main] INFO  Handler_log - logging function executed in 1091 ms
+21:40:25.555 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:40:25.863 [main] INFO  Handler_log - logging function executed in 166 ms
+2025-02-11T21:40:25.875708192+00:00 - INFO - example function executed in 2.133212704s
+2025-02-11T21:40:26.195397248+00:00 - INFO - example function executed in 1.179911446s
+21:40:27.516 [main] INFO  Injector - Read from MongoDB table executed in 45 ms
+21:40:27.577 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:40:27.949 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+21:40:28.117 [main] INFO  Handler_log - logging function executed in 391 ms
+21:40:28.142 [main] INFO  Handler_log - logging function executed in 463 ms
+2025-02-11T21:40:28.445517025+00:00 - INFO - example function executed in 1.473603138s
+2025-02-11T21:40:28.471134652+00:00 - INFO - example function executed in 1.499409792s
+21:40:29.027 [main] INFO  Handler_log - logging function executed in 937 ms
+2025-02-11T21:40:29.356643410+00:00 - INFO - example function executed in 2.012249474s
+21:40:30.304 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:40:30.344 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:40:30.619 [main] INFO  Handler_log - logging function executed in 128 ms
+21:40:30.872 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T21:40:30.945968241+00:00 - INFO - example function executed in 1.143143726s
+21:40:31.317 [main] INFO  Handler_log - logging function executed in 297 ms
+21:40:31.574 [main] INFO  Handler_log - logging function executed in 1112 ms
+2025-02-11T21:40:31.656491235+00:00 - INFO - example function executed in 1.364402139s
+2025-02-11T21:40:31.899818544+00:00 - INFO - example function executed in 2.201926993s
+21:40:33.141 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:40:33.253 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:40:33.987 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:40:34.150 [main] INFO  Handler_log - logging function executed in 738 ms
+21:40:34.163 [main] INFO  Handler_log - logging function executed in 872 ms
+2025-02-11T21:40:34.478808939+00:00 - INFO - example function executed in 1.807954066s
+2025-02-11T21:40:34.490049594+00:00 - INFO - example function executed in 1.885951814s
+21:40:34.976 [main] INFO  Handler_log - logging function executed in 842 ms
+2025-02-11T21:40:35.309239426+00:00 - INFO - example function executed in 1.863391543s
+21:40:36.417 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+21:40:36.674 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+21:40:36.890 [main] INFO  Handler_log - logging function executed in 318 ms
+21:40:36.947 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+2025-02-11T21:40:37.225798543+00:00 - INFO - example function executed in 1.370790849s
+21:40:37.377 [main] INFO  Handler_log - logging function executed in 536 ms
+2025-02-11T21:40:37.709029946+00:00 - INFO - example function executed in 1.639208654s
+21:40:37.928 [main] INFO  Handler_log - logging function executed in 838 ms
+2025-02-11T21:40:38.260995260+00:00 - INFO - example function executed in 1.900238378s
+21:40:39.090 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:40:39.356 [main] INFO  Handler_log - logging function executed in 119 ms
+21:40:39.586 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+2025-02-11T21:40:39.682014320+00:00 - INFO - example function executed in 1.184229803s
+21:40:40.026 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:40:40.622 [main] INFO  Handler_log - logging function executed in 869 ms
+2025-02-11T21:40:40.947271886+00:00 - INFO - example function executed in 1.937055883s
+21:40:41.052 [main] INFO  Handler_log - logging function executed in 882 ms
+2025-02-11T21:40:41.382223429+00:00 - INFO - example function executed in 1.902888257s
+21:40:42.726 [main] INFO  Injector - Read from MongoDB table executed in 54 ms
+21:40:42.873 [main] INFO  Injector - Read from MongoDB table executed in 56 ms
+21:40:42.982 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:40:43.292 [main] INFO  Handler_log - logging function executed in 168 ms
+21:40:43.548 [main] INFO  Handler_log - logging function executed in 660 ms
+2025-02-11T21:40:43.622734011+00:00 - INFO - example function executed in 1.285422327s
+2025-02-11T21:40:43.884091840+00:00 - INFO - example function executed in 1.829105136s
+21:40:43.999 [main] INFO  Handler_log - logging function executed in 971 ms
+2025-02-11T21:40:44.331290934+00:00 - INFO - example function executed in 2.043685606s
+21:40:45.160 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:40:45.561 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:40:45.998 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:40:46.217 [main] INFO  Handler_log - logging function executed in 912 ms
+21:40:46.404 [main] INFO  Handler_log - logging function executed in 689 ms
+2025-02-11T21:40:46.544092192+00:00 - INFO - example function executed in 1.902116255s
+21:40:46.682 [main] INFO  Handler_log - logging function executed in 543 ms
+2025-02-11T21:40:46.728394339+00:00 - INFO - example function executed in 1.713111955s
+2025-02-11T21:40:47.010392765+00:00 - INFO - example function executed in 1.540395887s
+21:40:48.132 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:40:48.356 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:40:48.527 [main] INFO  Handler_log - logging function executed in 241 ms
+2025-02-11T21:40:48.852272718+00:00 - INFO - example function executed in 1.254592406s
+21:40:48.919 [main] INFO  Handler_log - logging function executed in 423 ms
+21:40:49.153 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+2025-02-11T21:40:49.252187889+00:00 - INFO - example function executed in 1.475429347s
+21:40:49.745 [main] INFO  Handler_log - logging function executed in 447 ms
+2025-02-11T21:40:50.077238789+00:00 - INFO - example function executed in 1.454163464s
+21:40:51.455 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+21:40:51.724 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:40:52.094 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:40:52.322 [main] INFO  Handler_log - logging function executed in 681 ms
+21:40:52.334 [main] INFO  Handler_log - logging function executed in 469 ms
+21:40:52.515 [main] INFO  Handler_log - logging function executed in 282 ms
+2025-02-11T21:40:52.647166120+00:00 - INFO - example function executed in 1.789727743s
+2025-02-11T21:40:52.659931427+00:00 - INFO - example function executed in 1.474939716s
+2025-02-11T21:40:52.843620248+00:00 - INFO - example function executed in 1.298812814s
+21:40:53.971 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:40:54.261 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+21:40:54.471 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:40:54.795 [main] INFO  Handler_log - logging function executed in 176 ms
+21:40:55.014 [main] INFO  Handler_log - logging function executed in 884 ms
+21:40:55.102 [main] INFO  Handler_log - logging function executed in 696 ms
+2025-02-11T21:40:55.123750890+00:00 - INFO - example function executed in 1.182868764s
+2025-02-11T21:40:55.339482848+00:00 - INFO - example function executed in 1.896197445s
+2025-02-11T21:40:55.427582999+00:00 - INFO - example function executed in 1.792958157s
+21:40:56.589 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:40:56.815 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:40:57.503 [main] INFO  Handler_log - logging function executed in 775 ms
+21:40:57.670 [main] INFO  Handler_log - logging function executed in 716 ms
+2025-02-11T21:40:57.831009906+00:00 - INFO - example function executed in 1.781830826s
+2025-02-11T21:40:57.998742182+00:00 - INFO - example function executed in 1.736451638s
+21:40:58.181 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:40:58.928 [main] INFO  Handler_log - logging function executed in 603 ms
+2025-02-11T21:40:59.256738592+00:00 - INFO - example function executed in 1.60926502s
+21:41:00.154 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:41:00.473 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:41:00.956 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:41:01.343 [main] INFO  Handler_log - logging function executed in 1050 ms
+21:41:01.644 [main] INFO  Handler_log - logging function executed in 1032 ms
+2025-02-11T21:41:01.667598317+00:00 - INFO - example function executed in 2.03547288s
+2025-02-11T21:41:01.970368137+00:00 - INFO - example function executed in 2.028696913s
+21:41:02.136 [main] INFO  Handler_log - logging function executed in 1046 ms
+2025-02-11T21:41:02.460755877+00:00 - INFO - example function executed in 2.046367615s
+21:41:03.352 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:41:03.394 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:41:03.740 [main] INFO  Handler_log - logging function executed in 204 ms
+21:41:03.867 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T21:41:04.064654343+00:00 - INFO - example function executed in 1.218185295s
+21:41:04.442 [main] INFO  Handler_log - logging function executed in 439 ms
+21:41:04.530 [main] INFO  Handler_log - logging function executed in 1012 ms
+2025-02-11T21:41:04.770875041+00:00 - INFO - example function executed in 1.448418561s
+2025-02-11T21:41:04.856653510+00:00 - INFO - example function executed in 2.04835653s
+21:41:05.724 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:41:06.190 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:41:06.437 [main] INFO  Handler_log - logging function executed in 571 ms
+2025-02-11T21:41:06.761913364+00:00 - INFO - example function executed in 1.588315293s
+21:41:07.154 [main] INFO  Handler_log - logging function executed in 824 ms
+21:41:07.187 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T21:41:07.477942813+00:00 - INFO - example function executed in 1.823759803s
+21:41:08.287 [main] INFO  Handler_log - logging function executed in 961 ms
+2025-02-11T21:41:08.616095441+00:00 - INFO - example function executed in 1.948167449s
+21:41:09.616 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:41:09.787 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+21:41:10.062 [main] INFO  Handler_log - logging function executed in 129 ms
+21:41:10.150 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T21:41:10.388181603+00:00 - INFO - example function executed in 1.149268009s
+21:41:10.744 [main] INFO  Handler_log - logging function executed in 454 ms
+21:41:10.845 [main] INFO  Handler_log - logging function executed in 1081 ms
+2025-02-11T21:41:11.069960299+00:00 - INFO - example function executed in 1.474493101s
+2025-02-11T21:41:11.171172519+00:00 - INFO - example function executed in 2.09040607s
+21:41:12.099 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:41:12.444 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:41:12.688 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:41:13.116 [main] INFO  Handler_log - logging function executed in 855 ms
+21:41:13.213 [main] INFO  Handler_log - logging function executed in 393 ms
+2025-02-11T21:41:13.441407436+00:00 - INFO - example function executed in 1.887750877s
+21:41:13.533 [main] INFO  Handler_log - logging function executed in 950 ms
+2025-02-11T21:41:13.542739533+00:00 - INFO - example function executed in 1.377326769s
+2025-02-11T21:41:13.858377222+00:00 - INFO - example function executed in 1.983181021s
+21:41:14.776 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:41:15.202 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:41:15.559 [main] INFO  Handler_log - logging function executed in 641 ms
+21:41:15.861 [main] INFO  Handler_log - logging function executed in 524 ms
+2025-02-11T21:41:15.883736234+00:00 - INFO - example function executed in 1.643600578s
+21:41:15.916 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T21:41:16.191890332+00:00 - INFO - example function executed in 1.519193612s
+21:41:16.493 [main] INFO  Handler_log - logging function executed in 438 ms
+2025-02-11T21:41:16.822921201+00:00 - INFO - example function executed in 1.434408614s
+21:41:17.997 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:41:18.119 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:41:18.969 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:41:19.045 [main] INFO  Handler_log - logging function executed in 884 ms
+21:41:19.136 [main] INFO  Handler_log - logging function executed in 868 ms
+2025-02-11T21:41:19.373201+00:00 - INFO - example function executed in 1.942188605s
+2025-02-11T21:41:19.461110382+00:00 - INFO - example function executed in 1.91661972s
+21:41:20.175 [main] INFO  Handler_log - logging function executed in 1041 ms
+2025-02-11T21:41:20.503245723+00:00 - INFO - example function executed in 2.061551323s
+21:41:21.511 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+21:41:21.757 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+21:41:21.779 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+21:41:22.271 [main] INFO  Handler_log - logging function executed in 579 ms
+21:41:22.410 [main] INFO  Handler_log - logging function executed in 510 ms
+21:41:22.550 [main] INFO  Handler_log - logging function executed in 635 ms
+2025-02-11T21:41:22.597608791+00:00 - INFO - example function executed in 1.64536294s
+2025-02-11T21:41:22.735985783+00:00 - INFO - example function executed in 1.565423786s
+2025-02-11T21:41:22.879644239+00:00 - INFO - example function executed in 1.662627999s
+21:41:23.763 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:41:23.850 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:41:24.558 [main] INFO  Handler_log - logging function executed in 652 ms
+2025-02-11T21:41:24.892902699+00:00 - INFO - example function executed in 1.668586451s
+21:41:24.932 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:41:25.065 [main] INFO  Handler_log - logging function executed in 1077 ms
+2025-02-11T21:41:25.398803912+00:00 - INFO - example function executed in 2.07308893s
+21:41:25.827 [main] INFO  Handler_log - logging function executed in 748 ms
+2025-02-11T21:41:26.153278017+00:00 - INFO - example function executed in 1.7797498s
+21:41:27.244 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:41:27.444 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:41:27.927 [main] INFO  Handler_log - logging function executed in 529 ms
+21:41:28.113 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+2025-02-11T21:41:28.251188977+00:00 - INFO - example function executed in 1.559137661s
+21:41:28.542 [main] INFO  Handler_log - logging function executed in 960 ms
+2025-02-11T21:41:28.870333528+00:00 - INFO - example function executed in 1.96527486s
+21:41:29.355 [main] INFO  Handler_log - logging function executed in 1102 ms
+2025-02-11T21:41:29.682934431+00:00 - INFO - example function executed in 2.085045356s
+21:41:30.497 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:41:30.886 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:41:31.308 [main] INFO  Handler_log - logging function executed in 670 ms
+21:41:31.319 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T21:41:31.632825065+00:00 - INFO - example function executed in 1.658464762s
+21:41:31.648 [main] INFO  Handler_log - logging function executed in 624 ms
+2025-02-11T21:41:31.973509678+00:00 - INFO - example function executed in 1.62096931s
+21:41:32.448 [main] INFO  Handler_log - logging function executed in 992 ms
+2025-02-11T21:41:32.774381017+00:00 - INFO - example function executed in 1.974137731s
+21:41:33.580 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:41:33.765 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:41:34.054 [main] INFO  Handler_log - logging function executed in 335 ms
+21:41:34.198 [main] INFO  Handler_log - logging function executed in 294 ms
+2025-02-11T21:41:34.379893932+00:00 - INFO - example function executed in 1.396294251s
+21:41:34.448 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T21:41:34.524059144+00:00 - INFO - example function executed in 1.28484288s
+21:41:35.315 [main] INFO  Handler_log - logging function executed in 723 ms
+2025-02-11T21:41:35.643888414+00:00 - INFO - example function executed in 1.753279287s
+21:41:36.576 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+21:41:36.779 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+21:41:37.182 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:41:37.468 [main] INFO  Handler_log - logging function executed in 745 ms
+2025-02-11T21:41:37.792632135+00:00 - INFO - example function executed in 1.788459542s
+21:41:37.901 [main] INFO  Handler_log - logging function executed in 581 ms
+21:41:37.969 [main] INFO  Handler_log - logging function executed in 1048 ms
+2025-02-11T21:41:38.231525636+00:00 - INFO - example function executed in 1.598382679s
+2025-02-11T21:41:38.294628828+00:00 - INFO - example function executed in 2.06754148s
+21:41:39.131 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:41:39.463 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:41:39.934 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+21:41:39.985 [main] INFO  Handler_log - logging function executed in 383 ms
+21:41:40.004 [main] INFO  Handler_log - logging function executed in 725 ms
+2025-02-11T21:41:40.309140685+00:00 - INFO - example function executed in 1.380444338s
+2025-02-11T21:41:40.329778445+00:00 - INFO - example function executed in 1.740130461s
+21:41:40.944 [main] INFO  Handler_log - logging function executed in 863 ms
+2025-02-11T21:41:41.273738599+00:00 - INFO - example function executed in 1.893564988s
+21:41:42.276 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:41:42.888 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:41:43.306 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+21:41:43.412 [main] INFO  Handler_log - logging function executed in 987 ms
+2025-02-11T21:41:43.736518119+00:00 - INFO - example function executed in 1.992872111s
+21:41:43.790 [main] INFO  Handler_log - logging function executed in 762 ms
+21:41:44.086 [main] INFO  Handler_log - logging function executed in 642 ms
+2025-02-11T21:41:44.115431958+00:00 - INFO - example function executed in 1.763441195s
+2025-02-11T21:41:44.414199202+00:00 - INFO - example function executed in 1.621299203s
+21:41:45.676 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+21:41:45.909 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:41:46.022 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+21:41:46.093 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:41:46.242 [main] INFO  Handler_log - logging function executed in 327 ms
+2025-02-11T21:41:46.569021756+00:00 - INFO - example function executed in 1.463707121s
+21:41:46.575 [main] INFO  Handler_log - logging function executed in 392 ms
+21:41:46.798 [main] INFO  Handler_log - logging function executed in 675 ms
+2025-02-11T21:41:46.900168510+00:00 - INFO - example function executed in 1.590709967s
+21:41:46.988 [main] INFO  Handler_log - logging function executed in 749 ms
+2025-02-11T21:41:47.124618227+00:00 - INFO - example function executed in 1.881596915s
+2025-02-11T21:41:47.312983096+00:00 - INFO - example function executed in 1.904043461s
+21:41:48.828 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:41:49.272 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:41:49.661 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:41:49.933 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:41:49.943 [main] INFO  Handler_log - logging function executed in 975 ms
+21:41:50.037 [main] INFO  Handler_log - logging function executed in 627 ms
+2025-02-11T21:41:50.267669043+00:00 - INFO - example function executed in 1.98809633s
+2025-02-11T21:41:50.361317181+00:00 - INFO - example function executed in 1.624505966s
+21:41:50.399 [main] INFO  Handler_log - logging function executed in 597 ms
+2025-02-11T21:41:50.724940268+00:00 - INFO - example function executed in 1.609202569s
+21:41:50.840 [main] INFO  Handler_log - logging function executed in 764 ms
+2025-02-11T21:41:51.167692155+00:00 - INFO - example function executed in 1.753242424s
+21:41:52.110 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:41:52.445 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:41:52.699 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+21:41:52.889 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:41:53.011 [main] INFO  Handler_log - logging function executed in 743 ms
+2025-02-11T21:41:53.337601358+00:00 - INFO - example function executed in 1.768252037s
+21:41:53.369 [main] INFO  Handler_log - logging function executed in 775 ms
+21:41:53.681 [main] INFO  Handler_log - logging function executed in 843 ms
+2025-02-11T21:41:53.693234072+00:00 - INFO - example function executed in 1.792723306s
+2025-02-11T21:41:54.005779922+00:00 - INFO - example function executed in 1.880894933s
+21:41:54.141 [main] INFO  Handler_log - logging function executed in 1114 ms
+2025-02-11T21:41:54.469197932+00:00 - INFO - example function executed in 2.155907239s
+21:41:55.815 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:41:55.904 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:41:56.307 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:41:56.665 [main] INFO  Handler_log - logging function executed in 698 ms
+21:41:56.711 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:41:56.839 [main] INFO  Handler_log - logging function executed in 781 ms
+2025-02-11T21:41:56.990118928+00:00 - INFO - example function executed in 1.72207597s
+21:41:57.067 [main] INFO  Handler_log - logging function executed in 218 ms
+2025-02-11T21:41:57.164193611+00:00 - INFO - example function executed in 1.802663016s
+2025-02-11T21:41:57.391141772+00:00 - INFO - example function executed in 1.223177883s
+21:41:57.406 [main] INFO  Handler_log - logging function executed in 958 ms
+2025-02-11T21:41:57.730070802+00:00 - INFO - example function executed in 2.004804065s
+21:41:58.890 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:41:59.234 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:41:59.528 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:41:59.813 [main] INFO  Handler_log - logging function executed in 146 ms
+21:41:59.862 [main] INFO  Handler_log - logging function executed in 488 ms
+21:41:59.993 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:42:00.133 [main] INFO  Handler_log - logging function executed in 1099 ms
+2025-02-11T21:42:00.137037584+00:00 - INFO - example function executed in 1.130939908s
+2025-02-11T21:42:00.186343818+00:00 - INFO - example function executed in 1.492837697s
+2025-02-11T21:42:00.459952362+00:00 - INFO - example function executed in 2.121954421s
+21:42:00.595 [main] INFO  Handler_log - logging function executed in 463 ms
+2025-02-11T21:42:00.924896636+00:00 - INFO - example function executed in 1.455377332s
+21:42:02.514 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:42:02.727 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+21:42:02.989 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:42:03.313 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:42:03.349 [main] INFO  Handler_log - logging function executed in 471 ms
+21:42:03.421 [main] INFO  Handler_log - logging function executed in 290 ms
+21:42:03.472 [main] INFO  Handler_log - logging function executed in 815 ms
+2025-02-11T21:42:03.675172231+00:00 - INFO - example function executed in 1.510660581s
+2025-02-11T21:42:03.745169424+00:00 - INFO - example function executed in 1.353553598s
+2025-02-11T21:42:03.798870863+00:00 - INFO - example function executed in 1.808424105s
+21:42:03.808 [main] INFO  Handler_log - logging function executed in 337 ms
+2025-02-11T21:42:04.138468913+00:00 - INFO - example function executed in 1.407398879s
+21:42:05.711 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+21:42:05.735 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+21:42:06.007 [main] INFO  Handler_log - logging function executed in 139 ms
+21:42:06.051 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:42:06.332 [main] INFO  Handler_log - logging function executed in 132 ms
+2025-02-11T21:42:06.336473786+00:00 - INFO - example function executed in 1.199048908s
+21:42:06.471 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:42:06.594 [main] INFO  Handler_log - logging function executed in 714 ms
+2025-02-11T21:42:06.657429914+00:00 - INFO - example function executed in 1.197165192s
+2025-02-11T21:42:06.923416504+00:00 - INFO - example function executed in 1.736817341s
+21:42:07.058 [main] INFO  Handler_log - logging function executed in 442 ms
+2025-02-11T21:42:07.385045266+00:00 - INFO - example function executed in 1.459807465s
+21:42:09.257 [main] INFO  Injector - Read from MongoDB table executed in 66 ms
+21:42:09.421 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+21:42:09.458 [main] INFO  Injector - Read from MongoDB table executed in 59 ms
+21:42:09.753 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:42:10.041 [main] INFO  Handler_log - logging function executed in 371 ms
+21:42:10.179 [main] INFO  Handler_log - logging function executed in 280 ms
+21:42:10.257 [main] INFO  Handler_log - logging function executed in 793 ms
+2025-02-11T21:42:10.369230574+00:00 - INFO - example function executed in 1.569992193s
+2025-02-11T21:42:10.508020133+00:00 - INFO - example function executed in 1.369285193s
+2025-02-11T21:42:10.587979566+00:00 - INFO - example function executed in 1.912461531s
+21:42:10.608 [main] INFO  Handler_log - logging function executed in 973 ms
+2025-02-11T21:42:10.934816718+00:00 - INFO - example function executed in 2.189314321s
+21:42:11.866 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:42:12.207 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:42:12.472 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:42:12.829 [main] INFO  Handler_log - logging function executed in 814 ms
+21:42:12.897 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T21:42:13.154847308+00:00 - INFO - example function executed in 1.818070171s
+21:42:13.356 [main] INFO  Handler_log - logging function executed in 740 ms
+21:42:13.464 [main] INFO  Handler_log - logging function executed in 1112 ms
+21:42:13.519 [main] INFO  Handler_log - logging function executed in 488 ms
+2025-02-11T21:42:13.681251603+00:00 - INFO - example function executed in 1.757531218s
+2025-02-11T21:42:13.788020258+00:00 - INFO - example function executed in 2.130233062s
+2025-02-11T21:42:13.846932690+00:00 - INFO - example function executed in 1.461615812s
+21:42:15.947 [main] INFO  Injector - Read from MongoDB table executed in 56 ms
+21:42:16.135 [main] INFO  Injector - Read from MongoDB table executed in 64 ms
+21:42:16.286 [main] INFO  Injector - Read from MongoDB table executed in 52 ms
+21:42:16.535 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:42:16.693 [main] INFO  Handler_log - logging function executed in 502 ms
+21:42:16.964 [main] INFO  Handler_log - logging function executed in 278 ms
+2025-02-11T21:42:17.018311024+00:00 - INFO - example function executed in 1.648751168s
+2025-02-11T21:42:17.289361810+00:00 - INFO - example function executed in 1.354250164s
+21:42:17.371 [main] INFO  Handler_log - logging function executed in 1032 ms
+21:42:17.397 [main] INFO  Handler_log - logging function executed in 941 ms
+2025-02-11T21:42:17.704371450+00:00 - INFO - example function executed in 2.196063553s
+2025-02-11T21:42:17.727109476+00:00 - INFO - example function executed in 2.138857945s
+21:42:18.680 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:42:19.241 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+21:42:19.328 [main] INFO  Handler_log - logging function executed in 503 ms
+21:42:19.368 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+21:42:19.460 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+2025-02-11T21:42:19.655861062+00:00 - INFO - example function executed in 1.500723703s
+21:42:19.928 [main] INFO  Handler_log - logging function executed in 330 ms
+21:42:20.052 [main] INFO  Handler_log - logging function executed in 651 ms
+2025-02-11T21:42:20.257293927+00:00 - INFO - example function executed in 1.410070685s
+2025-02-11T21:42:20.380422378+00:00 - INFO - example function executed in 1.698858962s
+21:42:20.388 [main] INFO  Handler_log - logging function executed in 878 ms
+2025-02-11T21:42:20.712795484+00:00 - INFO - example function executed in 1.924481188s
+21:42:22.547 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:42:22.836 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+21:42:23.218 [main] INFO  Handler_log - logging function executed in 531 ms
+21:42:23.273 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:42:23.295 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T21:42:23.543439501+00:00 - INFO - example function executed in 1.524759915s
+21:42:23.616 [main] INFO  Handler_log - logging function executed in 203 ms
+21:42:23.819 [main] INFO  Handler_log - logging function executed in 383 ms
+2025-02-11T21:42:23.944255675+00:00 - INFO - example function executed in 1.216877845s
+21:42:24.065 [main] INFO  Handler_log - logging function executed in 1086 ms
+2025-02-11T21:42:24.143821337+00:00 - INFO - example function executed in 1.439166222s
+2025-02-11T21:42:24.390173647+00:00 - INFO - example function executed in 2.100527743s
+21:42:25.629 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:42:25.850 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+21:42:26.310 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+21:42:26.328 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:42:26.411 [main] INFO  Handler_log - logging function executed in 632 ms
+21:42:26.562 [main] INFO  Handler_log - logging function executed in 568 ms
+2025-02-11T21:42:26.736931542+00:00 - INFO - example function executed in 1.629518505s
+2025-02-11T21:42:26.886143588+00:00 - INFO - example function executed in 1.589785649s
+21:42:27.257 [main] INFO  Handler_log - logging function executed in 796 ms
+21:42:27.307 [main] INFO  Handler_log - logging function executed in 834 ms
+2025-02-11T21:42:27.581205005+00:00 - INFO - example function executed in 1.890065204s
+2025-02-11T21:42:27.632542714+00:00 - INFO - example function executed in 1.91250582s
+21:42:29.080 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:42:29.492 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:42:29.726 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:42:29.756 [main] INFO  Handler_log - logging function executed in 535 ms
+21:42:29.946 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T21:42:30.082284568+00:00 - INFO - example function executed in 1.538491202s
+21:42:30.583 [main] INFO  Handler_log - logging function executed in 941 ms
+2025-02-11T21:42:30.908195205+00:00 - INFO - example function executed in 1.963615639s
+21:42:30.919 [main] INFO  Handler_log - logging function executed in 828 ms
+21:42:30.932 [main] INFO  Handler_log - logging function executed in 1071 ms
+2025-02-11T21:42:31.248287288+00:00 - INFO - example function executed in 1.857826812s
+2025-02-11T21:42:31.258566012+00:00 - INFO - example function executed in 2.114449701s
+21:42:32.268 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:42:32.434 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+21:42:32.840 [main] INFO  Handler_log - logging function executed in 264 ms
+21:42:33.155 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+2025-02-11T21:42:33.166306730+00:00 - INFO - example function executed in 1.279867576s
+21:42:33.169 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:42:33.447 [main] INFO  Handler_log - logging function executed in 1037 ms
+2025-02-11T21:42:33.772273905+00:00 - INFO - example function executed in 2.035074597s
+21:42:33.930 [main] INFO  Handler_log - logging function executed in 623 ms
+21:42:34.082 [main] INFO  Handler_log - logging function executed in 787 ms
+2025-02-11T21:42:34.259206638+00:00 - INFO - example function executed in 1.626427679s
+2025-02-11T21:42:34.406574832+00:00 - INFO - example function executed in 1.825095339s
+21:42:35.617 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:42:36.332 [main] INFO  Handler_log - logging function executed in 575 ms
+21:42:36.443 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T21:42:36.667523631+00:00 - INFO - example function executed in 1.584762804s
+21:42:36.821 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:42:36.821 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:42:37.107 [main] INFO  Handler_log - logging function executed in 147 ms
+21:42:37.271 [main] INFO  Handler_log - logging function executed in 312 ms
+2025-02-11T21:42:37.436558922+00:00 - INFO - example function executed in 1.177715695s
+21:42:37.522 [main] INFO  Handler_log - logging function executed in 928 ms
+2025-02-11T21:42:37.601721353+00:00 - INFO - example function executed in 1.353150668s
+2025-02-11T21:42:37.845908757+00:00 - INFO - example function executed in 1.937430527s
+21:42:38.858 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:42:39.244 [main] INFO  Handler_log - logging function executed in 245 ms
+21:42:39.363 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T21:42:39.574391987+00:00 - INFO - example function executed in 1.267663315s
+21:42:39.832 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:42:39.950 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:42:40.273 [main] INFO  Handler_log - logging function executed in 747 ms
+21:42:40.467 [main] INFO  Handler_log - logging function executed in 492 ms
+2025-02-11T21:42:40.598682333+00:00 - INFO - example function executed in 1.826115622s
+2025-02-11T21:42:40.792317889+00:00 - INFO - example function executed in 1.532819747s
+21:42:41.045 [main] INFO  Handler_log - logging function executed in 951 ms
+2025-02-11T21:42:41.375206458+00:00 - INFO - example function executed in 1.968360691s
+21:42:42.237 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:42:42.980 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:42:43.166 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+21:42:43.347 [main] INFO  Handler_log - logging function executed in 970 ms
+21:42:43.425 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T21:42:43.671501307+00:00 - INFO - example function executed in 1.960604895s
+21:42:43.898 [main] INFO  Handler_log - logging function executed in 774 ms
+21:42:44.208 [main] INFO  Handler_log - logging function executed in 901 ms
+2025-02-11T21:42:44.222527149+00:00 - INFO - example function executed in 1.785670347s
+21:42:44.234 [main] INFO  Handler_log - logging function executed in 670 ms
+2025-02-11T21:42:44.533508837+00:00 - INFO - example function executed in 1.931512496s
+2025-02-11T21:42:44.563009917+00:00 - INFO - example function executed in 1.716891535s
+21:42:46.036 [main] INFO  Injector - Read from MongoDB table executed in 49 ms
+21:42:46.177 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+21:42:46.380 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:42:46.681 [main] INFO  Handler_log - logging function executed in 493 ms
+21:42:46.686 [main] INFO  Handler_log - logging function executed in 165 ms
+21:42:46.751 [main] INFO  Handler_log - logging function executed in 426 ms
+21:42:46.918 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T21:42:47.010881175+00:00 - INFO - example function executed in 1.218276432s
+2025-02-11T21:42:47.013768492+00:00 - INFO - example function executed in 1.531891219s
+2025-02-11T21:42:47.079490837+00:00 - INFO - example function executed in 1.480527832s
+21:42:47.895 [main] INFO  Handler_log - logging function executed in 839 ms
+2025-02-11T21:42:48.223482652+00:00 - INFO - example function executed in 1.847995433s
+21:42:49.218 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:42:49.771 [main] INFO  Injector - Read from MongoDB table executed in 51 ms
+21:42:49.867 [main] INFO  Handler_log - logging function executed in 501 ms
+21:42:50.078 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:42:50.114 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T21:42:50.194777577+00:00 - INFO - example function executed in 1.522938682s
+21:42:50.387 [main] INFO  Handler_log - logging function executed in 171 ms
+2025-02-11T21:42:50.712750212+00:00 - INFO - example function executed in 1.178939153s
+21:42:50.771 [main] INFO  Handler_log - logging function executed in 852 ms
+2025-02-11T21:42:51.097160938+00:00 - INFO - example function executed in 1.874344051s
+21:42:51.180 [main] INFO  Handler_log - logging function executed in 928 ms
+2025-02-11T21:42:51.509499892+00:00 - INFO - example function executed in 1.94626046s
+21:42:52.594 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:42:52.595 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:42:52.683 [main] INFO  Injector - Read from MongoDB table executed in 51 ms
+21:42:53.005 [main] INFO  Handler_log - logging function executed in 179 ms
+21:42:53.194 [main] INFO  Handler_log - logging function executed in 453 ms
+2025-02-11T21:42:53.330078051+00:00 - INFO - example function executed in 1.250295237s
+2025-02-11T21:42:53.519484493+00:00 - INFO - example function executed in 1.505483585s
+21:42:53.758 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:42:53.784 [main] INFO  Handler_log - logging function executed in 1044 ms
+2025-02-11T21:42:54.109676084+00:00 - INFO - example function executed in 2.098392063s
+21:42:54.151 [main] INFO  Handler_log - logging function executed in 251 ms
+2025-02-11T21:42:54.481164838+00:00 - INFO - example function executed in 1.257388022s
+21:42:55.720 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:42:56.003 [main] INFO  Handler_log - logging function executed in 141 ms
+21:42:56.236 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T21:42:56.327809911+00:00 - INFO - example function executed in 1.132594766s
+21:42:56.638 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:42:57.002 [main] INFO  Handler_log - logging function executed in 626 ms
+21:42:57.066 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+2025-02-11T21:42:57.326408633+00:00 - INFO - example function executed in 1.613353315s
+21:42:57.714 [main] INFO  Handler_log - logging function executed in 933 ms
+21:42:57.941 [main] INFO  Handler_log - logging function executed in 734 ms
+2025-02-11T21:42:58.040210474+00:00 - INFO - example function executed in 1.942767183s
+2025-02-11T21:42:58.272139175+00:00 - INFO - example function executed in 1.762363162s
+21:42:59.276 [main] INFO  Injector - Read from MongoDB table executed in 67 ms
+21:42:59.580 [main] INFO  Injector - Read from MongoDB table executed in 50 ms
+21:42:59.764 [main] INFO  Injector - Read from MongoDB table executed in 58 ms
+21:42:59.790 [main] INFO  Handler_log - logging function executed in 359 ms
+21:43:00.121 [main] INFO  Injector - Read from MongoDB table executed in 48 ms
+2025-02-11T21:43:00.124617354+00:00 - INFO - example function executed in 1.430061336s
+21:43:00.253 [main] INFO  Handler_log - logging function executed in 519 ms
+21:43:00.314 [main] INFO  Handler_log - logging function executed in 396 ms
+2025-02-11T21:43:00.584561639+00:00 - INFO - example function executed in 1.659625276s
+2025-02-11T21:43:00.642003312+00:00 - INFO - example function executed in 1.532033841s
+21:43:00.975 [main] INFO  Handler_log - logging function executed in 700 ms
+2025-02-11T21:43:01.305605747+00:00 - INFO - example function executed in 1.772171291s
+21:43:02.364 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:43:02.852 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:43:03.120 [main] INFO  Handler_log - logging function executed in 608 ms
+2025-02-11T21:43:03.445756775+00:00 - INFO - example function executed in 1.648327422s
+21:43:03.568 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:43:03.805 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:43:03.816 [main] INFO  Handler_log - logging function executed in 824 ms
+21:43:04.132 [main] INFO  Handler_log - logging function executed in 425 ms
+2025-02-11T21:43:04.141153237+00:00 - INFO - example function executed in 1.814408034s
+21:43:04.363 [main] INFO  Handler_log - logging function executed in 416 ms
+2025-02-11T21:43:04.458069761+00:00 - INFO - example function executed in 1.417552222s
+2025-02-11T21:43:04.688279749+00:00 - INFO - example function executed in 1.41576516s
+21:43:06.034 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+21:43:06.150 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:43:06.247 [main] INFO  Injector - Read from MongoDB table executed in 55 ms
+21:43:06.607 [main] INFO  Handler_log - logging function executed in 208 ms
+21:43:06.830 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:43:06.910 [main] INFO  Handler_log - logging function executed in 718 ms
+2025-02-11T21:43:06.930707855+00:00 - INFO - example function executed in 1.288397545s
+21:43:07.164 [main] INFO  Handler_log - logging function executed in 874 ms
+2025-02-11T21:43:07.236066846+00:00 - INFO - example function executed in 1.78103398s
+2025-02-11T21:43:07.489879578+00:00 - INFO - example function executed in 1.904993739s
+21:43:08.071 [main] INFO  Handler_log - logging function executed in 1104 ms
+2025-02-11T21:43:08.400513555+00:00 - INFO - example function executed in 2.094602836s
+21:43:09.274 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:43:09.916 [main] INFO  Injector - Read from MongoDB table executed in 49 ms
+21:43:10.153 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+21:43:10.223 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:43:10.472 [main] INFO  Handler_log - logging function executed in 1061 ms
+2025-02-11T21:43:10.798212137+00:00 - INFO - example function executed in 2.05341192s
+21:43:10.847 [main] INFO  Handler_log - logging function executed in 790 ms
+21:43:10.975 [main] INFO  Handler_log - logging function executed in 613 ms
+2025-02-11T21:43:11.172930814+00:00 - INFO - example function executed in 1.805155744s
+2025-02-11T21:43:11.303322712+00:00 - INFO - example function executed in 1.614780466s
+21:43:11.405 [main] INFO  Handler_log - logging function executed in 1111 ms
+2025-02-11T21:43:11.729093249+00:00 - INFO - example function executed in 2.139408462s
+21:43:12.797 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:43:12.943 [main] INFO  Injector - Read from MongoDB table executed in 55 ms
+21:43:13.191 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:43:13.323 [main] INFO  Handler_log - logging function executed in 243 ms
+21:43:13.434 [main] INFO  Handler_log - logging function executed in 106 ms
+2025-02-11T21:43:13.647778280+00:00 - INFO - example function executed in 1.282814533s
+21:43:13.720 [main] INFO  Handler_log - logging function executed in 781 ms
+2025-02-11T21:43:13.758801778+00:00 - INFO - example function executed in 1.106512537s
+21:43:13.924 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T21:43:14.045240913+00:00 - INFO - example function executed in 1.799161668s
+21:43:15.138 [main] INFO  Handler_log - logging function executed in 1075 ms
+2025-02-11T21:43:15.466140454+00:00 - INFO - example function executed in 2.065342388s
+21:43:16.330 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:43:16.747 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:43:16.923 [main] INFO  Injector - Read from MongoDB table executed in 45 ms
+21:43:17.275 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:43:17.294 [main] INFO  Handler_log - logging function executed in 383 ms
+21:43:17.491 [main] INFO  Handler_log - logging function executed in 1007 ms
+2025-02-11T21:43:17.618300700+00:00 - INFO - example function executed in 1.445067316s
+21:43:17.655 [main] INFO  Handler_log - logging function executed in 242 ms
+2025-02-11T21:43:17.817262004+00:00 - INFO - example function executed in 2.018703924s
+2025-02-11T21:43:17.982904499+00:00 - INFO - example function executed in 1.253522489s
+21:43:18.040 [main] INFO  Handler_log - logging function executed in 969 ms
+2025-02-11T21:43:18.366394924+00:00 - INFO - example function executed in 2.003614293s
+21:43:19.266 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:43:19.559 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+21:43:19.852 [main] INFO  Handler_log - logging function executed in 154 ms
+21:43:19.881 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:43:20.010 [main] INFO  Handler_log - logging function executed in 560 ms
+2025-02-11T21:43:20.176985005+00:00 - INFO - example function executed in 1.160727085s
+2025-02-11T21:43:20.336272043+00:00 - INFO - example function executed in 1.598234902s
+21:43:20.912 [main] INFO  Handler_log - logging function executed in 889 ms
+21:43:20.992 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T21:43:21.236777539+00:00 - INFO - example function executed in 1.904905636s
+21:43:21.336 [main] INFO  Handler_log - logging function executed in 206 ms
+2025-02-11T21:43:21.665649247+00:00 - INFO - example function executed in 1.199211692s
+21:43:23.165 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+21:43:23.404 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+21:43:23.592 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:43:23.931 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:43:23.992 [main] INFO  Handler_log - logging function executed in 414 ms
+21:43:24.218 [main] INFO  Handler_log - logging function executed in 871 ms
+21:43:24.222 [main] INFO  Handler_log - logging function executed in 476 ms
+2025-02-11T21:43:24.316535328+00:00 - INFO - example function executed in 1.498914132s
+2025-02-11T21:43:24.545280226+00:00 - INFO - example function executed in 1.926677192s
+2025-02-11T21:43:24.550067671+00:00 - INFO - example function executed in 1.566913737s
+21:43:24.567 [main] INFO  Handler_log - logging function executed in 493 ms
+2025-02-11T21:43:24.895091002+00:00 - INFO - example function executed in 1.528410765s
+21:43:25.845 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:43:25.890 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:43:26.490 [main] INFO  Handler_log - logging function executed in 500 ms
+21:43:26.741 [main] INFO  Handler_log - logging function executed in 710 ms
+21:43:26.791 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+2025-02-11T21:43:26.819476069+00:00 - INFO - example function executed in 1.495506937s
+2025-02-11T21:43:27.066429043+00:00 - INFO - example function executed in 1.705030811s
+21:43:27.217 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:43:27.516 [main] INFO  Handler_log - logging function executed in 577 ms
+21:43:27.739 [main] INFO  Handler_log - logging function executed in 381 ms
+2025-02-11T21:43:27.841039881+00:00 - INFO - example function executed in 1.603896487s
+2025-02-11T21:43:28.067813497+00:00 - INFO - example function executed in 1.401864739s
+21:43:29.941 [main] INFO  Injector - Read from MongoDB table executed in 54 ms
+21:43:30.178 [main] INFO  Injector - Read from MongoDB table executed in 65 ms
+21:43:30.181 [main] INFO  Injector - Read from MongoDB table executed in 63 ms
+21:43:30.545 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:43:30.744 [main] INFO  Handler_log - logging function executed in 403 ms
+21:43:30.927 [main] INFO  Handler_log - logging function executed in 590 ms
+2025-02-11T21:43:31.068915671+00:00 - INFO - example function executed in 1.523333426s
+21:43:31.194 [main] INFO  Handler_log - logging function executed in 1061 ms
+2025-02-11T21:43:31.254014904+00:00 - INFO - example function executed in 1.70370097s
+2025-02-11T21:43:31.521800065+00:00 - INFO - example function executed in 2.204946577s
+21:43:31.545 [main] INFO  Handler_log - logging function executed in 863 ms
+2025-02-11T21:43:31.873343503+00:00 - INFO - example function executed in 1.977989003s
+21:43:32.815 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:43:33.052 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:43:33.271 [main] INFO  Handler_log - logging function executed in 287 ms
+21:43:33.437 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T21:43:33.597287571+00:00 - INFO - example function executed in 1.332214529s
+21:43:33.635 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:43:34.302 [main] INFO  Handler_log - logging function executed in 1101 ms
+2025-02-11T21:43:34.627388117+00:00 - INFO - example function executed in 2.115259016s
+21:43:34.637 [main] INFO  Handler_log - logging function executed in 1058 ms
+21:43:34.771 [main] INFO  Handler_log - logging function executed in 992 ms
+2025-02-11T21:43:34.961227189+00:00 - INFO - example function executed in 2.108405482s
+2025-02-11T21:43:35.101414764+00:00 - INFO - example function executed in 2.030205452s
+21:43:36.635 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+21:43:36.848 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+21:43:37.096 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:43:37.153 [main] INFO  Handler_log - logging function executed in 163 ms
+21:43:37.340 [main] INFO  Handler_log - logging function executed in 550 ms
+21:43:37.424 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T21:43:37.478460157+00:00 - INFO - example function executed in 1.224137259s
+2025-02-11T21:43:37.665529881+00:00 - INFO - example function executed in 1.596262502s
+21:43:38.103 [main] INFO  Handler_log - logging function executed in 869 ms
+21:43:38.224 [main] INFO  Handler_log - logging function executed in 662 ms
+2025-02-11T21:43:38.433228305+00:00 - INFO - example function executed in 1.911140674s
+2025-02-11T21:43:38.557248034+00:00 - INFO - example function executed in 1.683652501s
+21:43:40.023 [main] INFO  Injector - Read from MongoDB table executed in 52 ms
+21:43:40.202 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+21:43:40.476 [main] INFO  Handler_log - logging function executed in 246 ms
+21:43:40.578 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:43:40.764 [main] INFO  Handler_log - logging function executed in 399 ms
+2025-02-11T21:43:40.806614697+00:00 - INFO - example function executed in 1.424910005s
+21:43:40.816 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+2025-02-11T21:43:41.098777692+00:00 - INFO - example function executed in 1.470933249s
+21:43:41.805 [main] INFO  Handler_log - logging function executed in 819 ms
+21:43:41.834 [main] INFO  Handler_log - logging function executed in 1109 ms
+2025-02-11T21:43:42.141306886+00:00 - INFO - example function executed in 2.039553166s
+2025-02-11T21:43:42.160891823+00:00 - INFO - example function executed in 2.199322963s
+21:43:43.018 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:43:43.204 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:43:43.968 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:43:44.099 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:43:44.228 [main] INFO  Handler_log - logging function executed in 1060 ms
+21:43:44.403 [main] INFO  Handler_log - logging function executed in 1056 ms
+21:43:44.496 [main] INFO  Handler_log - logging function executed in 390 ms
+2025-02-11T21:43:44.554458810+00:00 - INFO - example function executed in 2.072237049s
+2025-02-11T21:43:44.728004770+00:00 - INFO - example function executed in 2.06216829s
+2025-02-11T21:43:44.821067717+00:00 - INFO - example function executed in 1.387534879s
+21:43:44.887 [main] INFO  Handler_log - logging function executed in 655 ms
+2025-02-11T21:43:45.214689411+00:00 - INFO - example function executed in 1.657143245s
+21:43:46.361 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:43:46.645 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:43:47.365 [main] INFO  Handler_log - logging function executed in 842 ms
+21:43:47.658 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:43:47.685 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T21:43:47.706216176+00:00 - INFO - example function executed in 1.899260042s
+21:43:47.731 [main] INFO  Handler_log - logging function executed in 951 ms
+21:43:47.938 [main] INFO  Handler_log - logging function executed in 113 ms
+2025-02-11T21:43:48.055899012+00:00 - INFO - example function executed in 1.956701705s
+2025-02-11T21:43:48.267170317+00:00 - INFO - example function executed in 1.105989017s
+21:43:48.744 [main] INFO  Handler_log - logging function executed in 945 ms
+2025-02-11T21:43:49.069031701+00:00 - INFO - example function executed in 1.927343205s
+21:43:50.135 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+21:43:50.314 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+21:43:50.373 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:43:50.823 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+21:43:51.152 [main] INFO  Handler_log - logging function executed in 861 ms
+21:43:51.366 [main] INFO  Handler_log - logging function executed in 848 ms
+21:43:51.442 [main] INFO  Handler_log - logging function executed in 937 ms
+2025-02-11T21:43:51.478752558+00:00 - INFO - example function executed in 1.923974883s
+2025-02-11T21:43:51.692517630+00:00 - INFO - example function executed in 1.871130718s
+2025-02-11T21:43:51.768339193+00:00 - INFO - example function executed in 2.040055393s
+21:43:51.933 [main] INFO  Handler_log - logging function executed in 970 ms
+2025-02-11T21:43:52.261902657+00:00 - INFO - example function executed in 2.046932244s
+21:43:53.248 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:43:53.605 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:43:53.815 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:43:53.818 [main] INFO  Handler_log - logging function executed in 384 ms
+2025-02-11T21:43:54.143194288+00:00 - INFO - example function executed in 1.436592196s
+21:43:54.372 [main] INFO  Handler_log - logging function executed in 419 ms
+21:43:54.522 [main] INFO  Handler_log - logging function executed in 779 ms
+21:43:54.614 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T21:43:54.696585088+00:00 - INFO - example function executed in 1.428939057s
+2025-02-11T21:43:54.846564381+00:00 - INFO - example function executed in 1.790292548s
+21:43:55.651 [main] INFO  Handler_log - logging function executed in 893 ms
+2025-02-11T21:43:55.978482595+00:00 - INFO - example function executed in 1.909159398s
+21:43:57.053 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+21:43:57.282 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+21:43:57.375 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+21:43:57.483 [main] INFO  Handler_log - logging function executed in 266 ms
+2025-02-11T21:43:57.818670478+00:00 - INFO - example function executed in 1.339623775s
+21:43:57.871 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:43:57.926 [main] INFO  Handler_log - logging function executed in 397 ms
+2025-02-11T21:43:58.252664423+00:00 - INFO - example function executed in 1.484072594s
+21:43:58.553 [main] INFO  Handler_log - logging function executed in 1098 ms
+2025-02-11T21:43:58.878613480+00:00 - INFO - example function executed in 2.18565038s
+21:43:59.063 [main] INFO  Handler_log - logging function executed in 1035 ms
+2025-02-11T21:43:59.391611279+00:00 - INFO - example function executed in 2.129424134s
+21:44:00.210 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+21:44:00.249 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:44:00.628 [main] INFO  Handler_log - logging function executed in 239 ms
+21:44:00.742 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T21:44:00.951919926+00:00 - INFO - example function executed in 1.255077663s
+21:44:00.962 [main] INFO  Handler_log - logging function executed in 614 ms
+2025-02-11T21:44:01.287250868+00:00 - INFO - example function executed in 1.616383082s
+21:44:01.498 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:44:01.552 [main] INFO  Handler_log - logging function executed in 670 ms
+2025-02-11T21:44:01.878526184+00:00 - INFO - example function executed in 1.689188771s
+21:44:02.391 [main] INFO  Handler_log - logging function executed in 754 ms
+2025-02-11T21:44:02.720506485+00:00 - INFO - example function executed in 1.741746151s
+21:44:03.687 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:44:03.985 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+21:44:04.353 [main] INFO  Handler_log - logging function executed in 220 ms
+21:44:04.450 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T21:44:04.679909075+00:00 - INFO - example function executed in 1.256259503s
+21:44:04.757 [main] INFO  Handler_log - logging function executed in 931 ms
+21:44:04.905 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+2025-02-11T21:44:05.084354445+00:00 - INFO - example function executed in 1.939280878s
+21:44:05.476 [main] INFO  Handler_log - logging function executed in 434 ms
+21:44:05.637 [main] INFO  Handler_log - logging function executed in 1051 ms
+2025-02-11T21:44:05.800068400+00:00 - INFO - example function executed in 1.408170222s
+2025-02-11T21:44:05.961915666+00:00 - INFO - example function executed in 2.083059116s
+21:44:07.006 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:44:07.135 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+21:44:07.462 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:44:07.930 [main] INFO  Handler_log - logging function executed in 761 ms
+21:44:07.987 [main] INFO  Handler_log - logging function executed in 379 ms
+21:44:08.242 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T21:44:08.254196541+00:00 - INFO - example function executed in 1.794822379s
+2025-02-11T21:44:08.312549117+00:00 - INFO - example function executed in 1.433663288s
+21:44:08.313 [main] INFO  Handler_log - logging function executed in 1021 ms
+2025-02-11T21:44:08.638866518+00:00 - INFO - example function executed in 2.068553997s
+21:44:09.061 [main] INFO  Handler_log - logging function executed in 681 ms
+2025-02-11T21:44:09.389503616+00:00 - INFO - example function executed in 1.668715647s
+21:44:10.333 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:44:10.617 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:44:11.316 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:44:11.360 [main] INFO  Handler_log - logging function executed in 882 ms
+21:44:11.475 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:44:11.505 [main] INFO  Handler_log - logging function executed in 753 ms
+2025-02-11T21:44:11.687018572+00:00 - INFO - example function executed in 1.895575568s
+2025-02-11T21:44:11.834759515+00:00 - INFO - example function executed in 1.750108968s
+21:44:12.393 [main] INFO  Handler_log - logging function executed in 779 ms
+21:44:12.436 [main] INFO  Handler_log - logging function executed in 981 ms
+2025-02-11T21:44:12.720276255+00:00 - INFO - example function executed in 1.758105369s
+2025-02-11T21:44:12.759482657+00:00 - INFO - example function executed in 1.959165658s
+21:44:13.800 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+21:44:13.901 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+21:44:14.196 [main] INFO  Handler_log - logging function executed in 147 ms
+21:44:14.207 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T21:44:14.522602538+00:00 - INFO - example function executed in 1.173420951s
+21:44:14.919 [main] INFO  Handler_log - logging function executed in 972 ms
+21:44:14.922 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+2025-02-11T21:44:15.244709740+00:00 - INFO - example function executed in 1.990164486s
+21:44:15.439 [main] INFO  Handler_log - logging function executed in 1091 ms
+2025-02-11T21:44:15.763945691+00:00 - INFO - example function executed in 2.124811904s
+21:44:15.768 [main] INFO  Handler_log - logging function executed in 705 ms
+2025-02-11T21:44:16.092781483+00:00 - INFO - example function executed in 1.703012768s
+21:44:17.237 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+21:44:17.364 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:44:17.586 [main] INFO  Handler_log - logging function executed in 206 ms
+2025-02-11T21:44:17.911026156+00:00 - INFO - example function executed in 1.214197247s
+21:44:17.983 [main] INFO  Handler_log - logging function executed in 469 ms
+21:44:18.256 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:44:18.288 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T21:44:18.307689191+00:00 - INFO - example function executed in 1.472655552s
+21:44:18.756 [main] INFO  Handler_log - logging function executed in 324 ms
+2025-02-11T21:44:19.086036836+00:00 - INFO - example function executed in 1.32626966s
+21:44:19.199 [main] INFO  Handler_log - logging function executed in 801 ms
+2025-02-11T21:44:19.526271483+00:00 - INFO - example function executed in 1.80564781s
+21:44:20.403 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:44:20.773 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:44:20.929 [main] INFO  Handler_log - logging function executed in 384 ms
+2025-02-11T21:44:21.256965223+00:00 - INFO - example function executed in 1.384143021s
+21:44:21.293 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:44:21.620 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:44:21.778 [main] INFO  Handler_log - logging function executed in 869 ms
+2025-02-11T21:44:22.103048407+00:00 - INFO - example function executed in 1.858053962s
+21:44:22.358 [main] INFO  Handler_log - logging function executed in 924 ms
+2025-02-11T21:44:22.683705651+00:00 - INFO - example function executed in 1.919462463s
+21:44:22.713 [main] INFO  Handler_log - logging function executed in 954 ms
+2025-02-11T21:44:23.042465259+00:00 - INFO - example function executed in 1.949388453s
+21:44:23.869 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:44:24.303 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:44:24.625 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:44:24.714 [main] INFO  Handler_log - logging function executed in 704 ms
+2025-02-11T21:44:25.039434202+00:00 - INFO - example function executed in 1.705505007s
+21:44:25.084 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:44:25.462 [main] INFO  Handler_log - logging function executed in 240 ms
+21:44:25.506 [main] INFO  Handler_log - logging function executed in 1060 ms
+2025-02-11T21:44:25.786090295+00:00 - INFO - example function executed in 1.259525837s
+2025-02-11T21:44:25.830015985+00:00 - INFO - example function executed in 2.067131922s
+21:44:25.863 [main] INFO  Handler_log - logging function executed in 1099 ms
+2025-02-11T21:44:26.188681192+00:00 - INFO - example function executed in 2.102337876s
+21:44:27.047 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:44:27.590 [main] INFO  Handler_log - logging function executed in 402 ms
+21:44:27.643 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T21:44:27.915528737+00:00 - INFO - example function executed in 1.411235034s
+21:44:28.211 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:44:28.241 [main] INFO  Handler_log - logging function executed in 451 ms
+21:44:28.564 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T21:44:28.565556296+00:00 - INFO - example function executed in 1.462161188s
+21:44:29.099 [main] INFO  Handler_log - logging function executed in 395 ms
+21:44:29.245 [main] INFO  Handler_log - logging function executed in 895 ms
+2025-02-11T21:44:29.427581801+00:00 - INFO - example function executed in 1.384807159s
+2025-02-11T21:44:29.569895799+00:00 - INFO - example function executed in 1.885937748s
+21:44:30.578 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:44:31.344 [main] INFO  Injector - Read from MongoDB table executed in 51 ms
+21:44:31.346 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:44:31.733 [main] INFO  Handler_log - logging function executed in 1003 ms
+21:44:31.739 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+2025-02-11T21:44:32.058263819+00:00 - INFO - example function executed in 2.018530423s
+21:44:32.309 [main] INFO  Handler_log - logging function executed in 813 ms
+21:44:32.369 [main] INFO  Handler_log - logging function executed in 882 ms
+21:44:32.544 [main] INFO  Handler_log - logging function executed in 667 ms
+2025-02-11T21:44:32.633204269+00:00 - INFO - example function executed in 1.846801037s
+2025-02-11T21:44:32.693818464+00:00 - INFO - example function executed in 1.863332956s
+2025-02-11T21:44:32.871820395+00:00 - INFO - example function executed in 1.682822269s
+21:44:33.939 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:44:34.094 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:44:34.950 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:44:35.098 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:44:35.186 [main] INFO  Handler_log - logging function executed in 951 ms
+21:44:35.198 [main] INFO  Handler_log - logging function executed in 1115 ms
+21:44:35.299 [main] INFO  Handler_log - logging function executed in 208 ms
+2025-02-11T21:44:35.510695437+00:00 - INFO - example function executed in 1.944872191s
+2025-02-11T21:44:35.523010465+00:00 - INFO - example function executed in 2.131566025s
+2025-02-11T21:44:35.623361820+00:00 - INFO - example function executed in 1.195464019s
+21:44:35.922 [main] INFO  Handler_log - logging function executed in 669 ms
+2025-02-11T21:44:36.251009828+00:00 - INFO - example function executed in 1.680843786s
+21:44:37.588 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:44:38.195 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+21:44:38.289 [main] INFO  Injector - Read from MongoDB table executed in 45 ms
+21:44:38.353 [main] INFO  Handler_log - logging function executed in 625 ms
+21:44:38.474 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+2025-02-11T21:44:38.679722442+00:00 - INFO - example function executed in 1.62114293s
+21:44:39.385 [main] INFO  Handler_log - logging function executed in 1038 ms
+21:44:39.390 [main] INFO  Handler_log - logging function executed in 952 ms
+21:44:39.435 [main] INFO  Handler_log - logging function executed in 825 ms
+2025-02-11T21:44:39.710108469+00:00 - INFO - example function executed in 2.076614197s
+2025-02-11T21:44:39.714175752+00:00 - INFO - example function executed in 2.020039833s
+2025-02-11T21:44:39.764867696+00:00 - INFO - example function executed in 1.892586867s
+21:44:41.074 [main] INFO  Injector - Read from MongoDB table executed in 53 ms
+21:44:41.096 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:44:41.187 [main] INFO  Injector - Read from MongoDB table executed in 49 ms
+21:44:41.588 [main] INFO  Handler_log - logging function executed in 245 ms
+21:44:41.784 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T21:44:41.912203764+00:00 - INFO - example function executed in 1.288528662s
+21:44:42.072 [main] INFO  Handler_log - logging function executed in 843 ms
+21:44:42.175 [main] INFO  Handler_log - logging function executed in 929 ms
+2025-02-11T21:44:42.397953136+00:00 - INFO - example function executed in 1.886923324s
+2025-02-11T21:44:42.500479308+00:00 - INFO - example function executed in 1.977212676s
+21:44:43.017 [main] INFO  Handler_log - logging function executed in 1092 ms
+2025-02-11T21:44:43.345687715+00:00 - INFO - example function executed in 2.094389261s
+21:44:44.394 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:44:45.275 [main] INFO  Handler_log - logging function executed in 736 ms
+21:44:45.305 [main] INFO  Injector - Read from MongoDB table executed in 62 ms
+21:44:45.311 [main] INFO  Injector - Read from MongoDB table executed in 54 ms
+21:44:45.345 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+2025-02-11T21:44:45.601100792+00:00 - INFO - example function executed in 1.73893257s
+21:44:45.837 [main] INFO  Handler_log - logging function executed in 374 ms
+21:44:46.057 [main] INFO  Handler_log - logging function executed in 571 ms
+2025-02-11T21:44:46.163048121+00:00 - INFO - example function executed in 1.448594753s
+21:44:46.270 [main] INFO  Handler_log - logging function executed in 813 ms
+2025-02-11T21:44:46.381591124+00:00 - INFO - example function executed in 1.616442935s
+2025-02-11T21:44:46.595895653+00:00 - INFO - example function executed in 1.885456526s
+21:44:47.641 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+21:44:47.942 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:44:48.067 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:44:48.416 [main] INFO  Handler_log - logging function executed in 598 ms
+21:44:48.534 [main] INFO  Handler_log - logging function executed in 323 ms
+2025-02-11T21:44:48.741895351+00:00 - INFO - example function executed in 1.657127054s
+2025-02-11T21:44:48.859934893+00:00 - INFO - example function executed in 1.35919361s
+21:44:48.868 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:44:48.962 [main] INFO  Handler_log - logging function executed in 851 ms
+2025-02-11T21:44:49.286767505+00:00 - INFO - example function executed in 1.88850279s
+21:44:49.509 [main] INFO  Handler_log - logging function executed in 501 ms
+2025-02-11T21:44:49.838175329+00:00 - INFO - example function executed in 1.492206534s
+21:44:51.152 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:44:51.738 [main] INFO  Injector - Read from MongoDB table executed in 63 ms
+21:44:51.900 [main] INFO  Handler_log - logging function executed in 607 ms
+21:44:51.979 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+21:44:52.149 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T21:44:52.230249981+00:00 - INFO - example function executed in 1.628795783s
+21:44:52.448 [main] INFO  Handler_log - logging function executed in 546 ms
+21:44:52.636 [main] INFO  Handler_log - logging function executed in 345 ms
+2025-02-11T21:44:52.774286669+00:00 - INFO - example function executed in 1.61095119s
+2025-02-11T21:44:52.964971226+00:00 - INFO - example function executed in 1.368796913s
+21:44:53.027 [main] INFO  Handler_log - logging function executed in 915 ms
+2025-02-11T21:44:53.352748210+00:00 - INFO - example function executed in 1.970879469s
+21:44:54.333 [main] INFO  Injector - Read from MongoDB table executed in 43 ms
+21:44:54.419 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:44:54.693 [main] INFO  Handler_log - logging function executed in 124 ms
+21:44:54.831 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T21:44:55.017518923+00:00 - INFO - example function executed in 1.157163413s
+21:44:55.281 [main] INFO  Handler_log - logging function executed in 804 ms
+21:44:55.396 [main] INFO  Injector - Read from MongoDB table executed in 46 ms
+2025-02-11T21:44:55.614476401+00:00 - INFO - example function executed in 1.872247929s
+21:44:55.973 [main] INFO  Handler_log - logging function executed in 432 ms
+21:44:56.040 [main] INFO  Handler_log - logging function executed in 1067 ms
+2025-02-11T21:44:56.300497014+00:00 - INFO - example function executed in 1.462023022s
+2025-02-11T21:44:56.364954737+00:00 - INFO - example function executed in 2.077871717s
+21:44:57.760 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:44:58.305 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:44:58.513 [main] INFO  Injector - Read from MongoDB table executed in 48 ms
+21:44:58.735 [main] INFO  Handler_log - logging function executed in 828 ms
+21:44:58.763 [main] INFO  Handler_log - logging function executed in 315 ms
+21:44:58.897 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T21:44:59.061300564+00:00 - INFO - example function executed in 1.830709161s
+2025-02-11T21:44:59.088339275+00:00 - INFO - example function executed in 1.313751672s
+21:44:59.385 [main] INFO  Handler_log - logging function executed in 734 ms
+2025-02-11T21:44:59.711299611+00:00 - INFO - example function executed in 1.746043059s
+21:44:59.744 [main] INFO  Handler_log - logging function executed in 708 ms
+2025-02-11T21:45:00.074067406+00:00 - INFO - example function executed in 1.720935287s
+21:45:01.051 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+21:45:01.355 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:45:01.852 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:45:01.905 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:45:02.292 [main] INFO  Handler_log - logging function executed in 1102 ms
+21:45:02.346 [main] INFO  Handler_log - logging function executed in 849 ms
+2025-02-11T21:45:02.619132330+00:00 - INFO - example function executed in 2.106040792s
+2025-02-11T21:45:02.672471069+00:00 - INFO - example function executed in 1.856042343s
+21:45:02.764 [main] INFO  Handler_log - logging function executed in 773 ms
+2025-02-11T21:45:03.089694316+00:00 - INFO - example function executed in 1.788925019s
+21:45:03.131 [main] INFO  Handler_log - logging function executed in 1084 ms
+2025-02-11T21:45:03.459353238+00:00 - INFO - example function executed in 2.094115029s
+21:45:04.590 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:45:04.609 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:45:05.063 [main] INFO  Handler_log - logging function executed in 312 ms
+21:45:05.250 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:45:05.323 [main] INFO  Handler_log - logging function executed in 591 ms
+2025-02-11T21:45:05.391296355+00:00 - INFO - example function executed in 1.30268051s
+21:45:05.596 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+2025-02-11T21:45:05.652404530+00:00 - INFO - example function executed in 1.590641355s
+21:45:05.781 [main] INFO  Handler_log - logging function executed in 394 ms
+21:45:06.043 [main] INFO  Handler_log - logging function executed in 308 ms
+2025-02-11T21:45:06.106067713+00:00 - INFO - example function executed in 1.394475886s
+2025-02-11T21:45:06.369514554+00:00 - INFO - example function executed in 1.295177275s
+21:45:08.143 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:45:08.204 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:45:08.651 [main] INFO  Handler_log - logging function executed in 367 ms
+2025-02-11T21:45:08.976826583+00:00 - INFO - example function executed in 1.357359913s
+21:45:09.149 [main] INFO  Handler_log - logging function executed in 803 ms
+2025-02-11T21:45:09.477693200+00:00 - INFO - example function executed in 1.804927013s
+21:45:10.866 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:45:10.903 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:45:11.220 [main] INFO  Handler_log - logging function executed in 211 ms
+2025-02-11T21:45:11.545317626+00:00 - INFO - example function executed in 1.206162984s
+21:45:11.712 [main] INFO  Handler_log - logging function executed in 664 ms
+2025-02-11T21:45:12.036926751+00:00 - INFO - example function executed in 1.650964262s
+21:45:12.824 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:45:13.124 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:45:13.643 [main] INFO  Handler_log - logging function executed in 678 ms
+21:45:13.648 [main] INFO  Handler_log - logging function executed in 387 ms
+2025-02-11T21:45:13.971449281+00:00 - INFO - example function executed in 1.677473511s
+2025-02-11T21:45:13.977164968+00:00 - INFO - example function executed in 1.39717383s
+21:45:14.878 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:45:15.274 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:45:15.587 [main] INFO  Handler_log - logging function executed in 569 ms
+21:45:15.748 [main] INFO  Handler_log - logging function executed in 335 ms
+2025-02-11T21:45:15.913048458+00:00 - INFO - example function executed in 1.552884943s
+2025-02-11T21:45:16.076378987+00:00 - INFO - example function executed in 1.343066159s
+21:45:16.966 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:45:17.167 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:45:17.414 [main] INFO  Handler_log - logging function executed in 307 ms
+21:45:17.715 [main] INFO  Handler_log - logging function executed in 409 ms
+2025-02-11T21:45:17.740638472+00:00 - INFO - example function executed in 1.312999023s
+2025-02-11T21:45:18.045399929+00:00 - INFO - example function executed in 1.390400955s
+21:45:18.971 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:45:19.029 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:45:19.914 [main] INFO  Handler_log - logging function executed in 792 ms
+21:45:20.087 [main] INFO  Handler_log - logging function executed in 921 ms
+2025-02-11T21:45:20.238814816+00:00 - INFO - example function executed in 1.81726437s
+2025-02-11T21:45:20.416936846+00:00 - INFO - example function executed in 1.922632431s
+21:45:21.779 [main] INFO  Injector - Read from MongoDB table executed in 41 ms
+21:45:21.846 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:45:22.689 [main] INFO  Handler_log - logging function executed in 702 ms
+2025-02-11T21:45:23.015071696+00:00 - INFO - example function executed in 1.706720668s
+21:45:23.030 [main] INFO  Handler_log - logging function executed in 1091 ms
+2025-02-11T21:45:23.357179998+00:00 - INFO - example function executed in 2.118410032s
+21:45:24.754 [main] INFO  Injector - Read from MongoDB table executed in 42 ms
+21:45:24.882 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+21:45:25.374 [main] INFO  Handler_log - logging function executed in 446 ms
+21:45:25.638 [main] INFO  Handler_log - logging function executed in 595 ms
+2025-02-11T21:45:25.702725969+00:00 - INFO - example function executed in 1.617258916s
+2025-02-11T21:45:25.970116293+00:00 - INFO - example function executed in 1.648401784s
+21:45:26.874 [main] INFO  Injector - Read from MongoDB table executed in 39 ms
+21:45:27.442 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:45:27.451 [main] INFO  Handler_log - logging function executed in 403 ms
+2025-02-11T21:45:27.785332244+00:00 - INFO - example function executed in 1.452545728s
+21:45:28.146 [main] INFO  Handler_log - logging function executed in 560 ms
+2025-02-11T21:45:28.482239370+00:00 - INFO - example function executed in 1.602535356s
+21:45:29.271 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:45:29.495 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:45:30.491 [main] INFO  Handler_log - logging function executed in 1071 ms
+21:45:30.650 [main] INFO  Handler_log - logging function executed in 1013 ms
+2025-02-11T21:45:30.817220872+00:00 - INFO - example function executed in 2.089094601s
+2025-02-11T21:45:30.977874416+00:00 - INFO - example function executed in 2.01995486s
+21:45:32.006 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:45:32.438 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:45:32.618 [main] INFO  Handler_log - logging function executed in 465 ms
+2025-02-11T21:45:32.946193543+00:00 - INFO - example function executed in 1.529156705s
+21:45:33.445 [main] INFO  Handler_log - logging function executed in 868 ms
+2025-02-11T21:45:33.781390186+00:00 - INFO - example function executed in 1.87443107s
+21:45:34.724 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:45:34.983 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:45:35.255 [main] INFO  Handler_log - logging function executed in 130 ms
+2025-02-11T21:45:35.583285656+00:00 - INFO - example function executed in 1.166369854s
+21:45:35.981 [main] INFO  Handler_log - logging function executed in 1112 ms
+2025-02-11T21:45:36.307914485+00:00 - INFO - example function executed in 2.131789392s
+21:45:37.662 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:45:38.066 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:45:38.729 [main] INFO  Handler_log - logging function executed in 522 ms
+21:45:38.847 [main] INFO  Handler_log - logging function executed in 1048 ms
+2025-02-11T21:45:39.058215549+00:00 - INFO - example function executed in 1.550798785s
+2025-02-11T21:45:39.172479144+00:00 - INFO - example function executed in 2.040756197s
+21:45:40.476 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:45:40.805 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:45:41.289 [main] INFO  Handler_log - logging function executed in 673 ms
+21:45:41.295 [main] INFO  Handler_log - logging function executed in 350 ms
+2025-02-11T21:45:41.617200258+00:00 - INFO - example function executed in 1.667911613s
+2025-02-11T21:45:41.624837604+00:00 - INFO - example function executed in 1.34834284s
+21:45:42.806 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:45:42.895 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:45:43.745 [main] INFO  Handler_log - logging function executed in 712 ms
+21:45:43.929 [main] INFO  Handler_log - logging function executed in 983 ms
+2025-02-11T21:45:44.073924206+00:00 - INFO - example function executed in 1.693139156s
+2025-02-11T21:45:44.254005422+00:00 - INFO - example function executed in 1.982482366s
+21:45:45.355 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+21:45:45.387 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:45:45.774 [main] INFO  Handler_log - logging function executed in 251 ms
+2025-02-11T21:45:46.105833798+00:00 - INFO - example function executed in 1.274450292s
+21:45:46.258 [main] INFO  Handler_log - logging function executed in 757 ms
+2025-02-11T21:45:46.587496505+00:00 - INFO - example function executed in 1.752065745s
+21:45:47.369 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:45:47.783 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:45:48.147 [main] INFO  Handler_log - logging function executed in 639 ms
+21:45:48.471 [main] INFO  Handler_log - logging function executed in 549 ms
+2025-02-11T21:45:48.472552053+00:00 - INFO - example function executed in 1.651737577s
+2025-02-11T21:45:48.801506192+00:00 - INFO - example function executed in 1.544498334s
+21:45:49.756 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:45:50.048 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:45:50.828 [main] INFO  Handler_log - logging function executed in 933 ms
+21:45:50.915 [main] INFO  Handler_log - logging function executed in 728 ms
+2025-02-11T21:45:51.154493198+00:00 - INFO - example function executed in 1.925494512s
+2025-02-11T21:45:51.244244882+00:00 - INFO - example function executed in 1.732103338s
+21:45:52.458 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:45:52.883 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:45:53.272 [main] INFO  Handler_log - logging function executed in 673 ms
+2025-02-11T21:45:53.608170278+00:00 - INFO - example function executed in 1.689102861s
+21:45:54.060 [main] INFO  Handler_log - logging function executed in 1038 ms
+2025-02-11T21:45:54.390012770+00:00 - INFO - example function executed in 2.037672172s
+21:45:55.792 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:45:55.871 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:45:56.945 [main] INFO  Handler_log - logging function executed in 1006 ms
+21:45:56.965 [main] INFO  Handler_log - logging function executed in 952 ms
+2025-02-11T21:45:57.269994114+00:00 - INFO - example function executed in 2.02254235s
+2025-02-11T21:45:57.292712645+00:00 - INFO - example function executed in 1.985805052s
+21:45:58.072 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:45:58.288 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:45:58.808 [main] INFO  Handler_log - logging function executed in 380 ms
+21:45:58.866 [main] INFO  Handler_log - logging function executed in 652 ms
+2025-02-11T21:45:59.138127291+00:00 - INFO - example function executed in 1.389268095s
+2025-02-11T21:45:59.193095898+00:00 - INFO - example function executed in 1.654117506s
+21:46:00.789 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:46:00.801 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:46:01.280 [main] INFO  Handler_log - logging function executed in 339 ms
+2025-02-11T21:46:01.610640352+00:00 - INFO - example function executed in 1.356924662s
+21:46:01.666 [main] INFO  Handler_log - logging function executed in 738 ms
+2025-02-11T21:46:01.991317439+00:00 - INFO - example function executed in 1.737673855s
+21:46:03.071 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:46:03.606 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:46:04.014 [main] INFO  Handler_log - logging function executed in 786 ms
+21:46:04.217 [main] INFO  Handler_log - logging function executed in 474 ms
+2025-02-11T21:46:04.339452012+00:00 - INFO - example function executed in 1.800168424s
+2025-02-11T21:46:04.544799996+00:00 - INFO - example function executed in 1.460646154s
+21:46:05.381 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:46:05.796 [main] INFO  Handler_log - logging function executed in 276 ms
+21:46:05.892 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+2025-02-11T21:46:06.122233994+00:00 - INFO - example function executed in 1.276991408s
+21:46:07.076 [main] INFO  Handler_log - logging function executed in 1044 ms
+2025-02-11T21:46:07.411080371+00:00 - INFO - example function executed in 2.052603626s
+21:46:08.703 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+21:46:08.902 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:46:09.251 [main] INFO  Handler_log - logging function executed in 388 ms
+2025-02-11T21:46:09.585842145+00:00 - INFO - example function executed in 1.464919376s
+21:46:09.875 [main] INFO  Handler_log - logging function executed in 833 ms
+2025-02-11T21:46:10.203163462+00:00 - INFO - example function executed in 1.827158552s
+21:46:11.108 [main] INFO  Injector - Read from MongoDB table executed in 52 ms
+21:46:11.796 [main] INFO  Handler_log - logging function executed in 539 ms
+21:46:11.874 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+2025-02-11T21:46:12.124756706+00:00 - INFO - example function executed in 1.587798704s
+21:46:12.942 [main] INFO  Handler_log - logging function executed in 921 ms
+2025-02-11T21:46:13.271910661+00:00 - INFO - example function executed in 1.956541229s
+21:46:14.345 [main] INFO  Injector - Read from MongoDB table executed in 40 ms
+21:46:14.451 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:46:15.046 [main] INFO  Handler_log - logging function executed in 454 ms
+21:46:15.269 [main] INFO  Handler_log - logging function executed in 785 ms
+2025-02-11T21:46:15.382287063+00:00 - INFO - example function executed in 1.457920186s
+2025-02-11T21:46:15.604172274+00:00 - INFO - example function executed in 1.801425386s
+21:46:16.786 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:46:16.987 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:46:17.192 [main] INFO  Handler_log - logging function executed in 253 ms
+21:46:17.506 [main] INFO  Handler_log - logging function executed in 372 ms
+2025-02-11T21:46:17.519234638+00:00 - INFO - example function executed in 1.283745437s
+2025-02-11T21:46:17.833511553+00:00 - INFO - example function executed in 1.387278247s
+21:46:18.596 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:46:18.968 [main] INFO  Handler_log - logging function executed in 231 ms
+21:46:19.140 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+2025-02-11T21:46:19.293835183+00:00 - INFO - example function executed in 1.217770589s
+21:46:19.630 [main] INFO  Handler_log - logging function executed in 342 ms
+2025-02-11T21:46:19.964573670+00:00 - INFO - example function executed in 1.372709503s
+21:46:20.902 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:46:21.514 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:46:22.034 [main] INFO  Handler_log - logging function executed in 988 ms
+21:46:22.308 [main] INFO  Handler_log - logging function executed in 659 ms
+2025-02-11T21:46:22.359708327+00:00 - INFO - example function executed in 1.977427406s
+2025-02-11T21:46:22.637490723+00:00 - INFO - example function executed in 1.64025845s
+21:46:24.062 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:46:24.349 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:46:24.974 [main] INFO  Handler_log - logging function executed in 775 ms
+2025-02-11T21:46:25.299370388+00:00 - INFO - example function executed in 1.765904266s
+21:46:25.478 [main] INFO  Handler_log - logging function executed in 993 ms
+2025-02-11T21:46:25.808255586+00:00 - INFO - example function executed in 1.9847061s
+21:46:26.697 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:46:27.093 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:46:27.702 [main] INFO  Handler_log - logging function executed in 863 ms
+2025-02-11T21:46:28.028251700+00:00 - INFO - example function executed in 1.858270561s
+21:46:28.287 [main] INFO  Handler_log - logging function executed in 1056 ms
+2025-02-11T21:46:28.611685511+00:00 - INFO - example function executed in 2.055887797s
+21:46:29.874 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:46:30.249 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:46:30.601 [main] INFO  Handler_log - logging function executed in 587 ms
+21:46:30.797 [main] INFO  Handler_log - logging function executed in 408 ms
+2025-02-11T21:46:30.927482116+00:00 - INFO - example function executed in 1.592149886s
+2025-02-11T21:46:31.123949670+00:00 - INFO - example function executed in 1.400618159s
+21:46:32.483 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:46:32.681 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:46:33.491 [main] INFO  Handler_log - logging function executed in 667 ms
+21:46:33.722 [main] INFO  Handler_log - logging function executed in 1089 ms
+2025-02-11T21:46:33.816014182+00:00 - INFO - example function executed in 1.654764899s
+2025-02-11T21:46:34.048177610+00:00 - INFO - example function executed in 2.114333887s
+21:46:34.873 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:46:35.276 [main] INFO  Handler_log - logging function executed in 257 ms
+21:46:35.541 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+2025-02-11T21:46:35.601942521+00:00 - INFO - example function executed in 1.268987103s
+21:46:36.023 [main] INFO  Handler_log - logging function executed in 343 ms
+2025-02-11T21:46:36.352630979+00:00 - INFO - example function executed in 1.363960486s
+21:46:37.546 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:46:38.027 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:46:38.387 [main] INFO  Handler_log - logging function executed in 700 ms
+21:46:38.676 [main] INFO  Handler_log - logging function executed in 511 ms
+2025-02-11T21:46:38.713813906+00:00 - INFO - example function executed in 1.703995242s
+2025-02-11T21:46:39.000022901+00:00 - INFO - example function executed in 1.509331286s
+21:46:40.395 [main] INFO  Injector - Read from MongoDB table executed in 44 ms
+21:46:40.408 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:46:41.564 [main] INFO  Handler_log - logging function executed in 1018 ms
+21:46:41.646 [main] INFO  Handler_log - logging function executed in 1090 ms
+2025-02-11T21:46:41.892281711+00:00 - INFO - example function executed in 2.003921849s
+2025-02-11T21:46:41.970722997+00:00 - INFO - example function executed in 2.127033494s
+21:46:43.496 [main] INFO  Injector - Read from MongoDB table executed in 35 ms
+21:46:43.703 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:46:43.955 [main] INFO  Handler_log - logging function executed in 298 ms
+2025-02-11T21:46:44.279835458+00:00 - INFO - example function executed in 1.33955018s
+21:46:44.703 [main] INFO  Handler_log - logging function executed in 858 ms
+2025-02-11T21:46:45.028110715+00:00 - INFO - example function executed in 1.858142293s
+21:46:46.541 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:46:46.649 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:46:46.994 [main] INFO  Handler_log - logging function executed in 313 ms
+2025-02-11T21:46:47.319633059+00:00 - INFO - example function executed in 1.330956002s
+21:46:47.695 [main] INFO  Handler_log - logging function executed in 906 ms
+2025-02-11T21:46:48.022635785+00:00 - INFO - example function executed in 1.915390622s
+21:46:49.699 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:46:49.709 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:46:50.681 [main] INFO  Handler_log - logging function executed in 833 ms
+21:46:50.885 [main] INFO  Handler_log - logging function executed in 1042 ms
+2025-02-11T21:46:51.011450628+00:00 - INFO - example function executed in 1.838491051s
+2025-02-11T21:46:51.212895565+00:00 - INFO - example function executed in 2.040008934s
+21:46:52.316 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:46:52.941 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:46:53.244 [main] INFO  Handler_log - logging function executed in 786 ms
+2025-02-11T21:46:53.570263790+00:00 - INFO - example function executed in 1.794880436s
+21:46:53.800 [main] INFO  Handler_log - logging function executed in 720 ms
+2025-02-11T21:46:54.125001791+00:00 - INFO - example function executed in 1.699972886s
+21:46:55.442 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:46:55.640 [main] INFO  Injector - Read from MongoDB table executed in 28 ms
+21:46:56.200 [main] INFO  Handler_log - logging function executed in 612 ms
+21:46:56.362 [main] INFO  Handler_log - logging function executed in 587 ms
+2025-02-11T21:46:56.526294905+00:00 - INFO - example function executed in 1.640340383s
+2025-02-11T21:46:56.689810631+00:00 - INFO - example function executed in 1.562927363s
+21:46:57.568 [main] INFO  Injector - Read from MongoDB table executed in 34 ms
+21:46:58.296 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:46:58.673 [main] INFO  Handler_log - logging function executed in 965 ms
+2025-02-11T21:46:58.998524706+00:00 - INFO - example function executed in 1.99751715s
+21:46:59.446 [main] INFO  Handler_log - logging function executed in 1011 ms
+2025-02-11T21:46:59.772105067+00:00 - INFO - example function executed in 1.999074781s
+21:47:01.304 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:47:01.345 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:47:01.953 [main] INFO  Handler_log - logging function executed in 468 ms
+21:47:02.051 [main] INFO  Handler_log - logging function executed in 602 ms
+2025-02-11T21:47:02.281074821+00:00 - INFO - example function executed in 1.459790777s
+2025-02-11T21:47:02.376712656+00:00 - INFO - example function executed in 1.620171911s
+21:47:03.681 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:47:03.905 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:47:04.362 [main] INFO  Handler_log - logging function executed in 314 ms
+2025-02-11T21:47:04.687354535+00:00 - INFO - example function executed in 1.32225201s
+21:47:04.907 [main] INFO  Handler_log - logging function executed in 1086 ms
+2025-02-11T21:47:05.234450957+00:00 - INFO - example function executed in 2.079690885s
+21:47:06.337 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:47:06.793 [main] INFO  Handler_log - logging function executed in 315 ms
+21:47:06.962 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T21:47:07.118956307+00:00 - INFO - example function executed in 1.319264813s
+21:47:07.737 [main] INFO  Handler_log - logging function executed in 637 ms
+2025-02-11T21:47:08.065946847+00:00 - INFO - example function executed in 1.665630378s
+21:47:08.946 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:47:09.069 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:47:09.662 [main] INFO  Handler_log - logging function executed in 577 ms
+21:47:09.785 [main] INFO  Handler_log - logging function executed in 577 ms
+2025-02-11T21:47:09.987947227+00:00 - INFO - example function executed in 1.566892561s
+2025-02-11T21:47:10.109505793+00:00 - INFO - example function executed in 1.57050345s
+21:47:10.942 [main] INFO  Injector - Read from MongoDB table executed in 47 ms
+21:47:11.409 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:47:11.593 [main] INFO  Handler_log - logging function executed in 490 ms
+2025-02-11T21:47:11.919638685+00:00 - INFO - example function executed in 1.539916346s
+21:47:12.036 [main] INFO  Handler_log - logging function executed in 482 ms
+2025-02-11T21:47:12.364804500+00:00 - INFO - example function executed in 1.522585686s
+21:47:13.496 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:47:13.558 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:47:13.847 [main] INFO  Handler_log - logging function executed in 146 ms
+2025-02-11T21:47:14.176011135+00:00 - INFO - example function executed in 1.151748389s
+21:47:14.518 [main] INFO  Handler_log - logging function executed in 882 ms
+2025-02-11T21:47:14.843789490+00:00 - INFO - example function executed in 1.871205473s
+21:47:15.746 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:47:16.365 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:47:16.467 [main] INFO  Handler_log - logging function executed in 573 ms
+21:47:16.756 [main] INFO  Handler_log - logging function executed in 249 ms
+2025-02-11T21:47:16.792487564+00:00 - INFO - example function executed in 1.587191905s
+2025-02-11T21:47:17.085398442+00:00 - INFO - example function executed in 1.243436779s
+21:47:18.179 [main] INFO  Injector - Read from MongoDB table executed in 29 ms
+21:47:18.239 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:47:19.100 [main] INFO  Handler_log - logging function executed in 778 ms
+21:47:19.135 [main] INFO  Handler_log - logging function executed in 756 ms
+2025-02-11T21:47:19.425698417+00:00 - INFO - example function executed in 1.767638764s
+2025-02-11T21:47:19.465454767+00:00 - INFO - example function executed in 1.755921054s
+21:47:20.828 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:47:21.202 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:47:21.902 [main] INFO  Handler_log - logging function executed in 933 ms
+21:47:22.207 [main] INFO  Handler_log - logging function executed in 864 ms
+2025-02-11T21:47:22.229404345+00:00 - INFO - example function executed in 1.931712626s
+2025-02-11T21:47:22.537489022+00:00 - INFO - example function executed in 1.864374713s
+21:47:23.697 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:47:24.019 [main] INFO  Injector - Read from MongoDB table executed in 37 ms
+21:47:24.048 [main] INFO  Handler_log - logging function executed in 205 ms
+2025-02-11T21:47:24.375505958+00:00 - INFO - example function executed in 1.205460615s
+21:47:24.957 [main] INFO  Handler_log - logging function executed in 777 ms
+2025-02-11T21:47:25.281937072+00:00 - INFO - example function executed in 1.868891169s
+21:47:26.059 [main] INFO  Injector - Read from MongoDB table executed in 33 ms
+21:47:26.725 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:47:26.912 [main] INFO  Handler_log - logging function executed in 705 ms
+21:47:27.100 [main] INFO  Handler_log - logging function executed in 239 ms
+2025-02-11T21:47:27.238169333+00:00 - INFO - example function executed in 1.714007362s
+2025-02-11T21:47:27.428064670+00:00 - INFO - example function executed in 1.227881873s
+21:47:28.379 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:47:28.909 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:47:29.299 [main] INFO  Handler_log - logging function executed in 250 ms
+21:47:29.358 [main] INFO  Handler_log - logging function executed in 834 ms
+2025-02-11T21:47:29.623232002+00:00 - INFO - example function executed in 1.22872456s
+2025-02-11T21:47:29.685615832+00:00 - INFO - example function executed in 1.83871805s
+21:47:30.519 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:47:30.608 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:47:30.826 [main] INFO  Handler_log - logging function executed in 168 ms
+2025-02-11T21:47:31.152007566+00:00 - INFO - example function executed in 1.156475848s
+21:47:31.566 [main] INFO  Handler_log - logging function executed in 819 ms
+2025-02-11T21:47:31.894489190+00:00 - INFO - example function executed in 1.821739233s
+21:47:33.156 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:47:33.427 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+21:47:33.941 [main] INFO  Handler_log - logging function executed in 376 ms
+21:47:34.053 [main] INFO  Handler_log - logging function executed in 753 ms
+2025-02-11T21:47:34.269861451+00:00 - INFO - example function executed in 1.376287049s
+2025-02-11T21:47:34.380237292+00:00 - INFO - example function executed in 1.753388288s
+21:47:35.293 [main] INFO  Injector - Read from MongoDB table executed in 36 ms
+21:47:35.643 [main] INFO  Injector - Read from MongoDB table executed in 32 ms
+21:47:36.369 [main] INFO  Handler_log - logging function executed in 939 ms
+2025-02-11T21:47:36.696330459+00:00 - INFO - example function executed in 1.933634558s
+21:47:36.860 [main] INFO  Handler_log - logging function executed in 1076 ms
+2025-02-11T21:47:37.195277872+00:00 - INFO - example function executed in 2.091205451s
+21:47:38.076 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:47:38.346 [main] INFO  Handler_log - logging function executed in 125 ms
+21:47:38.636 [main] INFO  Injector - Read from MongoDB table executed in 30 ms
+2025-02-11T21:47:38.672558667+00:00 - INFO - example function executed in 1.128135872s
+21:47:39.676 [main] INFO  Handler_log - logging function executed in 894 ms
+2025-02-11T21:47:40.001441268+00:00 - INFO - example function executed in 1.914473304s
+21:47:41.552 [main] INFO  Injector - Read from MongoDB table executed in 38 ms
+21:47:41.786 [main] INFO  Injector - Read from MongoDB table executed in 31 ms
+21:47:42.214 [main] INFO  Handler_log - logging function executed in 518 ms
+2025-02-11T21:47:42.545141560+00:00 - INFO - example function executed in 1.546190383s
+21:47:42.863 [main] INFO  Handler_log - logging function executed in 935 ms
+2025-02-11T21:47:43.192700349+00:00 - INFO - example function executed in 1.961088909s
