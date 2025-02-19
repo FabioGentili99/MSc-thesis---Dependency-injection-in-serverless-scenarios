@@ -1,9 +1,12 @@
+mod nats_pool;
+
 use actix_web::{middleware, post, web::{self, Data}, App, HttpResponse, HttpServer, Responder};
-use async_nats:: Client;
+use bb8::PooledConnection;
 use dashmap::DashMap;
 use log::info;
+use nats_pool::{create_nats_pool, NatsPool};
 use serde::{Deserialize, Serialize};
-use std::{collections::HashMap, env, fs::File, io::Read, time::SystemTime};
+use std::{collections::HashMap, env, fs::File, io::Read, sync::Arc, time::SystemTime};
 
 #[derive(Deserialize, Serialize)]
 struct PublishRequest {
@@ -14,8 +17,11 @@ async fn send(
     function: String,
     map: web::Data<DashMap<String, String>>,
     req: web::Json<PublishRequest>,
-    nc: web::Data<Client>,
+    pool: web::Data<Arc<NatsPool>>
 ) -> Result<(), std::io::Error> {
+    let pool = pool.get_ref();
+    let nc: PooledConnection<'_, _> = pool.get().await.expect("Failed to get NATS connection");
+
     nc.publish(map.get(&function).unwrap().to_string(), req.message.clone().into()).await.unwrap();
     Ok(())
 }
@@ -25,8 +31,10 @@ async fn query(
     function: String,
     map: web::Data<DashMap<String, String>>,
     req: web::Json<PublishRequest>,
-    nc: web::Data<Client>
+    pool: web::Data<Arc<NatsPool>>
 ) -> Result<async_nats::Message, async_nats::Error> {
+    let pool = pool.get_ref();
+    let nc: PooledConnection<'_, _> = pool.get().await.expect("Failed to get NATS connection");
     let response = nc.request(map.get(&function).unwrap().to_string(), req.message.clone().into()).await.unwrap();
     Ok(response)
 }
@@ -37,10 +45,10 @@ async fn async_invoke(
     routes: web::Data<DashMap<String, String>>,
     req: web::Json<PublishRequest>,
     fun: web::Path<String>,
-    nc: web::Data<Client>,
+    pool: web::Data<Arc<NatsPool>>
 ) -> impl Responder {
     let function_name = fun.into_inner();
-    let _ = send(function_name.clone(), routes, req,nc).await;
+    let _ = send(function_name.clone(), routes, req, pool).await;
     info!("handling request to async function: {}", function_name);
     HttpResponse::Ok().body("ok")
 }
@@ -50,11 +58,11 @@ async fn sync_invoke(
     routes: web::Data<DashMap<String, String>>,
     req: web::Json<PublishRequest>,
     fun: web::Path<String>,
-    nc: web::Data<Client>,
+    pool: web::Data<Arc<NatsPool>>
 ) -> impl Responder {
     let sys_time = SystemTime::now();
     let function_name = fun.into_inner();
-    let message = query(function_name.clone(), routes, req,nc).await.unwrap();
+    let message = query(function_name.clone(), routes, req, pool).await.unwrap();
     let new_sys_time = SystemTime::now();
     let difference = new_sys_time
                     .duration_since(sys_time)
@@ -78,12 +86,14 @@ async fn main() -> std::io::Result<()> {
         routes.insert(key, value);
     };
 
-    let nc = async_nats::connect(nats_url).await.unwrap();
+    //let nc = async_nats::connect(nats_url).await.unwrap();
+    let nats_pool = create_nats_pool(&nats_url, 100).await; // Pool with 10 connections
+    let nats_pool = Arc::new(nats_pool);
 
     HttpServer::new(move || {
         App::new()
             .app_data(routes.clone())
-            .app_data(nc.clone())
+            .app_data(web::Data::new(nats_pool.clone()))
             .service(sync_invoke)
             .service(async_invoke)
             .wrap(middleware::Logger::default())
