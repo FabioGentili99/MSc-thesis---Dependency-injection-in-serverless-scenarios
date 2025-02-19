@@ -70,9 +70,9 @@ async fn sync_invoke(
 #[actix_web::main]
 async fn main() -> std::io::Result<()> {
     //let nats_url: String = env::var("NATS_URL").unwrap_or("192.168.17.118:4222".to_string());
-    log4rs::init_file("log4rs.yaml", Default::default()).unwrap();
+    log4rs::init_file("log4rs.yml", Default::default()).unwrap();
     let routes: Data<DashMap<String, String>> = Data::new(DashMap::new());
-    let mut file = File::open("config.json")?; // Open the file
+    let mut file = File::open("../config.json")?; // Open the file
     let mut contents = String::new();
     file.read_to_string(&mut contents)?; // Read file into a string
 
