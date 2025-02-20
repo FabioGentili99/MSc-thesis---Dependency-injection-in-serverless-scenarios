@@ -6,7 +6,7 @@ use dashmap::DashMap;
 use log::info;
 use nats_pool::{create_nats_pool, NatsPool};
 use serde::{Deserialize, Serialize};
-use std::{collections::HashMap, env, fs::File, io::Read, sync::Arc, time::  SystemTime};
+use std::{collections::HashMap, env, fs::File, io::Read, sync::Arc, time::{Duration,   SystemTime}};
 
 #[derive(Deserialize, Serialize)]
 struct PublishRequest {
@@ -35,12 +35,12 @@ async fn query(
 ) -> Result<async_nats::Message, async_nats::Error> {
     let pool = pool.get_ref();
     let nc: PooledConnection<'_, _> = pool.get().await.expect("Failed to get NATS connection");
-    /* 
+    
     let mut request = async_nats::Request::new();
     request = request.timeout(Some(Duration::from_secs(10)));
     request = request.payload(req.message.clone().into());
-    */
-    let response = nc.request(map.get(&function).unwrap().to_string(), req.message.clone().into()).await.unwrap();
+    
+    let response = nc.send_request(map.get(&function).unwrap().to_string(), request).await.unwrap();
     Ok(response)
 }
 
