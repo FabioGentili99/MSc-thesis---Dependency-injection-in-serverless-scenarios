@@ -48,4 +48,4 @@ const result = logMessageToFile(params.timestamp, params.message, params.severit
 if (result) {
     console.log('logging operation succeeded');
 } else {
-    console.error("logging operation failed.");}
+    console.log("logging operation failed.");}
