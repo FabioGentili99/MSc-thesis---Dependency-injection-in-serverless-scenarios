@@ -6,7 +6,7 @@ use dashmap::DashMap;
 use log::info;
 use nats_pool::{create_nats_pool, NatsPool};
 use serde::{Deserialize, Serialize};
-use std::{collections::HashMap, env, fs::File, io::Read, sync::Arc, time::{Duration,  SystemTime}};
+use std::{collections::HashMap, env, fs::File, io::Read, sync::Arc, time::  SystemTime};
 
 #[derive(Deserialize, Serialize)]
 struct PublishRequest {
@@ -35,10 +35,12 @@ async fn query(
 ) -> Result<async_nats::Message, async_nats::Error> {
     let pool = pool.get_ref();
     let nc: PooledConnection<'_, _> = pool.get().await.expect("Failed to get NATS connection");
+    /* 
     let mut request = async_nats::Request::new();
     request = request.timeout(Some(Duration::from_secs(10)));
     request = request.payload(req.message.clone().into());
-    let response = nc.send_request(map.get(&function).unwrap().to_string(), request).await.unwrap();
+    */
+    let response = nc.request(map.get(&function).unwrap().to_string(), req.message.clone().into()).await.unwrap();
     Ok(response)
 }
 
@@ -90,7 +92,7 @@ async fn main() -> std::io::Result<()> {
     };
 
     //let nc = async_nats::connect(nats_url).await.unwrap();
-    let nats_pool = create_nats_pool(&nats_url, 100).await; // Pool with 10 connections
+    let nats_pool = create_nats_pool(&nats_url, 1000).await; // Pool with 10 connections
     let nats_pool = Arc::new(nats_pool);
 
     HttpServer::new(move || {
@@ -102,6 +104,7 @@ async fn main() -> std::io::Result<()> {
             .wrap(middleware::Logger::default())
             
     })
+    .workers(100)
     .bind(("0.0.0.0", 8081))?
     .run()
     .await
