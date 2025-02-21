@@ -32,19 +32,21 @@ async fn main() -> CliResult {
     
     
     for msg in sub.messages() {
-        while set.len() >= max_instances {
-            set.join_next().await; // Wait for a task to finish before spawning a new one
-        }
         let command = command.clone();
         let output_topic = output_topic.clone();
         let nc = nc.clone();
         
+        let sys_time = SystemTime::now();
+        while set.len() >= max_instances {
+            set.join_next().await; // Wait for a task to finish before spawning a new one
+        }
+        
         set.spawn( async move{
-            println!("Received Message: {}", String::from_utf8_lossy(&msg.data));
+                println!("Received Message: {}", String::from_utf8_lossy(&msg.data));
             
-                println!("received message on trigger topic");
+                //println!("received message on trigger topic");
 
-                let sys_time = SystemTime::now();
+                //let sys_time = SystemTime::now();
                 let output = Command::new("/bin/bash")
                     .arg("-c")
                     .arg(format!("{} '{}'", command, String::from_utf8_lossy(&msg.data)))                    
