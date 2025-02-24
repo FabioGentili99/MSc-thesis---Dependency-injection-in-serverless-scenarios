@@ -10,7 +10,7 @@ use log4rs;
 
 
 
-#[derive(Debug)]
+#[derive(Debug, Clone)]
 struct Service {
     id: String,
     ServiceName: String,
@@ -18,26 +18,23 @@ struct Service {
 }
 
 
-fn init_service(service_id: String) {
+fn init_service(service_id: String) -> Service{
     match service_id.as_str() {
         "hello" => {
-            SERVICE.set(Service { id: "hello".to_string(), ServiceName: "hello function".to_string(), ServiceAddress: "http://192.168.17.118:8081/function/hello-fn".to_string() }).expect("Failed to set service");
+             Service { id: "hello".to_string(), ServiceName: "hello function".to_string(), ServiceAddress: "http://192.168.17.118:8081/function/hello-fn".to_string() }
         }
         "acl" => {
-            SERVICE.set(Service { id: "acl".to_string(), ServiceName: "access control function".to_string(), ServiceAddress: "http://192.168.17.118:8081/function/acl-fn".to_string() }).expect("Failed to set service");
+              Service { id: "acl".to_string(), ServiceName: "access control function".to_string(), ServiceAddress: "http://192.168.17.118:8081/function/acl-fn".to_string() }
         }
         "log" => {
-            SERVICE.set(Service { id: "log".to_string(), ServiceName: "logger".to_string(), ServiceAddress: "http://192.168.17.118:8081/function/log-fn".to_string() }).expect("Failed to set service");
+             Service { id: "log".to_string(), ServiceName: "logger".to_string(), ServiceAddress: "http://192.168.17.118:8081/function/log-fn".to_string() }
         }
-        default => {
-            SERVICE.set(Service { id: "default".to_string(), ServiceName: "default function".to_string(), ServiceAddress: "http://192.168.17.118:8081/function/default-fn".to_string() }).expect("Failed to set service");
+        default=> {
+            Service { id: "default".to_string(), ServiceName: "default function".to_string(), ServiceAddress: "http://192.168.17.118:8081/function/default-fn".to_string() }
         }
     }
 }
 
-
-
-static SERVICE: OnceCell<Service> = OnceCell::new();
 
 
 #[tokio::main]
@@ -57,7 +54,7 @@ async fn main() -> CliResult {
     let service_id = env::var("SERVICEID").unwrap_or("acl".to_string());
 
 
-    init_service(service_id.clone());
+    let SERVICE = init_service(service_id.clone());
 
     println!(
         "starting listening to {}, topic:{}, output:{}, command:{}",
@@ -82,15 +79,8 @@ async fn main() -> CliResult {
             set.join_next().await; // Wait for a task to finish before spawning a new one
         }
 
-
-        //dynamic dependency injection
-        let retrieval_start = SystemTime::now();
-        let fetched_service = SERVICE.get().expect("Service not initialized");
-        let retrieval_end = SystemTime::now();
-        let retrieval_duration = retrieval_end
-            .duration_since(retrieval_start)
-            .expect("Clock may have gone backwards");
-        info!("Injection executed in {:?}", retrieval_duration);
+        let fetched_service = SERVICE.clone();
+        
         
 
 

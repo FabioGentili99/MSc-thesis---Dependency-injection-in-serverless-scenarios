@@ -15,19 +15,19 @@ import java.util.concurrent.TimeUnit;
 
 public class LambdaStressTest {
 
-    private static final String exampleFunction = "http://192.168.17.118:8081/function/example-fn";
+    private static final String exampleFunction = "http://192.168.17.118:8081/asyncfunction/example-fn";
 
 
 
 
 
     private static final String LAMBDA_URL = exampleFunction; // Replace with your Lambda URL
-    private static final int INITIAL_REQUESTS_PER_SECOND = 2;
-    private static final int PEAK_REQUESTS_PER_SECOND = 20;
+    private static final int INITIAL_REQUESTS_PER_SECOND = 1;
+    private static final int PEAK_REQUESTS_PER_SECOND = 500;
     private static final int INCREMENT = 1;
-    private static final int DECREMENT = 2;
-    private static final int PRELIMINARY_PHASE_DURATION_SECONDS = 120;
-    private static final int STEP_DURATION_SECONDS = 2;
+    private static final int DECREMENT = 1000;
+    private static final int PRELIMINARY_PHASE_DURATION_SECONDS = 0;
+    private static final int STEP_DURATION_SECONDS = 1;
 
     public static void main(String[] args) {
         try {
@@ -40,13 +40,15 @@ public class LambdaStressTest {
     private static void stressTestLambda() throws InterruptedException {
         ScheduledExecutorService scheduler = Executors.newScheduledThreadPool(1);
         // Preliminary phase with constant load
-        runPreliminaryPhase(scheduler, INITIAL_REQUESTS_PER_SECOND, PRELIMINARY_PHASE_DURATION_SECONDS);
+        //runPreliminaryPhase(scheduler, INITIAL_REQUESTS_PER_SECOND, PRELIMINARY_PHASE_DURATION_SECONDS);
         // Incremental phase to peak
         for (int currentRequestsPerSecond = INITIAL_REQUESTS_PER_SECOND;
              currentRequestsPerSecond <= PEAK_REQUESTS_PER_SECOND;
              currentRequestsPerSecond += INCREMENT) {
             runLoadPhase(scheduler, currentRequestsPerSecond, STEP_DURATION_SECONDS);
         }
+
+        /*
         // Decremental phase back to initial
         for (int currentRequestsPerSecond = PEAK_REQUESTS_PER_SECOND;
              currentRequestsPerSecond > INITIAL_REQUESTS_PER_SECOND;
@@ -55,6 +57,8 @@ public class LambdaStressTest {
         }
         // final phase with constant load
         runPreliminaryPhase(scheduler, INITIAL_REQUESTS_PER_SECOND, PRELIMINARY_PHASE_DURATION_SECONDS/2);
+        */
+
         scheduler.shutdown();
         scheduler.awaitTermination(1, TimeUnit.MINUTES);
     }
@@ -100,7 +104,7 @@ public class LambdaStressTest {
                 HttpClient client = HttpClient.newHttpClient();
                 Gson g = new Gson();
                 Map msg = new HashMap<String, String>();
-                msg.put("message", "ciao");
+                msg.put("message", Long.toString(System.currentTimeMillis()));
                 String message = g.toJson(msg);
                 HttpRequest request = HttpRequest.newBuilder()
                         .uri(URI.create(LAMBDA_URL))
