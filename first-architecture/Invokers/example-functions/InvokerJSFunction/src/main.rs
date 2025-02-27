@@ -1,7 +1,8 @@
 use quicli::prelude::*;
+use tokio::io::{AsyncBufReadExt, BufReader};
+use tokio::process::Command;
 use tokio::task::JoinSet;
 use std::env;
-use std::process::Command;
 use std::time::SystemTime;
 use log::info;
 use log4rs;
@@ -47,31 +48,46 @@ async fn main() -> CliResult {
                 //println!("received message on trigger topic");
 
                 //let sys_time = SystemTime::now();
-                let output = Command::new("/bin/bash")
+                let mut child = Command::new("/bin/bash")
                     .arg("-c")
-                    .arg(format!("{} '{}'", command, String::from_utf8_lossy(&msg.data)))                    
-                    .output()
+                    .arg(format!("{} '{}'", command, String::from_utf8_lossy(&msg.data)))      
+                    .stdout(std::process::Stdio::piped())  // Capture stdout              
+                    .spawn()
                     .expect("failed to execute process");
-                let stdout = String::from_utf8_lossy(&output.stdout).to_string();
-                let lstdout = stdout.trim();
 
-                println!("output: {:?}", lstdout);
+                // Ensure the child has stdout available
+                let stdout = child.stdout.take().expect("Failed to capture stdout");
+                let mut reader = BufReader::new(stdout).lines();
+
+                let mut output = String::new();
+    
+                // Read output line by line
+                while let Some(line) = reader.next_line().await.unwrap() {
+                    output.push_str(&line);
+                    output.push('\n');  // Preserve line breaks
+                }
+
+                // Ensure the child process exits properly
+                let status = child.wait().await;
+
+
+                let output = output.trim();
+
+                println!("output: {:?}", output);
 
                 let new_sys_time = SystemTime::now();
 
-                if output.status.code().unwrap() != 8 {
+                if status.unwrap().code().unwrap() != 8 {
                     println!("sending message to output");
                     match &msg.reply {
                         Some(topic) => {
-                            let _ = nc.publish(&topic, lstdout);
+                            let _ = nc.publish(&topic, output);
                         }
                         None => {
-                            let _ = nc.publish(&output_topic, lstdout);
+                            let _ = nc.publish(&output_topic, output);
                         }
                     };
                 };
-                println!("status: {}", output.status);
-                println!("stderr: {}", String::from_utf8_lossy(&output.stderr));
 
                 let difference = new_sys_time
                     .duration_since(sys_time)
