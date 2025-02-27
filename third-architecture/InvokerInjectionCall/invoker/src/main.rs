@@ -5,8 +5,8 @@ use injector::{get_mongo_client, ServiceRegistry};
 use quicli::prelude::*;
 use tokio::task::JoinSet;
 use std::env;
-use std::io::{Read, Write};
-use std::process::{Command, Stdio};
+use tokio::io::{AsyncBufReadExt, AsyncWriteExt, BufReader};
+use tokio::process::{Child, Command};
 use std::time::SystemTime;
 use log::info;
 use log4rs;
@@ -67,64 +67,84 @@ async fn main() -> CliResult {
 
 
         set.spawn( async move{
-                println!("Received Message: {}", String::from_utf8_lossy(&msg.payload));
+            println!("Received Message: {}", String::from_utf8_lossy(&msg.payload));
             
-                //println!("received message on trigger topic");
+            //println!("received message on trigger topic");
 
-                //let sys_time = SystemTime::now();
-                let mut child = Command::new("/bin/bash")
-                    .arg("-c")
-                    .arg(format!("{} '{}'", command, String::from_utf8_lossy(&msg.payload)))        
-                    .env("SERVICE_URL", fetched_service.ServiceAddress)      
-                    .stdin(Stdio::piped())   // Parent writes to child's stdin
-                    .stdout(Stdio::piped())  // Parent reads from child's stdout      
-                    .spawn()
-                    .expect("failed to execute process");
+            //let sys_time = SystemTime::now();
+            let mut child = Command::new("/bin/bash")
+                .arg("-c")
+                .arg(format!("{} '{}'", command, String::from_utf8_lossy(&msg.payload)))      
+                .env("SERVICE", fetched_service.ServiceAddress)
+                .stdin(std::process::Stdio::piped())  // Pipe stdin
+                .stdout(std::process::Stdio::piped())  // Capture stdout              
+                .spawn()
+                .expect("failed to execute process");
+
+            
+            //read the message to pass as payload to nats from the client function
+            let parameters = read_message(&mut child).await.unwrap();
+            //invoke the service function
+            let result = nc.request(fetched_service.ServiceTopic, parameters.into()).await.unwrap();
+            //return invocation result to the client function
+            let _ = send_message(&mut child, &std::str::from_utf8(&result.payload).unwrap().to_string()).await;
+            //capture the client function final output
+            let output = read_message(&mut child).await.unwrap();
 
 
-                // Get handles to stdin and stdout
-                let mut child_stdin = child.stdin.take().expect("Failed to open child's stdin");
-                let mut child_stdout = child.stdout.take().expect("Failed to open child's stdout");
 
-                // Read parameters from child
-                let mut parameters = String::new();
-                child_stdout.read_to_string(&mut parameters).expect("Failed to read child stdout");
+            // Ensure the child process exits properly
+            let status = child.wait().await;
 
-                let result = nc.request(fetched_service.ServiceTopic, parameters.into()).await.unwrap();
 
-                // Write result of service function invocation to child
-                let _ = child_stdin.write(format!("{}\n", String::from_utf8_lossy(&result.payload)).as_bytes());
+            let output = output.trim().to_string();
 
-                let output = child.wait_with_output().unwrap();
+            println!("output: {:?}", output);
 
-                let stdout = String::from_utf8_lossy(&output.stdout).to_string();
-                let lstdout = stdout.trim().to_string();
+            let new_sys_time = SystemTime::now();
 
-                println!("output: {:?}", lstdout);
-
-                let new_sys_time = SystemTime::now();
-
-                if output.status.code().unwrap() != 8 {
-                    println!("sending message to output");
-                    match msg.reply.clone() {
-                        Some(topic) => {
-                            let _ = nc.publish(topic, lstdout.into());
-                        }
-                        None => {
-                            let _ = nc.publish(output_topic, lstdout.into());
-                        }
-                    };
+            if status.unwrap().code().unwrap() != 8 {
+                println!("sending message to output");
+                match &msg.reply {
+                    Some(topic) => {
+                        let _ = nc.publish(topic.clone(), output.into());
+                    }
+                    None => {
+                        let _ = nc.publish(output_topic, output.into());
+                    }
                 };
-                println!("status: {}", output.status);
-                println!("stderr: {}", String::from_utf8_lossy(&output.stderr));
+            };
 
-                let difference = new_sys_time
-                    .duration_since(sys_time)
-                    .expect("Clock may have gone backwards");
-                info!("example function executed in {:?}", difference);
-                return;
+            let difference = new_sys_time
+                .duration_since(sys_time)
+                .expect("Clock may have gone backwards");
+            info!("example function executed in {:?}", difference);
+            return;
         });
     }
 
     Ok(())
+}
+
+
+
+
+// Write a message to the JavaScript process's stdin
+async fn send_message(child: &mut Child, message: &str) -> Result<(), Box<dyn std::error::Error>> {
+    if let Some(stdin) = &mut child.stdin {
+        stdin.write_all(message.as_bytes()).await?;
+        stdin.write_all(b"\n").await?; // Ensure JavaScript receives full input
+    }
+    Ok(())
+}
+
+// Read a message from the JavaScript process's stdout
+async fn read_message(child: &mut Child) -> Result<String, Box<dyn std::error::Error>> {
+    if let Some(stdout) = &mut child.stdout {
+        let mut reader = BufReader::new(stdout).lines();
+        if let Some(line) = reader.next_line().await? {
+            return Ok(line);
+        }
+    }
+    Err("Failed to read output".into())
 }

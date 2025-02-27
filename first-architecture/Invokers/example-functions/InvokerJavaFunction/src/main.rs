@@ -1,7 +1,8 @@
 use quicli::prelude::*;
+use tokio::io::{AsyncBufReadExt, BufReader};
+use tokio::process::Command;
 use tokio::task::JoinSet;
 use std::env;
-use std::process::Command;
 use std::time::SystemTime;
 use log::info;
 use log4rs;
@@ -42,42 +43,57 @@ async fn main() -> CliResult {
         }
         
         set.spawn( async move{
-                println!("Received Message: {}", String::from_utf8_lossy(&msg.data));
+            println!("Received Message: {}", String::from_utf8_lossy(&msg.data));
             
-                //println!("received message on trigger topic");
+            //println!("received message on trigger topic");
 
-                //let sys_time = SystemTime::now();
-                let output = Command::new("/bin/bash")
-                    .arg("-c")
-                    .arg(format!("{} '{}'", command, String::from_utf8_lossy(&msg.data)))                    
-                    .output()
-                    .expect("failed to execute process");
-                let stdout = String::from_utf8_lossy(&output.stdout).to_string();
-                let lstdout = stdout.trim();
+            //let sys_time = SystemTime::now();
+            let mut child = Command::new("/bin/bash")
+                .arg("-c")
+                .arg(format!("{} '{}'", command, String::from_utf8_lossy(&msg.data)))      
+                .stdout(std::process::Stdio::piped())  // Capture stdout              
+                .spawn()
+                .expect("failed to execute process");
 
-                println!("output: {:?}", lstdout);
+            // Ensure the child has stdout available
+            let stdout = child.stdout.take().expect("Failed to capture stdout");
+            let mut reader = BufReader::new(stdout).lines();
 
-                let new_sys_time = SystemTime::now();
+            let mut output = String::new();
 
-                if output.status.code().unwrap() != 8 {
-                    println!("sending message to output");
-                    match &msg.reply {
-                        Some(topic) => {
-                            let _ = nc.publish(&topic, lstdout);
-                        }
-                        None => {
-                            let _ = nc.publish(&output_topic, lstdout);
-                        }
-                    };
+            // Read output line by line
+            while let Some(line) = reader.next_line().await.unwrap() {
+                output.push_str(&line);
+                output.push('\n');  // Preserve line breaks
+            }
+
+            // Ensure the child process exits properly
+            let status = child.wait().await;
+
+
+            let output = output.trim();
+
+            println!("output: {:?}", output);
+
+            let new_sys_time = SystemTime::now();
+
+            if status.unwrap().code().unwrap() != 8 {
+                println!("sending message to output");
+                match &msg.reply {
+                    Some(topic) => {
+                        let _ = nc.publish(&topic, output);
+                    }
+                    None => {
+                        let _ = nc.publish(&output_topic, output);
+                    }
                 };
-                println!("status: {}", output.status);
-                println!("stderr: {}", String::from_utf8_lossy(&output.stderr));
+            };
 
-                let difference = new_sys_time
-                    .duration_since(sys_time)
-                    .expect("Clock may have gone backwards");
-                info!("example function executed in {:?}", difference);
-                return;            
+            let difference = new_sys_time
+                .duration_since(sys_time)
+                .expect("Clock may have gone backwards");
+            info!("example function executed in {:?}", difference);
+            return;
         });
     }
 
