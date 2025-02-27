@@ -5,18 +5,17 @@ use tokio::task::JoinSet;
 use std::env;
 use std::time::SystemTime;
 use log::info;
-use log4rs;
 
 
 #[tokio::main]
 async fn main() -> CliResult {
     //Get ENV VAR
-    let command: String = env::var("COMMAND").unwrap_or("node ../function/ACL-js-function/hello".to_string());
+    let command: String = env::var("COMMAND").unwrap_or("../go/ACL-go-function/accessControl".to_string());
     let trigger_topic = env::var("TRIGGER").unwrap_or("acl".to_string());
     let output_topic = env::var("OUTPUT").unwrap_or("output".to_string());
     let nats_server = env::var("NATSSERVER").unwrap_or("192.168.17.118:4222".to_string());
     let group = env::var("GROUP").unwrap_or("default".to_string());
-    let max_instances: usize = env::var("MAX_INSTANCES").unwrap_or("10".to_string()).parse::<usize>().unwrap();
+    let max_instances: usize = env::var("MAX_INSTANCES").unwrap_or("1000".to_string()).parse::<usize>().unwrap();
 
     println!(
         "starting listening to {}, topic:{}, output:{}, command:{}",
@@ -29,6 +28,7 @@ async fn main() -> CliResult {
     
     
     for msg in sub.messages() {
+        let sys_time = SystemTime::now();
         while set.len() >= max_instances {
             set.join_next().await; // Wait for a task to finish before spawning a new one
         }
