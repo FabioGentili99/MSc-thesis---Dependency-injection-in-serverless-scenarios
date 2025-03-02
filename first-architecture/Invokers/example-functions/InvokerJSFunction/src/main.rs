@@ -3,7 +3,7 @@ use tokio::io::{AsyncBufReadExt, BufReader};
 use tokio::process::Command;
 use tokio::task::JoinSet;
 use std::env;
-use std::time::SystemTime;
+use std::time::{Duration, SystemTime, UNIX_EPOCH};
 use log::info;
 use log4rs;
 
@@ -37,7 +37,9 @@ async fn main() -> CliResult {
         let output_topic = output_topic.clone();
         let nc = nc.clone();
         
-        let sys_time = SystemTime::now();
+        //let sys_time = SystemTime::now();
+        let sys_time = UNIX_EPOCH + Duration::from_millis(String::from_utf8_lossy(&msg.data).parse::<u64>().expect("Failed to parse message data as u64"));
+
         while set.len() >= max_instances {
             set.join_next().await; // Wait for a task to finish before spawning a new one
         }
