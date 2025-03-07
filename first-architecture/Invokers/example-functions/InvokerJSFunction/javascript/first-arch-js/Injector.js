@@ -1,6 +1,5 @@
 const { MongoClient } = require('mongodb');
-const winston = require("winston");
-
+const { createLogger, format, transports } = require("winston");
 
 const dbUrl = process.env.MONGODB || 'mongodb://192.168.17.118:27017';
 const dbName = 'services';
@@ -13,14 +12,14 @@ const csvFormat = format.printf(({ timestamp, level, label, message }) => {
 
 class Injector {
   constructor() {
-    this.logger = winston.createLogger({
+    this.logger = createLogger({
       level:"info",
-      format: winston.format.combine(
+      format: format.combine(
             format.timestamp({ format: "YYYY-MM-DDTHH:mm:ss.SSS[Z]" }), // ISO 8601 format
             csvFormat
           ),
       transports: [
-        new winston.transports.File({ filename: "logs.txt" }),
+        new transports.File({ filename: "logs.txt" }),
       ],
     });
     this.dbUrl = dbUrl;

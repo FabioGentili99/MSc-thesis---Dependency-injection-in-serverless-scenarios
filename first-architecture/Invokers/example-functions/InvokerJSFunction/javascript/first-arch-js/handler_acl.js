@@ -1,21 +1,22 @@
 const Injector = require("./Injector.js")
-const winston = require("winston");
+const { createLogger, format, transports } = require("winston");
+
 // Custom CSV formatter
 const csvFormat = format.printf(({ timestamp, level, label, message }) => {
   return `${timestamp},${level.toUpperCase()},${label},${message}`;
 });
 
 
-const logger = winston.createLogger({
-  level: "info",
-  format: winston.format.combine(
-        format.timestamp({ format: "YYYY-MM-DDTHH:mm:ss.SSS[Z]" }), // ISO 8601 format
-        csvFormat
-      ),
-  transports: [
-    new winston.transports.File({ filename: "logs.txt" }),
-  ],
-});
+const logger = createLogger({
+      level:"info",
+      format: format.combine(
+            format.timestamp({ format: "YYYY-MM-DDTHH:mm:ss.SSS[Z]" }), // ISO 8601 format
+            csvFormat
+          ),
+      transports: [
+        new transports.File({ filename: "logs.txt" }),
+      ],
+    });
 
 async function hanlder(){
 
