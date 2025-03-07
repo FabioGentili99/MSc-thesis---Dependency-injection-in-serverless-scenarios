@@ -23,7 +23,7 @@ public class LambdaStressTest {
 
     private static final String LAMBDA_URL = exampleFunction; // Replace with your Lambda URL
     private static final int INITIAL_REQUESTS_PER_SECOND = 1;
-    private static final int PEAK_REQUESTS_PER_SECOND = 500;
+    private static final int PEAK_REQUESTS_PER_SECOND = 20;
     private static final int INCREMENT = 1;
     private static final int DECREMENT = 1000;
     private static final int PRELIMINARY_PHASE_DURATION_SECONDS = 0;
