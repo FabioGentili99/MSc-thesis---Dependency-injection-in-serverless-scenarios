@@ -29,7 +29,7 @@ test {
 
 task customFatJar(type: Jar) {
     manifest {
-        attributes 'Main-Class': 'Handler_log'
+        attributes 'Main-Class': 'Handler_acl'
     }
     archiveBaseName = 'handler_log'
     duplicatesStrategy = DuplicatesStrategy.EXCLUDE

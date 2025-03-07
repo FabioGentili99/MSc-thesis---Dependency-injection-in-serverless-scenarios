@@ -2,6 +2,7 @@ package injector
 
 import (
 	"context"
+	"fmt"
 	"log"
 	"os"
 	"time"
@@ -31,6 +32,18 @@ var (
 	collectionName = "services"
 )
 
+// Custom CSV Formatter
+type CSVFormatter struct{}
+
+func (f *CSVFormatter) Format(entry *logrus.Entry) ([]byte, error) {
+	// Convert timestamp to ISO 8601 format
+	timestamp := entry.Time.UTC().Format("2006-01-02T15:04:05.000Z")
+	// Format the log as CSV: timestamp,level,logger,message
+	logMsg := fmt.Sprintf("%s,%s,%s\n",
+		timestamp, entry.Level.String(), entry.Message)
+	return []byte(logMsg), nil
+}
+
 func getEnv(key, defaultValue string) string {
 	if value, exists := os.LookupEnv(key); exists {
 		return value
@@ -47,6 +60,8 @@ func NewInjector() *Injector {
 	logger := logrus.New()
 	logFile, _ := os.OpenFile("./logs.txt", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0666)
 	logger.Out = logFile
+	logger.SetLevel(logrus.InfoLevel)    // Log level
+	logger.SetFormatter(&CSVFormatter{}) // Use custom CSV formatter
 
 	injector := &Injector{
 		logger:     logger,
