@@ -6,8 +6,8 @@ const dbName = 'services';
 const collectionName = 'services';
 
 // Custom CSV formatter
-const csvFormat = format.printf(({ timestamp, level, label, message }) => {
-  return `${timestamp},${level.toUpperCase()},${label},${message}`;
+const csvFormat = format.printf(({ timestamp, level, message }) => {
+  return `${timestamp},${level.toUpperCase()},${message}`;
 });
 
 class Injector {

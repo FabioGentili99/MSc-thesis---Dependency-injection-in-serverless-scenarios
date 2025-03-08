@@ -2,8 +2,8 @@ const Injector = require("./Injector.js")
 const { createLogger, format, transports } = require("winston");
 
 // Custom CSV formatter
-const csvFormat = format.printf(({ timestamp, level, label, message }) => {
-  return `${timestamp},${level.toUpperCase()},${label},${message}`;
+const csvFormat = format.printf(({ timestamp, level, message }) => {
+  return `${timestamp},${level.toUpperCase()},${message}`;
 });
 
 
