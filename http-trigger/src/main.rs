@@ -88,7 +88,6 @@ async fn main() -> std::io::Result<()> {
             .wrap(middleware::Logger::default())
             
     })
-    .workers(20)
     .bind(("0.0.0.0", 8081))?
     .run()
     .await
