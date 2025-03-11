@@ -7,11 +7,6 @@ use tokio::task;
 #[tokio::main]
 async fn main() {
     let url = "http://192.168.17.118:8081/asyncfunction/example-fn".to_string();
-    let millis = SystemTime::now()
-        .duration_since(UNIX_EPOCH)
-        .expect("Time went backwards")
-        .as_millis();
-    let data = serde_json::json!({ "message": millis});
     let headers = vec![("Content-Type".to_string(), "application/json".to_string())];
     let mode = "incremental"; // Choose "constant" or "incremental"
     let duration = 10; // Duration in seconds (only for constant mode)
@@ -21,13 +16,18 @@ async fn main() {
     let client = Arc::new(Client::new());
     
     if mode == "constant" {
-        run_constant_rate(client, &url, data.clone(), headers.clone(), peak_rate, duration).await;
+        run_constant_rate(client, &url, headers.clone(), peak_rate, duration).await;
     } else if mode == "incremental" {
-        run_incremental_rate(client, &url, data.clone(), headers.clone(), start_rate, peak_rate, increment_per_second).await;
+        run_incremental_rate(client, &url,  headers.clone(), start_rate, peak_rate, increment_per_second).await;
     }
 }
 
-async fn send_request(client: Arc<Client>, url: &str, data: serde_json::Value, headers: Vec<(String, String)>) {
+async fn send_request(client: Arc<Client>, url: &str, headers: Vec<(String, String)>) {
+    let millis = SystemTime::now()
+        .duration_since(UNIX_EPOCH)
+        .expect("Time went backwards")
+        .as_millis();
+    let data = serde_json::json!({ "message": millis});
     let mut request = client.post(url).json(&data);
     for (key, value) in headers {
         request = request.header(key, value);
@@ -41,7 +41,6 @@ async fn send_request(client: Arc<Client>, url: &str, data: serde_json::Value, h
 async fn run_constant_rate(
     client: Arc<Client>,
     url: &str,
-    data: serde_json::Value,
     headers: Vec<(String, String)>,
     rate: usize,
     duration: usize,
@@ -53,10 +52,9 @@ async fn run_constant_rate(
             let permit = sem.clone().acquire_owned().await.unwrap();
             let client = client.clone();
             let url = url.to_string();
-            let data = data.clone();
             let headers = headers.clone();
             task::spawn(async move {
-                send_request(client, &url, data, headers).await;
+                send_request(client, &url, headers).await;
                 drop(permit);
             });
         }
@@ -67,7 +65,6 @@ async fn run_constant_rate(
 async fn run_incremental_rate(
     client: Arc<Client>,
     url: &str,
-    data: serde_json::Value,
     headers: Vec<(String, String)>,
     start_rate: usize,
     peak_rate: usize,
@@ -75,7 +72,7 @@ async fn run_incremental_rate(
 ) {
     let mut rate = start_rate;
     while rate < peak_rate {
-        run_constant_rate(client.clone(), url, data.clone(), headers.clone(), rate, 1).await;
+        run_constant_rate(client.clone(), url, headers.clone(), rate, 1).await;
         rate += increment_per_second;
         if rate > peak_rate {
             rate = peak_rate;
