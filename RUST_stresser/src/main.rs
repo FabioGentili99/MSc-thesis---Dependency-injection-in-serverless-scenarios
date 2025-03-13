@@ -26,7 +26,7 @@ async fn send_request(client: Arc<Client>, url: &str, headers: Vec<(String, Stri
     let millis = SystemTime::now()
         .duration_since(UNIX_EPOCH)
         .expect("Time went backwards")
-        .as_millis();
+        .as_millis().to_string();
     let data = serde_json::json!({ "message": millis});
     let mut request = client.post(url).json(&data);
     for (key, value) in headers {

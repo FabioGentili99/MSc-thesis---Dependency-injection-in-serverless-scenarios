@@ -1,0 +1,360 @@
+2025-03-12T00:05:09.257Z,INFO,Read from MongoDB table executed in 56 ms
+2025-03-12T00:05:09.293Z,INFO,Read from MongoDB table executed in 34 ms
+2025-03-12T00:05:09.543Z,INFO,access control function executed in 79 ms
+2025-03-12T00:05:09.548Z,INFO,access control function executed in 76 ms
+2025-03-12T00:05:09.866Z,INFO,example function executed in 1.334591031s
+2025-03-12T00:05:09.869Z,INFO,example function executed in 1.337267802s
+2025-03-12T00:05:10.240Z,INFO,Read from MongoDB table executed in 42 ms
+2025-03-12T00:05:10.304Z,INFO,Read from MongoDB table executed in 59 ms
+2025-03-12T00:05:10.503Z,INFO,access control function executed in 55 ms
+2025-03-12T00:05:10.531Z,INFO,access control function executed in 58 ms
+2025-03-12T00:05:10.824Z,INFO,example function executed in 1.292857669s
+2025-03-12T00:05:10.851Z,INFO,example function executed in 1.319029288s
+2025-03-12T00:05:11.175Z,INFO,Read from MongoDB table executed in 41 ms
+2025-03-12T00:05:11.301Z,INFO,Read from MongoDB table executed in 50 ms
+2025-03-12T00:05:11.404Z,INFO,access control function executed in 55 ms
+2025-03-12T00:05:11.536Z,INFO,access control function executed in 62 ms
+2025-03-12T00:05:11.731Z,INFO,example function executed in 1.199481532s
+2025-03-12T00:05:11.865Z,INFO,example function executed in 1.333297853s
+2025-03-12T00:05:12.272Z,INFO,Read from MongoDB table executed in 52 ms
+2025-03-12T00:05:12.287Z,INFO,Read from MongoDB table executed in 49 ms
+2025-03-12T00:05:12.511Z,INFO,access control function executed in 56 ms
+2025-03-12T00:05:12.517Z,INFO,access control function executed in 56 ms
+2025-03-12T00:05:12.833Z,INFO,example function executed in 1.301756436s
+2025-03-12T00:05:12.838Z,INFO,example function executed in 1.30661159s
+2025-03-12T00:05:13.205Z,INFO,Read from MongoDB table executed in 52 ms
+2025-03-12T00:05:13.211Z,INFO,Read from MongoDB table executed in 35 ms
+2025-03-12T00:05:13.446Z,INFO,access control function executed in 56 ms
+2025-03-12T00:05:13.452Z,INFO,access control function executed in 59 ms
+2025-03-12T00:05:13.768Z,INFO,example function executed in 1.236126132s
+2025-03-12T00:05:13.774Z,INFO,example function executed in 1.242244955s
+2025-03-12T00:05:14.272Z,INFO,Read from MongoDB table executed in 60 ms
+2025-03-12T00:05:14.276Z,INFO,Read from MongoDB table executed in 40 ms
+2025-03-12T00:05:14.535Z,INFO,access control function executed in 61 ms
+2025-03-12T00:05:14.544Z,INFO,access control function executed in 67 ms
+2025-03-12T00:05:14.857Z,INFO,example function executed in 1.323972215s
+2025-03-12T00:05:14.867Z,INFO,example function executed in 1.334525561s
+2025-03-12T00:05:15.219Z,INFO,Read from MongoDB table executed in 46 ms
+2025-03-12T00:05:15.255Z,INFO,Read from MongoDB table executed in 43 ms
+2025-03-12T00:05:15.440Z,INFO,access control function executed in 57 ms
+2025-03-12T00:05:15.506Z,INFO,access control function executed in 58 ms
+2025-03-12T00:05:15.763Z,INFO,example function executed in 1.230238554s
+2025-03-12T00:05:15.828Z,INFO,example function executed in 1.295121686s
+2025-03-12T00:05:16.206Z,INFO,Read from MongoDB table executed in 54 ms
+2025-03-12T00:05:16.271Z,INFO,Read from MongoDB table executed in 46 ms
+2025-03-12T00:05:16.448Z,INFO,access control function executed in 56 ms
+2025-03-12T00:05:16.509Z,INFO,access control function executed in 61 ms
+2025-03-12T00:05:16.775Z,INFO,example function executed in 1.242519937s
+2025-03-12T00:05:16.830Z,INFO,example function executed in 1.297237455s
+2025-03-12T00:05:17.259Z,INFO,Read from MongoDB table executed in 60 ms
+2025-03-12T00:05:17.284Z,INFO,Read from MongoDB table executed in 37 ms
+2025-03-12T00:05:17.495Z,INFO,access control function executed in 58 ms
+2025-03-12T00:05:17.527Z,INFO,access control function executed in 61 ms
+2025-03-12T00:05:17.814Z,INFO,example function executed in 1.281797431s
+2025-03-12T00:05:17.850Z,INFO,example function executed in 1.317120333s
+2025-03-12T00:05:18.229Z,INFO,Read from MongoDB table executed in 39 ms
+2025-03-12T00:05:18.254Z,INFO,Read from MongoDB table executed in 33 ms
+2025-03-12T00:05:18.469Z,INFO,access control function executed in 60 ms
+2025-03-12T00:05:18.476Z,INFO,access control function executed in 50 ms
+2025-03-12T00:05:18.810Z,INFO,example function executed in 1.277085662s
+2025-03-12T00:05:18.810Z,INFO,example function executed in 1.277586806s
+2025-03-12T00:05:19.231Z,INFO,Read from MongoDB table executed in 42 ms
+2025-03-12T00:05:19.246Z,INFO,Read from MongoDB table executed in 41 ms
+2025-03-12T00:05:19.467Z,INFO,access control function executed in 58 ms
+2025-03-12T00:05:19.480Z,INFO,access control function executed in 58 ms
+2025-03-12T00:05:19.807Z,INFO,example function executed in 1.274444251s
+2025-03-12T00:05:19.808Z,INFO,example function executed in 1.275151282s
+2025-03-12T00:05:20.200Z,INFO,Read from MongoDB table executed in 40 ms
+2025-03-12T00:05:20.270Z,INFO,Read from MongoDB table executed in 47 ms
+2025-03-12T00:05:20.440Z,INFO,access control function executed in 57 ms
+2025-03-12T00:05:20.509Z,INFO,access control function executed in 61 ms
+2025-03-12T00:05:20.762Z,INFO,example function executed in 1.229359469s
+2025-03-12T00:05:20.829Z,INFO,example function executed in 1.296601573s
+2025-03-12T00:05:21.221Z,INFO,Read from MongoDB table executed in 45 ms
+2025-03-12T00:05:21.237Z,INFO,Read from MongoDB table executed in 43 ms
+2025-03-12T00:05:21.456Z,INFO,access control function executed in 62 ms
+2025-03-12T00:05:21.465Z,INFO,access control function executed in 63 ms
+2025-03-12T00:05:21.776Z,INFO,example function executed in 1.24349433s
+2025-03-12T00:05:21.785Z,INFO,example function executed in 1.251157396s
+2025-03-12T00:05:22.193Z,INFO,Read from MongoDB table executed in 42 ms
+2025-03-12T00:05:22.254Z,INFO,Read from MongoDB table executed in 42 ms
+2025-03-12T00:05:22.423Z,INFO,access control function executed in 55 ms
+2025-03-12T00:05:22.505Z,INFO,access control function executed in 57 ms
+2025-03-12T00:05:22.742Z,INFO,example function executed in 1.20896506s
+2025-03-12T00:05:22.831Z,INFO,example function executed in 1.297449129s
+2025-03-12T00:05:23.265Z,INFO,Read from MongoDB table executed in 49 ms
+2025-03-12T00:05:23.269Z,INFO,Read from MongoDB table executed in 51 ms
+2025-03-12T00:05:23.504Z,INFO,access control function executed in 58 ms
+2025-03-12T00:05:23.525Z,INFO,access control function executed in 61 ms
+2025-03-12T00:05:23.826Z,INFO,example function executed in 1.292776243s
+2025-03-12T00:05:23.845Z,INFO,example function executed in 1.311248601s
+2025-03-12T00:05:24.244Z,INFO,Read from MongoDB table executed in 39 ms
+2025-03-12T00:05:24.300Z,INFO,Read from MongoDB table executed in 42 ms
+2025-03-12T00:05:24.496Z,INFO,access control function executed in 58 ms
+2025-03-12T00:05:24.533Z,INFO,access control function executed in 57 ms
+2025-03-12T00:05:24.821Z,INFO,example function executed in 1.287629514s
+2025-03-12T00:05:24.854Z,INFO,example function executed in 1.320004676s
+2025-03-12T00:05:25.226Z,INFO,Read from MongoDB table executed in 53 ms
+2025-03-12T00:05:25.256Z,INFO,Read from MongoDB table executed in 48 ms
+2025-03-12T00:05:25.469Z,INFO,access control function executed in 65 ms
+2025-03-12T00:05:25.503Z,INFO,access control function executed in 72 ms
+2025-03-12T00:05:25.791Z,INFO,example function executed in 1.257606126s
+2025-03-12T00:05:25.825Z,INFO,example function executed in 1.291151431s
+2025-03-12T00:05:26.351Z,INFO,Read from MongoDB table executed in 44 ms
+2025-03-12T00:05:26.352Z,INFO,Read from MongoDB table executed in 52 ms
+2025-03-12T00:05:26.617Z,INFO,access control function executed in 83 ms
+2025-03-12T00:05:26.626Z,INFO,access control function executed in 87 ms
+2025-03-12T00:05:26.950Z,INFO,example function executed in 1.416800886s
+2025-03-12T00:05:26.956Z,INFO,example function executed in 1.42204345s
+2025-03-12T00:05:27.264Z,INFO,Read from MongoDB table executed in 49 ms
+2025-03-12T00:05:27.270Z,INFO,Read from MongoDB table executed in 67 ms
+2025-03-12T00:05:27.534Z,INFO,access control function executed in 68 ms
+2025-03-12T00:05:27.549Z,INFO,access control function executed in 65 ms
+2025-03-12T00:05:27.861Z,INFO,example function executed in 1.327360781s
+2025-03-12T00:05:27.873Z,INFO,example function executed in 1.33930235s
+2025-03-12T00:05:28.218Z,INFO,Read from MongoDB table executed in 40 ms
+2025-03-12T00:05:28.292Z,INFO,Read from MongoDB table executed in 33 ms
+2025-03-12T00:05:28.448Z,INFO,access control function executed in 55 ms
+2025-03-12T00:05:28.510Z,INFO,access control function executed in 58 ms
+2025-03-12T00:05:28.774Z,INFO,example function executed in 1.240919302s
+2025-03-12T00:05:28.850Z,INFO,example function executed in 1.316076183s
+2025-03-12T00:05:29.254Z,INFO,Read from MongoDB table executed in 49 ms
+2025-03-12T00:05:29.257Z,INFO,Read from MongoDB table executed in 42 ms
+2025-03-12T00:05:29.476Z,INFO,access control function executed in 54 ms
+2025-03-12T00:05:29.490Z,INFO,access control function executed in 56 ms
+2025-03-12T00:05:29.797Z,INFO,example function executed in 1.263045257s
+2025-03-12T00:05:29.811Z,INFO,example function executed in 1.275979759s
+2025-03-12T00:05:30.207Z,INFO,Read from MongoDB table executed in 38 ms
+2025-03-12T00:05:30.240Z,INFO,Read from MongoDB table executed in 46 ms
+2025-03-12T00:05:30.432Z,INFO,access control function executed in 55 ms
+2025-03-12T00:05:30.473Z,INFO,access control function executed in 60 ms
+2025-03-12T00:05:30.768Z,INFO,example function executed in 1.233374907s
+2025-03-12T00:05:30.802Z,INFO,example function executed in 1.267505515s
+2025-03-12T00:05:31.224Z,INFO,Read from MongoDB table executed in 45 ms
+2025-03-12T00:05:31.244Z,INFO,Read from MongoDB table executed in 36 ms
+2025-03-12T00:05:31.449Z,INFO,access control function executed in 57 ms
+2025-03-12T00:05:31.472Z,INFO,access control function executed in 56 ms
+2025-03-12T00:05:31.771Z,INFO,example function executed in 1.236822034s
+2025-03-12T00:05:31.790Z,INFO,example function executed in 1.255109244s
+2025-03-12T00:05:32.226Z,INFO,Read from MongoDB table executed in 45 ms
+2025-03-12T00:05:32.229Z,INFO,Read from MongoDB table executed in 48 ms
+2025-03-12T00:05:32.469Z,INFO,access control function executed in 54 ms
+2025-03-12T00:05:32.491Z,INFO,access control function executed in 66 ms
+2025-03-12T00:05:32.791Z,INFO,example function executed in 1.256380452s
+2025-03-12T00:05:32.823Z,INFO,example function executed in 1.288071935s
+2025-03-12T00:05:33.232Z,INFO,Read from MongoDB table executed in 42 ms
+2025-03-12T00:05:33.279Z,INFO,Read from MongoDB table executed in 43 ms
+2025-03-12T00:05:33.456Z,INFO,access control function executed in 57 ms
+2025-03-12T00:05:33.516Z,INFO,access control function executed in 57 ms
+2025-03-12T00:05:33.790Z,INFO,example function executed in 1.255281065s
+2025-03-12T00:05:33.852Z,INFO,example function executed in 1.317837345s
+2025-03-12T00:05:34.292Z,INFO,Read from MongoDB table executed in 48 ms
+2025-03-12T00:05:34.300Z,INFO,Read from MongoDB table executed in 47 ms
+2025-03-12T00:05:34.541Z,INFO,access control function executed in 65 ms
+2025-03-12T00:05:34.545Z,INFO,access control function executed in 68 ms
+2025-03-12T00:05:34.864Z,INFO,example function executed in 1.329512437s
+2025-03-12T00:05:34.871Z,INFO,example function executed in 1.336769584s
+2025-03-12T00:05:35.253Z,INFO,Read from MongoDB table executed in 42 ms
+2025-03-12T00:05:35.312Z,INFO,Read from MongoDB table executed in 46 ms
+2025-03-12T00:05:35.482Z,INFO,access control function executed in 57 ms
+2025-03-12T00:05:35.567Z,INFO,access control function executed in 60 ms
+2025-03-12T00:05:35.843Z,INFO,example function executed in 1.308838155s
+2025-03-12T00:05:35.934Z,INFO,example function executed in 1.399304768s
+2025-03-12T00:05:36.301Z,INFO,Read from MongoDB table executed in 54 ms
+2025-03-12T00:05:36.314Z,INFO,Read from MongoDB table executed in 53 ms
+2025-03-12T00:05:36.558Z,INFO,access control function executed in 63 ms
+2025-03-12T00:05:36.589Z,INFO,access control function executed in 78 ms
+2025-03-12T00:05:36.881Z,INFO,example function executed in 1.346558267s
+2025-03-12T00:05:36.912Z,INFO,example function executed in 1.37789462s
+2025-03-12T00:05:37.281Z,INFO,Read from MongoDB table executed in 55 ms
+2025-03-12T00:05:37.300Z,INFO,Read from MongoDB table executed in 70 ms
+2025-03-12T00:05:37.558Z,INFO,access control function executed in 71 ms
+2025-03-12T00:05:37.562Z,INFO,access control function executed in 77 ms
+2025-03-12T00:05:37.885Z,INFO,example function executed in 1.34920056s
+2025-03-12T00:05:37.889Z,INFO,example function executed in 1.353948031s
+2025-03-12T00:05:38.297Z,INFO,Read from MongoDB table executed in 42 ms
+2025-03-12T00:05:38.319Z,INFO,Read from MongoDB table executed in 76 ms
+2025-03-12T00:05:38.543Z,INFO,access control function executed in 62 ms
+2025-03-12T00:05:38.583Z,INFO,access control function executed in 73 ms
+2025-03-12T00:05:38.888Z,INFO,example function executed in 1.352396403s
+2025-03-12T00:05:38.908Z,INFO,example function executed in 1.372010511s
+2025-03-12T00:05:39.260Z,INFO,Read from MongoDB table executed in 54 ms
+2025-03-12T00:05:39.294Z,INFO,Read from MongoDB table executed in 45 ms
+2025-03-12T00:05:39.528Z,INFO,access control function executed in 58 ms
+2025-03-12T00:05:39.535Z,INFO,access control function executed in 75 ms
+2025-03-12T00:05:39.850Z,INFO,example function executed in 1.31460718s
+2025-03-12T00:05:39.859Z,INFO,example function executed in 1.323503935s
+2025-03-12T00:05:40.239Z,INFO,Read from MongoDB table executed in 41 ms
+2025-03-12T00:05:40.270Z,INFO,Read from MongoDB table executed in 44 ms
+2025-03-12T00:05:40.487Z,INFO,access control function executed in 63 ms
+2025-03-12T00:05:40.521Z,INFO,access control function executed in 59 ms
+2025-03-12T00:05:40.811Z,INFO,example function executed in 1.274976258s
+2025-03-12T00:05:40.842Z,INFO,example function executed in 1.306423192s
+2025-03-12T00:05:41.268Z,INFO,Read from MongoDB table executed in 48 ms
+2025-03-12T00:05:41.292Z,INFO,Read from MongoDB table executed in 50 ms
+2025-03-12T00:05:41.506Z,INFO,access control function executed in 58 ms
+2025-03-12T00:05:41.529Z,INFO,access control function executed in 64 ms
+2025-03-12T00:05:41.827Z,INFO,example function executed in 1.291601673s
+2025-03-12T00:05:41.854Z,INFO,example function executed in 1.318559632s
+2025-03-12T00:05:42.248Z,INFO,Read from MongoDB table executed in 48 ms
+2025-03-12T00:05:42.259Z,INFO,Read from MongoDB table executed in 40 ms
+2025-03-12T00:05:42.489Z,INFO,access control function executed in 67 ms
+2025-03-12T00:05:42.499Z,INFO,access control function executed in 60 ms
+2025-03-12T00:05:42.813Z,INFO,example function executed in 1.277008304s
+2025-03-12T00:05:42.822Z,INFO,example function executed in 1.286278723s
+2025-03-12T00:05:43.236Z,INFO,Read from MongoDB table executed in 46 ms
+2025-03-12T00:05:43.298Z,INFO,Read from MongoDB table executed in 35 ms
+2025-03-12T00:05:43.510Z,INFO,access control function executed in 93 ms
+2025-03-12T00:05:43.584Z,INFO,access control function executed in 55 ms
+2025-03-12T00:05:43.832Z,INFO,example function executed in 1.296898758s
+2025-03-12T00:05:43.908Z,INFO,example function executed in 1.372068382s
+2025-03-12T00:05:44.248Z,INFO,Read from MongoDB table executed in 55 ms
+2025-03-12T00:05:44.272Z,INFO,Read from MongoDB table executed in 39 ms
+2025-03-12T00:05:44.517Z,INFO,access control function executed in 60 ms
+2025-03-12T00:05:44.527Z,INFO,access control function executed in 52 ms
+2025-03-12T00:05:44.838Z,INFO,example function executed in 1.301874145s
+2025-03-12T00:05:44.850Z,INFO,example function executed in 1.313290305s
+2025-03-12T00:05:45.423Z,INFO,Read from MongoDB table executed in 51 ms
+2025-03-12T00:05:45.440Z,INFO,Read from MongoDB table executed in 53 ms
+2025-03-12T00:05:45.723Z,INFO,access control function executed in 87 ms
+2025-03-12T00:05:45.765Z,INFO,access control function executed in 98 ms
+2025-03-12T00:05:46.059Z,INFO,example function executed in 1.522548939s
+2025-03-12T00:05:46.089Z,INFO,example function executed in 1.552013557s
+2025-03-12T00:05:46.288Z,INFO,Read from MongoDB table executed in 42 ms
+2025-03-12T00:05:46.306Z,INFO,Read from MongoDB table executed in 55 ms
+2025-03-12T00:05:46.532Z,INFO,access control function executed in 55 ms
+2025-03-12T00:05:46.567Z,INFO,access control function executed in 63 ms
+2025-03-12T00:05:46.883Z,INFO,example function executed in 1.346743384s
+2025-03-12T00:05:46.960Z,INFO,example function executed in 1.423719591s
+2025-03-12T00:05:47.334Z,INFO,Read from MongoDB table executed in 49 ms
+2025-03-12T00:05:47.393Z,INFO,Read from MongoDB table executed in 62 ms
+2025-03-12T00:05:47.598Z,INFO,access control function executed in 80 ms
+2025-03-12T00:05:47.670Z,INFO,access control function executed in 83 ms
+2025-03-12T00:05:47.922Z,INFO,example function executed in 1.385010095s
+2025-03-12T00:05:47.991Z,INFO,example function executed in 1.45467886s
+2025-03-12T00:05:48.219Z,INFO,Read from MongoDB table executed in 34 ms
+2025-03-12T00:05:48.317Z,INFO,Read from MongoDB table executed in 55 ms
+2025-03-12T00:05:48.434Z,INFO,access control function executed in 55 ms
+2025-03-12T00:05:48.549Z,INFO,access control function executed in 58 ms
+2025-03-12T00:05:48.756Z,INFO,example function executed in 1.219936372s
+2025-03-12T00:05:48.868Z,INFO,example function executed in 1.331713087s
+2025-03-12T00:05:49.249Z,INFO,Read from MongoDB table executed in 44 ms
+2025-03-12T00:05:49.252Z,INFO,Read from MongoDB table executed in 45 ms
+2025-03-12T00:05:49.502Z,INFO,access control function executed in 53 ms
+2025-03-12T00:05:49.525Z,INFO,access control function executed in 62 ms
+2025-03-12T00:05:49.824Z,INFO,example function executed in 1.287771537s
+2025-03-12T00:05:49.847Z,INFO,example function executed in 1.310057769s
+2025-03-12T00:05:50.211Z,INFO,Read from MongoDB table executed in 48 ms
+2025-03-12T00:05:50.306Z,INFO,Read from MongoDB table executed in 54 ms
+2025-03-12T00:05:50.445Z,INFO,access control function executed in 66 ms
+2025-03-12T00:05:50.569Z,INFO,access control function executed in 62 ms
+2025-03-12T00:05:50.766Z,INFO,example function executed in 1.229089559s
+2025-03-12T00:05:50.934Z,INFO,example function executed in 1.397585743s
+2025-03-12T00:05:51.270Z,INFO,Read from MongoDB table executed in 40 ms
+2025-03-12T00:05:51.280Z,INFO,Read from MongoDB table executed in 45 ms
+2025-03-12T00:05:51.504Z,INFO,access control function executed in 61 ms
+2025-03-12T00:05:51.525Z,INFO,access control function executed in 67 ms
+2025-03-12T00:05:51.826Z,INFO,example function executed in 1.289354338s
+2025-03-12T00:05:51.860Z,INFO,example function executed in 1.323273537s
+2025-03-12T00:05:52.262Z,INFO,Read from MongoDB table executed in 48 ms
+2025-03-12T00:05:52.286Z,INFO,Read from MongoDB table executed in 43 ms
+2025-03-12T00:05:52.548Z,INFO,access control function executed in 85 ms
+2025-03-12T00:05:52.603Z,INFO,access control function executed in 121 ms
+2025-03-12T00:05:52.870Z,INFO,example function executed in 1.331934505s
+2025-03-12T00:05:52.930Z,INFO,example function executed in 1.393513872s
+2025-03-12T00:05:53.248Z,INFO,Read from MongoDB table executed in 42 ms
+2025-03-12T00:05:53.269Z,INFO,Read from MongoDB table executed in 48 ms
+2025-03-12T00:05:53.495Z,INFO,access control function executed in 59 ms
+2025-03-12T00:05:53.528Z,INFO,access control function executed in 57 ms
+2025-03-12T00:05:53.815Z,INFO,example function executed in 1.277223163s
+2025-03-12T00:05:53.859Z,INFO,example function executed in 1.321649019s
+2025-03-12T00:05:54.254Z,INFO,Read from MongoDB table executed in 51 ms
+2025-03-12T00:05:54.320Z,INFO,Read from MongoDB table executed in 55 ms
+2025-03-12T00:05:54.502Z,INFO,access control function executed in 64 ms
+2025-03-12T00:05:54.555Z,INFO,access control function executed in 60 ms
+2025-03-12T00:05:54.823Z,INFO,example function executed in 1.285863211s
+2025-03-12T00:05:54.889Z,INFO,example function executed in 1.351599369s
+2025-03-12T00:05:55.234Z,INFO,Read from MongoDB table executed in 36 ms
+2025-03-12T00:05:55.270Z,INFO,Read from MongoDB table executed in 47 ms
+2025-03-12T00:05:55.465Z,INFO,access control function executed in 56 ms
+2025-03-12T00:05:55.505Z,INFO,access control function executed in 56 ms
+2025-03-12T00:05:55.786Z,INFO,example function executed in 1.248182191s
+2025-03-12T00:05:55.826Z,INFO,example function executed in 1.288727239s
+2025-03-12T00:05:56.319Z,INFO,Read from MongoDB table executed in 41 ms
+2025-03-12T00:05:56.355Z,INFO,Read from MongoDB table executed in 40 ms
+2025-03-12T00:05:56.558Z,INFO,access control function executed in 61 ms
+2025-03-12T00:05:56.597Z,INFO,access control function executed in 62 ms
+2025-03-12T00:05:56.896Z,INFO,example function executed in 1.358701473s
+2025-03-12T00:05:56.920Z,INFO,example function executed in 1.38217478s
+2025-03-12T00:05:57.257Z,INFO,Read from MongoDB table executed in 42 ms
+2025-03-12T00:05:57.257Z,INFO,Read from MongoDB table executed in 45 ms
+2025-03-12T00:05:57.486Z,INFO,access control function executed in 60 ms
+2025-03-12T00:05:57.511Z,INFO,access control function executed in 58 ms
+2025-03-12T00:05:57.813Z,INFO,example function executed in 1.275425968s
+2025-03-12T00:05:57.837Z,INFO,example function executed in 1.299466342s
+2025-03-12T00:05:58.276Z,INFO,Read from MongoDB table executed in 55 ms
+2025-03-12T00:05:58.297Z,INFO,Read from MongoDB table executed in 44 ms
+2025-03-12T00:05:58.525Z,INFO,access control function executed in 60 ms
+2025-03-12T00:05:58.550Z,INFO,access control function executed in 68 ms
+2025-03-12T00:05:58.846Z,INFO,example function executed in 1.308246603s
+2025-03-12T00:05:58.878Z,INFO,example function executed in 1.340477402s
+2025-03-12T00:05:59.270Z,INFO,Read from MongoDB table executed in 49 ms
+2025-03-12T00:05:59.270Z,INFO,Read from MongoDB table executed in 52 ms
+2025-03-12T00:05:59.508Z,INFO,access control function executed in 62 ms
+2025-03-12T00:05:59.514Z,INFO,access control function executed in 67 ms
+2025-03-12T00:05:59.845Z,INFO,example function executed in 1.307567147s
+2025-03-12T00:05:59.846Z,INFO,example function executed in 1.308238232s
+2025-03-12T00:06:00.260Z,INFO,Read from MongoDB table executed in 52 ms
+2025-03-12T00:06:00.269Z,INFO,Read from MongoDB table executed in 61 ms
+2025-03-12T00:06:00.514Z,INFO,access control function executed in 61 ms
+2025-03-12T00:06:00.532Z,INFO,access control function executed in 75 ms
+2025-03-12T00:06:00.840Z,INFO,example function executed in 1.30178165s
+2025-03-12T00:06:00.853Z,INFO,example function executed in 1.315820906s
+2025-03-12T00:06:01.267Z,INFO,Read from MongoDB table executed in 42 ms
+2025-03-12T00:06:01.284Z,INFO,Read from MongoDB table executed in 57 ms
+2025-03-12T00:06:01.517Z,INFO,access control function executed in 57 ms
+2025-03-12T00:06:01.546Z,INFO,access control function executed in 68 ms
+2025-03-12T00:06:01.841Z,INFO,example function executed in 1.302669547s
+2025-03-12T00:06:01.865Z,INFO,example function executed in 1.326916159s
+2025-03-12T00:06:02.222Z,INFO,Read from MongoDB table executed in 37 ms
+2025-03-12T00:06:02.258Z,INFO,Read from MongoDB table executed in 41 ms
+2025-03-12T00:06:02.458Z,INFO,access control function executed in 68 ms
+2025-03-12T00:06:02.492Z,INFO,access control function executed in 56 ms
+2025-03-12T00:06:02.778Z,INFO,example function executed in 1.239725051s
+2025-03-12T00:06:02.813Z,INFO,example function executed in 1.274871851s
+2025-03-12T00:06:03.216Z,INFO,Read from MongoDB table executed in 43 ms
+2025-03-12T00:06:03.280Z,INFO,Read from MongoDB table executed in 49 ms
+2025-03-12T00:06:03.440Z,INFO,access control function executed in 55 ms
+2025-03-12T00:06:03.512Z,INFO,access control function executed in 57 ms
+2025-03-12T00:06:03.761Z,INFO,example function executed in 1.222357478s
+2025-03-12T00:06:03.833Z,INFO,example function executed in 1.294106991s
+2025-03-12T00:06:04.234Z,INFO,Read from MongoDB table executed in 58 ms
+2025-03-12T00:06:04.245Z,INFO,Read from MongoDB table executed in 45 ms
+2025-03-12T00:06:04.460Z,INFO,access control function executed in 56 ms
+2025-03-12T00:06:04.502Z,INFO,access control function executed in 63 ms
+2025-03-12T00:06:04.783Z,INFO,example function executed in 1.244333338s
+2025-03-12T00:06:04.824Z,INFO,example function executed in 1.285518602s
+2025-03-12T00:06:05.246Z,INFO,Read from MongoDB table executed in 58 ms
+2025-03-12T00:06:05.254Z,INFO,Read from MongoDB table executed in 43 ms
+2025-03-12T00:06:05.485Z,INFO,access control function executed in 60 ms
+2025-03-12T00:06:05.492Z,INFO,access control function executed in 60 ms
+2025-03-12T00:06:05.817Z,INFO,example function executed in 1.278578435s
+2025-03-12T00:06:05.821Z,INFO,example function executed in 1.282184908s
+2025-03-12T00:06:06.240Z,INFO,Read from MongoDB table executed in 58 ms
+2025-03-12T00:06:06.250Z,INFO,Read from MongoDB table executed in 52 ms
+2025-03-12T00:06:06.475Z,INFO,access control function executed in 61 ms
+2025-03-12T00:06:06.503Z,INFO,access control function executed in 72 ms
+2025-03-12T00:06:06.809Z,INFO,example function executed in 1.27065051s
+2025-03-12T00:06:06.823Z,INFO,example function executed in 1.284840032s
+2025-03-12T00:06:07.256Z,INFO,Read from MongoDB table executed in 47 ms
+2025-03-12T00:06:07.293Z,INFO,Read from MongoDB table executed in 51 ms
+2025-03-12T00:06:07.504Z,INFO,access control function executed in 60 ms
+2025-03-12T00:06:07.566Z,INFO,access control function executed in 69 ms
+2025-03-12T00:06:07.832Z,INFO,example function executed in 1.293610886s
+2025-03-12T00:06:07.888Z,INFO,example function executed in 1.349437161s
+2025-03-12T00:06:08.246Z,INFO,Read from MongoDB table executed in 36 ms
+2025-03-12T00:06:08.286Z,INFO,Read from MongoDB table executed in 40 ms
+2025-03-12T00:06:08.468Z,INFO,access control function executed in 57 ms
+2025-03-12T00:06:08.529Z,INFO,access control function executed in 58 ms
+2025-03-12T00:06:08.790Z,INFO,example function executed in 1.251216089s
+2025-03-12T00:06:08.857Z,INFO,example function executed in 1.317958225s

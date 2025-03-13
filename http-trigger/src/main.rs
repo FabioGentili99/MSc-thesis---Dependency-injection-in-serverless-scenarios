@@ -82,7 +82,7 @@ async fn main() -> std::io::Result<()> {
     HttpServer::new(move || {
         App::new()
             .app_data(routes.clone())
-            .app_data(nc.clone())
+            .app_data(web::Data::new(nc.clone()))
             .service(sync_invoke)
             .service(async_invoke)
             .wrap(middleware::Logger::default())
