@@ -3,7 +3,6 @@ package main
 import (
 	"bufio"
 	"encoding/json"
-	"fmt"
 	"os"
 )
 
@@ -19,8 +18,8 @@ func handler() {
 	//invoke the acl service
 	os.Stdout.Write(msg)
 
+	//reading the result
 	reader := bufio.NewReader(os.Stdin)
-	fmt.Print("Enter text: ")
 	result, _ := reader.ReadString('\n')
 	//returning the result
 	os.Stdout.WriteString("access control result: " + result)

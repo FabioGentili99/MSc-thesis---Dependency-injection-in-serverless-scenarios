@@ -7,7 +7,7 @@ use tokio::task::JoinSet;
 use std::env;
 use tokio::io::{AsyncBufReadExt, AsyncWriteExt, BufReader};
 use tokio::process::{Child, Command};
-use std::time::SystemTime;
+use std::time::{Duration, SystemTime, UNIX_EPOCH};
 use log::info;
 use log4rs;
 
@@ -18,16 +18,16 @@ async fn main() -> CliResult {
     log4rs::init_file("log4rs.yml", Default::default()).unwrap();
 
     //Get ENV VAR
-    let command: String = env::var("COMMAND").unwrap_or("../go/first-arch-go/functions/acl/handler_acl".to_string());
+    let command: String = env::var("COMMAND").unwrap_or("../go/example-function/acl/handler_acl".to_string());
     let trigger_topic = env::var("TRIGGER").unwrap_or("handler".to_string());
     let output_topic = env::var("OUTPUT").unwrap_or("output".to_string());
     let nats_server = env::var("NATSSERVER").unwrap_or("192.168.17.118:4222".to_string());
     let group = env::var("GROUP").unwrap_or("default".to_string());
-    let max_instances: usize = env::var("MAX_INSTANCES").unwrap_or("10".to_string()).parse::<usize>().unwrap();
+    let max_instances: usize = env::var("MAX_INSTANCES").unwrap_or("5".to_string()).parse::<usize>().unwrap();
 
     let mongo_url = env::var("MONGO").unwrap_or("mongodb://192.168.17.118:27017".to_string());
     
-    let service_id = env::var("SERVICEID").unwrap_or("acl".to_string());
+    let service_id = env::var("SERVICEID").unwrap_or("acl1".to_string());
 
 
     println!(
@@ -49,7 +49,7 @@ async fn main() -> CliResult {
         let nc = nc.clone();
         
         
-        let sys_time = SystemTime::now();
+        let sys_time = UNIX_EPOCH + Duration::from_millis(String::from_utf8_lossy(&msg.payload).parse::<u64>().expect("Failed to parse message data as u64"));
         while set.len() >= max_instances {
             set.join_next().await; // Wait for a task to finish before spawning a new one
         }
@@ -84,8 +84,16 @@ async fn main() -> CliResult {
             
             //read the message to pass as payload to nats from the client function
             let parameters = read_message(&mut child).await.unwrap();
+
+            let invocation_start = SystemTime::now();
             //invoke the service function
             let result = nc.request(fetched_service.ServiceTopic, parameters.into()).await.unwrap();
+            let invocation_end = SystemTime::now();
+            let invocation_duration = invocation_end
+                .duration_since(invocation_start)
+                .expect("Clock may have gone backwards");
+            info!("Service invocation executed in {:?}", invocation_duration);
+            
             //return invocation result to the client function
             let _ = send_message(&mut child, &std::str::from_utf8(&result.payload).unwrap().to_string()).await;
             //capture the client function final output

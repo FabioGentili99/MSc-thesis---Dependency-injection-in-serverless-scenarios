@@ -6,7 +6,7 @@ use quicli::prelude::*;
 use tokio::task::JoinSet;
 use std::env;
 use tokio::io::{AsyncBufReadExt, BufReader};
-use tokio::process::Command;use std::time::SystemTime;
+use tokio::process::Command;use std::time::{Duration, SystemTime, UNIX_EPOCH};
 use log::info;
 use log4rs;
 
@@ -17,12 +17,12 @@ async fn main() -> CliResult {
     log4rs::init_file("log4rs.yml", Default::default()).unwrap();
 
     //Get ENV VAR
-    let command: String = env::var("COMMAND").unwrap_or("../go/first-arch-go/functions/acl/handler_acl".to_string());
+    let command: String = env::var("COMMAND").unwrap_or("../go/example-function/acl/handler_acl".to_string());
     let trigger_topic = env::var("TRIGGER").unwrap_or("handler".to_string());
     let output_topic = env::var("OUTPUT").unwrap_or("output".to_string());
     let nats_server = env::var("NATSSERVER").unwrap_or("192.168.17.118:4222".to_string());
     let group = env::var("GROUP").unwrap_or("default".to_string());
-    let max_instances: usize = env::var("MAX_INSTANCES").unwrap_or("10".to_string()).parse::<usize>().unwrap();
+    let max_instances: usize = env::var("MAX_INSTANCES").unwrap_or("5".to_string()).parse::<usize>().unwrap();
 
     let mongo_url = env::var("MONGO").unwrap_or("mongodb://192.168.17.118:27017".to_string());
     //let db_name = env::var("DBNAME").unwrap_or("services".to_string());
@@ -48,7 +48,7 @@ async fn main() -> CliResult {
         let nc = nc.clone();
         
         
-        let sys_time = SystemTime::now();
+        let sys_time = UNIX_EPOCH + Duration::from_millis(String::from_utf8_lossy(&msg.payload).parse::<u64>().expect("Failed to parse message data as u64"));
         while set.len() >= max_instances {
             set.join_next().await; // Wait for a task to finish before spawning a new one
         }
