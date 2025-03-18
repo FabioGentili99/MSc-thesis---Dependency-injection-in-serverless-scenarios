@@ -6,7 +6,7 @@ use quicli::prelude::*;
 use tokio::task::JoinSet;
 use std::env;
 use tokio::io::{AsyncBufReadExt, AsyncWriteExt, BufReader};
-use tokio::process::{Child, Command};
+use tokio::process::{Child, ChildStdin, ChildStdout, Command};
 use std::time::{Duration, SystemTime, UNIX_EPOCH};
 use log::info;
 use log4rs;
@@ -81,9 +81,10 @@ async fn main() -> CliResult {
                 .spawn()
                 .expect("failed to execute process");
 
-            
+            let mut stdin = child.stdin.take().expect("Failed to open stdin");
+            let mut stdout = child.stdout.take().expect("Failed to open stdout");
             //read the message to pass as payload to nats from the client function
-            let parameters = read_message(&mut child).await.unwrap();
+            let parameters = read_message(&mut stdout).await.unwrap();
 
             let invocation_start = SystemTime::now();
             //invoke the service function
@@ -93,11 +94,11 @@ async fn main() -> CliResult {
                 .duration_since(invocation_start)
                 .expect("Clock may have gone backwards");
             info!("Service invocation executed in {:?}", invocation_duration);
-            
+
             //return invocation result to the client function
-            let _ = send_message(&mut child, &std::str::from_utf8(&result.payload).unwrap().to_string()).await;
+            let _ = send_message(&mut stdin, &std::str::from_utf8(&result.payload).unwrap().to_string()).await;
             //capture the client function final output
-            let output = read_message(&mut child).await.unwrap();
+            let output = read_message(&mut stdout).await.unwrap();
 
 
 
@@ -138,21 +139,21 @@ async fn main() -> CliResult {
 
 
 // Write a message to the JavaScript process's stdin
-async fn send_message(child: &mut Child, message: &str) -> Result<(), Box<dyn std::error::Error>> {
-    if let Some(stdin) = &mut child.stdin {
-        stdin.write_all(message.as_bytes()).await?;
-        stdin.write_all(b"\n").await?; // Ensure JavaScript receives full input
-    }
+async fn send_message(stdin: &mut ChildStdin, message: &str) -> Result<(), Box<dyn std::error::Error>> {
+    
+    stdin.write_all(message.as_bytes()).await?;
+    stdin.write_all(b"\n").await?; // Ensure JavaScript receives full input
+    
     Ok(())
 }
 
 // Read a message from the JavaScript process's stdout
-async fn read_message(child: &mut Child) -> Result<String, Box<dyn std::error::Error>> {
-    if let Some(stdout) = &mut child.stdout {
+async fn read_message(stdout: &mut ChildStdout) -> Result<String, Box<dyn std::error::Error>> {
         let mut reader = BufReader::new(stdout).lines();
         if let Some(line) = reader.next_line().await? {
             return Ok(line);
+        } else {
+            return Ok("".to_string());
         }
-    }
-    Err("Failed to read output".into())
+    
 }
